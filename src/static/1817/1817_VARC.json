@@ -1,0 +1,989 @@
+{
+	"qu1": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>According to the author, what is the reason that we are not able to create an effective Artificial General Intelligence?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>We have not been able to completely understand Artificial Intelligence which is requisite for creating Artificial General Intelligence.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>We do not understand how our own brains work and without this understanding, it is not possible to create an effective Artificial General Intelligence.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>We first need to understand how natural intelligence helps computers to pass the Turing Test.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>We have not been able to understand how the Turing test works which is critical for creating Artificial General Intelligence.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3448",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">In his seminal 1950 paper, Computing Machinery and Intelligence Alan Turing began by considering the question: \u201cCan machines think?\u201d He then went on to suggest that this question is difficult to answer directly, and he turned it around into a research experiment that he called \u2018The Imitation Game\u2019, but which subsequent generations simply know as the Turing test for Artificial Intelligence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The basis of the test is whether a person sitting at a terminal communicating with another person in one room and a computer in another room can tell, in a reasonable length of time, which of their correspondents is the computer and which is the human. If most people sitting at the terminal cannot get this right most of the time, then the computer is judged to have passed the Turing test.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is worth remembering that Turing wrote this paper only two years after the world\u2019s first operational electronic stored-program computer ran its first program in Manchester, on June 21, 1948. Indeed, it was this machine that brought Turing to Manchester, and it was during his time here that he wrote this paper. Turing thought that all that a machine would require to pass his test was more memory - the 1948 Manchester \u2018Baby\u2019 was quite powerful enough already. He estimated that a gigabyte (a thousand million bytes) of memory should suffice, and this should be achievable by the end of the twentieth century.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">By the beginning of the 21st century computers did, indeed, typically have a gigabyte of memory, and they were a million times faster than the \u2018Baby\u2019, but still they could not pass his test. Even today, with still far more computing power and memory, no machine has convincingly passed the test. This would have surprised Turing had he lived to see it.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Although research into artificial intelligence (AI) has delivered in many areas of life - think of Google, talking to your smartphone, driverless cars, and so on, it has failed to deliver as expected, particularly by many imaginative science fiction writers, in the area known as Artificial General Intelligence. This is the idea that a suitably programmed machine might display aspects of intelligence that we normally associate only with humans. My take on the failure to deliver this form of AI is that we have never actually worked out what natural intelligence is, so we don\u2019t know what it is that we are trying to imitate in our machines.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">As a result, in my research I have gone back to the source of human intelligence \u2212 the human brain and tried to see how we might use computers to better understand this mysterious organ upon which we all so critically depend.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">This line of thinking has led to the development of the SpiNNaker machine \u2212 shorthand for Spiking Neural Network architecture. This is a machine designed specifically to support computer models of systems that work in some ways that are similar to the brain. It can be used to model areas of the brain and to test new hypotheses about how the brain might work. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">If we do build computers capable of mimicking human intelligence they will, at least initially, be the size of aircraft hangars and consume a million times more power than the rather neat version that you carry around in your head. So they would be a very inefficient substitute for the real thing.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Why then, you might reasonably ask, bother trying to build computer models of the brain at all? There are three answers to this question. Firstly, this is a very effective way to advance the science and the quest to understand our own brains and minds remains as one of the great frontiers of science. As the late, great scientist Richard Feynman once said: \u201cWhat I cannot create, I do not understand.\u201d Secondly, a computer model of the brain would be very useful for understanding diseases of the brain, which is vital for developing new treatments.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Thirdly, understanding the brain is likely to lead to insights that can be used to build better and more efficient computer systems. These three threads: future neuroscience, future medicine and future computing underpin the one billion euro European flagship Human Brain Project, in which SpiNNaker is playing its role.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu2": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following functions does the SpiNNaker machine serve?\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>I. It helps in building models of areas of the brain.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>II. It helps in understanding various brain diseases.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>III. It helps improve the computing power of existing computer systems.\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Only I\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Only I and II\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Only II\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>I, II and III\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3448",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">In his seminal 1950 paper, Computing Machinery and Intelligence Alan Turing began by considering the question: \u201cCan machines think?\u201d He then went on to suggest that this question is difficult to answer directly, and he turned it around into a research experiment that he called \u2018The Imitation Game\u2019, but which subsequent generations simply know as the Turing test for Artificial Intelligence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The basis of the test is whether a person sitting at a terminal communicating with another person in one room and a computer in another room can tell, in a reasonable length of time, which of their correspondents is the computer and which is the human. If most people sitting at the terminal cannot get this right most of the time, then the computer is judged to have passed the Turing test.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is worth remembering that Turing wrote this paper only two years after the world\u2019s first operational electronic stored-program computer ran its first program in Manchester, on June 21, 1948. Indeed, it was this machine that brought Turing to Manchester, and it was during his time here that he wrote this paper. Turing thought that all that a machine would require to pass his test was more memory - the 1948 Manchester \u2018Baby\u2019 was quite powerful enough already. He estimated that a gigabyte (a thousand million bytes) of memory should suffice, and this should be achievable by the end of the twentieth century.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">By the beginning of the 21st century computers did, indeed, typically have a gigabyte of memory, and they were a million times faster than the \u2018Baby\u2019, but still they could not pass his test. Even today, with still far more computing power and memory, no machine has convincingly passed the test. This would have surprised Turing had he lived to see it.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Although research into artificial intelligence (AI) has delivered in many areas of life - think of Google, talking to your smartphone, driverless cars, and so on, it has failed to deliver as expected, particularly by many imaginative science fiction writers, in the area known as Artificial General Intelligence. This is the idea that a suitably programmed machine might display aspects of intelligence that we normally associate only with humans. My take on the failure to deliver this form of AI is that we have never actually worked out what natural intelligence is, so we don\u2019t know what it is that we are trying to imitate in our machines.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">As a result, in my research I have gone back to the source of human intelligence \u2212 the human brain and tried to see how we might use computers to better understand this mysterious organ upon which we all so critically depend.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">This line of thinking has led to the development of the SpiNNaker machine \u2212 shorthand for Spiking Neural Network architecture. This is a machine designed specifically to support computer models of systems that work in some ways that are similar to the brain. It can be used to model areas of the brain and to test new hypotheses about how the brain might work. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">If we do build computers capable of mimicking human intelligence they will, at least initially, be the size of aircraft hangars and consume a million times more power than the rather neat version that you carry around in your head. So they would be a very inefficient substitute for the real thing.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Why then, you might reasonably ask, bother trying to build computer models of the brain at all? There are three answers to this question. Firstly, this is a very effective way to advance the science and the quest to understand our own brains and minds remains as one of the great frontiers of science. As the late, great scientist Richard Feynman once said: \u201cWhat I cannot create, I do not understand.\u201d Secondly, a computer model of the brain would be very useful for understanding diseases of the brain, which is vital for developing new treatments.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Thirdly, understanding the brain is likely to lead to insights that can be used to build better and more efficient computer systems. These three threads: future neuroscience, future medicine and future computing underpin the one billion euro European flagship Human Brain Project, in which SpiNNaker is playing its role.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu3": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>It can be inferred from the passage that Turing made a mistake in assuming that\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>computers will have a gigabyte of memory by the twentieth century.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>we will be able to understand how our brains work by the twentieth century.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>a large amount of memory is sufficient to pass the Turing test.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Artificial Intelligence can be achieved by the twentieth century.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3448",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">In his seminal 1950 paper, Computing Machinery and Intelligence Alan Turing began by considering the question: \u201cCan machines think?\u201d He then went on to suggest that this question is difficult to answer directly, and he turned it around into a research experiment that he called \u2018The Imitation Game\u2019, but which subsequent generations simply know as the Turing test for Artificial Intelligence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The basis of the test is whether a person sitting at a terminal communicating with another person in one room and a computer in another room can tell, in a reasonable length of time, which of their correspondents is the computer and which is the human. If most people sitting at the terminal cannot get this right most of the time, then the computer is judged to have passed the Turing test.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is worth remembering that Turing wrote this paper only two years after the world\u2019s first operational electronic stored-program computer ran its first program in Manchester, on June 21, 1948. Indeed, it was this machine that brought Turing to Manchester, and it was during his time here that he wrote this paper. Turing thought that all that a machine would require to pass his test was more memory - the 1948 Manchester \u2018Baby\u2019 was quite powerful enough already. He estimated that a gigabyte (a thousand million bytes) of memory should suffice, and this should be achievable by the end of the twentieth century.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">By the beginning of the 21st century computers did, indeed, typically have a gigabyte of memory, and they were a million times faster than the \u2018Baby\u2019, but still they could not pass his test. Even today, with still far more computing power and memory, no machine has convincingly passed the test. This would have surprised Turing had he lived to see it.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Although research into artificial intelligence (AI) has delivered in many areas of life - think of Google, talking to your smartphone, driverless cars, and so on, it has failed to deliver as expected, particularly by many imaginative science fiction writers, in the area known as Artificial General Intelligence. This is the idea that a suitably programmed machine might display aspects of intelligence that we normally associate only with humans. My take on the failure to deliver this form of AI is that we have never actually worked out what natural intelligence is, so we don\u2019t know what it is that we are trying to imitate in our machines.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">As a result, in my research I have gone back to the source of human intelligence \u2212 the human brain and tried to see how we might use computers to better understand this mysterious organ upon which we all so critically depend.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">This line of thinking has led to the development of the SpiNNaker machine \u2212 shorthand for Spiking Neural Network architecture. This is a machine designed specifically to support computer models of systems that work in some ways that are similar to the brain. It can be used to model areas of the brain and to test new hypotheses about how the brain might work. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">If we do build computers capable of mimicking human intelligence they will, at least initially, be the size of aircraft hangars and consume a million times more power than the rather neat version that you carry around in your head. So they would be a very inefficient substitute for the real thing.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Why then, you might reasonably ask, bother trying to build computer models of the brain at all? There are three answers to this question. Firstly, this is a very effective way to advance the science and the quest to understand our own brains and minds remains as one of the great frontiers of science. As the late, great scientist Richard Feynman once said: \u201cWhat I cannot create, I do not understand.\u201d Secondly, a computer model of the brain would be very useful for understanding diseases of the brain, which is vital for developing new treatments.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Thirdly, understanding the brain is likely to lead to insights that can be used to build better and more efficient computer systems. These three threads: future neuroscience, future medicine and future computing underpin the one billion euro European flagship Human Brain Project, in which SpiNNaker is playing its role.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu4": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Consider the situation given in the second paragraph of the passage. If ten persons took the Turing test multiple times, in which of the following situations can a computer be said to have passed the Turing test?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>One person mistook the human correspondent for the computer and vice versa, every time he took the test, while the other nine correctly identified the human and computer correspondents every time they took the test.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The ten persons mistook the human correspondent for the computer and vice versa half the number of times, and correctly identified the human and computer correspondents half the time.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>All the ten persons were able to correctly identify the human and computer correspondents each time they took the test.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>One person correctly identified the human and computer correspondents most of the time, while the other nine mistook the human correspondent for the computer and vice versa every time they took the test.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3448",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">In his seminal 1950 paper, Computing Machinery and Intelligence Alan Turing began by considering the question: \u201cCan machines think?\u201d He then went on to suggest that this question is difficult to answer directly, and he turned it around into a research experiment that he called \u2018The Imitation Game\u2019, but which subsequent generations simply know as the Turing test for Artificial Intelligence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The basis of the test is whether a person sitting at a terminal communicating with another person in one room and a computer in another room can tell, in a reasonable length of time, which of their correspondents is the computer and which is the human. If most people sitting at the terminal cannot get this right most of the time, then the computer is judged to have passed the Turing test.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is worth remembering that Turing wrote this paper only two years after the world\u2019s first operational electronic stored-program computer ran its first program in Manchester, on June 21, 1948. Indeed, it was this machine that brought Turing to Manchester, and it was during his time here that he wrote this paper. Turing thought that all that a machine would require to pass his test was more memory - the 1948 Manchester \u2018Baby\u2019 was quite powerful enough already. He estimated that a gigabyte (a thousand million bytes) of memory should suffice, and this should be achievable by the end of the twentieth century.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">By the beginning of the 21st century computers did, indeed, typically have a gigabyte of memory, and they were a million times faster than the \u2018Baby\u2019, but still they could not pass his test. Even today, with still far more computing power and memory, no machine has convincingly passed the test. This would have surprised Turing had he lived to see it.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Although research into artificial intelligence (AI) has delivered in many areas of life - think of Google, talking to your smartphone, driverless cars, and so on, it has failed to deliver as expected, particularly by many imaginative science fiction writers, in the area known as Artificial General Intelligence. This is the idea that a suitably programmed machine might display aspects of intelligence that we normally associate only with humans. My take on the failure to deliver this form of AI is that we have never actually worked out what natural intelligence is, so we don\u2019t know what it is that we are trying to imitate in our machines.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">As a result, in my research I have gone back to the source of human intelligence \u2212 the human brain and tried to see how we might use computers to better understand this mysterious organ upon which we all so critically depend.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">This line of thinking has led to the development of the SpiNNaker machine \u2212 shorthand for Spiking Neural Network architecture. This is a machine designed specifically to support computer models of systems that work in some ways that are similar to the brain. It can be used to model areas of the brain and to test new hypotheses about how the brain might work. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">If we do build computers capable of mimicking human intelligence they will, at least initially, be the size of aircraft hangars and consume a million times more power than the rather neat version that you carry around in your head. So they would be a very inefficient substitute for the real thing.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Why then, you might reasonably ask, bother trying to build computer models of the brain at all? There are three answers to this question. Firstly, this is a very effective way to advance the science and the quest to understand our own brains and minds remains as one of the great frontiers of science. As the late, great scientist Richard Feynman once said: \u201cWhat I cannot create, I do not understand.\u201d Secondly, a computer model of the brain would be very useful for understanding diseases of the brain, which is vital for developing new treatments.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Thirdly, understanding the brain is likely to lead to insights that can be used to build better and more efficient computer systems. These three threads: future neuroscience, future medicine and future computing underpin the one billion euro European flagship Human Brain Project, in which SpiNNaker is playing its role.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu5": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>According to the passage, which of the following is a feature of Artificial General Intelligence but not of Artificial Intelligence?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Making complex calculations faster than the average human.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Recognizing the meaning of the words spoken.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Exhibiting intelligence normally associated with humans.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Understanding the emotional state of a person from his\/her voice.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3448",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">In his seminal 1950 paper, Computing Machinery and Intelligence Alan Turing began by considering the question: \u201cCan machines think?\u201d He then went on to suggest that this question is difficult to answer directly, and he turned it around into a research experiment that he called \u2018The Imitation Game\u2019, but which subsequent generations simply know as the Turing test for Artificial Intelligence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The basis of the test is whether a person sitting at a terminal communicating with another person in one room and a computer in another room can tell, in a reasonable length of time, which of their correspondents is the computer and which is the human. If most people sitting at the terminal cannot get this right most of the time, then the computer is judged to have passed the Turing test.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is worth remembering that Turing wrote this paper only two years after the world\u2019s first operational electronic stored-program computer ran its first program in Manchester, on June 21, 1948. Indeed, it was this machine that brought Turing to Manchester, and it was during his time here that he wrote this paper. Turing thought that all that a machine would require to pass his test was more memory - the 1948 Manchester \u2018Baby\u2019 was quite powerful enough already. He estimated that a gigabyte (a thousand million bytes) of memory should suffice, and this should be achievable by the end of the twentieth century.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">By the beginning of the 21st century computers did, indeed, typically have a gigabyte of memory, and they were a million times faster than the \u2018Baby\u2019, but still they could not pass his test. Even today, with still far more computing power and memory, no machine has convincingly passed the test. This would have surprised Turing had he lived to see it.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Although research into artificial intelligence (AI) has delivered in many areas of life - think of Google, talking to your smartphone, driverless cars, and so on, it has failed to deliver as expected, particularly by many imaginative science fiction writers, in the area known as Artificial General Intelligence. This is the idea that a suitably programmed machine might display aspects of intelligence that we normally associate only with humans. My take on the failure to deliver this form of AI is that we have never actually worked out what natural intelligence is, so we don\u2019t know what it is that we are trying to imitate in our machines.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">As a result, in my research I have gone back to the source of human intelligence \u2212 the human brain and tried to see how we might use computers to better understand this mysterious organ upon which we all so critically depend.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">This line of thinking has led to the development of the SpiNNaker machine \u2212 shorthand for Spiking Neural Network architecture. This is a machine designed specifically to support computer models of systems that work in some ways that are similar to the brain. It can be used to model areas of the brain and to test new hypotheses about how the brain might work. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">If we do build computers capable of mimicking human intelligence they will, at least initially, be the size of aircraft hangars and consume a million times more power than the rather neat version that you carry around in your head. So they would be a very inefficient substitute for the real thing.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Why then, you might reasonably ask, bother trying to build computer models of the brain at all? There are three answers to this question. Firstly, this is a very effective way to advance the science and the quest to understand our own brains and minds remains as one of the great frontiers of science. As the late, great scientist Richard Feynman once said: \u201cWhat I cannot create, I do not understand.\u201d Secondly, a computer model of the brain would be very useful for understanding diseases of the brain, which is vital for developing new treatments.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Thirdly, understanding the brain is likely to lead to insights that can be used to build better and more efficient computer systems. These three threads: future neuroscience, future medicine and future computing underpin the one billion euro European flagship Human Brain Project, in which SpiNNaker is playing its role.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu6": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following can be definitely inferred from the passage about Manchester \u2018Baby\u2019?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Manchester \u2018Baby\u2019 was the most powerful computer of its time.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Manchester \u2018Baby\u2019 had less than a gigabyte of memory.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Manchester \u2018Baby\u2019 was not able to pass the Turing test.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Manchester \u2018Baby\u2019 had a better chance of passing the Turing test than the machines of the 21<sup>s<\/sup><sup>t<\/sup> century.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3448",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">In his seminal 1950 paper, Computing Machinery and Intelligence Alan Turing began by considering the question: \u201cCan machines think?\u201d He then went on to suggest that this question is difficult to answer directly, and he turned it around into a research experiment that he called \u2018The Imitation Game\u2019, but which subsequent generations simply know as the Turing test for Artificial Intelligence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The basis of the test is whether a person sitting at a terminal communicating with another person in one room and a computer in another room can tell, in a reasonable length of time, which of their correspondents is the computer and which is the human. If most people sitting at the terminal cannot get this right most of the time, then the computer is judged to have passed the Turing test.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is worth remembering that Turing wrote this paper only two years after the world\u2019s first operational electronic stored-program computer ran its first program in Manchester, on June 21, 1948. Indeed, it was this machine that brought Turing to Manchester, and it was during his time here that he wrote this paper. Turing thought that all that a machine would require to pass his test was more memory - the 1948 Manchester \u2018Baby\u2019 was quite powerful enough already. He estimated that a gigabyte (a thousand million bytes) of memory should suffice, and this should be achievable by the end of the twentieth century.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">By the beginning of the 21st century computers did, indeed, typically have a gigabyte of memory, and they were a million times faster than the \u2018Baby\u2019, but still they could not pass his test. Even today, with still far more computing power and memory, no machine has convincingly passed the test. This would have surprised Turing had he lived to see it.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Although research into artificial intelligence (AI) has delivered in many areas of life - think of Google, talking to your smartphone, driverless cars, and so on, it has failed to deliver as expected, particularly by many imaginative science fiction writers, in the area known as Artificial General Intelligence. This is the idea that a suitably programmed machine might display aspects of intelligence that we normally associate only with humans. My take on the failure to deliver this form of AI is that we have never actually worked out what natural intelligence is, so we don\u2019t know what it is that we are trying to imitate in our machines.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">As a result, in my research I have gone back to the source of human intelligence \u2212 the human brain and tried to see how we might use computers to better understand this mysterious organ upon which we all so critically depend.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">This line of thinking has led to the development of the SpiNNaker machine \u2212 shorthand for Spiking Neural Network architecture. This is a machine designed specifically to support computer models of systems that work in some ways that are similar to the brain. It can be used to model areas of the brain and to test new hypotheses about how the brain might work. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">If we do build computers capable of mimicking human intelligence they will, at least initially, be the size of aircraft hangars and consume a million times more power than the rather neat version that you carry around in your head. So they would be a very inefficient substitute for the real thing.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Why then, you might reasonably ask, bother trying to build computer models of the brain at all? There are three answers to this question. Firstly, this is a very effective way to advance the science and the quest to understand our own brains and minds remains as one of the great frontiers of science. As the late, great scientist Richard Feynman once said: \u201cWhat I cannot create, I do not understand.\u201d Secondly, a computer model of the brain would be very useful for understanding diseases of the brain, which is vital for developing new treatments.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Thirdly, understanding the brain is likely to lead to insights that can be used to build better and more efficient computer systems. These three threads: future neuroscience, future medicine and future computing underpin the one billion euro European flagship Human Brain Project, in which SpiNNaker is playing its role.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu7": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following questions is answered in the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Should we bring extinct species back?\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>How do you de-extinct an animal?<b>\n<\/b><\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Which species should we revive if we want to do the most good for our planet's ecosystems?\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>How close are we to winning the game of de-extinction?\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3449",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>9<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is in the midst of its sixth mass extinction: Somewhere between 30 and 159 species disappear every day, thanks largely to humans, and more than 300 types of mammals, birds, reptiles, and amphibians have vanished since 1500. These rates do not bode well for the future of life on our planet, but what if extinction wasn\u2019t permanent? What if we could resurrect some of the species we\u2019ve lost? The two animals at the forefront of this discussion are the woolly mammoth, a hairy, close relative of the elephant that lived in the Arctic, and the passenger pigeon, a small, gray bird with a pinkish red breast once extremely common in North America. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are three main approaches to de-extinction scientists talk about. The first, called backbreeding, involves finding living species that have traits similar to the extinct species. Then scientists would selectively breed these animals to try to make a version that more closely resembles the extinct animal \u2013 a process already underway for some extinct species like aurochs. This isn\u2019t really a true de-extinction, but it might still let us fill in missing ecological functions. In the case of mammoths, scientists might try to mate Asian elephants with more body hair than usual, for example.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">A second option is cloning. Scientists would take a preserved cell from a recently extinct animal (ideally before the last of its kind died) and extract the nucleus. They would then swap this nucleus into an egg cell from the animal\u2019s closest living relative and implant the egg into a surrogate host. (Researchers actually did this in 2007, and a common goat gave birth to an extinct species, the <i>Pyrenean <\/i><i>ibex<\/i>. The infant lived only 7 minutes however, because of genetic problems with its lungs.) Cloning may eventually give us basically identical genetic copies of extinct species, but we\u2019ll be restricted to animals that went extinct more recently and have well-preserved cells with intact nuclei. The mammoth and the passenger pigeon may never be cloned.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The newest option is genetic engineering. Here, researchers would line up the genome of an extinct animal with that of its closest living relative. They would then use CRISPR and other gene-editing tools to swap relevant genes from the extinct animal into the living species and implant the hybrid genome into a surrogate (or grow it in an artificial womb). This approach doesn\u2019t produce genetically identical copies of extinct animals, but rather modern versions of an animal engineered to look and behave like its extinct relatives. This is the technology being used by the mammoth and passenger pigeon groups.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu8": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following choices can be inferred to be false from the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Back-breeding and genetic engineering can result in an animal that closely resembles the extinct animal.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The mammoth and the passenger pigeon may never be cloned because they went extinct a very long time ago.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>While the <i>Pyrenean <\/i><i>ibex <\/i>has been developed from the animal\u2019s closest living relative, the common goat, the cloning technique isn\u2019t true de-extinction.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The genetic engineering technique has been attempted to resurrect the mammoth and the passenger pigeon while backbreeding has been employed for extinct species like aurochs.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3449",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>9<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is in the midst of its sixth mass extinction: Somewhere between 30 and 159 species disappear every day, thanks largely to humans, and more than 300 types of mammals, birds, reptiles, and amphibians have vanished since 1500. These rates do not bode well for the future of life on our planet, but what if extinction wasn\u2019t permanent? What if we could resurrect some of the species we\u2019ve lost? The two animals at the forefront of this discussion are the woolly mammoth, a hairy, close relative of the elephant that lived in the Arctic, and the passenger pigeon, a small, gray bird with a pinkish red breast once extremely common in North America. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are three main approaches to de-extinction scientists talk about. The first, called backbreeding, involves finding living species that have traits similar to the extinct species. Then scientists would selectively breed these animals to try to make a version that more closely resembles the extinct animal \u2013 a process already underway for some extinct species like aurochs. This isn\u2019t really a true de-extinction, but it might still let us fill in missing ecological functions. In the case of mammoths, scientists might try to mate Asian elephants with more body hair than usual, for example.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">A second option is cloning. Scientists would take a preserved cell from a recently extinct animal (ideally before the last of its kind died) and extract the nucleus. They would then swap this nucleus into an egg cell from the animal\u2019s closest living relative and implant the egg into a surrogate host. (Researchers actually did this in 2007, and a common goat gave birth to an extinct species, the <i>Pyrenean <\/i><i>ibex<\/i>. The infant lived only 7 minutes however, because of genetic problems with its lungs.) Cloning may eventually give us basically identical genetic copies of extinct species, but we\u2019ll be restricted to animals that went extinct more recently and have well-preserved cells with intact nuclei. The mammoth and the passenger pigeon may never be cloned.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The newest option is genetic engineering. Here, researchers would line up the genome of an extinct animal with that of its closest living relative. They would then use CRISPR and other gene-editing tools to swap relevant genes from the extinct animal into the living species and implant the hybrid genome into a surrogate (or grow it in an artificial womb). This approach doesn\u2019t produce genetically identical copies of extinct animals, but rather modern versions of an animal engineered to look and behave like its extinct relatives. This is the technology being used by the mammoth and passenger pigeon groups.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu9": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Consider the statements given below as true:\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>\u201cHumans killed off a lot of species over the last 10,000 years. Some resurrection is in order. A bit of redemption might come with it.\u201d \n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Which of the following would concur with the above ideas and the passage as a whole?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9999999'>De-extinction is similar to remembering the Holocaust \u2212 our future generations will learn to preserve species.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>De-extinction is just the next step in a progression that conservation has already been on.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Taking the closest living species one can get and adapting it based on the genome of the extinct species will help mankind earn its lost reputability and will restore the ecological function of an extinct species.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Humankind could do well to countermand some of its past sins by deciding to revive some of the extinct species.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3449",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>9<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is in the midst of its sixth mass extinction: Somewhere between 30 and 159 species disappear every day, thanks largely to humans, and more than 300 types of mammals, birds, reptiles, and amphibians have vanished since 1500. These rates do not bode well for the future of life on our planet, but what if extinction wasn\u2019t permanent? What if we could resurrect some of the species we\u2019ve lost? The two animals at the forefront of this discussion are the woolly mammoth, a hairy, close relative of the elephant that lived in the Arctic, and the passenger pigeon, a small, gray bird with a pinkish red breast once extremely common in North America. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are three main approaches to de-extinction scientists talk about. The first, called backbreeding, involves finding living species that have traits similar to the extinct species. Then scientists would selectively breed these animals to try to make a version that more closely resembles the extinct animal \u2013 a process already underway for some extinct species like aurochs. This isn\u2019t really a true de-extinction, but it might still let us fill in missing ecological functions. In the case of mammoths, scientists might try to mate Asian elephants with more body hair than usual, for example.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">A second option is cloning. Scientists would take a preserved cell from a recently extinct animal (ideally before the last of its kind died) and extract the nucleus. They would then swap this nucleus into an egg cell from the animal\u2019s closest living relative and implant the egg into a surrogate host. (Researchers actually did this in 2007, and a common goat gave birth to an extinct species, the <i>Pyrenean <\/i><i>ibex<\/i>. The infant lived only 7 minutes however, because of genetic problems with its lungs.) Cloning may eventually give us basically identical genetic copies of extinct species, but we\u2019ll be restricted to animals that went extinct more recently and have well-preserved cells with intact nuclei. The mammoth and the passenger pigeon may never be cloned.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">The newest option is genetic engineering. Here, researchers would line up the genome of an extinct animal with that of its closest living relative. They would then use CRISPR and other gene-editing tools to swap relevant genes from the extinct animal into the living species and implant the hybrid genome into a surrogate (or grow it in an artificial womb). This approach doesn\u2019t produce genetically identical copies of extinct animals, but rather modern versions of an animal engineered to look and behave like its extinct relatives. This is the technology being used by the mammoth and passenger pigeon groups.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu10": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'>What is the primary reason why the \u201cBritish police have stopped sharing their information on the Manchester bombing with their American counterparts\u201d?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>New York Times published information regarding the Manchester bombings which hindered the police investigation.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>New York Times published leaked information regarding Manchester bombings.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>President Trump is not seen as someone who can keep secrets by the British.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>New York Times published the name of the bomber responsible for the Manchester bombings.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3450",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>10 <\/i><i>to <\/i><i>15<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">\u201cLoose lips sink ships\u201d and \u201cKeep mum \u2212 she\u2019s not so dumb\u201d \u2212 the spirit of Second World War propaganda posters still animates the British response to terrorist atrocities. Lurking in the background is the idea that leakers are unpatriotic by their nature, and that telling the public concrete and inconvenient facts is almost treasonous. This is the obvious explanation for the shock and outrage in the security establishment, and among politicians, at the publication of some of the details of the Manchester atrocity by the New York Times, which had them from sources in the American security community. Theresa May, Andy Burnham and Nicola Sturgeon have all claimed that the publication was undermining the pursuit of the criminals responsible. The American disclosures have been described as \u201cunacceptable\u201d, a word which has come to mean its opposite: that this is something we are going to have to accept but only under noisy protest. The British police have stopped sharing their information on the Manchester bombing with their American counterparts. The damage to trust is real. It will not be undone by President Trump announcing that he wants the leakers caught and punished. In fact, the president\u2019s own recklessness with secrets may underlie some of the present disquiet among security professionals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are reasonable grounds for anger at the first leak, to an American news network, of the bomber\u2019s name. That is information which the police have very good reasons to keep quiet for a while, since it enables them to discover the friends and family of the criminal before the ones who might have something to hide can get round to hiding it. It also makes sense for any arrests and raids to be carried out without the presence of a journalistic scrum. Operational secrecy is sometimes necessary, and no responsible media organisation will hinder it. But the judgment of what constitutes operational secrecy will always be contested. British newspapers have in the past published stories about the CIA which the American media would not.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is hard to see how the detailed information leaked to the New York Times hinders any investigation. Will Islamic State be strengthened by knowing the brand of rucksack that the bomber used? Such arguments are not entirely unfamiliar. The US media had published stories based on leaked British police investigations after the 7\/7 London bombings in 2005. There will always be questions of taste and judgment in the choice of material to publish. There is a line beyond which crime photographs turn into a kind of exhibition of violence and increase the misery of grieving relatives and loved ones, but the pictures so far published do not approach that line.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is important to distinguish between intelligence material, as handled by intelligence agencies and shared, in theory, only with carefully vetted groups, and the routine police databases to which tens of thousands of people have access, quite properly. They are much harder to shut down, and can sometimes be horribly abused. But nothing in the New York Times which has so far been published reveals secret intelligence sources or even hints at their existence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">This row was not confected. However, there are real questions to be answered about what was known about the bomber and when and by whom. What did the security services miss? What role was played by police cuts under Mrs May when she was home secretary? These are questions calling for calm deliberation, not angry demands for new powers to monitor the internet. This newspaper is on the side of greater openness. The police and security services work for us, the citizens. They can\u2019t report to us directly but we must be free to report on them.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu11": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'>The author would most probably not support which of the following?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>British newspapers publishing stories about the CIA.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Publishing pictures related to the 7\/7 London bombings that are not insensitive.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Publishing the brand of the rucksack the bomber used.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>American media publishing the name of the bomber.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3450",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>10 <\/i><i>to <\/i><i>15<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">\u201cLoose lips sink ships\u201d and \u201cKeep mum \u2212 she\u2019s not so dumb\u201d \u2212 the spirit of Second World War propaganda posters still animates the British response to terrorist atrocities. Lurking in the background is the idea that leakers are unpatriotic by their nature, and that telling the public concrete and inconvenient facts is almost treasonous. This is the obvious explanation for the shock and outrage in the security establishment, and among politicians, at the publication of some of the details of the Manchester atrocity by the New York Times, which had them from sources in the American security community. Theresa May, Andy Burnham and Nicola Sturgeon have all claimed that the publication was undermining the pursuit of the criminals responsible. The American disclosures have been described as \u201cunacceptable\u201d, a word which has come to mean its opposite: that this is something we are going to have to accept but only under noisy protest. The British police have stopped sharing their information on the Manchester bombing with their American counterparts. The damage to trust is real. It will not be undone by President Trump announcing that he wants the leakers caught and punished. In fact, the president\u2019s own recklessness with secrets may underlie some of the present disquiet among security professionals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are reasonable grounds for anger at the first leak, to an American news network, of the bomber\u2019s name. That is information which the police have very good reasons to keep quiet for a while, since it enables them to discover the friends and family of the criminal before the ones who might have something to hide can get round to hiding it. It also makes sense for any arrests and raids to be carried out without the presence of a journalistic scrum. Operational secrecy is sometimes necessary, and no responsible media organisation will hinder it. But the judgment of what constitutes operational secrecy will always be contested. British newspapers have in the past published stories about the CIA which the American media would not.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is hard to see how the detailed information leaked to the New York Times hinders any investigation. Will Islamic State be strengthened by knowing the brand of rucksack that the bomber used? Such arguments are not entirely unfamiliar. The US media had published stories based on leaked British police investigations after the 7\/7 London bombings in 2005. There will always be questions of taste and judgment in the choice of material to publish. There is a line beyond which crime photographs turn into a kind of exhibition of violence and increase the misery of grieving relatives and loved ones, but the pictures so far published do not approach that line.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is important to distinguish between intelligence material, as handled by intelligence agencies and shared, in theory, only with carefully vetted groups, and the routine police databases to which tens of thousands of people have access, quite properly. They are much harder to shut down, and can sometimes be horribly abused. But nothing in the New York Times which has so far been published reveals secret intelligence sources or even hints at their existence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">This row was not confected. However, there are real questions to be answered about what was known about the bomber and when and by whom. What did the security services miss? What role was played by police cuts under Mrs May when she was home secretary? These are questions calling for calm deliberation, not angry demands for new powers to monitor the internet. This newspaper is on the side of greater openness. The police and security services work for us, the citizens. They can\u2019t report to us directly but we must be free to report on them.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu12": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following can be inferred from the passage about the information leaked by the New York Times?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The information published by the New York Times was in bad taste and exacerbated the misery of the victims\u2019 families.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The information that the New York Times obtained regarding the Manchester bombings was not a part of the routine police databases.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The New York Times published information to which tens of thousands of people already had access.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>President Trump backed the publication of the information by the New York Times.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3450",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>10 <\/i><i>to <\/i><i>15<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">\u201cLoose lips sink ships\u201d and \u201cKeep mum \u2212 she\u2019s not so dumb\u201d \u2212 the spirit of Second World War propaganda posters still animates the British response to terrorist atrocities. Lurking in the background is the idea that leakers are unpatriotic by their nature, and that telling the public concrete and inconvenient facts is almost treasonous. This is the obvious explanation for the shock and outrage in the security establishment, and among politicians, at the publication of some of the details of the Manchester atrocity by the New York Times, which had them from sources in the American security community. Theresa May, Andy Burnham and Nicola Sturgeon have all claimed that the publication was undermining the pursuit of the criminals responsible. The American disclosures have been described as \u201cunacceptable\u201d, a word which has come to mean its opposite: that this is something we are going to have to accept but only under noisy protest. The British police have stopped sharing their information on the Manchester bombing with their American counterparts. The damage to trust is real. It will not be undone by President Trump announcing that he wants the leakers caught and punished. In fact, the president\u2019s own recklessness with secrets may underlie some of the present disquiet among security professionals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are reasonable grounds for anger at the first leak, to an American news network, of the bomber\u2019s name. That is information which the police have very good reasons to keep quiet for a while, since it enables them to discover the friends and family of the criminal before the ones who might have something to hide can get round to hiding it. It also makes sense for any arrests and raids to be carried out without the presence of a journalistic scrum. Operational secrecy is sometimes necessary, and no responsible media organisation will hinder it. But the judgment of what constitutes operational secrecy will always be contested. British newspapers have in the past published stories about the CIA which the American media would not.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is hard to see how the detailed information leaked to the New York Times hinders any investigation. Will Islamic State be strengthened by knowing the brand of rucksack that the bomber used? Such arguments are not entirely unfamiliar. The US media had published stories based on leaked British police investigations after the 7\/7 London bombings in 2005. There will always be questions of taste and judgment in the choice of material to publish. There is a line beyond which crime photographs turn into a kind of exhibition of violence and increase the misery of grieving relatives and loved ones, but the pictures so far published do not approach that line.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is important to distinguish between intelligence material, as handled by intelligence agencies and shared, in theory, only with carefully vetted groups, and the routine police databases to which tens of thousands of people have access, quite properly. They are much harder to shut down, and can sometimes be horribly abused. But nothing in the New York Times which has so far been published reveals secret intelligence sources or even hints at their existence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">This row was not confected. However, there are real questions to be answered about what was known about the bomber and when and by whom. What did the security services miss? What role was played by police cuts under Mrs May when she was home secretary? These are questions calling for calm deliberation, not angry demands for new powers to monitor the internet. This newspaper is on the side of greater openness. The police and security services work for us, the citizens. They can\u2019t report to us directly but we must be free to report on them.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu13": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5;\">Which of the following views would be supported by the author as can be inferred from the passage? <\/font><\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The investigation of Manchester bombings should not be overshadowed by the outrage over the information leaks.\r\n<\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Newspapers should publish any information that they come across.\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The content available to the public should be monitored by the government.\r\n<\/font><\/p><\/span>",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Newspapers should not publish pictures of violent crimes.\r\n<\/font><\/p><\/span>",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3450",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>10 <\/i><i>to <\/i><i>15<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">\u201cLoose lips sink ships\u201d and \u201cKeep mum \u2212 she\u2019s not so dumb\u201d \u2212 the spirit of Second World War propaganda posters still animates the British response to terrorist atrocities. Lurking in the background is the idea that leakers are unpatriotic by their nature, and that telling the public concrete and inconvenient facts is almost treasonous. This is the obvious explanation for the shock and outrage in the security establishment, and among politicians, at the publication of some of the details of the Manchester atrocity by the New York Times, which had them from sources in the American security community. Theresa May, Andy Burnham and Nicola Sturgeon have all claimed that the publication was undermining the pursuit of the criminals responsible. The American disclosures have been described as \u201cunacceptable\u201d, a word which has come to mean its opposite: that this is something we are going to have to accept but only under noisy protest. The British police have stopped sharing their information on the Manchester bombing with their American counterparts. The damage to trust is real. It will not be undone by President Trump announcing that he wants the leakers caught and punished. In fact, the president\u2019s own recklessness with secrets may underlie some of the present disquiet among security professionals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are reasonable grounds for anger at the first leak, to an American news network, of the bomber\u2019s name. That is information which the police have very good reasons to keep quiet for a while, since it enables them to discover the friends and family of the criminal before the ones who might have something to hide can get round to hiding it. It also makes sense for any arrests and raids to be carried out without the presence of a journalistic scrum. Operational secrecy is sometimes necessary, and no responsible media organisation will hinder it. But the judgment of what constitutes operational secrecy will always be contested. British newspapers have in the past published stories about the CIA which the American media would not.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is hard to see how the detailed information leaked to the New York Times hinders any investigation. Will Islamic State be strengthened by knowing the brand of rucksack that the bomber used? Such arguments are not entirely unfamiliar. The US media had published stories based on leaked British police investigations after the 7\/7 London bombings in 2005. There will always be questions of taste and judgment in the choice of material to publish. There is a line beyond which crime photographs turn into a kind of exhibition of violence and increase the misery of grieving relatives and loved ones, but the pictures so far published do not approach that line.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is important to distinguish between intelligence material, as handled by intelligence agencies and shared, in theory, only with carefully vetted groups, and the routine police databases to which tens of thousands of people have access, quite properly. They are much harder to shut down, and can sometimes be horribly abused. But nothing in the New York Times which has so far been published reveals secret intelligence sources or even hints at their existence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">This row was not confected. However, there are real questions to be answered about what was known about the bomber and when and by whom. What did the security services miss? What role was played by police cuts under Mrs May when she was home secretary? These are questions calling for calm deliberation, not angry demands for new powers to monitor the internet. This newspaper is on the side of greater openness. The police and security services work for us, the citizens. They can\u2019t report to us directly but we must be free to report on them.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu14": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following can be inferred to be a feature of a responsible media organisation?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>It should not publish information that it obtains through leaks from intelligence agencies.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>It should recognise the importance of maintaining secrecy when required.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>It should publish any information even if operational secrecy is violated.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>It should publish only that information which is not relevant to any ongoing investigation.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3450",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>10 <\/i><i>to <\/i><i>15<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">\u201cLoose lips sink ships\u201d and \u201cKeep mum \u2212 she\u2019s not so dumb\u201d \u2212 the spirit of Second World War propaganda posters still animates the British response to terrorist atrocities. Lurking in the background is the idea that leakers are unpatriotic by their nature, and that telling the public concrete and inconvenient facts is almost treasonous. This is the obvious explanation for the shock and outrage in the security establishment, and among politicians, at the publication of some of the details of the Manchester atrocity by the New York Times, which had them from sources in the American security community. Theresa May, Andy Burnham and Nicola Sturgeon have all claimed that the publication was undermining the pursuit of the criminals responsible. The American disclosures have been described as \u201cunacceptable\u201d, a word which has come to mean its opposite: that this is something we are going to have to accept but only under noisy protest. The British police have stopped sharing their information on the Manchester bombing with their American counterparts. The damage to trust is real. It will not be undone by President Trump announcing that he wants the leakers caught and punished. In fact, the president\u2019s own recklessness with secrets may underlie some of the present disquiet among security professionals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are reasonable grounds for anger at the first leak, to an American news network, of the bomber\u2019s name. That is information which the police have very good reasons to keep quiet for a while, since it enables them to discover the friends and family of the criminal before the ones who might have something to hide can get round to hiding it. It also makes sense for any arrests and raids to be carried out without the presence of a journalistic scrum. Operational secrecy is sometimes necessary, and no responsible media organisation will hinder it. But the judgment of what constitutes operational secrecy will always be contested. British newspapers have in the past published stories about the CIA which the American media would not.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is hard to see how the detailed information leaked to the New York Times hinders any investigation. Will Islamic State be strengthened by knowing the brand of rucksack that the bomber used? Such arguments are not entirely unfamiliar. The US media had published stories based on leaked British police investigations after the 7\/7 London bombings in 2005. There will always be questions of taste and judgment in the choice of material to publish. There is a line beyond which crime photographs turn into a kind of exhibition of violence and increase the misery of grieving relatives and loved ones, but the pictures so far published do not approach that line.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is important to distinguish between intelligence material, as handled by intelligence agencies and shared, in theory, only with carefully vetted groups, and the routine police databases to which tens of thousands of people have access, quite properly. They are much harder to shut down, and can sometimes be horribly abused. But nothing in the New York Times which has so far been published reveals secret intelligence sources or even hints at their existence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">This row was not confected. However, there are real questions to be answered about what was known about the bomber and when and by whom. What did the security services miss? What role was played by police cuts under Mrs May when she was home secretary? These are questions calling for calm deliberation, not angry demands for new powers to monitor the internet. This newspaper is on the side of greater openness. The police and security services work for us, the citizens. They can\u2019t report to us directly but we must be free to report on them.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu15": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>The questions that the author asks in the last paragraph of the passage, \u201cWhat did the security\u2026 home secretary?\u201d will most probably help in\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>identifying the current whereabouts of the bomber.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>understanding why the Manchester bombings were not averted.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>understanding why the Manchester bombings happened.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>identifying the role of newspapers in the investigation of Manchester bombings.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3450",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>10 <\/i><i>to <\/i><i>15<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">\u201cLoose lips sink ships\u201d and \u201cKeep mum \u2212 she\u2019s not so dumb\u201d \u2212 the spirit of Second World War propaganda posters still animates the British response to terrorist atrocities. Lurking in the background is the idea that leakers are unpatriotic by their nature, and that telling the public concrete and inconvenient facts is almost treasonous. This is the obvious explanation for the shock and outrage in the security establishment, and among politicians, at the publication of some of the details of the Manchester atrocity by the New York Times, which had them from sources in the American security community. Theresa May, Andy Burnham and Nicola Sturgeon have all claimed that the publication was undermining the pursuit of the criminals responsible. The American disclosures have been described as \u201cunacceptable\u201d, a word which has come to mean its opposite: that this is something we are going to have to accept but only under noisy protest. The British police have stopped sharing their information on the Manchester bombing with their American counterparts. The damage to trust is real. It will not be undone by President Trump announcing that he wants the leakers caught and punished. In fact, the president\u2019s own recklessness with secrets may underlie some of the present disquiet among security professionals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">There are reasonable grounds for anger at the first leak, to an American news network, of the bomber\u2019s name. That is information which the police have very good reasons to keep quiet for a while, since it enables them to discover the friends and family of the criminal before the ones who might have something to hide can get round to hiding it. It also makes sense for any arrests and raids to be carried out without the presence of a journalistic scrum. Operational secrecy is sometimes necessary, and no responsible media organisation will hinder it. But the judgment of what constitutes operational secrecy will always be contested. British newspapers have in the past published stories about the CIA which the American media would not.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is hard to see how the detailed information leaked to the New York Times hinders any investigation. Will Islamic State be strengthened by knowing the brand of rucksack that the bomber used? Such arguments are not entirely unfamiliar. The US media had published stories based on leaked British police investigations after the 7\/7 London bombings in 2005. There will always be questions of taste and judgment in the choice of material to publish. There is a line beyond which crime photographs turn into a kind of exhibition of violence and increase the misery of grieving relatives and loved ones, but the pictures so far published do not approach that line.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">It is important to distinguish between intelligence material, as handled by intelligence agencies and shared, in theory, only with carefully vetted groups, and the routine police databases to which tens of thousands of people have access, quite properly. They are much harder to shut down, and can sometimes be horribly abused. But nothing in the New York Times which has so far been published reveals secret intelligence sources or even hints at their existence.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">This row was not confected. However, there are real questions to be answered about what was known about the bomber and when and by whom. What did the security services miss? What role was played by police cuts under Mrs May when she was home secretary? These are questions calling for calm deliberation, not angry demands for new powers to monitor the internet. This newspaper is on the side of greater openness. The police and security services work for us, the citizens. They can\u2019t report to us directly but we must be free to report on them.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu16": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>What was \/ were the primary reason(s) for the Great Migration to take place?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The blacks of the rural south of the United States did not want to work on the farms.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Because of World War I, there was a shortage of industrial workers in the north, midwest and west of the United States.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The blacks, dissatisfied with the deplorable economic conditions in the south, were attracted by the favourable economic opportunities available in the north of the United States.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Gender and racial equality was better in the north than in the south of the United States.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3451",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>16 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">The Great Migration, or the relocation of more than 6 million African Americans from the rural South to the cities of the North, Midwest and West from 1916 to 1970, had a huge impact on urban life in the United States. Driven from their homes by unsatisfactory economic opportunities and harsh segregationist laws, many blacks headed north, where they took advantage of the need for industrial workers that first arose during the First World War. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">After the post-Civil War Reconstruction period ended in 1876, white supremacy was largely restored across the South, and the segregationist policies known as Jim Crow soon became the law of the land. ... The Ku Klux Klan continued underground even after its official dissolution in 1869, and intimidation, violence and lynching of black southerners were common in the Jim Crow South.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">After World War I broke out in Europe in 1914, industrialized urban areas in the North, Midwest and West faced a shortage of industrial laborers, as the war put an end to the steady tide of European immigration to the United States. With war production kicking into high gear, recruiters enticed African Americans to come north, where the factory wage was typically three times more than what blacks could expect to make by working the land in the rural South.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> By the end of 1919, some 1 million blacks had left the South. In the decade between 1910 and 1920, the black population of major Northern cities including New York, Chicago, Philadelphia and Detroit grew by large percentages. Many new arrivals found jobs in factories, slaughterhouses and foundries, where working conditions were arduous and sometimes dangerous. Female migrants had a harder time finding work, spurring heated competition for domestic labor positions.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Aside from competition for employment, there was also competition for living space in the increasingly crowded cities. While segregation was not legalized in the North (as it was in the South), racism and prejudice were widespread. After the U.S. Supreme Court declared racially based housing ordinances unconstitutional in 1917, some residential neighborhoods enacted covenants requiring white property owners to agree not to sell to blacks; these would remain legal until the Court struck them down in 1948.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">As a result of housing tensions, many blacks ended up creating their own cities within big cities, fostering the growth of a new urban African-American culture. The most prominent example was Harlem in New York City, a formerly all-white neighborhood that by the 1920s housed some 200,000 African Americans. The black experience during the Great Migration became an important theme in the artistic movement known first as the New Negro Movement and later as the Harlem Renaissance, which would have an enormous impact on the culture of the era.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu17": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'>Which of the following statements can be inferred from the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The Great Migration, which lasted for a period of more than fifty years, was initiated by Jim Crow and it transformed the demographics of America.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The Great Migration is the primary reason for the success of industrialization and the beginning of a new era of political activism and a new black culture in America.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9999999'>The Great Migration paved the way for the equality of the blacks in all strata of life \u2212 there was no segregation of blacks and whites in the north as in the south.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>As Chicago, New York and other cities saw their black populations expand exponentially in the 1910s, the migrants encountered poor working conditions, living space shortages, racism and prejudice.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3451",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>16 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">The Great Migration, or the relocation of more than 6 million African Americans from the rural South to the cities of the North, Midwest and West from 1916 to 1970, had a huge impact on urban life in the United States. Driven from their homes by unsatisfactory economic opportunities and harsh segregationist laws, many blacks headed north, where they took advantage of the need for industrial workers that first arose during the First World War. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">After the post-Civil War Reconstruction period ended in 1876, white supremacy was largely restored across the South, and the segregationist policies known as Jim Crow soon became the law of the land. ... The Ku Klux Klan continued underground even after its official dissolution in 1869, and intimidation, violence and lynching of black southerners were common in the Jim Crow South.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">After World War I broke out in Europe in 1914, industrialized urban areas in the North, Midwest and West faced a shortage of industrial laborers, as the war put an end to the steady tide of European immigration to the United States. With war production kicking into high gear, recruiters enticed African Americans to come north, where the factory wage was typically three times more than what blacks could expect to make by working the land in the rural South.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> By the end of 1919, some 1 million blacks had left the South. In the decade between 1910 and 1920, the black population of major Northern cities including New York, Chicago, Philadelphia and Detroit grew by large percentages. Many new arrivals found jobs in factories, slaughterhouses and foundries, where working conditions were arduous and sometimes dangerous. Female migrants had a harder time finding work, spurring heated competition for domestic labor positions.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Aside from competition for employment, there was also competition for living space in the increasingly crowded cities. While segregation was not legalized in the North (as it was in the South), racism and prejudice were widespread. After the U.S. Supreme Court declared racially based housing ordinances unconstitutional in 1917, some residential neighborhoods enacted covenants requiring white property owners to agree not to sell to blacks; these would remain legal until the Court struck them down in 1948.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">As a result of housing tensions, many blacks ended up creating their own cities within big cities, fostering the growth of a new urban African-American culture. The most prominent example was Harlem in New York City, a formerly all-white neighborhood that by the 1920s housed some 200,000 African Americans. The black experience during the Great Migration became an important theme in the artistic movement known first as the New Negro Movement and later as the Harlem Renaissance, which would have an enormous impact on the culture of the era.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu18": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following contributed most to the difficulty blacks faced in finding accommodation in the north, west and midwest of the United States as they migrated from the south?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>In the north, west and midwest of the United States, segregation between the blacks and the whites was strictly enforced.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The demand for housing was much more than the supply.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Agreements were made prohibiting the sale of houses to blacks in white neighbourhoods.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Rising rents in segregated areas and a resurgence of the activities of the Ku Klux Klan after 1915, worsened black and white relations across the north, west and midwest of the United States.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3451",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>16 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">The Great Migration, or the relocation of more than 6 million African Americans from the rural South to the cities of the North, Midwest and West from 1916 to 1970, had a huge impact on urban life in the United States. Driven from their homes by unsatisfactory economic opportunities and harsh segregationist laws, many blacks headed north, where they took advantage of the need for industrial workers that first arose during the First World War. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">After the post-Civil War Reconstruction period ended in 1876, white supremacy was largely restored across the South, and the segregationist policies known as Jim Crow soon became the law of the land. ... The Ku Klux Klan continued underground even after its official dissolution in 1869, and intimidation, violence and lynching of black southerners were common in the Jim Crow South.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">After World War I broke out in Europe in 1914, industrialized urban areas in the North, Midwest and West faced a shortage of industrial laborers, as the war put an end to the steady tide of European immigration to the United States. With war production kicking into high gear, recruiters enticed African Americans to come north, where the factory wage was typically three times more than what blacks could expect to make by working the land in the rural South.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> By the end of 1919, some 1 million blacks had left the South. In the decade between 1910 and 1920, the black population of major Northern cities including New York, Chicago, Philadelphia and Detroit grew by large percentages. Many new arrivals found jobs in factories, slaughterhouses and foundries, where working conditions were arduous and sometimes dangerous. Female migrants had a harder time finding work, spurring heated competition for domestic labor positions.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Aside from competition for employment, there was also competition for living space in the increasingly crowded cities. While segregation was not legalized in the North (as it was in the South), racism and prejudice were widespread. After the U.S. Supreme Court declared racially based housing ordinances unconstitutional in 1917, some residential neighborhoods enacted covenants requiring white property owners to agree not to sell to blacks; these would remain legal until the Court struck them down in 1948.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">As a result of housing tensions, many blacks ended up creating their own cities within big cities, fostering the growth of a new urban African-American culture. The most prominent example was Harlem in New York City, a formerly all-white neighborhood that by the 1920s housed some 200,000 African Americans. The black experience during the Great Migration became an important theme in the artistic movement known first as the New Negro Movement and later as the Harlem Renaissance, which would have an enormous impact on the culture of the era.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu19": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>It can be inferred from the passage that\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The ocean stores more than nine-tenths of the heat trapped on earth by greenhouse-gas emissions and coral reefs are suffering as a result.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The author believes that the Paris Agreement is the only hope we have ever had in saving the corals of the oceans and America is ruining our chances.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Firms insuring fishing boats and ocean liners can, in their own way, play a role in ensuring that our oceans are saved.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>We are aware of the benefits of removing plastic from water bodies but are unsure of the advantages of giving fish stocks time to recover by controlling fishing.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3452",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is poorly named. The ocean covers almost three-quarters of the planet. It is divided into five basins: the Pacific, the Atlantic, the Indian, the Arctic and the Southern oceans. Were all the planet\u2019s water placed over the United States, it would form a column of liquid 132 km tall. The ocean provides 3bn people with almost a fifth of their protein (making fish a bigger source of the stuff than beef). Fishing and aquaculture assure the livelihoods of one in ten of the world\u2019s people. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Humans have long assumed that the ocean\u2019s size allowed them to put anything they wanted into it and to take anything they wanted out. ... By the middle of the century, the ocean could contain more plastic than fish by weight. Ground down into tiny pieces, it is eaten by fish and then by people, with uncertain effects on human health. Appetite for fish grows nevertheless: almost 90% of stocks are fished either at or beyond their sustainable limits. The ocean nurtures humanity. Humanity treats it with contempt. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Firstly, the bulk of the ocean is beyond the horizon and below the waterline. The damage being done to its health is visible in a few liminal places \u2212 the Great Barrier Reef or the oyster farms of Washington state. But for the most part, the sea is out of sight and out of mind. It is telling that there is only a single fleeting reference to the ocean in the Paris agreement on climate change.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">A second problem is governance. The ocean is subject to a patchwork of laws and agreements. Enforcement is hard and incentives are often misaligned. Waters outside national jurisdictions \u2212 the high seas \u2212 are a global commons. Without defined property rights or a community invested in their upkeep, the interests of individual actors in exploiting such areas win out over the collective interest in husbanding them. Fish are particularly tricky because they move. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Third, the ocean is a victim of other, bigger processes. The emission of greenhouse gases into the atmosphere is changing the marine environment along with the rest of the planet. The ocean has warmed by 0.7\u00b0C since the 19th century, damaging corals and encouraging organisms to migrate towards the poles in search of cooler waters. Greater concentrations of carbon dioxide in the water are making it more acidic. That tends to harm creatures such as crabs and oysters, whose calcium carbonate shells suffer as marine chemistry alters. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">\u201cOcean blindness\u201d can be cured by access to information. Improvements in computing power, satellite imaging and drones are bringing the ocean into better view than ever before. Work is under way to map the sea floor in detail using sonar technology. On the surface, aquatic drones can get to remote, stormy places at a far smaller cost than manned vessels. Ocean-colour radiometry is improving understanding of how phytoplankton move and thrive. Tiny satellites, weighing 1-10kg, are enhancing scrutiny of fishing vessels: craft that switch off their tracking devices when they approach a marine protected area excite suspicion. As sea-floor soundings proliferate, the supervision of deep-sea mining should get better.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Clearer information may also help align incentives and allow private capital to reward good behaviour. Insurance firms, for instance, have an incentive to ask for more data on fishing vessels; if ships switch off their tracking systems, the chances of collisions rise, and so do premiums. Greater traceability gives consumers who are concerned about fish a way to press seafood firms into behaving responsibly.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Thanks to technology, the ocean\u2019s expanse and remoteness are becoming less formidable \u2212 and less of an excuse for inaction. A UN meeting on the ocean next month in New York is a sign that policymakers are paying more attention to the state of the marine realm. But superior information does not solve the fundamental problem of enforcing property rights for the high seas. The effectiveness of incentives to take care of the ocean varies. Commercial pay-offs from giving fish stocks time to recover, for example, are large and well-documented; but the rewards that accrue from removing plastic from the high seas are unclear.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Above all, better measurement of the effect of global warming on the ocean does not make a solution any easier. The Paris agreement is the single best hope we have as of now for protecting the ocean and its resources. But America is not strongly committed to the deal; it may even pull out. However, the limits agreed on in Paris will not prevent sea levels from rising and corals from bleaching. Indeed, unless they are drastically strengthened, both problems risk getting much worse. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu20": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>The author\u2019s tone in the last paragraph of the passage is \n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>passionate. \n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>pessimistic.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>disparaging.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>stoical.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3452",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is poorly named. The ocean covers almost three-quarters of the planet. It is divided into five basins: the Pacific, the Atlantic, the Indian, the Arctic and the Southern oceans. Were all the planet\u2019s water placed over the United States, it would form a column of liquid 132 km tall. The ocean provides 3bn people with almost a fifth of their protein (making fish a bigger source of the stuff than beef). Fishing and aquaculture assure the livelihoods of one in ten of the world\u2019s people. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Humans have long assumed that the ocean\u2019s size allowed them to put anything they wanted into it and to take anything they wanted out. ... By the middle of the century, the ocean could contain more plastic than fish by weight. Ground down into tiny pieces, it is eaten by fish and then by people, with uncertain effects on human health. Appetite for fish grows nevertheless: almost 90% of stocks are fished either at or beyond their sustainable limits. The ocean nurtures humanity. Humanity treats it with contempt. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Firstly, the bulk of the ocean is beyond the horizon and below the waterline. The damage being done to its health is visible in a few liminal places \u2212 the Great Barrier Reef or the oyster farms of Washington state. But for the most part, the sea is out of sight and out of mind. It is telling that there is only a single fleeting reference to the ocean in the Paris agreement on climate change.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">A second problem is governance. The ocean is subject to a patchwork of laws and agreements. Enforcement is hard and incentives are often misaligned. Waters outside national jurisdictions \u2212 the high seas \u2212 are a global commons. Without defined property rights or a community invested in their upkeep, the interests of individual actors in exploiting such areas win out over the collective interest in husbanding them. Fish are particularly tricky because they move. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Third, the ocean is a victim of other, bigger processes. The emission of greenhouse gases into the atmosphere is changing the marine environment along with the rest of the planet. The ocean has warmed by 0.7\u00b0C since the 19th century, damaging corals and encouraging organisms to migrate towards the poles in search of cooler waters. Greater concentrations of carbon dioxide in the water are making it more acidic. That tends to harm creatures such as crabs and oysters, whose calcium carbonate shells suffer as marine chemistry alters. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">\u201cOcean blindness\u201d can be cured by access to information. Improvements in computing power, satellite imaging and drones are bringing the ocean into better view than ever before. Work is under way to map the sea floor in detail using sonar technology. On the surface, aquatic drones can get to remote, stormy places at a far smaller cost than manned vessels. Ocean-colour radiometry is improving understanding of how phytoplankton move and thrive. Tiny satellites, weighing 1-10kg, are enhancing scrutiny of fishing vessels: craft that switch off their tracking devices when they approach a marine protected area excite suspicion. As sea-floor soundings proliferate, the supervision of deep-sea mining should get better.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Clearer information may also help align incentives and allow private capital to reward good behaviour. Insurance firms, for instance, have an incentive to ask for more data on fishing vessels; if ships switch off their tracking systems, the chances of collisions rise, and so do premiums. Greater traceability gives consumers who are concerned about fish a way to press seafood firms into behaving responsibly.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Thanks to technology, the ocean\u2019s expanse and remoteness are becoming less formidable \u2212 and less of an excuse for inaction. A UN meeting on the ocean next month in New York is a sign that policymakers are paying more attention to the state of the marine realm. But superior information does not solve the fundamental problem of enforcing property rights for the high seas. The effectiveness of incentives to take care of the ocean varies. Commercial pay-offs from giving fish stocks time to recover, for example, are large and well-documented; but the rewards that accrue from removing plastic from the high seas are unclear.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Above all, better measurement of the effect of global warming on the ocean does not make a solution any easier. The Paris agreement is the single best hope we have as of now for protecting the ocean and its resources. But America is not strongly committed to the deal; it may even pull out. However, the limits agreed on in Paris will not prevent sea levels from rising and corals from bleaching. Indeed, unless they are drastically strengthened, both problems risk getting much worse. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu21": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>Which of the following can help in curing the \u201cocean blindness\u201d that has been discussed in the passage?\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Identify all that apply and enter the corresponding number in the input box given below. You must enter your answer in increasing order only. For example, if you think (1) and (2) apply, then enter 12 (but not 21) in the input box.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>(1) Creating time-lapse movies of sea life over tens of thousands of square kilometers.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>(2) Satellite monitoring of the oceans.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>(3) Acoustic techniques that produce pictures of the ocean\u2019s floor as well as its contents.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>(4) Removing plastic from the high seas on a regular basis.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>(5) Use of aquatic drones and ocean-colour radiometry.\n<\/font><\/p><\/span>\n",
+			"OPT1": "1235",
+			"CORRECT_ANSWER": "1235",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3452",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is poorly named. The ocean covers almost three-quarters of the planet. It is divided into five basins: the Pacific, the Atlantic, the Indian, the Arctic and the Southern oceans. Were all the planet\u2019s water placed over the United States, it would form a column of liquid 132 km tall. The ocean provides 3bn people with almost a fifth of their protein (making fish a bigger source of the stuff than beef). Fishing and aquaculture assure the livelihoods of one in ten of the world\u2019s people. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Humans have long assumed that the ocean\u2019s size allowed them to put anything they wanted into it and to take anything they wanted out. ... By the middle of the century, the ocean could contain more plastic than fish by weight. Ground down into tiny pieces, it is eaten by fish and then by people, with uncertain effects on human health. Appetite for fish grows nevertheless: almost 90% of stocks are fished either at or beyond their sustainable limits. The ocean nurtures humanity. Humanity treats it with contempt. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Firstly, the bulk of the ocean is beyond the horizon and below the waterline. The damage being done to its health is visible in a few liminal places \u2212 the Great Barrier Reef or the oyster farms of Washington state. But for the most part, the sea is out of sight and out of mind. It is telling that there is only a single fleeting reference to the ocean in the Paris agreement on climate change.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">A second problem is governance. The ocean is subject to a patchwork of laws and agreements. Enforcement is hard and incentives are often misaligned. Waters outside national jurisdictions \u2212 the high seas \u2212 are a global commons. Without defined property rights or a community invested in their upkeep, the interests of individual actors in exploiting such areas win out over the collective interest in husbanding them. Fish are particularly tricky because they move. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Third, the ocean is a victim of other, bigger processes. The emission of greenhouse gases into the atmosphere is changing the marine environment along with the rest of the planet. The ocean has warmed by 0.7\u00b0C since the 19th century, damaging corals and encouraging organisms to migrate towards the poles in search of cooler waters. Greater concentrations of carbon dioxide in the water are making it more acidic. That tends to harm creatures such as crabs and oysters, whose calcium carbonate shells suffer as marine chemistry alters. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">\u201cOcean blindness\u201d can be cured by access to information. Improvements in computing power, satellite imaging and drones are bringing the ocean into better view than ever before. Work is under way to map the sea floor in detail using sonar technology. On the surface, aquatic drones can get to remote, stormy places at a far smaller cost than manned vessels. Ocean-colour radiometry is improving understanding of how phytoplankton move and thrive. Tiny satellites, weighing 1-10kg, are enhancing scrutiny of fishing vessels: craft that switch off their tracking devices when they approach a marine protected area excite suspicion. As sea-floor soundings proliferate, the supervision of deep-sea mining should get better.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Clearer information may also help align incentives and allow private capital to reward good behaviour. Insurance firms, for instance, have an incentive to ask for more data on fishing vessels; if ships switch off their tracking systems, the chances of collisions rise, and so do premiums. Greater traceability gives consumers who are concerned about fish a way to press seafood firms into behaving responsibly.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Thanks to technology, the ocean\u2019s expanse and remoteness are becoming less formidable \u2212 and less of an excuse for inaction. A UN meeting on the ocean next month in New York is a sign that policymakers are paying more attention to the state of the marine realm. But superior information does not solve the fundamental problem of enforcing property rights for the high seas. The effectiveness of incentives to take care of the ocean varies. Commercial pay-offs from giving fish stocks time to recover, for example, are large and well-documented; but the rewards that accrue from removing plastic from the high seas are unclear.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Above all, better measurement of the effect of global warming on the ocean does not make a solution any easier. The Paris agreement is the single best hope we have as of now for protecting the ocean and its resources. But America is not strongly committed to the deal; it may even pull out. However, the limits agreed on in Paris will not prevent sea levels from rising and corals from bleaching. Indeed, unless they are drastically strengthened, both problems risk getting much worse. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu22": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'>Which of the following can complete and conclude the last paragraph of the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Mankind is increasingly able to see the damage it is doing to the ocean. Whether it can stop it is another question.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Rather than filling the ocean, humankind has been working hard at emptying it.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>If anything ought to be too big to fail, it is the ocean.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Why observe quotas if you think your neighbour can haul in catches with impunity?\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3452",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is poorly named. The ocean covers almost three-quarters of the planet. It is divided into five basins: the Pacific, the Atlantic, the Indian, the Arctic and the Southern oceans. Were all the planet\u2019s water placed over the United States, it would form a column of liquid 132 km tall. The ocean provides 3bn people with almost a fifth of their protein (making fish a bigger source of the stuff than beef). Fishing and aquaculture assure the livelihoods of one in ten of the world\u2019s people. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Humans have long assumed that the ocean\u2019s size allowed them to put anything they wanted into it and to take anything they wanted out. ... By the middle of the century, the ocean could contain more plastic than fish by weight. Ground down into tiny pieces, it is eaten by fish and then by people, with uncertain effects on human health. Appetite for fish grows nevertheless: almost 90% of stocks are fished either at or beyond their sustainable limits. The ocean nurtures humanity. Humanity treats it with contempt. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Firstly, the bulk of the ocean is beyond the horizon and below the waterline. The damage being done to its health is visible in a few liminal places \u2212 the Great Barrier Reef or the oyster farms of Washington state. But for the most part, the sea is out of sight and out of mind. It is telling that there is only a single fleeting reference to the ocean in the Paris agreement on climate change.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">A second problem is governance. The ocean is subject to a patchwork of laws and agreements. Enforcement is hard and incentives are often misaligned. Waters outside national jurisdictions \u2212 the high seas \u2212 are a global commons. Without defined property rights or a community invested in their upkeep, the interests of individual actors in exploiting such areas win out over the collective interest in husbanding them. Fish are particularly tricky because they move. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Third, the ocean is a victim of other, bigger processes. The emission of greenhouse gases into the atmosphere is changing the marine environment along with the rest of the planet. The ocean has warmed by 0.7\u00b0C since the 19th century, damaging corals and encouraging organisms to migrate towards the poles in search of cooler waters. Greater concentrations of carbon dioxide in the water are making it more acidic. That tends to harm creatures such as crabs and oysters, whose calcium carbonate shells suffer as marine chemistry alters. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">\u201cOcean blindness\u201d can be cured by access to information. Improvements in computing power, satellite imaging and drones are bringing the ocean into better view than ever before. Work is under way to map the sea floor in detail using sonar technology. On the surface, aquatic drones can get to remote, stormy places at a far smaller cost than manned vessels. Ocean-colour radiometry is improving understanding of how phytoplankton move and thrive. Tiny satellites, weighing 1-10kg, are enhancing scrutiny of fishing vessels: craft that switch off their tracking devices when they approach a marine protected area excite suspicion. As sea-floor soundings proliferate, the supervision of deep-sea mining should get better.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Clearer information may also help align incentives and allow private capital to reward good behaviour. Insurance firms, for instance, have an incentive to ask for more data on fishing vessels; if ships switch off their tracking systems, the chances of collisions rise, and so do premiums. Greater traceability gives consumers who are concerned about fish a way to press seafood firms into behaving responsibly.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Thanks to technology, the ocean\u2019s expanse and remoteness are becoming less formidable \u2212 and less of an excuse for inaction. A UN meeting on the ocean next month in New York is a sign that policymakers are paying more attention to the state of the marine realm. But superior information does not solve the fundamental problem of enforcing property rights for the high seas. The effectiveness of incentives to take care of the ocean varies. Commercial pay-offs from giving fish stocks time to recover, for example, are large and well-documented; but the rewards that accrue from removing plastic from the high seas are unclear.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Above all, better measurement of the effect of global warming on the ocean does not make a solution any easier. The Paris agreement is the single best hope we have as of now for protecting the ocean and its resources. But America is not strongly committed to the deal; it may even pull out. However, the limits agreed on in Paris will not prevent sea levels from rising and corals from bleaching. Indeed, unless they are drastically strengthened, both problems risk getting much worse. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu23": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'><b><\/b>The author of the passage attributes which of the following to the negative state of affairs of the oceans?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Our blatant disregard towards environmental issues such as carbon dioxide emissions and global warming. \n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>Human nature which makes people protect only that as has been demarcated as theirs.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The current difficulty in studying and visualizing the effects of our actions on the oceans.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>All of the above.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3452",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is poorly named. The ocean covers almost three-quarters of the planet. It is divided into five basins: the Pacific, the Atlantic, the Indian, the Arctic and the Southern oceans. Were all the planet\u2019s water placed over the United States, it would form a column of liquid 132 km tall. The ocean provides 3bn people with almost a fifth of their protein (making fish a bigger source of the stuff than beef). Fishing and aquaculture assure the livelihoods of one in ten of the world\u2019s people. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Humans have long assumed that the ocean\u2019s size allowed them to put anything they wanted into it and to take anything they wanted out. ... By the middle of the century, the ocean could contain more plastic than fish by weight. Ground down into tiny pieces, it is eaten by fish and then by people, with uncertain effects on human health. Appetite for fish grows nevertheless: almost 90% of stocks are fished either at or beyond their sustainable limits. The ocean nurtures humanity. Humanity treats it with contempt. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Firstly, the bulk of the ocean is beyond the horizon and below the waterline. The damage being done to its health is visible in a few liminal places \u2212 the Great Barrier Reef or the oyster farms of Washington state. But for the most part, the sea is out of sight and out of mind. It is telling that there is only a single fleeting reference to the ocean in the Paris agreement on climate change.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">A second problem is governance. The ocean is subject to a patchwork of laws and agreements. Enforcement is hard and incentives are often misaligned. Waters outside national jurisdictions \u2212 the high seas \u2212 are a global commons. Without defined property rights or a community invested in their upkeep, the interests of individual actors in exploiting such areas win out over the collective interest in husbanding them. Fish are particularly tricky because they move. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Third, the ocean is a victim of other, bigger processes. The emission of greenhouse gases into the atmosphere is changing the marine environment along with the rest of the planet. The ocean has warmed by 0.7\u00b0C since the 19th century, damaging corals and encouraging organisms to migrate towards the poles in search of cooler waters. Greater concentrations of carbon dioxide in the water are making it more acidic. That tends to harm creatures such as crabs and oysters, whose calcium carbonate shells suffer as marine chemistry alters. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">\u201cOcean blindness\u201d can be cured by access to information. Improvements in computing power, satellite imaging and drones are bringing the ocean into better view than ever before. Work is under way to map the sea floor in detail using sonar technology. On the surface, aquatic drones can get to remote, stormy places at a far smaller cost than manned vessels. Ocean-colour radiometry is improving understanding of how phytoplankton move and thrive. Tiny satellites, weighing 1-10kg, are enhancing scrutiny of fishing vessels: craft that switch off their tracking devices when they approach a marine protected area excite suspicion. As sea-floor soundings proliferate, the supervision of deep-sea mining should get better.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Clearer information may also help align incentives and allow private capital to reward good behaviour. Insurance firms, for instance, have an incentive to ask for more data on fishing vessels; if ships switch off their tracking systems, the chances of collisions rise, and so do premiums. Greater traceability gives consumers who are concerned about fish a way to press seafood firms into behaving responsibly.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Thanks to technology, the ocean\u2019s expanse and remoteness are becoming less formidable \u2212 and less of an excuse for inaction. A UN meeting on the ocean next month in New York is a sign that policymakers are paying more attention to the state of the marine realm. But superior information does not solve the fundamental problem of enforcing property rights for the high seas. The effectiveness of incentives to take care of the ocean varies. Commercial pay-offs from giving fish stocks time to recover, for example, are large and well-documented; but the rewards that accrue from removing plastic from the high seas are unclear.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Above all, better measurement of the effect of global warming on the ocean does not make a solution any easier. The Paris agreement is the single best hope we have as of now for protecting the ocean and its resources. But America is not strongly committed to the deal; it may even pull out. However, the limits agreed on in Paris will not prevent sea levels from rising and corals from bleaching. Indeed, unless they are drastically strengthened, both problems risk getting much worse. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu24": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5;'>Why does the author suggest that the name \u201cEarth\u201d is incorrect for our planet?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>We are increasingly worrying about the effect of our activities on water bodies but the lion\u2019s share of the Earth\u2019s surface has never been shown any such attention.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The oceans play a bigger role in promoting visibility by reflecting light than land does and oceans are fascinating things that make a planet far more habitable than land.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>There is more water than there is earth in our world.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:8.5'>The oceans are the largest source of nutrition for mankind.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3452",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Earth is poorly named. The ocean covers almost three-quarters of the planet. It is divided into five basins: the Pacific, the Atlantic, the Indian, the Arctic and the Southern oceans. Were all the planet\u2019s water placed over the United States, it would form a column of liquid 132 km tall. The ocean provides 3bn people with almost a fifth of their protein (making fish a bigger source of the stuff than beef). Fishing and aquaculture assure the livelihoods of one in ten of the world\u2019s people. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Humans have long assumed that the ocean\u2019s size allowed them to put anything they wanted into it and to take anything they wanted out. ... By the middle of the century, the ocean could contain more plastic than fish by weight. Ground down into tiny pieces, it is eaten by fish and then by people, with uncertain effects on human health. Appetite for fish grows nevertheless: almost 90% of stocks are fished either at or beyond their sustainable limits. The ocean nurtures humanity. Humanity treats it with contempt. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Firstly, the bulk of the ocean is beyond the horizon and below the waterline. The damage being done to its health is visible in a few liminal places \u2212 the Great Barrier Reef or the oyster farms of Washington state. But for the most part, the sea is out of sight and out of mind. It is telling that there is only a single fleeting reference to the ocean in the Paris agreement on climate change.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">A second problem is governance. The ocean is subject to a patchwork of laws and agreements. Enforcement is hard and incentives are often misaligned. Waters outside national jurisdictions \u2212 the high seas \u2212 are a global commons. Without defined property rights or a community invested in their upkeep, the interests of individual actors in exploiting such areas win out over the collective interest in husbanding them. Fish are particularly tricky because they move. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Third, the ocean is a victim of other, bigger processes. The emission of greenhouse gases into the atmosphere is changing the marine environment along with the rest of the planet. The ocean has warmed by 0.7\u00b0C since the 19th century, damaging corals and encouraging organisms to migrate towards the poles in search of cooler waters. Greater concentrations of carbon dioxide in the water are making it more acidic. That tends to harm creatures such as crabs and oysters, whose calcium carbonate shells suffer as marine chemistry alters. ...\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">\u201cOcean blindness\u201d can be cured by access to information. Improvements in computing power, satellite imaging and drones are bringing the ocean into better view than ever before. Work is under way to map the sea floor in detail using sonar technology. On the surface, aquatic drones can get to remote, stormy places at a far smaller cost than manned vessels. Ocean-colour radiometry is improving understanding of how phytoplankton move and thrive. Tiny satellites, weighing 1-10kg, are enhancing scrutiny of fishing vessels: craft that switch off their tracking devices when they approach a marine protected area excite suspicion. As sea-floor soundings proliferate, the supervision of deep-sea mining should get better.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Clearer information may also help align incentives and allow private capital to reward good behaviour. Insurance firms, for instance, have an incentive to ask for more data on fishing vessels; if ships switch off their tracking systems, the chances of collisions rise, and so do premiums. Greater traceability gives consumers who are concerned about fish a way to press seafood firms into behaving responsibly.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Thanks to technology, the ocean\u2019s expanse and remoteness are becoming less formidable \u2212 and less of an excuse for inaction. A UN meeting on the ocean next month in New York is a sign that policymakers are paying more attention to the state of the marine realm. But superior information does not solve the fundamental problem of enforcing property rights for the high seas. The effectiveness of incentives to take care of the ocean varies. Commercial pay-offs from giving fish stocks time to recover, for example, are large and well-documented; but the rewards that accrue from removing plastic from the high seas are unclear.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:8.5\">Above all, better measurement of the effect of global warming on the ocean does not make a solution any easier. The Paris agreement is the single best hope we have as of now for protecting the ocean and its resources. But America is not strongly committed to the deal; it may even pull out. However, the limits agreed on in Paris will not prevent sea levels from rising and corals from bleaching. Indeed, unless they are drastically strengthened, both problems risk getting much worse. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1818"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu25": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>28<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Babies were placed in cooling blankets or packed in ice and even snow banks to slow circulation and reduce oxygen requirements before heart surgery. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Therapeutic hypothermia has become a part of surgical practice. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The babies are treated with cooling caps for 72 hours, which lower their metabolism just enough to reduce tissue oxygen requirements and allow the brain and other vital organs to recover. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">today, physicians use moderate hypothermia as a staple of care for some newborns in medical distress, such as those born premature or suffering from fetal oxygen deprivation (hypoxia). <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Experimental procedures with cooling started as early as the 1960s, mostly in cardiac and neonatal cases. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "25143",
+			"CORRECT_ANSWER": "25143",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu26": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>28<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">This combination of vastness and vulnerability has left some people afraid of China and others afraid for it. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">At the same time, China&rsquo;s recent financial tumult has been unnerving for the investors exposed to it. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The AIIB reflects China&rsquo;s new eagerness to institutionalise its official lending abroad, which has been generous but contentious. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">China&rsquo;s growing global clout can be unsettling for the incumbents who must make room for it. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Both groups have found reason to worry about the Asia Infrastructure Investment Bank (AIIB), which has just held its initial annual meeting in Beijing and approved its first $509m-worth of projects. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "42153",
+			"CORRECT_ANSWER": "42153",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu27": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>28<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">This could seriously weaken the operators&rsquo; grip on their market, especially if Apple were to follow up by putting the new SIMs in iPhones or replacing them with software. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Some of Apple&rsquo;s latest iPads have a new type of SIM card that lets users switch easily between operators without replacing the card. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Apple revolutionized online music with the iPod and iTunes. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">And the next set of businesses to have their applecarts overturned may be the mobile-telecoms operators. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">It may be about to transform the payments business, given the successful launch last month of ApplePay. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "35421",
+			"CORRECT_ANSWER": "35421",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu28": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>28<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">It takes nearly six months, on average, for a manuscript to wend its way from submission to publication. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The reason need not be a fatal flaw in the research; sometimes the work is simply not splashy enough for outlets high up in the pecking order. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Worse, before a paper is accepted by a journal, it is often rejected by one or more others. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9999999\">But in the process, each journal&rsquo;s editors send the paper for peer review &minus; appraisal by experts in the relevant field &minus; in much the same way that each prospective purchaser of a house commissions his own survey. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Ask a researcher what annoys him most about scientific publishing, and slowness will come near the top of the list of gripes. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "51324",
+			"CORRECT_ANSWER": "51324",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu29": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>29 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Seven decades later Galileo Galilei provided more direct proof of Earth&rsquo;s lack of specialness. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">In 1543 Nicolaus Copernicus proposed, in a mathematically rigorous way, that the Earth is not the centre of the universe, and thus that all things do not revolve around it. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Jupiter belongs to a class of planets called gas giants and is a hostile place. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">In fact, only the Moon does so. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">He looked at Jupiter through a primitive telescope and found that the planet had four moons of its own, unlike earth, which just had one. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "3",
+			"CORRECT_ANSWER": "3",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu30": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>29 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Then Polish delicatessens began to appear, selling herring and pierogi; then came Polish solicitors. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Gangmasters told stories about farm labourers picking cabbages at night, by the light of car headlamps. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">But the Poles&rsquo; most intriguing import, and the one that ought to cause native Britons to think hardest, is medical care. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">They may not succeed in doing to the British medical market what Polish farm labourers did to England&rsquo;s fields but the attempt is worth watching. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The first thing Polish immigrants brought to Britain, when the country opened its doors to eastern European workers in 2004 was an admirable work ethic. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "4",
+			"CORRECT_ANSWER": "4",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu31": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>29 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">However, early diagnosis and treatment can help decrease the disruption to the person&#39;s life, family, and friendships. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">These delusions also involve the misinterpretation of perceptions or experiences. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The main feature of this disorder is the presence of delusions, unshakable beliefs in something untrue or not based on reality. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Delusional disorder, previously called paranoid disorder, is a type of serious mental illness called a &quot;psychosis&quot; in which a person cannot tell what is real from what is imagined. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">These delusions mainly involve situations that could occur in real life, such as being followed, poisoned, deceived, conspired against, or loved from a distance. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "1",
+			"CORRECT_ANSWER": "1",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu32": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>29 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">In most areas of life this miracle has been working magnificently: in America the number of hours of work that it takes to buy a car, or a wardrobe full of clothes, has halved in the past generation. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The last few years have seen a ferment of ideas for improving productivity in medicine and teaching. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Joseph Schumpeter argued that the miracle of capitalism lies in democratising wealth. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">But in three big areas it has singularly failed to operate: health care, education and housing. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Elizabeth I owned silk stockings, he observed, but the &ldquo;capitalist achievement&rdquo; does not lie in &ldquo;providing more silk stockings for queens but in bringing them within reach of factory girls.&rdquo; <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "2",
+			"CORRECT_ANSWER": "2",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu33": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>33 <\/i><i>and <\/i><i>34<\/i><i>: <\/i>In the question, there are sentences, with each sentence having pairs of words, labelled (1) and (2) that are italicized and highlighted. In each sentence, from the pairs of italicized and highlighted words, select the appropriate word to form the correct sentence and then enter (in the input box provided below the question) the number corresponding to the appropriate words, in the same order that the pair of words appear in the question. For example, if you think that the appropriate words for the sentences (i), (ii), (iii), (iv) and (v) are 1, 2, 1, 2 and 2 respectively, then enter your answer as 12122. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">It was difficult for the team to <i><b>reorganize <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>regroup <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>and resume their campaign, after having lost the opening round. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">He did not want to judge the case, as he was totally <i><b>disinterested <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>uninterested <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>in the issues involved. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">He had an <i><b>unexceptional <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>unexceptionable <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><b>) <\/b>track record making him the ideal candidate. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The leader was <i><b>pilloried <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>pillaged <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>by the press for his unwitting remarks against a section of the people. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The birthday bash of the leader was an <i><b>ostentatious <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>ostensible <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>show of pomp and wealth. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "22211",
+			"CORRECT_ANSWER": "22211",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu34": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:8.5\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>33 <\/i><i>and <\/i><i>34<\/i><i>: <\/i>In the question, there are sentences, with each sentence having pairs of words, labelled (1) and (2) that are italicized and highlighted. In each sentence, from the pairs of italicized and highlighted words, select the appropriate word to form the correct sentence and then enter (in the input box provided below the question) the number corresponding to the appropriate words, in the same order that the pair of words appear in the question. For example, if you think that the appropriate words for the sentences (i), (ii), (iii), (iv) and (v) are 1, 2, 1, 2 and 2 respectively, then enter your answer as 12122. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">He was <i><b>ambiguous <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>ambivalent <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>about genetic engineering; sometimes highlighting its limitations and sometimes praising its achievements.<i> <\/i><\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">It has become quite common for advertisers of deodorants to depict their products as ones that hold <i><b>sensual <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>sensuous <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>appeal.<i> <\/i><\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">Favoured by those in authority for his <i><b>complacent <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>complaisant <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>attitude, he continued to rise over others who were more qualified.<i> <\/i><\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">With open arms the brave knight welcomed the <i><b>quietus <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i>)\/ <i><b>quietude <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><b>) <\/b>and stepped into the world of eternal glory.<i> <\/i><\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:lower-roman;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:8.5\">The young student showed his utter displeasure on the <i><b>sentient <\/b><\/i><i><b>(<\/b><\/i><i><b>1<\/b><\/i><i><b>) <\/b><\/i>\/ <i><b>sententious <\/b><\/i><i><b>(<\/b><\/i><i><b>2<\/b><\/i><i><b>) <\/b><\/i>discourse given by his professor.<i> <\/i><\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "21212",
+			"CORRECT_ANSWER": "21212",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	}
+}

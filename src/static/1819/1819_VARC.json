@@ -1,0 +1,992 @@
+{
+	"qu1": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Why does the author say that the methodological basis of mathematics is inadequate for developing economic theory?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The symbols used in mathematics are undefined terms of its theories, while the symbols used in economic theory are not undefined.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The methodological basis for mathematics does not help in formulating statistical models.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The methodological basis for mathematics is unsuitable to verify whether a theory has any empirical relevance.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The methodological basis for mathematics does not concern itself with the philosophical problems intrinsic to economics.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3284",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Economists can be divided into four almost separate groups. In one group we find the pure theorists, many of whom refer to themselves as mathematical economists. In another group the pure econometricians reside. Most of their work belongs in the realm of mathematical statistics. In a third group we find applied economists and applied econometricians, whose published work usually reports results from the analysis of economic data. Finally, in the fourth group reside \u201call the others\u201d \u2013 for example, government policy makers, economic consultants, and bank employees. Their work is guided by methodological considerations that are of little interest here. Each of the other three groups has a methodological basis for their members\u2019 work that is inadequate for an orderly development of the science of economics. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure theorists\u2019 methodological basis is identical with the methodological basis of nonintuitionistic mathematics\u2026 This methodological basis may be adequate for the development of pure mathematics, but it is sorely inadequate for developing economic theory. To wit: Mathematics is created out of the empty set, and its assertions concern properties of symbols. Mathematicians interpret their symbols to see if their axioms are consistent. The symbols then become sets to some and real numbers to others. Mathematical economists also interpret their symbols \u2013 the undefined terms of their theories \u2013 to check whether their axioms are consistent. The symbols then become, say, money and capital. But \u201cmoney\u201d and \u201ccapital\u201d are symbols just as much as <i>x <\/i>and <i>y <\/i>are symbols, and symbols per se are of no interest in economics. To be adequate, an interpretation of the symbols of an economic theory must describe at least one situation in which the empirical relevance of the theory can be tested. The methodological basis of mathematics provides no guidelines for formulating such an interpretation.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The methodological basis of the work of the applied economists and econometricians is described in Trygve Haavelmo\u2019s seminal treatise <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics <\/i>(1944). There Haavelmo delineates the relationship between abstract economic theories and economic reality, discusses the nature of stochastic models and their applicability to economic data, and outlines a general scheme for testing economic theories. Haavelmo\u2019s unquestioned authority and the profoundness of his arguments notwithstanding, I believe that the methodological basis that he constructed for applied economics and econometrics is inadequate because it does not provide economic researchers with a formal theoretical apparatus that can guide them in formulating their statistical models and provide them with an easy means of checking whether their arguments are sound. Evidence of the need for such an apparatus is the ample supply of meaningless estimates of statistical parameters in economic journals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure econometricians\u2019 methodological basis is the methodological basis of nonintuitionistic mathematics. This basis may suffice for mathematical statistics, but it is inadequate for a meaningful development of econometrics. Econometrics is the theory of how to measure economic relations. Philosophical problems concerning the possibility of economic knowledge are as much a part of econometric theory as the asymptotic properties of parameter estimates and the power of statistical tests. Since the methodological basis of mathematics is not equipped to deal with philosophical problems, it is inadequate for the purposes of econometrics.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu2": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>According to the author, which of the following aspects is not mentioned in the passage as being addressed by Haavelmo in <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics<\/i>?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The applicability of stochastic models for analysing economic data.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Testing the reliability of an economic theory.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The relationship between economic theories and economic reality.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The advantages that stochastic models have as compared to other statistical models for studying economic data.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3284",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Economists can be divided into four almost separate groups. In one group we find the pure theorists, many of whom refer to themselves as mathematical economists. In another group the pure econometricians reside. Most of their work belongs in the realm of mathematical statistics. In a third group we find applied economists and applied econometricians, whose published work usually reports results from the analysis of economic data. Finally, in the fourth group reside \u201call the others\u201d \u2013 for example, government policy makers, economic consultants, and bank employees. Their work is guided by methodological considerations that are of little interest here. Each of the other three groups has a methodological basis for their members\u2019 work that is inadequate for an orderly development of the science of economics. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure theorists\u2019 methodological basis is identical with the methodological basis of nonintuitionistic mathematics\u2026 This methodological basis may be adequate for the development of pure mathematics, but it is sorely inadequate for developing economic theory. To wit: Mathematics is created out of the empty set, and its assertions concern properties of symbols. Mathematicians interpret their symbols to see if their axioms are consistent. The symbols then become sets to some and real numbers to others. Mathematical economists also interpret their symbols \u2013 the undefined terms of their theories \u2013 to check whether their axioms are consistent. The symbols then become, say, money and capital. But \u201cmoney\u201d and \u201ccapital\u201d are symbols just as much as <i>x <\/i>and <i>y <\/i>are symbols, and symbols per se are of no interest in economics. To be adequate, an interpretation of the symbols of an economic theory must describe at least one situation in which the empirical relevance of the theory can be tested. The methodological basis of mathematics provides no guidelines for formulating such an interpretation.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The methodological basis of the work of the applied economists and econometricians is described in Trygve Haavelmo\u2019s seminal treatise <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics <\/i>(1944). There Haavelmo delineates the relationship between abstract economic theories and economic reality, discusses the nature of stochastic models and their applicability to economic data, and outlines a general scheme for testing economic theories. Haavelmo\u2019s unquestioned authority and the profoundness of his arguments notwithstanding, I believe that the methodological basis that he constructed for applied economics and econometrics is inadequate because it does not provide economic researchers with a formal theoretical apparatus that can guide them in formulating their statistical models and provide them with an easy means of checking whether their arguments are sound. Evidence of the need for such an apparatus is the ample supply of meaningless estimates of statistical parameters in economic journals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure econometricians\u2019 methodological basis is the methodological basis of nonintuitionistic mathematics. This basis may suffice for mathematical statistics, but it is inadequate for a meaningful development of econometrics. Econometrics is the theory of how to measure economic relations. Philosophical problems concerning the possibility of economic knowledge are as much a part of econometric theory as the asymptotic properties of parameter estimates and the power of statistical tests. Since the methodological basis of mathematics is not equipped to deal with philosophical problems, it is inadequate for the purposes of econometrics.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu3": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following can be inferred from the statement \u201cEvidence of the need\u2026 in economic journals\u201d?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It is not possible for economists to have their economic theories tested. \n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>There isn\u2019t any notable framework which provides guidelines for formulating statistical models in economics.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>When developing a statistical model for studying economic data, econometrists select variables unrelated to the data at hand.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The theoretical apparatus for formulating statistical models that Haavelmo provided in his work is inadequate.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3284",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Economists can be divided into four almost separate groups. In one group we find the pure theorists, many of whom refer to themselves as mathematical economists. In another group the pure econometricians reside. Most of their work belongs in the realm of mathematical statistics. In a third group we find applied economists and applied econometricians, whose published work usually reports results from the analysis of economic data. Finally, in the fourth group reside \u201call the others\u201d \u2013 for example, government policy makers, economic consultants, and bank employees. Their work is guided by methodological considerations that are of little interest here. Each of the other three groups has a methodological basis for their members\u2019 work that is inadequate for an orderly development of the science of economics. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure theorists\u2019 methodological basis is identical with the methodological basis of nonintuitionistic mathematics\u2026 This methodological basis may be adequate for the development of pure mathematics, but it is sorely inadequate for developing economic theory. To wit: Mathematics is created out of the empty set, and its assertions concern properties of symbols. Mathematicians interpret their symbols to see if their axioms are consistent. The symbols then become sets to some and real numbers to others. Mathematical economists also interpret their symbols \u2013 the undefined terms of their theories \u2013 to check whether their axioms are consistent. The symbols then become, say, money and capital. But \u201cmoney\u201d and \u201ccapital\u201d are symbols just as much as <i>x <\/i>and <i>y <\/i>are symbols, and symbols per se are of no interest in economics. To be adequate, an interpretation of the symbols of an economic theory must describe at least one situation in which the empirical relevance of the theory can be tested. The methodological basis of mathematics provides no guidelines for formulating such an interpretation.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The methodological basis of the work of the applied economists and econometricians is described in Trygve Haavelmo\u2019s seminal treatise <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics <\/i>(1944). There Haavelmo delineates the relationship between abstract economic theories and economic reality, discusses the nature of stochastic models and their applicability to economic data, and outlines a general scheme for testing economic theories. Haavelmo\u2019s unquestioned authority and the profoundness of his arguments notwithstanding, I believe that the methodological basis that he constructed for applied economics and econometrics is inadequate because it does not provide economic researchers with a formal theoretical apparatus that can guide them in formulating their statistical models and provide them with an easy means of checking whether their arguments are sound. Evidence of the need for such an apparatus is the ample supply of meaningless estimates of statistical parameters in economic journals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure econometricians\u2019 methodological basis is the methodological basis of nonintuitionistic mathematics. This basis may suffice for mathematical statistics, but it is inadequate for a meaningful development of econometrics. Econometrics is the theory of how to measure economic relations. Philosophical problems concerning the possibility of economic knowledge are as much a part of econometric theory as the asymptotic properties of parameter estimates and the power of statistical tests. Since the methodological basis of mathematics is not equipped to deal with philosophical problems, it is inadequate for the purposes of econometrics.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu4": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>According to the author, how should the methodological basis of a pure econometrician be different from that of a nonintuitionistic mathematician?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The statistical tests used in econometrics must be more rigorous than those used in nonintuitionistic mathematics.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The statistical tests used in econometrics must include epistemological variables which are not present in the statistical tests used in mathematics.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The methodological basis of econometrics must be able to deal with epistemological problems, which is not in the realm of nonintuitionistic mathematics.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The methodological basis of pure econometrics should be the same as the methodological basis of pure econometricians.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3284",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Economists can be divided into four almost separate groups. In one group we find the pure theorists, many of whom refer to themselves as mathematical economists. In another group the pure econometricians reside. Most of their work belongs in the realm of mathematical statistics. In a third group we find applied economists and applied econometricians, whose published work usually reports results from the analysis of economic data. Finally, in the fourth group reside \u201call the others\u201d \u2013 for example, government policy makers, economic consultants, and bank employees. Their work is guided by methodological considerations that are of little interest here. Each of the other three groups has a methodological basis for their members\u2019 work that is inadequate for an orderly development of the science of economics. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure theorists\u2019 methodological basis is identical with the methodological basis of nonintuitionistic mathematics\u2026 This methodological basis may be adequate for the development of pure mathematics, but it is sorely inadequate for developing economic theory. To wit: Mathematics is created out of the empty set, and its assertions concern properties of symbols. Mathematicians interpret their symbols to see if their axioms are consistent. The symbols then become sets to some and real numbers to others. Mathematical economists also interpret their symbols \u2013 the undefined terms of their theories \u2013 to check whether their axioms are consistent. The symbols then become, say, money and capital. But \u201cmoney\u201d and \u201ccapital\u201d are symbols just as much as <i>x <\/i>and <i>y <\/i>are symbols, and symbols per se are of no interest in economics. To be adequate, an interpretation of the symbols of an economic theory must describe at least one situation in which the empirical relevance of the theory can be tested. The methodological basis of mathematics provides no guidelines for formulating such an interpretation.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The methodological basis of the work of the applied economists and econometricians is described in Trygve Haavelmo\u2019s seminal treatise <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics <\/i>(1944). There Haavelmo delineates the relationship between abstract economic theories and economic reality, discusses the nature of stochastic models and their applicability to economic data, and outlines a general scheme for testing economic theories. Haavelmo\u2019s unquestioned authority and the profoundness of his arguments notwithstanding, I believe that the methodological basis that he constructed for applied economics and econometrics is inadequate because it does not provide economic researchers with a formal theoretical apparatus that can guide them in formulating their statistical models and provide them with an easy means of checking whether their arguments are sound. Evidence of the need for such an apparatus is the ample supply of meaningless estimates of statistical parameters in economic journals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure econometricians\u2019 methodological basis is the methodological basis of nonintuitionistic mathematics. This basis may suffice for mathematical statistics, but it is inadequate for a meaningful development of econometrics. Econometrics is the theory of how to measure economic relations. Philosophical problems concerning the possibility of economic knowledge are as much a part of econometric theory as the asymptotic properties of parameter estimates and the power of statistical tests. Since the methodological basis of mathematics is not equipped to deal with philosophical problems, it is inadequate for the purposes of econometrics.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu5": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>The author mentions that the methodological basis of mathematics is inadequate for which of the following groups of economists?\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>I. Pure theorists\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>II. Pure econometricians\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>III. Applied econometricians\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>IV. Applied economists\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>V. Policy makers\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only I and II\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only I, II, III and IV\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only I, II and III\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>I, II, III, IV and V\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3284",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Economists can be divided into four almost separate groups. In one group we find the pure theorists, many of whom refer to themselves as mathematical economists. In another group the pure econometricians reside. Most of their work belongs in the realm of mathematical statistics. In a third group we find applied economists and applied econometricians, whose published work usually reports results from the analysis of economic data. Finally, in the fourth group reside \u201call the others\u201d \u2013 for example, government policy makers, economic consultants, and bank employees. Their work is guided by methodological considerations that are of little interest here. Each of the other three groups has a methodological basis for their members\u2019 work that is inadequate for an orderly development of the science of economics. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure theorists\u2019 methodological basis is identical with the methodological basis of nonintuitionistic mathematics\u2026 This methodological basis may be adequate for the development of pure mathematics, but it is sorely inadequate for developing economic theory. To wit: Mathematics is created out of the empty set, and its assertions concern properties of symbols. Mathematicians interpret their symbols to see if their axioms are consistent. The symbols then become sets to some and real numbers to others. Mathematical economists also interpret their symbols \u2013 the undefined terms of their theories \u2013 to check whether their axioms are consistent. The symbols then become, say, money and capital. But \u201cmoney\u201d and \u201ccapital\u201d are symbols just as much as <i>x <\/i>and <i>y <\/i>are symbols, and symbols per se are of no interest in economics. To be adequate, an interpretation of the symbols of an economic theory must describe at least one situation in which the empirical relevance of the theory can be tested. The methodological basis of mathematics provides no guidelines for formulating such an interpretation.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The methodological basis of the work of the applied economists and econometricians is described in Trygve Haavelmo\u2019s seminal treatise <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics <\/i>(1944). There Haavelmo delineates the relationship between abstract economic theories and economic reality, discusses the nature of stochastic models and their applicability to economic data, and outlines a general scheme for testing economic theories. Haavelmo\u2019s unquestioned authority and the profoundness of his arguments notwithstanding, I believe that the methodological basis that he constructed for applied economics and econometrics is inadequate because it does not provide economic researchers with a formal theoretical apparatus that can guide them in formulating their statistical models and provide them with an easy means of checking whether their arguments are sound. Evidence of the need for such an apparatus is the ample supply of meaningless estimates of statistical parameters in economic journals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure econometricians\u2019 methodological basis is the methodological basis of nonintuitionistic mathematics. This basis may suffice for mathematical statistics, but it is inadequate for a meaningful development of econometrics. Econometrics is the theory of how to measure economic relations. Philosophical problems concerning the possibility of economic knowledge are as much a part of econometric theory as the asymptotic properties of parameter estimates and the power of statistical tests. Since the methodological basis of mathematics is not equipped to deal with philosophical problems, it is inadequate for the purposes of econometrics.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu6": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>According to the passage, what is the difference between pure econometricians and applied econometricians?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Applied econometricians deal with the statistical analysis of real world economic data, while the pure econometricians are not concerned with economic data from the real world.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Applied econometricians use the statistical models that pure econometricians design but do not formulate any statistical models on their own.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Pure econometricians concentrate on measurement of economic relations, while applied econometricians work more with analysis of economic data.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Pure econometricians deal with the philosophical aspects of econometrics while applied econometricians deal with the statistical aspects.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3284",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>1 <\/i><i>to <\/i><i>6<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Economists can be divided into four almost separate groups. In one group we find the pure theorists, many of whom refer to themselves as mathematical economists. In another group the pure econometricians reside. Most of their work belongs in the realm of mathematical statistics. In a third group we find applied economists and applied econometricians, whose published work usually reports results from the analysis of economic data. Finally, in the fourth group reside \u201call the others\u201d \u2013 for example, government policy makers, economic consultants, and bank employees. Their work is guided by methodological considerations that are of little interest here. Each of the other three groups has a methodological basis for their members\u2019 work that is inadequate for an orderly development of the science of economics. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure theorists\u2019 methodological basis is identical with the methodological basis of nonintuitionistic mathematics\u2026 This methodological basis may be adequate for the development of pure mathematics, but it is sorely inadequate for developing economic theory. To wit: Mathematics is created out of the empty set, and its assertions concern properties of symbols. Mathematicians interpret their symbols to see if their axioms are consistent. The symbols then become sets to some and real numbers to others. Mathematical economists also interpret their symbols \u2013 the undefined terms of their theories \u2013 to check whether their axioms are consistent. The symbols then become, say, money and capital. But \u201cmoney\u201d and \u201ccapital\u201d are symbols just as much as <i>x <\/i>and <i>y <\/i>are symbols, and symbols per se are of no interest in economics. To be adequate, an interpretation of the symbols of an economic theory must describe at least one situation in which the empirical relevance of the theory can be tested. The methodological basis of mathematics provides no guidelines for formulating such an interpretation.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The methodological basis of the work of the applied economists and econometricians is described in Trygve Haavelmo\u2019s seminal treatise <i>The <\/i><i>Probability <\/i><i>Approach <\/i><i>in <\/i><i>Econometrics <\/i>(1944). There Haavelmo delineates the relationship between abstract economic theories and economic reality, discusses the nature of stochastic models and their applicability to economic data, and outlines a general scheme for testing economic theories. Haavelmo\u2019s unquestioned authority and the profoundness of his arguments notwithstanding, I believe that the methodological basis that he constructed for applied economics and econometrics is inadequate because it does not provide economic researchers with a formal theoretical apparatus that can guide them in formulating their statistical models and provide them with an easy means of checking whether their arguments are sound. Evidence of the need for such an apparatus is the ample supply of meaningless estimates of statistical parameters in economic journals.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The pure econometricians\u2019 methodological basis is the methodological basis of nonintuitionistic mathematics. This basis may suffice for mathematical statistics, but it is inadequate for a meaningful development of econometrics. Econometrics is the theory of how to measure economic relations. Philosophical problems concerning the possibility of economic knowledge are as much a part of econometric theory as the asymptotic properties of parameter estimates and the power of statistical tests. Since the methodological basis of mathematics is not equipped to deal with philosophical problems, it is inadequate for the purposes of econometrics.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu7": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following are examples of realistic images in other media referred to in the last sentence of the third paragraph?\n<\/font><\/p><\/span>\n<ol><li style='vertical-align:middle; padding-bottom:10px;list-style-type:upper-roman;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>A photo realistic painting of a deceased grandmother of a person.\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:upper-roman;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>A realistic painting of a garden as the painter recollects it.  \n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:upper-roman;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>An abstract painting which evokes a multitude of feelings in the viewer.\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:upper-roman;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>A photograph taken in a battlefield depicting the pain and suffering of the soldiers fighting in the battle.\n<\/font><\/p><\/span><\/li>\n<\/ol>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only I and II\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only I\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only I, II and III\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Only II and IV\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3285",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>12<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Many writers on art have claimed that photography is inherently realistic. Since this medium operates mechanically to produce images through the use of light, chemistry, and machinery, it is alleged that photographic depiction can occur without the intervention of artistic intentions, and that the results possess unusual veracity. On this view, photographs are emanations from their subject matter or little bits of reality rather than representations of it. They serve as testimonials; it is pointed out that photographs, but not paintings, are used as evidence. Sonograms are first proof of a new human life and children\u2019s school pictures document their changing appearance over the years. At the other end of the spectrum, photographs of the dead at funerals show us that the deceased person existed until only recently.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But discussions of photographic realism seem to involve an important ambiguity. In one sense, to speak of a photograph\u2019s realism is to assert something about the image\u2019s <i>epistemic <\/i><i>value<\/i>, implying that it has a particular kind of accuracy or that it is a truthful representation. Here the causal origin of the image is relevant, since it links photographs to other kinds of signs that show a direct causal link to their source, such as X-rays or electrocardiograms.  Such signs may even be found in nature, as in the case of measles spots, teeth marks, footprints, or blood spatters at murder scenes. These indicative marks are what C. S. Pierce would call indexical signs; they may not be images at all. They will not present a \u201cpicture\u201d directly to our eyes unless we are experts trained at interpreting them. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In this second sense, the label \u201crealistic\u201d characterizes the <i>psychological <\/i><i>force <\/i>or emotional persuasiveness of certain images. They seem to present something directly to our eyes in a particularly vivid and lifelike way. When I view a photograph of my dead grandmother, it seems as if she is smiling directly at me. But images made in other media can be realistic in this psychological sense without being literally accurate or mechanically caused in the way photographs are. \u2026 \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The ambiguity in the label \u201crealistic\u201d can be understood to reflect a fundamental difference in the way photographs and other images are commonly used. In his book <i>The <\/i><i>Engine <\/i><i>of <\/i><i>Visualization<\/i><i>: <\/i><i>Thinking <\/i><i>through <\/i><i>Photography<\/i>, Patrick Maynard draws a distinction much like what I have in mind between the two senses of realism, but he describes it in terms of how images actually function. Maynard speaks of the difference between an image\u2019s \u201cdepictive\u201d or representational function and its \u201cmanifestation\u201d function.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Maynard traces these two functions of photographs back to sources within two distinct traditions of image-making in Europe. In the West, art associated mainly with Catholicism developed forms of ever more naturalistic, illusionistic depiction. On the other hand, in Eastern Orthodox realms, emphasis was instead placed upon icons as hieratic images revealing some holy person\u2019s manifestation. Such manifestation has less to do with effecting a realistic likeness than with supplying the viewer \/with a sense of contact or presence with the represented subject. Insofar as a photographic image functions today to supply a similar sense of contact or manifestation, Maynard says, it \u201cresembles an earlier and prolific, important sort of image, an icon: \u2018an image whose <i>function <\/i>is largely that of manifesting what it depicts and thereby providing realism through the sense of presence.\u2019\u201d\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu8": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>It can be inferred from the passage that <i>epistemic <\/i><i>value <\/i>of an image most probably\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>is central to art in Eastern Orthodox realms.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>is what makes an image affect us emotionally.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>is significant in art associated with Western Europe.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>stems from the unreal nature of the image.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3285",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>12<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Many writers on art have claimed that photography is inherently realistic. Since this medium operates mechanically to produce images through the use of light, chemistry, and machinery, it is alleged that photographic depiction can occur without the intervention of artistic intentions, and that the results possess unusual veracity. On this view, photographs are emanations from their subject matter or little bits of reality rather than representations of it. They serve as testimonials; it is pointed out that photographs, but not paintings, are used as evidence. Sonograms are first proof of a new human life and children\u2019s school pictures document their changing appearance over the years. At the other end of the spectrum, photographs of the dead at funerals show us that the deceased person existed until only recently.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But discussions of photographic realism seem to involve an important ambiguity. In one sense, to speak of a photograph\u2019s realism is to assert something about the image\u2019s <i>epistemic <\/i><i>value<\/i>, implying that it has a particular kind of accuracy or that it is a truthful representation. Here the causal origin of the image is relevant, since it links photographs to other kinds of signs that show a direct causal link to their source, such as X-rays or electrocardiograms.  Such signs may even be found in nature, as in the case of measles spots, teeth marks, footprints, or blood spatters at murder scenes. These indicative marks are what C. S. Pierce would call indexical signs; they may not be images at all. They will not present a \u201cpicture\u201d directly to our eyes unless we are experts trained at interpreting them. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In this second sense, the label \u201crealistic\u201d characterizes the <i>psychological <\/i><i>force <\/i>or emotional persuasiveness of certain images. They seem to present something directly to our eyes in a particularly vivid and lifelike way. When I view a photograph of my dead grandmother, it seems as if she is smiling directly at me. But images made in other media can be realistic in this psychological sense without being literally accurate or mechanically caused in the way photographs are. \u2026 \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The ambiguity in the label \u201crealistic\u201d can be understood to reflect a fundamental difference in the way photographs and other images are commonly used. In his book <i>The <\/i><i>Engine <\/i><i>of <\/i><i>Visualization<\/i><i>: <\/i><i>Thinking <\/i><i>through <\/i><i>Photography<\/i>, Patrick Maynard draws a distinction much like what I have in mind between the two senses of realism, but he describes it in terms of how images actually function. Maynard speaks of the difference between an image\u2019s \u201cdepictive\u201d or representational function and its \u201cmanifestation\u201d function.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Maynard traces these two functions of photographs back to sources within two distinct traditions of image-making in Europe. In the West, art associated mainly with Catholicism developed forms of ever more naturalistic, illusionistic depiction. On the other hand, in Eastern Orthodox realms, emphasis was instead placed upon icons as hieratic images revealing some holy person\u2019s manifestation. Such manifestation has less to do with effecting a realistic likeness than with supplying the viewer \/with a sense of contact or presence with the represented subject. Insofar as a photographic image functions today to supply a similar sense of contact or manifestation, Maynard says, it \u201cresembles an earlier and prolific, important sort of image, an icon: \u2018an image whose <i>function <\/i>is largely that of manifesting what it depicts and thereby providing realism through the sense of presence.\u2019\u201d\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu9": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>According to the passage, which of the following can be inferred to be a reason why \u201cphotographs, but not paintings, are used as evidence\u201d?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It is believed that photographs can represent reality while paintings cannot.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Photographs will not include any artistic intentions but paintings will always include artistic intentions.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Photographs possess a psychological force which paintings usually do not.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Photographs are considered pieces of reality while paintings are considered mere representations of reality.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3285",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>12<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Many writers on art have claimed that photography is inherently realistic. Since this medium operates mechanically to produce images through the use of light, chemistry, and machinery, it is alleged that photographic depiction can occur without the intervention of artistic intentions, and that the results possess unusual veracity. On this view, photographs are emanations from their subject matter or little bits of reality rather than representations of it. They serve as testimonials; it is pointed out that photographs, but not paintings, are used as evidence. Sonograms are first proof of a new human life and children\u2019s school pictures document their changing appearance over the years. At the other end of the spectrum, photographs of the dead at funerals show us that the deceased person existed until only recently.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But discussions of photographic realism seem to involve an important ambiguity. In one sense, to speak of a photograph\u2019s realism is to assert something about the image\u2019s <i>epistemic <\/i><i>value<\/i>, implying that it has a particular kind of accuracy or that it is a truthful representation. Here the causal origin of the image is relevant, since it links photographs to other kinds of signs that show a direct causal link to their source, such as X-rays or electrocardiograms.  Such signs may even be found in nature, as in the case of measles spots, teeth marks, footprints, or blood spatters at murder scenes. These indicative marks are what C. S. Pierce would call indexical signs; they may not be images at all. They will not present a \u201cpicture\u201d directly to our eyes unless we are experts trained at interpreting them. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In this second sense, the label \u201crealistic\u201d characterizes the <i>psychological <\/i><i>force <\/i>or emotional persuasiveness of certain images. They seem to present something directly to our eyes in a particularly vivid and lifelike way. When I view a photograph of my dead grandmother, it seems as if she is smiling directly at me. But images made in other media can be realistic in this psychological sense without being literally accurate or mechanically caused in the way photographs are. \u2026 \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The ambiguity in the label \u201crealistic\u201d can be understood to reflect a fundamental difference in the way photographs and other images are commonly used. In his book <i>The <\/i><i>Engine <\/i><i>of <\/i><i>Visualization<\/i><i>: <\/i><i>Thinking <\/i><i>through <\/i><i>Photography<\/i>, Patrick Maynard draws a distinction much like what I have in mind between the two senses of realism, but he describes it in terms of how images actually function. Maynard speaks of the difference between an image\u2019s \u201cdepictive\u201d or representational function and its \u201cmanifestation\u201d function.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Maynard traces these two functions of photographs back to sources within two distinct traditions of image-making in Europe. In the West, art associated mainly with Catholicism developed forms of ever more naturalistic, illusionistic depiction. On the other hand, in Eastern Orthodox realms, emphasis was instead placed upon icons as hieratic images revealing some holy person\u2019s manifestation. Such manifestation has less to do with effecting a realistic likeness than with supplying the viewer \/with a sense of contact or presence with the represented subject. Insofar as a photographic image functions today to supply a similar sense of contact or manifestation, Maynard says, it \u201cresembles an earlier and prolific, important sort of image, an icon: \u2018an image whose <i>function <\/i>is largely that of manifesting what it depicts and thereby providing realism through the sense of presence.\u2019\u201d\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu10": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following options best defines \u201cindexical signs\u201d as can be inferred from the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>A sign which is assigned arbitrarily and is accepted as a social convention.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>A sign which has a causal connection with what it signifies.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>A sign which possesses some of the qualities of the signified object.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>A sign which is responsible for the causation of the signified object.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3285",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>12<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Many writers on art have claimed that photography is inherently realistic. Since this medium operates mechanically to produce images through the use of light, chemistry, and machinery, it is alleged that photographic depiction can occur without the intervention of artistic intentions, and that the results possess unusual veracity. On this view, photographs are emanations from their subject matter or little bits of reality rather than representations of it. They serve as testimonials; it is pointed out that photographs, but not paintings, are used as evidence. Sonograms are first proof of a new human life and children\u2019s school pictures document their changing appearance over the years. At the other end of the spectrum, photographs of the dead at funerals show us that the deceased person existed until only recently.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But discussions of photographic realism seem to involve an important ambiguity. In one sense, to speak of a photograph\u2019s realism is to assert something about the image\u2019s <i>epistemic <\/i><i>value<\/i>, implying that it has a particular kind of accuracy or that it is a truthful representation. Here the causal origin of the image is relevant, since it links photographs to other kinds of signs that show a direct causal link to their source, such as X-rays or electrocardiograms.  Such signs may even be found in nature, as in the case of measles spots, teeth marks, footprints, or blood spatters at murder scenes. These indicative marks are what C. S. Pierce would call indexical signs; they may not be images at all. They will not present a \u201cpicture\u201d directly to our eyes unless we are experts trained at interpreting them. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In this second sense, the label \u201crealistic\u201d characterizes the <i>psychological <\/i><i>force <\/i>or emotional persuasiveness of certain images. They seem to present something directly to our eyes in a particularly vivid and lifelike way. When I view a photograph of my dead grandmother, it seems as if she is smiling directly at me. But images made in other media can be realistic in this psychological sense without being literally accurate or mechanically caused in the way photographs are. \u2026 \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The ambiguity in the label \u201crealistic\u201d can be understood to reflect a fundamental difference in the way photographs and other images are commonly used. In his book <i>The <\/i><i>Engine <\/i><i>of <\/i><i>Visualization<\/i><i>: <\/i><i>Thinking <\/i><i>through <\/i><i>Photography<\/i>, Patrick Maynard draws a distinction much like what I have in mind between the two senses of realism, but he describes it in terms of how images actually function. Maynard speaks of the difference between an image\u2019s \u201cdepictive\u201d or representational function and its \u201cmanifestation\u201d function.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Maynard traces these two functions of photographs back to sources within two distinct traditions of image-making in Europe. In the West, art associated mainly with Catholicism developed forms of ever more naturalistic, illusionistic depiction. On the other hand, in Eastern Orthodox realms, emphasis was instead placed upon icons as hieratic images revealing some holy person\u2019s manifestation. Such manifestation has less to do with effecting a realistic likeness than with supplying the viewer \/with a sense of contact or presence with the represented subject. Insofar as a photographic image functions today to supply a similar sense of contact or manifestation, Maynard says, it \u201cresembles an earlier and prolific, important sort of image, an icon: \u2018an image whose <i>function <\/i>is largely that of manifesting what it depicts and thereby providing realism through the sense of presence.\u2019\u201d\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu11": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following will diminish the epistemic value that photographs are believed to possess?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The ability to paint photo realistic paintings.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The ability to capture intricate details through photography.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The ability to photograph activity inside a human brain.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The ability to digitally alter photographs.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3285",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>12<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Many writers on art have claimed that photography is inherently realistic. Since this medium operates mechanically to produce images through the use of light, chemistry, and machinery, it is alleged that photographic depiction can occur without the intervention of artistic intentions, and that the results possess unusual veracity. On this view, photographs are emanations from their subject matter or little bits of reality rather than representations of it. They serve as testimonials; it is pointed out that photographs, but not paintings, are used as evidence. Sonograms are first proof of a new human life and children\u2019s school pictures document their changing appearance over the years. At the other end of the spectrum, photographs of the dead at funerals show us that the deceased person existed until only recently.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But discussions of photographic realism seem to involve an important ambiguity. In one sense, to speak of a photograph\u2019s realism is to assert something about the image\u2019s <i>epistemic <\/i><i>value<\/i>, implying that it has a particular kind of accuracy or that it is a truthful representation. Here the causal origin of the image is relevant, since it links photographs to other kinds of signs that show a direct causal link to their source, such as X-rays or electrocardiograms.  Such signs may even be found in nature, as in the case of measles spots, teeth marks, footprints, or blood spatters at murder scenes. These indicative marks are what C. S. Pierce would call indexical signs; they may not be images at all. They will not present a \u201cpicture\u201d directly to our eyes unless we are experts trained at interpreting them. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In this second sense, the label \u201crealistic\u201d characterizes the <i>psychological <\/i><i>force <\/i>or emotional persuasiveness of certain images. They seem to present something directly to our eyes in a particularly vivid and lifelike way. When I view a photograph of my dead grandmother, it seems as if she is smiling directly at me. But images made in other media can be realistic in this psychological sense without being literally accurate or mechanically caused in the way photographs are. \u2026 \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The ambiguity in the label \u201crealistic\u201d can be understood to reflect a fundamental difference in the way photographs and other images are commonly used. In his book <i>The <\/i><i>Engine <\/i><i>of <\/i><i>Visualization<\/i><i>: <\/i><i>Thinking <\/i><i>through <\/i><i>Photography<\/i>, Patrick Maynard draws a distinction much like what I have in mind between the two senses of realism, but he describes it in terms of how images actually function. Maynard speaks of the difference between an image\u2019s \u201cdepictive\u201d or representational function and its \u201cmanifestation\u201d function.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Maynard traces these two functions of photographs back to sources within two distinct traditions of image-making in Europe. In the West, art associated mainly with Catholicism developed forms of ever more naturalistic, illusionistic depiction. On the other hand, in Eastern Orthodox realms, emphasis was instead placed upon icons as hieratic images revealing some holy person\u2019s manifestation. Such manifestation has less to do with effecting a realistic likeness than with supplying the viewer \/with a sense of contact or presence with the represented subject. Insofar as a photographic image functions today to supply a similar sense of contact or manifestation, Maynard says, it \u201cresembles an earlier and prolific, important sort of image, an icon: \u2018an image whose <i>function <\/i>is largely that of manifesting what it depicts and thereby providing realism through the sense of presence.\u2019\u201d\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu12": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>According to Maynard, which of the following is true from the last paragraph of the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Art was associated with naturalistic depiction in the Western world, while in the Eastern world, naturalistic depiction is not so central to art.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Icons were central to art in the Western world, while they were not in the Eastern world.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>In Western European art, a sense of presence provides realism to art, while in Eastern European art, realistic likeness was considered more important.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Western European art concentrated on realism, while in Eastern European art, creating a sense of presence in the viewer was considered central.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3285",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>7 <\/i><i>to <\/i><i>12<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">Many writers on art have claimed that photography is inherently realistic. Since this medium operates mechanically to produce images through the use of light, chemistry, and machinery, it is alleged that photographic depiction can occur without the intervention of artistic intentions, and that the results possess unusual veracity. On this view, photographs are emanations from their subject matter or little bits of reality rather than representations of it. They serve as testimonials; it is pointed out that photographs, but not paintings, are used as evidence. Sonograms are first proof of a new human life and children\u2019s school pictures document their changing appearance over the years. At the other end of the spectrum, photographs of the dead at funerals show us that the deceased person existed until only recently.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But discussions of photographic realism seem to involve an important ambiguity. In one sense, to speak of a photograph\u2019s realism is to assert something about the image\u2019s <i>epistemic <\/i><i>value<\/i>, implying that it has a particular kind of accuracy or that it is a truthful representation. Here the causal origin of the image is relevant, since it links photographs to other kinds of signs that show a direct causal link to their source, such as X-rays or electrocardiograms.  Such signs may even be found in nature, as in the case of measles spots, teeth marks, footprints, or blood spatters at murder scenes. These indicative marks are what C. S. Pierce would call indexical signs; they may not be images at all. They will not present a \u201cpicture\u201d directly to our eyes unless we are experts trained at interpreting them. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In this second sense, the label \u201crealistic\u201d characterizes the <i>psychological <\/i><i>force <\/i>or emotional persuasiveness of certain images. They seem to present something directly to our eyes in a particularly vivid and lifelike way. When I view a photograph of my dead grandmother, it seems as if she is smiling directly at me. But images made in other media can be realistic in this psychological sense without being literally accurate or mechanically caused in the way photographs are. \u2026 \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The ambiguity in the label \u201crealistic\u201d can be understood to reflect a fundamental difference in the way photographs and other images are commonly used. In his book <i>The <\/i><i>Engine <\/i><i>of <\/i><i>Visualization<\/i><i>: <\/i><i>Thinking <\/i><i>through <\/i><i>Photography<\/i>, Patrick Maynard draws a distinction much like what I have in mind between the two senses of realism, but he describes it in terms of how images actually function. Maynard speaks of the difference between an image\u2019s \u201cdepictive\u201d or representational function and its \u201cmanifestation\u201d function.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Maynard traces these two functions of photographs back to sources within two distinct traditions of image-making in Europe. In the West, art associated mainly with Catholicism developed forms of ever more naturalistic, illusionistic depiction. On the other hand, in Eastern Orthodox realms, emphasis was instead placed upon icons as hieratic images revealing some holy person\u2019s manifestation. Such manifestation has less to do with effecting a realistic likeness than with supplying the viewer \/with a sense of contact or presence with the represented subject. Insofar as a photographic image functions today to supply a similar sense of contact or manifestation, Maynard says, it \u201cresembles an earlier and prolific, important sort of image, an icon: \u2018an image whose <i>function <\/i>is largely that of manifesting what it depicts and thereby providing realism through the sense of presence.\u2019\u201d\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu13": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following choices best captures the central theme of the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Fiction can delve into the domain of reality. \n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Works of philosophy and art both involve a judicious use of fantasy. \n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>There can be a vice versa relationship between fiction and the readers of the story.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Conflationary elements in novels can make for palatable or normative fiction.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3286",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>13 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">\u201cEvery novel is an ideal plane inserted into the realm of reality; Cervantes, who wrote Don Quixote, takes pleasure in confusing the objective and the subjective, the world of the reader and the world of the book. In those chapters of Don Quixote which argue whether the barber\"s basin is a helmet and the donkey\"s packsaddle a steed\"s fancy regalia, the problem is dealt with explicitly; other passages, as I have noted, insinuate this. In the sixth chapter of the first part, the priest and the barber inspect Don Quixote\"s library; astoundingly, one of the books examined is Cervantes\" own <i>Galatea <\/i>and it turns out that the barber is a friend of the author and does not admire him very much, and says that he is more versed in misfortunes than in verses and that the book possesses some inventiveness, proposes a few ideas and concludes nothing. <b>The <\/b><b>barber<\/b><b>, <\/b><b>a <\/b><b>dream <\/b><b>or <\/b><b>the <\/b><b>form <\/b><b>of <\/b><b>a <\/b><b>dream <\/b><b>of <\/b><b>Cervantes<\/b><b>, <\/b><b>passes <\/b><b>judgment <\/b><b>on <\/b><b>Cervantes<\/b><b>. <\/b><b>. <\/b><b>. <\/b><b>.<\/b><b>\n<\/b><\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">This play of strange ambiguities culminates in the second part; the protagonists have read the first part, the protagonists of Don Quixote are, at the same time, readers of Don Quixote. Here it is inevitable to recall the case of Shakespeare, who includes on the stage of Hamlet another stage where a tragedy more or less like that of Hamlet is presented; the imperfect correspondence of the principal and secondary works lessens the efficacy of this inclusion. Something similar is created by accident in <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"><i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>is an overdetermined narrative of magic, adventure, parable and poetry that, duplicates and reduplicates to the point of vertigo the ramifications of a central story in later and subordinate stories, but does not attempt to gradate its realities, and the effect (which should have been profound) is superficial, like a Persian carpet. The opening story of the series is well known: the terrible pledge of the king who every night marries a virgin who is then decapitated at dawn, and the resolution of Scheherazade, who distracts the king with her fables until a thousand and one nights have gone by and she shows him their son. The sheer length of the piece obliged the story\u2019s many copyists over the centuries to make numerous interpolations, one of which marks a perturbing turn in this already vertiginous confection. This involves the story of the six hundred and second night, magical among all the nights. On that night, the king hears from the queen his own story. He hears the beginning of the story, which comprises all the others and also, monstrously itself. So the heroine Scheherazade contrives an elaborate metafiction that potentially unhinges its internal drama. By drawing into her narrative the beginning of the story, what brought her there in the first instance, all the stories told her king hitherto and \u2013 monstrously \u2013 that story she is telling itself, does the reader clearly grasp the vast possibility of this interpolation, the curious danger? That the queen may persist and the motionless king hear forever the truncated story of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>, __________________________________________\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The inventions of philosophy are no less fantastic than those of art: Josiah Royce, in the first volume of his work <i>The <\/i><i>World <\/i><i>and <\/i><i>the <\/i><i>Individual <\/i>(1899), has formulated the following: \"Let us imagine that a portion of the soil of England has been leveled off perfectly and that on it a cartographer traces a map of England. The job is perfect; there is no detail of the soil of England, no matter how minute, that is not registered on the map; everything has there its correspondence. This map, in such a case, should contain a map of the map, which should contain a map of the map of the map, and so on to infinity.\"\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Why does it disturb us that the map be included in the map and the thousand and one nights in the book of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>? Why does it disturb us that Don Quixote be a reader of the <i>Quixote <\/i>and Hamlet a spectator of <i>Hamlet<\/i>? I believe that these inversions suggest that if the characters of a fictional work can be readers or spectators, we, its readers or spectators, can be fictitious. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu14": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>What is the primary purpose that \u201c<i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>\u201d excerpt serves in the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It includes a parallel point of discussion to justify the central theme.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It establishes a correlation with the \u2018barber\u2019 example.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It strengthens the paradox evident in the last sentence of para 4. \n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It brings in themes from history to add an exclusive outlook to the passage.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3286",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>13 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">\u201cEvery novel is an ideal plane inserted into the realm of reality; Cervantes, who wrote Don Quixote, takes pleasure in confusing the objective and the subjective, the world of the reader and the world of the book. In those chapters of Don Quixote which argue whether the barber\"s basin is a helmet and the donkey\"s packsaddle a steed\"s fancy regalia, the problem is dealt with explicitly; other passages, as I have noted, insinuate this. In the sixth chapter of the first part, the priest and the barber inspect Don Quixote\"s library; astoundingly, one of the books examined is Cervantes\" own <i>Galatea <\/i>and it turns out that the barber is a friend of the author and does not admire him very much, and says that he is more versed in misfortunes than in verses and that the book possesses some inventiveness, proposes a few ideas and concludes nothing. <b>The <\/b><b>barber<\/b><b>, <\/b><b>a <\/b><b>dream <\/b><b>or <\/b><b>the <\/b><b>form <\/b><b>of <\/b><b>a <\/b><b>dream <\/b><b>of <\/b><b>Cervantes<\/b><b>, <\/b><b>passes <\/b><b>judgment <\/b><b>on <\/b><b>Cervantes<\/b><b>. <\/b><b>. <\/b><b>. <\/b><b>.<\/b><b>\n<\/b><\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">This play of strange ambiguities culminates in the second part; the protagonists have read the first part, the protagonists of Don Quixote are, at the same time, readers of Don Quixote. Here it is inevitable to recall the case of Shakespeare, who includes on the stage of Hamlet another stage where a tragedy more or less like that of Hamlet is presented; the imperfect correspondence of the principal and secondary works lessens the efficacy of this inclusion. Something similar is created by accident in <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"><i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>is an overdetermined narrative of magic, adventure, parable and poetry that, duplicates and reduplicates to the point of vertigo the ramifications of a central story in later and subordinate stories, but does not attempt to gradate its realities, and the effect (which should have been profound) is superficial, like a Persian carpet. The opening story of the series is well known: the terrible pledge of the king who every night marries a virgin who is then decapitated at dawn, and the resolution of Scheherazade, who distracts the king with her fables until a thousand and one nights have gone by and she shows him their son. The sheer length of the piece obliged the story\u2019s many copyists over the centuries to make numerous interpolations, one of which marks a perturbing turn in this already vertiginous confection. This involves the story of the six hundred and second night, magical among all the nights. On that night, the king hears from the queen his own story. He hears the beginning of the story, which comprises all the others and also, monstrously itself. So the heroine Scheherazade contrives an elaborate metafiction that potentially unhinges its internal drama. By drawing into her narrative the beginning of the story, what brought her there in the first instance, all the stories told her king hitherto and \u2013 monstrously \u2013 that story she is telling itself, does the reader clearly grasp the vast possibility of this interpolation, the curious danger? That the queen may persist and the motionless king hear forever the truncated story of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>, __________________________________________\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The inventions of philosophy are no less fantastic than those of art: Josiah Royce, in the first volume of his work <i>The <\/i><i>World <\/i><i>and <\/i><i>the <\/i><i>Individual <\/i>(1899), has formulated the following: \"Let us imagine that a portion of the soil of England has been leveled off perfectly and that on it a cartographer traces a map of England. The job is perfect; there is no detail of the soil of England, no matter how minute, that is not registered on the map; everything has there its correspondence. This map, in such a case, should contain a map of the map, which should contain a map of the map of the map, and so on to infinity.\"\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Why does it disturb us that the map be included in the map and the thousand and one nights in the book of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>? Why does it disturb us that Don Quixote be a reader of the <i>Quixote <\/i>and Hamlet a spectator of <i>Hamlet<\/i>? I believe that these inversions suggest that if the characters of a fictional work can be readers or spectators, we, its readers or spectators, can be fictitious. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu15": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following choices best completes the blank in the last sentence of para 3?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>..... now coherent and complete. \n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>..... now infinite and circular.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>..... now irregular and insane.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>..... now hesitant and fluctuating.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3286",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>13 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">\u201cEvery novel is an ideal plane inserted into the realm of reality; Cervantes, who wrote Don Quixote, takes pleasure in confusing the objective and the subjective, the world of the reader and the world of the book. In those chapters of Don Quixote which argue whether the barber\"s basin is a helmet and the donkey\"s packsaddle a steed\"s fancy regalia, the problem is dealt with explicitly; other passages, as I have noted, insinuate this. In the sixth chapter of the first part, the priest and the barber inspect Don Quixote\"s library; astoundingly, one of the books examined is Cervantes\" own <i>Galatea <\/i>and it turns out that the barber is a friend of the author and does not admire him very much, and says that he is more versed in misfortunes than in verses and that the book possesses some inventiveness, proposes a few ideas and concludes nothing. <b>The <\/b><b>barber<\/b><b>, <\/b><b>a <\/b><b>dream <\/b><b>or <\/b><b>the <\/b><b>form <\/b><b>of <\/b><b>a <\/b><b>dream <\/b><b>of <\/b><b>Cervantes<\/b><b>, <\/b><b>passes <\/b><b>judgment <\/b><b>on <\/b><b>Cervantes<\/b><b>. <\/b><b>. <\/b><b>. <\/b><b>.<\/b><b>\n<\/b><\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">This play of strange ambiguities culminates in the second part; the protagonists have read the first part, the protagonists of Don Quixote are, at the same time, readers of Don Quixote. Here it is inevitable to recall the case of Shakespeare, who includes on the stage of Hamlet another stage where a tragedy more or less like that of Hamlet is presented; the imperfect correspondence of the principal and secondary works lessens the efficacy of this inclusion. Something similar is created by accident in <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"><i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>is an overdetermined narrative of magic, adventure, parable and poetry that, duplicates and reduplicates to the point of vertigo the ramifications of a central story in later and subordinate stories, but does not attempt to gradate its realities, and the effect (which should have been profound) is superficial, like a Persian carpet. The opening story of the series is well known: the terrible pledge of the king who every night marries a virgin who is then decapitated at dawn, and the resolution of Scheherazade, who distracts the king with her fables until a thousand and one nights have gone by and she shows him their son. The sheer length of the piece obliged the story\u2019s many copyists over the centuries to make numerous interpolations, one of which marks a perturbing turn in this already vertiginous confection. This involves the story of the six hundred and second night, magical among all the nights. On that night, the king hears from the queen his own story. He hears the beginning of the story, which comprises all the others and also, monstrously itself. So the heroine Scheherazade contrives an elaborate metafiction that potentially unhinges its internal drama. By drawing into her narrative the beginning of the story, what brought her there in the first instance, all the stories told her king hitherto and \u2013 monstrously \u2013 that story she is telling itself, does the reader clearly grasp the vast possibility of this interpolation, the curious danger? That the queen may persist and the motionless king hear forever the truncated story of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>, __________________________________________\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The inventions of philosophy are no less fantastic than those of art: Josiah Royce, in the first volume of his work <i>The <\/i><i>World <\/i><i>and <\/i><i>the <\/i><i>Individual <\/i>(1899), has formulated the following: \"Let us imagine that a portion of the soil of England has been leveled off perfectly and that on it a cartographer traces a map of England. The job is perfect; there is no detail of the soil of England, no matter how minute, that is not registered on the map; everything has there its correspondence. This map, in such a case, should contain a map of the map, which should contain a map of the map of the map, and so on to infinity.\"\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Why does it disturb us that the map be included in the map and the thousand and one nights in the book of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>? Why does it disturb us that Don Quixote be a reader of the <i>Quixote <\/i>and Hamlet a spectator of <i>Hamlet<\/i>? I believe that these inversions suggest that if the characters of a fictional work can be readers or spectators, we, its readers or spectators, can be fictitious. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu16": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><b><\/b>How many of the following statements can be understood to be true from the passage?\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Enter the appropriate number in the input box given below the question.\n<\/font><\/p><\/span>\n<ol><li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>The overdetermined interplay of the real with the imaginary forges ideology as a process that is apparently conflationary rather than contradictory. \n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>Shakespeare\u2019s Hamlet is mentioned in the passage to portray the characters of Hamlet as spectators. \n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>The <i>Galatea <\/i>by Cervantes finds a mention in his other work, <i>Don <\/i><i>Quixote<\/i>, where it is disparaged by one of the characters, himself a creation of Cervantes.\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>The boldface sentence serves as a prelude to what comes next in the passage: how different works\/ characters insert a world within another.\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>The Persian Carpet is mentioned in the passage to represent stylized symbolic imagery common to a woven carpet and to various superficial stories that are spun together.\n<\/font><\/p><\/span><\/li>\n<\/ol>",
+			"OPT1": "4",
+			"CORRECT_ANSWER": "4",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3286",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>13 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">\u201cEvery novel is an ideal plane inserted into the realm of reality; Cervantes, who wrote Don Quixote, takes pleasure in confusing the objective and the subjective, the world of the reader and the world of the book. In those chapters of Don Quixote which argue whether the barber\"s basin is a helmet and the donkey\"s packsaddle a steed\"s fancy regalia, the problem is dealt with explicitly; other passages, as I have noted, insinuate this. In the sixth chapter of the first part, the priest and the barber inspect Don Quixote\"s library; astoundingly, one of the books examined is Cervantes\" own <i>Galatea <\/i>and it turns out that the barber is a friend of the author and does not admire him very much, and says that he is more versed in misfortunes than in verses and that the book possesses some inventiveness, proposes a few ideas and concludes nothing. <b>The <\/b><b>barber<\/b><b>, <\/b><b>a <\/b><b>dream <\/b><b>or <\/b><b>the <\/b><b>form <\/b><b>of <\/b><b>a <\/b><b>dream <\/b><b>of <\/b><b>Cervantes<\/b><b>, <\/b><b>passes <\/b><b>judgment <\/b><b>on <\/b><b>Cervantes<\/b><b>. <\/b><b>. <\/b><b>. <\/b><b>.<\/b><b>\n<\/b><\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">This play of strange ambiguities culminates in the second part; the protagonists have read the first part, the protagonists of Don Quixote are, at the same time, readers of Don Quixote. Here it is inevitable to recall the case of Shakespeare, who includes on the stage of Hamlet another stage where a tragedy more or less like that of Hamlet is presented; the imperfect correspondence of the principal and secondary works lessens the efficacy of this inclusion. Something similar is created by accident in <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"><i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>is an overdetermined narrative of magic, adventure, parable and poetry that, duplicates and reduplicates to the point of vertigo the ramifications of a central story in later and subordinate stories, but does not attempt to gradate its realities, and the effect (which should have been profound) is superficial, like a Persian carpet. The opening story of the series is well known: the terrible pledge of the king who every night marries a virgin who is then decapitated at dawn, and the resolution of Scheherazade, who distracts the king with her fables until a thousand and one nights have gone by and she shows him their son. The sheer length of the piece obliged the story\u2019s many copyists over the centuries to make numerous interpolations, one of which marks a perturbing turn in this already vertiginous confection. This involves the story of the six hundred and second night, magical among all the nights. On that night, the king hears from the queen his own story. He hears the beginning of the story, which comprises all the others and also, monstrously itself. So the heroine Scheherazade contrives an elaborate metafiction that potentially unhinges its internal drama. By drawing into her narrative the beginning of the story, what brought her there in the first instance, all the stories told her king hitherto and \u2013 monstrously \u2013 that story she is telling itself, does the reader clearly grasp the vast possibility of this interpolation, the curious danger? That the queen may persist and the motionless king hear forever the truncated story of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>, __________________________________________\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The inventions of philosophy are no less fantastic than those of art: Josiah Royce, in the first volume of his work <i>The <\/i><i>World <\/i><i>and <\/i><i>the <\/i><i>Individual <\/i>(1899), has formulated the following: \"Let us imagine that a portion of the soil of England has been leveled off perfectly and that on it a cartographer traces a map of England. The job is perfect; there is no detail of the soil of England, no matter how minute, that is not registered on the map; everything has there its correspondence. This map, in such a case, should contain a map of the map, which should contain a map of the map of the map, and so on to infinity.\"\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Why does it disturb us that the map be included in the map and the thousand and one nights in the book of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>? Why does it disturb us that Don Quixote be a reader of the <i>Quixote <\/i>and Hamlet a spectator of <i>Hamlet<\/i>? I believe that these inversions suggest that if the characters of a fictional work can be readers or spectators, we, its readers or spectators, can be fictitious. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu17": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><b><\/b>All of the following are true about <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>EXCEPT<i>?<\/i>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The king takes, as bride, a virgin every night and has her slain the next morning. \n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Having married the king, Scheherazade succeeds in entertaining the king with her stories for a thousand and one nights.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Several supporting stories attempt to reiterate and follow the impact of the principal plot but it turns out that the latter is given a perfunctory treatment. \n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The sheer length of the piece led to the preclusion of perturbing elements from the sequence of events.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3286",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>13 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">\u201cEvery novel is an ideal plane inserted into the realm of reality; Cervantes, who wrote Don Quixote, takes pleasure in confusing the objective and the subjective, the world of the reader and the world of the book. In those chapters of Don Quixote which argue whether the barber\"s basin is a helmet and the donkey\"s packsaddle a steed\"s fancy regalia, the problem is dealt with explicitly; other passages, as I have noted, insinuate this. In the sixth chapter of the first part, the priest and the barber inspect Don Quixote\"s library; astoundingly, one of the books examined is Cervantes\" own <i>Galatea <\/i>and it turns out that the barber is a friend of the author and does not admire him very much, and says that he is more versed in misfortunes than in verses and that the book possesses some inventiveness, proposes a few ideas and concludes nothing. <b>The <\/b><b>barber<\/b><b>, <\/b><b>a <\/b><b>dream <\/b><b>or <\/b><b>the <\/b><b>form <\/b><b>of <\/b><b>a <\/b><b>dream <\/b><b>of <\/b><b>Cervantes<\/b><b>, <\/b><b>passes <\/b><b>judgment <\/b><b>on <\/b><b>Cervantes<\/b><b>. <\/b><b>. <\/b><b>. <\/b><b>.<\/b><b>\n<\/b><\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">This play of strange ambiguities culminates in the second part; the protagonists have read the first part, the protagonists of Don Quixote are, at the same time, readers of Don Quixote. Here it is inevitable to recall the case of Shakespeare, who includes on the stage of Hamlet another stage where a tragedy more or less like that of Hamlet is presented; the imperfect correspondence of the principal and secondary works lessens the efficacy of this inclusion. Something similar is created by accident in <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"><i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>is an overdetermined narrative of magic, adventure, parable and poetry that, duplicates and reduplicates to the point of vertigo the ramifications of a central story in later and subordinate stories, but does not attempt to gradate its realities, and the effect (which should have been profound) is superficial, like a Persian carpet. The opening story of the series is well known: the terrible pledge of the king who every night marries a virgin who is then decapitated at dawn, and the resolution of Scheherazade, who distracts the king with her fables until a thousand and one nights have gone by and she shows him their son. The sheer length of the piece obliged the story\u2019s many copyists over the centuries to make numerous interpolations, one of which marks a perturbing turn in this already vertiginous confection. This involves the story of the six hundred and second night, magical among all the nights. On that night, the king hears from the queen his own story. He hears the beginning of the story, which comprises all the others and also, monstrously itself. So the heroine Scheherazade contrives an elaborate metafiction that potentially unhinges its internal drama. By drawing into her narrative the beginning of the story, what brought her there in the first instance, all the stories told her king hitherto and \u2013 monstrously \u2013 that story she is telling itself, does the reader clearly grasp the vast possibility of this interpolation, the curious danger? That the queen may persist and the motionless king hear forever the truncated story of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>, __________________________________________\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The inventions of philosophy are no less fantastic than those of art: Josiah Royce, in the first volume of his work <i>The <\/i><i>World <\/i><i>and <\/i><i>the <\/i><i>Individual <\/i>(1899), has formulated the following: \"Let us imagine that a portion of the soil of England has been leveled off perfectly and that on it a cartographer traces a map of England. The job is perfect; there is no detail of the soil of England, no matter how minute, that is not registered on the map; everything has there its correspondence. This map, in such a case, should contain a map of the map, which should contain a map of the map of the map, and so on to infinity.\"\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Why does it disturb us that the map be included in the map and the thousand and one nights in the book of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>? Why does it disturb us that Don Quixote be a reader of the <i>Quixote <\/i>and Hamlet a spectator of <i>Hamlet<\/i>? I believe that these inversions suggest that if the characters of a fictional work can be readers or spectators, we, its readers or spectators, can be fictitious. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu18": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><b><\/b>Which of the following would describe the relationship between the subjective and objective in the works of fiction mentioned in the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The subjective serves as a reflection of the objective, sometimes vague or incomplete.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The subjective is the world of the reader and the objective is the world of the novel\/ text\/ authorial power.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The subjective is emboldened by the objective and then both of them work in tandem in tracing an infinite tunnel.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The subjective examines the introspective nature of prose which helps engage its readers while the objective demonstrates how writers critique themselves through their work.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3286",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>13 <\/i><i>to <\/i><i>18<\/i><i>: <\/i>The passage given below is followed by a set of six questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">\u201cEvery novel is an ideal plane inserted into the realm of reality; Cervantes, who wrote Don Quixote, takes pleasure in confusing the objective and the subjective, the world of the reader and the world of the book. In those chapters of Don Quixote which argue whether the barber\"s basin is a helmet and the donkey\"s packsaddle a steed\"s fancy regalia, the problem is dealt with explicitly; other passages, as I have noted, insinuate this. In the sixth chapter of the first part, the priest and the barber inspect Don Quixote\"s library; astoundingly, one of the books examined is Cervantes\" own <i>Galatea <\/i>and it turns out that the barber is a friend of the author and does not admire him very much, and says that he is more versed in misfortunes than in verses and that the book possesses some inventiveness, proposes a few ideas and concludes nothing. <b>The <\/b><b>barber<\/b><b>, <\/b><b>a <\/b><b>dream <\/b><b>or <\/b><b>the <\/b><b>form <\/b><b>of <\/b><b>a <\/b><b>dream <\/b><b>of <\/b><b>Cervantes<\/b><b>, <\/b><b>passes <\/b><b>judgment <\/b><b>on <\/b><b>Cervantes<\/b><b>. <\/b><b>. <\/b><b>. <\/b><b>.<\/b><b>\n<\/b><\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">This play of strange ambiguities culminates in the second part; the protagonists have read the first part, the protagonists of Don Quixote are, at the same time, readers of Don Quixote. Here it is inevitable to recall the case of Shakespeare, who includes on the stage of Hamlet another stage where a tragedy more or less like that of Hamlet is presented; the imperfect correspondence of the principal and secondary works lessens the efficacy of this inclusion. Something similar is created by accident in <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"><i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights <\/i>is an overdetermined narrative of magic, adventure, parable and poetry that, duplicates and reduplicates to the point of vertigo the ramifications of a central story in later and subordinate stories, but does not attempt to gradate its realities, and the effect (which should have been profound) is superficial, like a Persian carpet. The opening story of the series is well known: the terrible pledge of the king who every night marries a virgin who is then decapitated at dawn, and the resolution of Scheherazade, who distracts the king with her fables until a thousand and one nights have gone by and she shows him their son. The sheer length of the piece obliged the story\u2019s many copyists over the centuries to make numerous interpolations, one of which marks a perturbing turn in this already vertiginous confection. This involves the story of the six hundred and second night, magical among all the nights. On that night, the king hears from the queen his own story. He hears the beginning of the story, which comprises all the others and also, monstrously itself. So the heroine Scheherazade contrives an elaborate metafiction that potentially unhinges its internal drama. By drawing into her narrative the beginning of the story, what brought her there in the first instance, all the stories told her king hitherto and \u2013 monstrously \u2013 that story she is telling itself, does the reader clearly grasp the vast possibility of this interpolation, the curious danger? That the queen may persist and the motionless king hear forever the truncated story of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>, __________________________________________\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">The inventions of philosophy are no less fantastic than those of art: Josiah Royce, in the first volume of his work <i>The <\/i><i>World <\/i><i>and <\/i><i>the <\/i><i>Individual <\/i>(1899), has formulated the following: \"Let us imagine that a portion of the soil of England has been leveled off perfectly and that on it a cartographer traces a map of England. The job is perfect; there is no detail of the soil of England, no matter how minute, that is not registered on the map; everything has there its correspondence. This map, in such a case, should contain a map of the map, which should contain a map of the map of the map, and so on to infinity.\"\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Why does it disturb us that the map be included in the map and the thousand and one nights in the book of <i>The <\/i><i>Thousand <\/i><i>and <\/i><i>One <\/i><i>Nights<\/i>? Why does it disturb us that Don Quixote be a reader of the <i>Quixote <\/i>and Hamlet a spectator of <i>Hamlet<\/i>? I believe that these inversions suggest that if the characters of a fictional work can be readers or spectators, we, its readers or spectators, can be fictitious. \n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu19": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following is most probably true regarding NXC from the second paragraph of the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It is in the interest of NXC that people should not use two-monitor setups.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>NXC is a company whose primary source of revenue is from the sale of computer monitors.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>NXC stands to benefit if people use an additional monitor for their desktop computer.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>NXC is interested in increasing the productivity of the workforce across the country.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3287",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>21<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">For years, techies have argued that getting an extra monitor or two for your desktop computer is an especially effective way to increase personal productivity. The logic seemed airtight: Two (or more) computer monitors means more room on your virtual desktop, which means more room to do your work. And more room to work would seem to mean faster work.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Even science seemed to agree. As the price of computer monitors plummeted over the last decade, studies showed that increasing display size increased people\u2019s productivity. It didn\u2019t seem to matter that the research was sponsored by NXC. Now two-monitor setups, once the rarefied domain of Wall Street and Silicon Valley, have become <i>de <\/i><i>rigueur <\/i>in office parks across America. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In a switch that amounts to heresy among some techies, I\u2019ve become a two-screen skeptic. Two months ago, about five years after becoming an ardent proselytizer for the Church of the Second Display, I turned off the extra screen on my desktop computer. At first, the smaller workspace felt punishingly cramped. But after a few days of adjusting to the new setup, an unusual serenity invaded my normally harried workday. With a single screen that couldn\u2019t accommodate too many simultaneous stimuli, a screen just large enough for a single word processor or browser window, I found something increasingly elusive in our multi screen world: focus.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Unlike monitor makers with their multi display studies, I have no research proving you\u2019ll find as much benefit from a single monitor as I did. But research from another academic domain, the study of how we focus in increasingly addled workplaces, suggests my experience might not be unusual. While extra monitors might increase productivity in certain situations \u2014 the sort of situations that can be easily tested in a research setting \u2014 they seem to do so at a high cost, by displaying a stream of digital splendors, constantly vying for your attention.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu20": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>According to the passage, which of the following is most likely a disadvantage of working with a two-screen setup?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Having two screens results in increased strain on our eyes.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Large amount of visible information increases the chances of getting distracted\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Extra monitors do not result in increased productivity.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It is easier to organize our work when using a single monitor rather than when using two monitors.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3287",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>21<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">For years, techies have argued that getting an extra monitor or two for your desktop computer is an especially effective way to increase personal productivity. The logic seemed airtight: Two (or more) computer monitors means more room on your virtual desktop, which means more room to do your work. And more room to work would seem to mean faster work.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Even science seemed to agree. As the price of computer monitors plummeted over the last decade, studies showed that increasing display size increased people\u2019s productivity. It didn\u2019t seem to matter that the research was sponsored by NXC. Now two-monitor setups, once the rarefied domain of Wall Street and Silicon Valley, have become <i>de <\/i><i>rigueur <\/i>in office parks across America. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In a switch that amounts to heresy among some techies, I\u2019ve become a two-screen skeptic. Two months ago, about five years after becoming an ardent proselytizer for the Church of the Second Display, I turned off the extra screen on my desktop computer. At first, the smaller workspace felt punishingly cramped. But after a few days of adjusting to the new setup, an unusual serenity invaded my normally harried workday. With a single screen that couldn\u2019t accommodate too many simultaneous stimuli, a screen just large enough for a single word processor or browser window, I found something increasingly elusive in our multi screen world: focus.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Unlike monitor makers with their multi display studies, I have no research proving you\u2019ll find as much benefit from a single monitor as I did. But research from another academic domain, the study of how we focus in increasingly addled workplaces, suggests my experience might not be unusual. While extra monitors might increase productivity in certain situations \u2014 the sort of situations that can be easily tested in a research setting \u2014 they seem to do so at a high cost, by displaying a stream of digital splendors, constantly vying for your attention.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu21": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>It can be understood from the passage that the author\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>used a two-screen setup for around five years before switching to a single screen setup.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>believes that a two-screen setup is better for getting his work done.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>used a two-screen setup for well over five years before switching to a single screen setup.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>strongly recommended using a two-screen setup for around five years after which he himself switched to a single screen setup.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3287",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>19 <\/i><i>to <\/i><i>21<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">For years, techies have argued that getting an extra monitor or two for your desktop computer is an especially effective way to increase personal productivity. The logic seemed airtight: Two (or more) computer monitors means more room on your virtual desktop, which means more room to do your work. And more room to work would seem to mean faster work.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Even science seemed to agree. As the price of computer monitors plummeted over the last decade, studies showed that increasing display size increased people\u2019s productivity. It didn\u2019t seem to matter that the research was sponsored by NXC. Now two-monitor setups, once the rarefied domain of Wall Street and Silicon Valley, have become <i>de <\/i><i>rigueur <\/i>in office parks across America. \u2026\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">In a switch that amounts to heresy among some techies, I\u2019ve become a two-screen skeptic. Two months ago, about five years after becoming an ardent proselytizer for the Church of the Second Display, I turned off the extra screen on my desktop computer. At first, the smaller workspace felt punishingly cramped. But after a few days of adjusting to the new setup, an unusual serenity invaded my normally harried workday. With a single screen that couldn\u2019t accommodate too many simultaneous stimuli, a screen just large enough for a single word processor or browser window, I found something increasingly elusive in our multi screen world: focus.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Unlike monitor makers with their multi display studies, I have no research proving you\u2019ll find as much benefit from a single monitor as I did. But research from another academic domain, the study of how we focus in increasingly addled workplaces, suggests my experience might not be unusual. While extra monitors might increase productivity in certain situations \u2014 the sort of situations that can be easily tested in a research setting \u2014 they seem to do so at a high cost, by displaying a stream of digital splendors, constantly vying for your attention.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu22": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><b><\/b>According to the passage, what is responsible for the \u2018complications\u2019 mentioned in para 3?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Lack of cell division accompanied by a doubling of the chromosome number.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Mating.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Cell division.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Incompatible chromosomes.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3288",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>22 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">.... Then there is the extremely important phenomenon of polyploidy. Genes are aligned along chromosomes. Every kind of organism has its characteristic number and arrangement of chromosomes. Eggs and sperm (or the appropriate cells in ovules and pollen in case of plants) contain only one set of chromosomes, and is haploid. When they fuse in the act of fertilization, the resulting embryo has two sets of chromosomes and is then diploid. Human beings and chimpanzees are diploid.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Sometimes, the chromosome number will double (as they normally do in preparation for cell division) but the cell fails to divide. The diploid cell becomes tetraploid with four sets of chromosomes. The newly formed tetraploid organism can breed successfully with other tetraploids of its own kinds but it cannot breed successfully with either of its parents. So it forms an instant new species. ... The common potatoes grown in Europe are tetraploid derivatives of diploid potatoes that grow wild (and are cultivated) in the Andes. The octoploids form new species \u2013 unable to interbreed with the tetraploid parents that formed them.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Polyploid is the term that describes any organism with more than two sets of chromosomes. Sometimes the complications become too much even for the plants and they finish up with an odd number of chromosomes (some having been lost among all the cell divisions and matings). Plants with anomalous numbers of chromosomes are said to be \u2018aneuploid\u2019. Unlike aneuploid animals who die or tend to be compromised if they live, plants put up with aneuploidy. Sugarcane is aneuploid but that does not stop it being a vigorous major crop.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">There is one further complication. Diploid organisms that are of different species mate to produce fully viable offspring. Usually such crosses fail, because the chromosomes of the two parents are incompatible. ... The cells will not produce sound gametes (eggs and sperm, or ovules and pollen) since this requires close cooperation between chromosomes. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But if a hybrid organism doubles its chromosomes, it often can produce viable gametes. So we find diploid parents of different species mating to produce diploid, hybrid offspring that are sterile; but the hybrids then double their chromosomes and become tetraploid \u2013 and the hybrid tetraploids are then fertile. This happens a lot among plants. Indeed the complications seem endless. A tetraploid plant may mate with a closely related diploid plant to produce a triploid offspring \u2013 two sets of chromosomes from the tetraploid parent and one set from the diploid parent. Triploids are sterile \u2013 they cannot produce gametes at all \u2013 but they may still form viable plants. Thus the cultivated banana is triploid. Because it is sterile, its fruits contain no seeds (as wild banana fruits do). So the domestic banana has to be produced vegetatively, by planting cuttings. Triploid hybrids double their chromosomes to become hexaploid (with six sets of chromosomes). The most famous and important hexaploid organism of all is bread wheat (pasta wheat is diploid). \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Among trees, Willows (genus <i>Salix<\/i>) and Acacias provide hundreds of examples of polyploid species.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu23": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>The following pairs denote a plant\/ animal mentioned in the passage and the status of the number of chromosomes.\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>In how many pairs is the number of chromosomes mentioned correctly for the given plant\/ animal?\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Enter the appropriate number in the input box given below the question.\n<\/font><\/p><\/span>\n<ol><li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>European potatoes \u2013 octoploid\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>Wild bananas \u2013 triploid\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>Bread wheat \u2013 triploid hybrid\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>Pasta wheat \u2013 hexaploid\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>Sugarcane \u2013 aneuploid\n<\/font><\/p><\/span><\/li>\n<li style='vertical-align:middle; padding-bottom:10px;list-style-type:decimal;'><span><p style='vertical-align:text-top; display:inline-block;'> <font style='Color:black;font-family:Arial;size:9'>Chimpanzees \u2013 haploid \n<\/font><\/p><\/span><\/li>\n<\/ol>",
+			"OPT1": "1",
+			"CORRECT_ANSWER": "1",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3288",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>22 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">.... Then there is the extremely important phenomenon of polyploidy. Genes are aligned along chromosomes. Every kind of organism has its characteristic number and arrangement of chromosomes. Eggs and sperm (or the appropriate cells in ovules and pollen in case of plants) contain only one set of chromosomes, and is haploid. When they fuse in the act of fertilization, the resulting embryo has two sets of chromosomes and is then diploid. Human beings and chimpanzees are diploid.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Sometimes, the chromosome number will double (as they normally do in preparation for cell division) but the cell fails to divide. The diploid cell becomes tetraploid with four sets of chromosomes. The newly formed tetraploid organism can breed successfully with other tetraploids of its own kinds but it cannot breed successfully with either of its parents. So it forms an instant new species. ... The common potatoes grown in Europe are tetraploid derivatives of diploid potatoes that grow wild (and are cultivated) in the Andes. The octoploids form new species \u2013 unable to interbreed with the tetraploid parents that formed them.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Polyploid is the term that describes any organism with more than two sets of chromosomes. Sometimes the complications become too much even for the plants and they finish up with an odd number of chromosomes (some having been lost among all the cell divisions and matings). Plants with anomalous numbers of chromosomes are said to be \u2018aneuploid\u2019. Unlike aneuploid animals who die or tend to be compromised if they live, plants put up with aneuploidy. Sugarcane is aneuploid but that does not stop it being a vigorous major crop.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">There is one further complication. Diploid organisms that are of different species mate to produce fully viable offspring. Usually such crosses fail, because the chromosomes of the two parents are incompatible. ... The cells will not produce sound gametes (eggs and sperm, or ovules and pollen) since this requires close cooperation between chromosomes. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But if a hybrid organism doubles its chromosomes, it often can produce viable gametes. So we find diploid parents of different species mating to produce diploid, hybrid offspring that are sterile; but the hybrids then double their chromosomes and become tetraploid \u2013 and the hybrid tetraploids are then fertile. This happens a lot among plants. Indeed the complications seem endless. A tetraploid plant may mate with a closely related diploid plant to produce a triploid offspring \u2013 two sets of chromosomes from the tetraploid parent and one set from the diploid parent. Triploids are sterile \u2013 they cannot produce gametes at all \u2013 but they may still form viable plants. Thus the cultivated banana is triploid. Because it is sterile, its fruits contain no seeds (as wild banana fruits do). So the domestic banana has to be produced vegetatively, by planting cuttings. Triploid hybrids double their chromosomes to become hexaploid (with six sets of chromosomes). The most famous and important hexaploid organism of all is bread wheat (pasta wheat is diploid). \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Among trees, Willows (genus <i>Salix<\/i>) and Acacias provide hundreds of examples of polyploid species.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu24": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'>Which of the following statements cannot be inferred to be true from the passage?\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The tetraploid organism cannot breed successfully with its diploid parents and the octoploid organism cannot breed successfully with its tetraploid parents.\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Aneuploid organisms like sugarcane are generally sterile and have to be cultivated vegetatively from planting cuttings.\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Diploid organisms of different species mate to produce sterile hybrid offspring which become fertile when they double their chromosomes.\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Bread wheat can have triploid hybrids as its parents that doubled their chromosomes, while the cultivated banana could have originated from a tetraploid plant and a diploid plant.\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "3288",
+			"EASSY_DETAILS": "<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\"> <b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>22 <\/i><i>to <\/i><i>24<\/i><i>: <\/i>The passage given below is followed by a set of three questions. Choose the best answer to each question.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9999999\">.... Then there is the extremely important phenomenon of polyploidy. Genes are aligned along chromosomes. Every kind of organism has its characteristic number and arrangement of chromosomes. Eggs and sperm (or the appropriate cells in ovules and pollen in case of plants) contain only one set of chromosomes, and is haploid. When they fuse in the act of fertilization, the resulting embryo has two sets of chromosomes and is then diploid. Human beings and chimpanzees are diploid.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Sometimes, the chromosome number will double (as they normally do in preparation for cell division) but the cell fails to divide. The diploid cell becomes tetraploid with four sets of chromosomes. The newly formed tetraploid organism can breed successfully with other tetraploids of its own kinds but it cannot breed successfully with either of its parents. So it forms an instant new species. ... The common potatoes grown in Europe are tetraploid derivatives of diploid potatoes that grow wild (and are cultivated) in the Andes. The octoploids form new species \u2013 unable to interbreed with the tetraploid parents that formed them.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Polyploid is the term that describes any organism with more than two sets of chromosomes. Sometimes the complications become too much even for the plants and they finish up with an odd number of chromosomes (some having been lost among all the cell divisions and matings). Plants with anomalous numbers of chromosomes are said to be \u2018aneuploid\u2019. Unlike aneuploid animals who die or tend to be compromised if they live, plants put up with aneuploidy. Sugarcane is aneuploid but that does not stop it being a vigorous major crop.\n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">There is one further complication. Diploid organisms that are of different species mate to produce fully viable offspring. Usually such crosses fail, because the chromosomes of the two parents are incompatible. ... The cells will not produce sound gametes (eggs and sperm, or ovules and pollen) since this requires close cooperation between chromosomes. \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">But if a hybrid organism doubles its chromosomes, it often can produce viable gametes. So we find diploid parents of different species mating to produce diploid, hybrid offspring that are sterile; but the hybrids then double their chromosomes and become tetraploid \u2013 and the hybrid tetraploids are then fertile. This happens a lot among plants. Indeed the complications seem endless. A tetraploid plant may mate with a closely related diploid plant to produce a triploid offspring \u2013 two sets of chromosomes from the tetraploid parent and one set from the diploid parent. Triploids are sterile \u2013 they cannot produce gametes at all \u2013 but they may still form viable plants. Thus the cultivated banana is triploid. Because it is sterile, its fruits contain no seeds (as wild banana fruits do). So the domestic banana has to be produced vegetatively, by planting cuttings. Triploid hybrids double their chromosomes to become hexaploid (with six sets of chromosomes). The most famous and important hexaploid organism of all is bread wheat (pasta wheat is diploid). \n<\/font><\/p><\/span>\n<span><p style=\"vertical-align:middle;\"> <font style=\"Color:black;font-family:Arial;size:9\">Among trees, Willows (genus <i>Salix<\/i>) and Acacias provide hundreds of examples of polyploid species.\n<\/font><\/p><\/span>\n",
+			"ESSAY_NAME": "D-X) Test name AIMCAT1819"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": "",
+			"ESSAY_NAME": ""
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu25": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>29<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">The Extraditables was an organization created by Colombian drug lords in the early 1980s who mounted a campaign of violence to get Colombia to ban extradition. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">&ldquo;We prefer a grave in Colombia to jail in the United States.&rdquo; <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">This was because they feared that a prison sentence abroad meant doing real hard time. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">That was the slogan of <i>Los <\/i><i>Extraditables<\/i><i>.<\/i> <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">At home they could run their businesses from behind bars until they escaped or bribed a judge into releasing them. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "24135",
+			"CORRECT_ANSWER": "24135",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu26": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>29<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Some engine part does not explode in a fiery bang. The rudder doesn&rsquo;t suddenly snap under the force of takeoff. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Plane crashes are much more likely to be the result of an accumulation of minor difficulties and seemingly trivial malfunctions<i>.<\/i><i> <\/i><\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">In reality, the typical commercial jetliner &ndash; at this point in its stage of development &ndash; is about as dependable as a toaster. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Moreover, the captain doesn&rsquo;t gasp as he&rsquo;s thrown back against his seat. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Plane crashes rarely happen in real life the same way they happen in the movies. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "51432",
+			"CORRECT_ANSWER": "51432",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu27": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>29<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">When someone feels he has been unjustly dealt with by an emotionally or socially significant person, it is very easy for him to become preoccupied with the injustice and make the other person the center of his life. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Nevertheless, enemy centering is very common, particularly when there is frequent interaction between people who are in real conflict. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Rather than proactively leading his own life, the enemy-centered person is counterdependently reacting to the behaviour and attitudes of a perceived enemy. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">And what about putting an enemy at the center of one&rsquo;s life? <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Most people would never think of it, and probably no one would ever do it consciously. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "14523",
+			"CORRECT_ANSWER": "14523",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu28": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>29<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Their English equivalents - &ldquo;four&rdquo; and &ldquo;seven&rdquo; are longer: pronouncing them takes about one-third of a second. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">In other languages too, there is reproducible correlation between the time required to pronounce numbers in a given language and the memory span of its speakers. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Chinese number words are remarkably brief: most of them can be uttered in less than one-quarter of a second (&ldquo;4&rdquo; is &ldquo;si&rdquo; and &ldquo;7&rdquo; is &ldquo;qi&rdquo;). <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">In this domain, the prize for efficacy goes to the Cantonese dialect of Chinese, whose brevity grants residents of Hong Kong a rocketing memory span of about 10 digits. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">The memory gap between English and Chinese apparently is entirely due to this difference in length. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "31524",
+			"CORRECT_ANSWER": "31524",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu29": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>25 <\/i><i>to <\/i><i>29<\/i><i>: <\/i>The sentences given below, when properly sequenced, form a coherent paragraph. Each sentence is labeled with a number (1, 2, 3, 4 or 5). Decide on the proper order for the sentences and key in the correct sequence as your answer in the input box given below the question. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">In communist times a summer break usually meant a trip with workmates to a stony beach or a bracing mountainside--within the Soviet motherland. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Now the pleasure of holidaying closer to home is perforce being rediscovered by an ever-growing category of citizens. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">As the Kremlin&#39;s extreme froideur with the West enters its second year, the number of <i>nevyezdniye <\/i>Russians may surpass 4m. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">When the red flag came down, Russians flew off en masse on exotic forays to Turkey or Thailand. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">To use a very Soviet term, these citizens are <i>nevyezdniye<\/i>: forbidden, by virtue of their state employment or access to secrets, from going abroad. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "14253",
+			"CORRECT_ANSWER": "14253",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu30": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>30 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Coubertin had explained to the Committee members: &quot;These three words represent a programme of moral beauty. The aesthetics of sport are intangible.&quot; <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">The Olympic motto is the hendiatris <i>Citius<\/i><i>, <\/i><i>Altius<\/i><i>, <\/i><i>Fortius<\/i>, which is Latin for &quot;Faster, Higher, Stronger&quot;. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">Some olympic symbols &ndash; such as the flame, fanfare, and theme &ndash; are more commonly used during Olympic competition, but others, such as the flags, can be seen throughout the year. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">It was proposed by Pierre de Coubertin upon the creation of the International Olympic Committee in 1894 and was introduced in 1924 at the Olympic Games in Paris. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">A more informal but well-known motto, also introduced by Coubertin, who got it from a sermon by the Bishop of Pennsylvania during the 1908 London Games, is &quot;The most important thing is not to win but to take part!&quot; <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "3",
+			"CORRECT_ANSWER": "3",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu31": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>30 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">The triumph of a culture of honour helps to explain why the pattern of criminality in the American South has always been so distinctive. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">The consensus reached is that that region was plagued by a particularly virulent strain of what sociologists call a &ldquo;culture of honour.&rdquo; <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">When lots of families fight with one another in identical little towns up and down the same mountain range, it&rsquo;s a pattern. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">When one family fights with another, it&rsquo;s a feud. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">What was the cause of the Appalachian pattern? <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "1",
+			"CORRECT_ANSWER": "1",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu32": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i>for <\/i><i>questions <\/i><i>30 <\/i><i>to <\/i><i>32<\/i><i>: <\/i>Five sentences related to a topic are given below. Four of them can be put together to form a meaningful and coherent short paragraph. Identify the odd one out. Choose its number as your answer and key it in. <\/font><\/span><\/p>\r\n<ol>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">In these terms, Hopkins&rsquo; decades fighting guinea worm are the same as just over a year spent tackling smallpox. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">With guinea worm it takes a year to know if you have been successful &ndash; or to learn if a missed case has infected the pond that supplies a town&rsquo;s water. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">With smallpox, the incubation period was two weeks, and every fortnight its nemesis Donald Hopkins could collect data and assess progress. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">It is no coincidence that the countries where guinea worm remains are some of the most unstable and inaccessible. <\/font><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"vertical-align:middle; padding-bottom:10px;list-style-type:decimal;\">\r\n\t\t<p style=\"vertical-align:text-top; display:inline-block;\">\r\n\t\t\t<span><font style=\"Color:black;font-family:Arial;size:9\">There is another difficulty of eradicating guinea worm: time spent fighting a disease should not be measured in human years, but in the disease&rsquo;s lifespan. <\/font><\/span><\/p>\r\n\t<\/li>\r\n<\/ol>",
+			"OPT1": "4",
+			"CORRECT_ANSWER": "4",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu33": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i><b>for <\/b><\/i><i><b>questions <\/b><\/i><i><b>33 <\/b><\/i><i><b>and <\/b><\/i><i><b>34<\/b><\/i><i><b>: <\/b><\/i>The following question has a paragraph from which the last sentence has been deleted. From the given options, choose the sentence that completes the paragraph in the most appropriate way. <\/font><\/span><\/p>\r\n<p>\r\n\t<span style=\"font-family: Arial;\">Conscience is the endowment that senses our congruence or disparity with correct principles and lifts us toward them &ndash; when it&rsquo;s in shape. Just as the education of nerve and sinew is vital to the excellent athlete and education of the mind is vital to the scholar, education of the conscience is vital to the truly proactive, highly effective person. Training and educating the conscience, however, requires even greater concentration, more balanced discipline of the mind and life, more consistently honest living. _______________________________________<\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>The voice of conscience is so delicate that it is easy to stifle it: but it is also so clear that it is impossible to mistake it.<i>\r\n<\/i><\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>It requires regular feasting on inspiring literature, thinking noble thoughts and, above all, living in harmony with its still small voice.<i>\r\n<\/i><\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>People who exist on that level aren\u2019t living; they are \u201cbeing lived\u201d; they are reacting, unaware of the unique endowments that lie dormant and undeveloped within.<i>\r\n<\/i><\/font><\/p><\/span>",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>And you don\u2019t need any special equipment to do it.<i>\r\n<\/i><\/font><\/p><\/span>",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu34": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><b>DIRECTIONS <\/b><i><b>for <\/b><\/i><i><b>questions <\/b><\/i><i><b>33 <\/b><\/i><i><b>and <\/b><\/i><i><b>34<\/b><\/i><i><b>: <\/b><\/i>The following question has a paragraph from which the last sentence has been deleted. From the given options, choose the sentence that completes the paragraph in the most appropriate way. <\/font><\/span><\/p>\r\n<p>\r\n\t<span style=\"font-family: Arial;\">Without the familiar light of day, the world after dark becomes an alien place. Darkness is anonymous, meaning that any response is valid; isolating, inviting, mysterious, magical, comforting, terrifying, unearthly. It is a time of dreams and nightmares, insomnia and fantasy, hauntings and enchantments. No wonder then that the nocturnal has continually fascinated artists. _______________________________________<\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Art reveals a plethora of emotional responses, each a reaction to the transformative quality of night; from awe, anxiety and solitude, to love and loss, revelry, insomnia, and closure.\r\n<\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Featuring the work of 60 artists, Towards Night draws on the 19th century European Romantic tradition and examines contemporary and historical feelings of wonderment and dystopia inspired by the midnight hour.\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Whilst divided by period, purpose, movement and medium, each of these pieces are linked by their fascination with the night-time world. \r\n<\/font><\/p><\/span>",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'>Dedicated to displaying the themes of art comes a major exhibition hosted by Eastbourne-based Towner Art Gallery.\r\n<\/font><\/p><\/span>",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "1",
+		"TOPIC_ID": " 167",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	}
+}

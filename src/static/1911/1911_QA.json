@@ -1,0 +1,992 @@
+{
+	"qu1": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">Let <i>m<\/i> and <i>n<\/i> be the roots of the quadratic equation <i>x<\/i><sup>2<\/sup> + (&alpha; &minus; 3)<i>x<\/i> &minus; 4&alpha; &minus; 3 = 0. What is the minimum possible value of <i>m<\/i><sup>2<\/sup> + <i>n<\/i><sup>2<\/sup>? <\/font> <\/font><\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>6\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>8\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>12\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>14\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu2": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>2<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>How many natural numbers divide 2500, 4250 and 6700 leaving the same remainder in each case?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "12",
+			"CORRECT_ANSWER": "12",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu3": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>3<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>4<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>A test comprises 200 questions, wherein each correct answer, each wrong answer and each unanswered question carry 1 mark, -  <img Width='11' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAcCAYAAAC3f0UFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGISURBVDhPzZS7TgJBFIaXEsHCpVkKeQAoCL4CNiR0FGpBINCoUQu5NIBQYSkJvgJYIBWrsgliQSIdwrqFvAQF2HAJv7BzuOlCafiSyeb858vkzEyyHNaQSMQhiiJVDE05Eg5Dp9Mhm72nhLEifzQasFj2IQhm7Oj1SKdvqcNYkSWpjOtQCN1uFzy\/h5tkkjqMtTMbjQYkUymqGJrycDjE7q5xG2SO4xCJRilhaMqj0QjBYBDFYpEShqa8jm2RJUmC2+2Gy+XauDweD7hOpwNZltFqtTYuRVH+84C1Wg35fB7NZpOSBXP5u9fDodOpPrMgCOo3MHnF6WvOmMvxWEwVqtU3jMdjPEx2n9bPL2UylmRZbqFcXjTa7S9VLhQeKdGYWVE+4fV6YTAYcHR8Qinjj\/xaqcDn88Fut8Nms+G9XqeOhjxj0O\/DbBbgcBxQsiTnczncZTJUMaa3w5tMVC3J52en6oFE8QmDwQBiqaTWF5dXZPwaw+\/3T3biYbVaJ\/8NHoFAkDpTgB9C0Sty\/K2tDwAAAABJRU5ErkJggg==\"\/>   mark and   <img Width='21' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAbCAYAAACTHcTmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHBSURBVEhL5ZW9S0JhFMavQR9iuFoQheGUGdWS9qFRS0o1Zra6CRU5FQYJNbk6SDWVDV7MIQW\/8g+woVYbhUIoFQqE8g4+3Y8DFUhw753CB87wnHPe33BezvsyUKmraBTHJyfkJKmCJm9u0K\/TwW53UEaSYqjbvQEdDzQYDLDZZikrSRGU4zgEj4Iol8twOVdgHrdQRZLqmTrsCxi3TJCTpBq66LB3MnR6ahJDwyPkJKmG5nJZJJMpcpJUQ9vpH0EfHu7BsmzbqNXr1AY0m01+dsm2fT8jkUiAKRRuEQqF2kalUiEk0Gg04Pf74fV6\/wyfz9cpF1XnZ16tVsl9SxFUmO+WxyO+p1qtFk6n6xdcEXTLs4nu7h7k83lksxkwDIPVtXWqKoA+Pz+JkHj8mjLAXbGIVOp7VWVDM+m0CA2Hw1heXoKFf6EikQhVJcmGCr+nANXr9dg\/OIB\/b0\/0gcAhdSiAsrGYCLm4jFIG2N3ZRm9vH791nOhlQ4W1FqC5XJ4ywPnZKTSaLnx8fIpeNvSTPzg4YMCM1Yq3t3e8vrxg1GjE7Nw8Wq2W2CMbKuixVILZPAaTyQQjD7TabKjValQFvgAp6BeQ6HQ4EgAAAABJRU5ErkJggg==\"\/>   mark respectively. Find the minimum number of questions that a candidate could have answered correctly in the test, if he scored 70 marks in it. \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>85\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>89\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>92\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>98\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu4": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>3<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>4<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<img alt=\"\" src=\"https://www.time4education.com/moodle/aimcatsolutions/images/AIMCAT1911/636715812760033146_6787480.gif\" style=\"width: 321px; height: 44px;\" \/><\/p>",
+			"OPT1": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">(4, <img height=\"12\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAYAAABPhbxiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVChTlZKxyoJQFMd9hV6g16gmCwSHaDMaG4OgTdEcG3VsdSjwMUQIghbBJRc3F0EyCJoy9f9xbt7EJfh+cDj3nPs\/99x7uEJd1+BUVcWsKAqUZcnWBGm4jvJEp\/A\/CI3H6\/X6dqGOFJO93+9G8enGb\/EtJDEZh0RUSJA4z\/POvsBP5Cfd73dcr1ckScJiwnEciKKI0WgE3\/dZTuAF5LMsg67rGA6HUBQFp9MJh8MB2+0Wl8sFs9kM\/X6f6TrD2Ww2ME0TaZoiiiJMp1NIkoTn88n2H48HBoMBgiBo30jM53NYltVEwGKxwHg8bqIPk8kEYRi2Hcl7nof1eo3lconVaoXdbgdVVXE8Htlg9vs9DMNgN+gUEvQW27bhui6Lb7cbNE2DLMvo9XrtcPhP+AVpzucz4jhuMsAfNDseTfpYxAgAAAAASUVORK5CYII=\" style=\"vertical-align:middle;\" width=\"14\" \/> ) <\/font> <\/font><\/span><\/p>",
+			"OPT2": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">(-3, 4) <\/font> <\/font><\/span><\/p>",
+			"OPT3": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">(3, <img height=\"12\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAYAAABPhbxiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE7SURBVChTlZKxyoJQFMd9hV6g16gmCwSHaDMaG4OgTdEcG3VsdSjwMUQIghbBJRc3F0EyCJoy9f9xbt7EJfh+cDj3nPs\/99x7uEJd1+BUVcWsKAqUZcnWBGm4jvJEp\/A\/CI3H6\/X6dqGOFJO93+9G8enGb\/EtJDEZh0RUSJA4z\/POvsBP5Cfd73dcr1ckScJiwnEciKKI0WgE3\/dZTuAF5LMsg67rGA6HUBQFp9MJh8MB2+0Wl8sFs9kM\/X6f6TrD2Ww2ME0TaZoiiiJMp1NIkoTn88n2H48HBoMBgiBo30jM53NYltVEwGKxwHg8bqIPk8kEYRi2Hcl7nof1eo3lconVaoXdbgdVVXE8Htlg9vs9DMNgN+gUEvQW27bhui6Lb7cbNE2DLMvo9XrtcPhP+AVpzucz4jhuMsAfNDseTfpYxAgAAAAASUVORK5CYII=\" style=\"vertical-align:middle;\" width=\"14\" \/> )&nbsp;<\/font><\/font><\/span>&minus;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">&nbsp;{4} <\/font> <\/font><\/span><\/p>",
+			"OPT4": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">(-3, <img height=\"12\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAMCAYAAABSgIzaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFMSURBVChTlZE9q4JgFMf9Bk3RJ3GoqTWyKWiPMAgJB1sawiGoxvocgUG1OYlrW5sISo6Ci4Ha2\/9yztXCy4XL\/cHDef7nOW+cR3i9Xih4Pp98brcbHo8H3wmKKeLITwjF438Rcossy7gTFbrf71y5sMUkSZKwjyglUhCNRAWu1yvSNH2P9hOheKCKlPwb5\/MZ0+kU6\/UaURSxr5RI7HY79Pt9zOdz1r7vQ1EUyLKMSqWCbrfLDd5bJbvf7zEcDjGZTKBpGsbjMWvDMDjmeDyiVqvhdDp9Eoler4flcpkrYDAYoNFo5OqbdrsNy7I+yyFGoxF0XUccxwiCAJIkodls8pIIsq1Wq9yRrOu6UFUV9XodnU4H2+0Wm80Gs9kMl8uFR18sFvwlpUTC8zwcDgfYts2avma1WkEURVSrVZimyf73Vv\/CcRyEYZgr4Au88E+j6EB3\/wAAAABJRU5ErkJggg==\" style=\"vertical-align:middle;\" width=\"14\" \/> )&nbsp;<\/font><\/font><\/span>&minus;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">&nbsp;{4} <\/font> <\/font><\/span><\/p>",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu5": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>5<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Laxman was asked to add a certain number of consecutive natural numbers, starting from 1. By mistake, he forgot to add one number and obtained the sum as 1350. Find the number he forgot to add. \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "28",
+			"CORRECT_ANSWER": "28",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu6": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>A thin copper wire is wound, uniformly and spirally, in a single layer, from the bottom to the top, around a cylindrical iron rod. The circumference of the iron rod is 2 cm. and its height is 56 cm. If the number of turns in the spirally wound copper wire is exactly 45, what is the length of the copper wire used?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>96 cm\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>102 cm\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>106 cm\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>116 cm\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu7": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>If A = 2<sup>1<\/sup><sup>5<\/sup>3<sup>1<\/sup><sup>7<\/sup> and X represents the sum of the factors of A, then find the last digit of X.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>4\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>5\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu8": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\">If <i>f<\/i>(<i>x<\/i>) = <i>x<\/i><sup>2<\/sup> and <i>g<\/i>(<i>x<\/i>) = 2<sup>x<\/sup>, then for how many non-negative integer values of <i>x<\/i> is <i>f<\/i>(<i>x<\/i>) &ge; <i>g<\/i>(<i>x<\/i>)? <\/font> <\/font><\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>0\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>3\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT4": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">greater than 3 <\/font> <\/font><\/span><\/p>",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu9": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Ajay and Amar inherited a rectangular field of area 1000 sq.m. If they decide to split the land into two halves by dividing it with a single straight line, then find the approximate minimum cost that Ajay would have to incur to fence his half of the land at the rate of Rs.1 per metre. Assume that Ajay bears the complete cost of fencing the common boundary.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.67\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.90\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.95\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.112\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu10": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>A, B and C are three sets such that <i>n<\/i>(A) = <i>n<\/i>(B) = <i>n<\/i>(C) = 10,<i> <\/i><i>n<\/i>(A \u2229 B) = 4, <i>n<\/i>(B \u2229 C) = 5, <i>n<\/i>(A \u2229 C) = 3. If <i>n<\/i>(A <\/font><font style='font-family:Arial Unicode MS;'>  <img Width='7' Height= '9' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAJCAYAAAD+WDajAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACXSURBVChThcwxCoNAEEbhOeZaiJVWsp0HsBQEG8ttbCxV9D7rCRRBWTufCS4kkCKv\/P5hZN93tm3ju+u6WNcVmaaJqqo8f8rzHOn7Hq21p6f3tyiKkHEcybLM89NxHCRJ8mcchuFndM4RxzHSdR1pmnp+Os+TMAyRZVmo6xpjDPM8Y62lKAratkX8MWVZopQiCAKapnkJ3Gth0\/8FNsJPAAAAAElFTkSuQmCC\"\/>  <\/font><font style='font-family:Arial;'> B <\/font><font style='font-family:Arial Unicode MS;'>  <img Width='7' Height= '9' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAJCAYAAAD+WDajAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACXSURBVChThcwxCoNAEEbhOeZaiJVWsp0HsBQEG8ttbCxV9D7rCRRBWTufCS4kkCKv\/P5hZN93tm3ju+u6WNcVmaaJqqo8f8rzHOn7Hq21p6f3tyiKkHEcybLM89NxHCRJ8mcchuFndM4RxzHSdR1pmnp+Os+TMAyRZVmo6xpjDPM8Y62lKAratkX8MWVZopQiCAKapnkJ3Gth0\/8FNsJPAAAAAElFTkSuQmCC\"\/>  <\/font><font style='font-family:Arial;'> C) = 20, find the value of <i>n<\/i>(A \u2229 B \u2229 C).\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Cannot be determined \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu11": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>If <i>p<\/i> : <i>q<\/i> = 2 : 5, <i>r<\/i> : <i>s<\/i> = 3 : 2, and <i>p<\/i> : <i>r<\/i> = 1 : 3, then find the value of  <img Width='54' Height= '34' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAiCAYAAAAUAipQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAgVSURBVFhH3Zl5VNXXEcdZosGmKnFLpLFKDQqEghZiAFmLCAJWK6BxQcStVWjUCqJRIi6pILF\/RdG4kRMTQFDg1CSyE1AUUHEj1IgCBT0qghsiovDtnXmXJ0\/eQ7BIevI553fOb+be3+++ub97587M00InuXPnDkJDVyEwMBAHDnwttT1HwsGDPPbKlStRU3NbajXTacPc3dzg7e2DhIQEDB8+HDk\/\/CBbXj1pqakYOGAgjz1r5kz4+E6XLZrplGEtzc3Ys3s37j94wLKtjTXWrgvj+54gJycHqalpfJ+dlYkBwsjm5haWNdHpL9ZKXGwsTExMcf36danpOe7fvw8LCwtER++UGs10ybBdO3fCwtwC5eUVUtNzVFSUw8bGBpFbt0pNx6gY1tLSgqqqatTevo3ExETk55+QLUDU1kgYjRqFK1ev4vHjx2hsbJQtwK1btxAfH48ffywVS6QZlZWVsqU91PfRo0dSas\/du3eFc6hBaWkpDh8+zH3JqN8ZGuLzz7fz+x\/ILUE0PHyIpKQkHBTO5caNm1L7nGHFxcXo168fzMzMMHXqVPyqTx+ErFqFp0+e4D1TU54xV1dXODo6Ii4unp+Ji\/0GQ4YMwZQpU2Bubs5ttuPtuE0dH86YgaysbCm1Z+mSJejfXx8ODg4YO3YsasQk\/3PbNnZYXl5e\/P7Zc\/y4b2VFBUyMjTFx4kS4u7ujb9++OPLtd9ymYtiO7duhpaWFxEOHWaalR3J19TWeufr6ep5RuuiLVYgXU3vUZ9u4\/7G8XJYXLf4Ly+rw9fFBXt4xKbXH1MQEBga\/4S\/bCo1N47WOTXuN2LghnMdrxcfbGwHzF\/C9imEfzpgOU9P3pAQUFRXygxdLSqRGlXVr1+KNN34tJeChWBbUPzp6l9QoKCsrE+8q4muCiwt27Ijm+zNnzuCJWA2t1NXVQls8v2fvPqnpmGN5eegjVhWtlKSkZKlVoGKYoeEIBIeskhJw6FAi\/9DKyv9IjSrjbW3hPslDSgoDtLW1cfr0aalREBOzH8uXL+fLyMhInIfefL96zRqxCh7KXsDxY3k83tXycql5MSUlFzFt2jR+brpY5q17X2lYbW0tdHV0sGHjJqkBnBwdYGlpxU5FHTbW1rB3cJQSfcGPoaen16FzoAO2oKBQSqps+ywK+vpv4unTp1KjmVwRIHh6ekqJzrcsNi49I5NlpWE52dncMHDgILG5s\/CPTz9l+cSJk7JHe3Z\/sYv7kAc98NVX6PXaa3BwdJKt6nETG\/3o0VQpqWL9wThYWb0vpY45kZ\/PYy9atBinTp3C6tBQ9O7dGxXSIysNi4zYwt4oOjqa94GHhyeOH8+XrZqJEM\/Z29sjKChIRAQD8NFHy2SLeiiCuXTpkpRU+SQsTLjtBCm9mIz0dPaU5BV9fX1RWFgkW9oYNsndDX8Qy+5laRJnG+2vmJgvpebnRWnYb4cNQ3BwiJS6TlrqUfTq1Ut8jZ+k5udFaRidSQ0NDVLqOnS+dBRx9DRKw35paKWkpGDhwoWYP3\/+L+Yie7Tu3bvH4cv\/elGG3dTUxGfYbRHfqevzKi7KEWlcinpq2ui7bSk2Nj7iaDw3N1dqeobq6ioRIR1qF\/Z1i2FXRChFXnWSCK+MR4\/mQ1NTtNKdJIt0pb\/IRigTGTx4sIgx98qWbjIsJSUZfnPn8n3JxQvQ0dEFLfFXTVjYOkRGKhLPyIgIjBo1mu+JbveKFNq4ubl3Kt7rTpxEnrY+PFxK3WzYxo0bONarE46kp6C0589iKfr7z5MaBRoNa5t+t4VSc3UH+YoVK0RmO0dK3Qclt61Qgtk2f7snggJPDw8Rr0ZKzTNUDKuqqsLkyZPh5+eHD8aNg4nIZr+VqTaxXWTYlpaW4qtYYfPmzZyCnCkuRkpyEkfa\/vPm8RlCAXGDhtSFSnkhwcG4efNZfeJ5Vq8OxRwxSX90doat7XiO3l0nTIC1SJNMTU2xadNm7rdwwQIxrjaPFxAQgKioKNYTKobFx8UpUoHFi3Ht2jXMFQbq6fXh\/RKzfx+3padnsBc0MBjKcmnpv3H58k9IS0vjgkpsbCwXV+hsUYvwlpTHUQinDnruTX19vP66HqdPF85fgIWFOZycnLmIlCwnMTMzCwUnT4oU6CjixO+mcbOzc+RbnjPsb0GBGDRoMI3NFBUqSgP044cOfVslJVmxbBkb\/TLxJc0+rQ51XLlSxmN+\/U2s1AAO9nZcB\/nu++9ZpqITHcIdoWLY2DFjxDJUuG0iMyODB4mNVXzJkwUFsgUIEMuOsuvOEh6+XhnyGBgYYIZI4+n+k\/XrZQ8FVKPX1dXF3TbHRX39A0wX+Rb9BmtrG3EoV8sWzSgNaxR7gsptrRUnIihwKUaMMORlRi9tzU6JYe+8g5A29ZEXUVdXx7N888YN8QXsuZBDMunb8nfhhEaOfFdKimQyM1OR7p87exa\/NzPDyHeNlKtKE0rDzp4t5h9v9f449nwXzp9ned\/+GPZMdK\/YtC2I2LKF5X8dOaJ4uIuQYZpm3dTEWGTDz\/50cHN1hY74ghSLErNnzcRbb73decP27tnNhRgqkNjY2HI1ac2aj2UrsDM6mguSLi4uwjOZiGxZ56VK3eQVZ8+axc7peWjVUEi2X0xmK+Xl5bCzs+MirpOTk3AkY0Q8midbNaM0bJ6\/P4xkSFIiAkp1M0o6ypCp0EP1kaamZ2dKV6CzSF0sSbq2pfO2lF2+jHPnzknpxSgNMzEejb8uWSqljnF2doKX15+k9P8I8F\/oWTjNdVk7IAAAAABJRU5ErkJggg==\"\/>  .\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='16' Height= '26' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAZCAYAAAA4\/K6pAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKZSURBVDhPzZRPSJphHMe9xWKBsFoJLUrNZhPa1piXLjPSQ4KawcpJjAYy1F3Wduza2Iaj2UG3SuhShNrF7ZQIq+FgTt1Bow4KeimWM\/IQ2qzv3vfx8fUPa38v+8APn+\/z9fm+Pj98fzxUsb\/\/BVarFRaLhatg8AN1S6ysrMA+N0cVUBOwsfEODQ0NmF9YwNLSElwuFxOaoS6w5vUSf3zcQHfqAh4\/mkJ\/\/w2qarlvMqG9\/RIk3d3QaLR0ty5ApVSCz+dDLpdDLBZjZuYJTk9PiRcIBJDL5XDHYMAthYLssdQE6PV66EdHmXsHsby8DB6Ph6fPnlO3hFajgWJwkKq6gHpGdDoIhWKqSui02h8H5A4PYWLuGY1+pjuAengYPT2XqSpxZkA+n0dz8wX0XpEhFovB7XaTKywuuug3SiiHhnCT6VGZmiskEgmo1WpIJBJIpVLMzr6kToXp6Wk8nJqi6oweHB0d0dWv+WkTf4d\/D0gmk\/B4PKRpf1o+nw+8cDgMm832V2W32\/+HHtBPwu7uLra3t7G1tUVqP5PBt+NjTrO1s7ODVCqFbDZLznABBwcHELS1QSQSQSaTkXo9P4+9vT1Os9XX10f+oTbbC3KOC3i\/uUmM6gFSPDkhr3OhUCDFYjGbyVzIML+OhQtwOhxoabmI1dVVOJ1OpNNp6lSIRsLkIdVjjgu4OzFBTJVKhYGBATSea4TXu0bdEtevXWWGSeVNZOECQqGP8Pv9VAFjY7fR2tqGYrFIdDQSIQ8IfQoTXYYLyH7NcuOL5ZXTQQ6Uu\/3AakFHRwdZV8MF9DKvr0aro4qZRiM6dHUJccI0kqWrsxNmi5Wsq+EC\/OvrEAgEmJy8B6PRCKFIiHg8Tl2g6XwTfG\/eUlUG+A5TSjEbjiRrvAAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='17' Height= '30' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAdCAYAAABMr4eBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOMSURBVEhL3VVbSJRBFF4sRdLdcvFWallrl4dMjVotyN0uUGm5mYFYgUr2oEKpmWBqoA+pQWX4WCmVCeIaGd3c9W438\/LQumZWKEaC9iClKF6\/Zs4\/\/ttGTz5FHxz+OefMfDPn\/HPOKPAHKioqkJqaStLd3S2sEmpqamRfR0eHsAJ2JOnpaVi1yg3JycnQhYfD3d0dvb0fyFd45QqcnJyQlJSE49HRUKvVaGtrI59MYqqrg0KhwJOnz4QF8Pdfh4tZWZifn4e3txeysy8JDxAWqoVGE0BjmeRs0hn4+a2lcXt7O6xWK2ZnZ7GwsEC28fFx+i4iVKtFSMh2Gsskhw8dxNatgdAyp0qppFMdj4nB5OSkmCGhuKgIQdu2sVA9MDA4SDaZRLtzBy3MyLiAkZERmM0m0tMzMsQMYGZmBnm5uUhMTGTheSMzM5PsMolep4P36jVCkxB9zAAvNvlvKLtzmzYZGBi0z4lq5UqhSTjBwvH3X4\/R0VGkpKRQnhbRa+0hkpevXttImpuayFhUfJX+huX9e9Lz8i5TUvl4\/\/4DFNLU1BSijh6Bo6OT5BMchNycHJrM43VwcIBOp5f\/ysMaI1xdXODp6Un3x81Njecv6shnR8LRy45cWVmJ+vp6YbHhOwurqqoKRqMRY2NjwvoXkqXgHyIZHh5GY2MjGhoaliQtLS1Q8ATGxcUhNjZ2SRIfH\/\/fJVZ8CfVmMwoKCpDFGtGimEwm4QW6OjuRkJCAiIgIXLt2ncqDw45k964wLHd0hF6vl6WsrJx8fANeEnv2hEvJZGPDsWjyySTT09NwWbEChUXFwmID39HP1xd79+4TFuBmyQ3WCf2oGGWSL58\/UdGVlNxEaWkpysrL8ePnT\/J97OujnRubmtHX94E1LDNGWB1x8PYpkxirq2kir9CgoCAsX7aMGvE3dhnfvH4FZ2dnREZGQs2q19XVFS5MHtXW0lqZxGSqg8FggMXSQ\/rXoSGoVEqcPHUaj9lkvsGmzVvQ399PFcy7Hu8nvAfbJfZPnGQ3WROwEQ3sVnOSp789J9YeqbO9fdtuI7l96xZrgalCk3CEHX\/9Bg2G2Kn4grv37gsP0GOxkK2zq8tGUpCfT8YHDyoxNzeH1tZW0nNycskfEhzMOt5qRvgVExMTiIo6CqVSRe3SLpz0tDR6HgMDA+Hh4YFz584Lj9TVwtnT6uPjwxKuIXn3jr\/HwC8ecAhoKJC0awAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='17' Height= '29' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAdCAYAAABMr4eBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM0SURBVEhL3VVdSJNRGJ7hEEWn5o05Tcy\/wLLMsDtt5s9CZzQs509lXhgodlNRgtpV2jQ0ygt\/0MD86UabGUJNQRwqamAahhqmN\/5u4hRE0PTpfO933BwagVfRAy\/nPM9zvmff3p1zJsE+mM2rKCkpQW5uLgoLC2E0mrgjoqGhgTyhOjo+chWwCYmOVkAulyMrKwu+vr6IjIziDlBYUAAnJydkZmZCpVJBKpWy0LfkWULadTpIJBL09fcT\/zk9Tbyu\/g2Wl5ZoXlb2gjwBt29lwN5eSnNLSH9fHy1saXlH3NDbS\/y9rh1rZjNqa2uxurpKnoCS4mfkC7D5OnuGn58fjXl597ljC6F3MpkMmtQ04paQsbExhISEICY2FlqtFnFxcQgODmb6N75ChPA2p5nu7x8A89oaaZaQjPQ0uLm7cybC21sORfQVzoDJyUl4s8ZHRFyCaWWFq\/tCrirjEXruPGciFJej6BMFDLCGy2QuuJN5l\/h+WEKqq6qoD3X19TCZTGhrayNeVPQU6+trcHF2xpmzoRgfH6caHR1l43d61trYXeBedjY96MwesLM7htQ0sXFNjY1wcHCAp6cnXF1dyRcqMDCIfGsIx+zMDAwGA6amfnAF7E3WscT2ysLCAubn5y0laAIOhBwF\/1DI3Nwcuru70dXVdaTq6emBRK\/XIzk5GWq1+kiVnp7+3zWWj2hrbUVlZaWlqqur6Trs7TWQv7u7i5qaGmSzXV3MrtCVww6gRqNBQEAAVVBQEHx8fOgIPH6Sj52dHagSE4krFAp4HD\/O1gVicfEvO1atvs4up1PY3NzE8NAQBejYLSfAaDQSf64tJX5oSEtzEy3q6x8gvrGxgRl2pvZgXF4m\/9XrSuIHQn5tb+MEO63JN25yxQrhAKakpMDDw4PdfPFcPSSkuUl8i4mJSa5YMTs7i5ycHCiVStazk+js7CT9QMjF8HCEhV3g7M+Ii42Bq5sbzW1C9v5fyiteckXE0OAg8vPzORPx6OEDWivAJkT\/+RMZQ8NfuCKi40M76drSMmry15ERODo6IiFBRb5NiPCreHnJObNFRXk5NVTYR8KYlHQNW1tbzAF+A8+sON+b5vHhAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Cannot be determined\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu12": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>2<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Find the remainder when [(7!)<sup>6<\/sup><sup>!<\/sup>]<sup>1<\/sup><sup>7<\/sup><sup>7<\/sup><sup>7<\/sup><sup>7<\/sup> is divided by 17.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "1",
+			"CORRECT_ANSWER": "1",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu13": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>3<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>6<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Arrange the following in the descending order of their values: \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='71' Height= '34' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAiCAYAAAANicT2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAaeSURBVGhD5ZoJTJRHFMcXOQI2gQqYiA1aBaExWg9A0AqxKlShrVVLizY2lsOiVBSLIgYVBaRawYsmPUQRqRaDJgXFI0FQ0UJBAyy3QrQKBgSUQ0BF\/p15zCLIYpZdwaX9JRNm3sx+37d\/5r15M99KoAacO3sWPj4+CAoKQmNjk7D2D8+fP8eOsDC63x\/x8cIqnzcuTnZWFoYNG4aTJ0\/h62XLsGTJUtHTP6zxXQ1raxskJyfDzMwMZ84ki56evHFxcnNzkZiYRPXNm4MwY8YHVO8vEhISUFpaisePH+P9iROx\/0CU6OlJv4vz6NEjhIeHIzQ0tLPs3r0bUVFRSE1NE6MAD3d36Orqsoc9ICzK09bWhujoaLi5ucHPbx1u3bolejq4e\/cfNnusYWw8nPWVCWtP+l2cyooKWFlZYdKkSVR4feTIkZBIJIiIiBSjgKamJmRmZmDo0LdQUlIqrH2HC+Pi7EzXd2Z\/p06ZwkTXQ0ZmphjRQWNjI7mYra2dsPTkjbiVldVUzJr1IdV\/YjPI2dmF6jUPHtCXysnJpbYynDqZQNc4dOiwsAB2ttNgYfke1efMmY2jcXFUD98RhrFjzagujwEXJ2DDenr4yvv3qV1cVARzc3MsXLgIEyZMgIeHB9rb26lPHq0tLfD390dDQ4OwdCd46xa6Po8pMuJiY8lWW1uH6IMH2cx9B66fu8LExAR\/JiaKUT0ZUHHu3btHD7kxcJOwdMC\/aDxbVq+kpwtL7zQxd7CdNg01tbXC0p19e\/fQPcrKyoWFBXqWInDb9es3qJ2Xl0f3u3PnDrV7Y0DFWbXSG1ra2qireygsyvGRkxPaWL4ij9u3b8OQpQbjLCxw\/PhxhISEQFNTs0OcGx3iKMqAidPc3MyCrR7c3T2ERXEa6usRELABa9eupeTN1NQU3t7e1P6eudjLYhcWFMDOzo7yJ3sHB2wM2EjiFBYWiRGKMWDiXLyYQg+YdumSsCjO06dPmUtcRxZLGK9cvgwbGxukpKRQOzs7G0+ePBEj2T+BxZoHLLBz+Oc4O8JC6d6NbEXsCwMmztYtm6GlpY36evmBVFHamTs5zp2LZhaY5ZGZkUFCxMefoHZJcTF0dLTxpdsSavcFSdSB\/WxZndWZh\/Bib2+Pffv2s5xBvl8rw4JPP4ERS7pUhQfkGdOn9xqQ+WxZ+NkCEmj8+PH0l6+CVVVVYoTiSLgPa2lpYfv2kM4MlmeW\/KIrVnwrhqkOdwvuAqrCkzx+LZnL9Mbp06cRxjaYcSynaW1tFda+QeKMG2chmi\/4aulSEujhQ9VWlsHIs2fPaMtB4piZmQvzCzas9ydxZMHt\/wTfe\/GVjsQxNR2F4uIS3Lx5k3asMTEx0GDCzJ4zl2Wr4hOCuro6VFdXyy1dV43BTOfMWf2dDzQ0NFgOMrSz8KRp\/nxn3GUZ7ctsCw5muYq73JLLMs\/\/Ej1mDi\/V1aq7Ep9Fnp6emDdv3qApy5cvR0uXFKHXmNMb3OV27twpt5SVvTgb4ZvHYpZj5OTkDFiRSqVU5PUpUorYJpgfo8ogcUaNGs38rE2YXs35c+dozyKvVFZWilGDGx5zysvLIfH19YWlpaXC4qgjfJb+uGsXJk+eQid8MUeOiB7l4KuVoaEhJLUs0+RHCa84QlF7iooKYaCvj3y24UxLTaUURJW4ycVe5+c3sEcW\/QUP\/jwfy8+XwsvLC46OTuQaysLTEn7EqpbiSKV57As6kt935QbbNixevIj2f66uX\/Q4gog5fJhWHSenj1BTUyOsfae+vp4WF7UTh++iTUaMINfIy5MKK\/B3ZiY0hwyBra0tAgMDYWxkBAODt8HDAj\/vkZ3ycfjn9+zZK1rKo1biREZEQEdHB0ZGxiROQUGh6AHsZ87E6NHvihbYrCmAuZkZsrKyUZCfT+Ol+QXkWvwVT3LyWTFSedRGHJ5ffOzigt8ORuNEfDx9WR5gOfw1iqbmEJoNFRUVSEpKYkG4mPpkREZG0kplbWWNkNBQYVUNtRGn6xuHY8d+7yZOGdvn8Bnl4OCA4cbG0GcrE+8P3NT9oL6luVnp4wl5qGVAjos72k2ca1evUltf3wDp6ek0k34IDyfbmeTe33WryqAQp5yvHKy9NXgbtWXwTfI3ShzYK8qgEIdvBnW0tbHadw21Zejp6cJ75SrRev2opTixsUdIHClbhWR4eXqQLS0tjV4Chok3Cteu\/SVGvH7UUpwLF87Tjw2qWKbaFf77HX5CN2bMGLbcG+HnX34VPf0B8C9eZZbyhfZ2aQAAAABJRU5ErkJggg==\"\/>   \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='82' Height= '31' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAfCAYAAACf3SEqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAb9SURBVGhD7ZoLUM1ZHMevoceSdyq9tlrSKq80skx2NcPEjlXIahm2VtlRWanUVWZi9fCoS1atNYoSNWUps7QzKImk1IwiKla2PHonTUR995xzT4\/r3taWHu7ymTnT\/\/c7p3vP\/\/s\/j9\/v\/K8A7yG3b9+Gs7MzvIVCPHn6lHv7njNJSawfIpEITU1N3CvNeymiqakp4hMSsHevCMuXf8u9fUvJgwfQ19dHTk4uli1div37f+E10rx3ItInnpOTw\/4GBgTAZskSXtO3VFZWshlRW1sD68WLERS0k9dI068iCr29MWXyZMyYMQNxcXHcK+YkGYmTSZ3v1q1obm7m3nfDydERISEibomJioqCmZkZJk2ahO3bf+bedvz8\/GBgYIDfT53iHmn6TcSVK7\/DsGHDcYp0brOnJwQCARITk\/Dy5UtcOH+etwJUVVVRUHCHW92DPgRXFxf2HZs3e3Ev8GdyMvP5kxEfGRHBrnfs8Gd1JSUlyMjIYNdpaZegq6vLrmXRLyIWFRayDmdn3+AewMPDA2fPnWMijhg+HDExx5F4+jQ0NDTw9C2bC53+9+\/f55YkjY2NmDZ1CsaPN4Samhq8vYW8BrCYPRvmM7\/gFuC+yQ2jRo1moqddSoWSohJukM9227gRFhZzeCtp+kXEqKNHoaysjEOHDmHBggX4hqw5eXl5vBbIysrC2rVrYW\/vgOvXs7i3c35wcEBYWDi3JGl4\/px9D304nxtNwE8b3XgNiKhj4Ou7lVt0N05kD7e0tIzZcbGxcCCfvWHDBjx+8oT5ZNEvIgbv2YNBgwaxtYaGDw729qzzly+n8xZdw5OM4thYyTVVFvp6n2Kj2yZ2XVdXC0UFBQQEBjGbcvHCedaPB2Qqd4V+EXHP7t2ss9euZXIPYDxxIqytbbj1djIzM0kItJcVCwsL2NnZset9oaFkR63jrSQx0NdrE\/HFixcYqqKCgIBAZlNaRfyLhDddoV9EPB4TwzpbXV3DPcDXCxfCYs6X3Ho7eTdvIjo6mpX58+aR6e\/Iro+Rz66vr+etJOkoIkVbSwvOLq7cojv1Udavysoq7vlvSIhIn05BQQGKi4u5p3coKy1lnfXbto3Zz8m6pTJkCLw6LPpdwX3TJpw4EcutzqHTueOauM7JkayL6m3ZyNyvvsLUaabsuiu0iejvvwOamprQ09NjZSKZXqfJ7thbiEJCmJBWVlbk5vRgQuK02tpaXts11jk54eDB37jVOWM11LHe2YVbwOPHj6CrowNDQ0PMmjULCgqK3VqXmYhBgQHshiIiI9mNVFSUw8PdnfkSEk6yhr1BNtmFAwMDcfhwBJsF3aWoqIgI8phbnUPX0eLie9wSU1VVhfDwcOwm63R3Z6DgHvnHAQMGkEU5lLvasbFejOEjRrJY6yPS1JEBt5VkVIJfw8OgSIJKWXHQubN\/sNGYkXGNez7SkXKSBFjOnQvBli1CaGvrolHGdLqVn89EfDMGu5yWhvXr18ssDx8+5K0+HASikGAMHjwY5eXl3NVOxtWrTMSLKSncI4auX9XV1TLL69eveStpnj17RjKLsLb4Tl7LgQMHUFPTHp4JcnNzmFCtIUJDQwMSExNJmtREMgHx5tIxnqPcvnWL7IYHZZaKigreShr6xT4+PixP7uvi6enJiqy6rhahUChxn2x3diR5qpKSMrKys1FPRstskpgbGHyGgQMHyjyMvHvnDo4cOSKzVJLd7kOBzrpSGvNSo6WlBWtWr4aKylBMn24GU9NpJGZSYPmtl5c3CR86T77lgatXrsDGxgarVq0iYc517n13aNKgoa4umbEU3r2L+Ph4FmTTuCs3NxcLSTqWkpLKW8gfTU0vMcnEhKR00TiZEM9mWE9BRyIN9CVElCfo0ZYs3sybW1qa8YSEb\/S438dnC5Yts+U17w5d4+k6K5ci0pRxZofDVEp+fh7Mzc3ZyyUjIyMkJZ3hNWJoWLZo0SKsXrOG5eo9QWskIlci0lFFQzIaMYwbN557SdBb\/hSjRo5kbwbpyyV7++9Zm6KiYrx69YodyrZC17CLPbw8yZWILs7O0NTUYkdf9Li\/lf2h+\/AJiXU7EhwcjLKyR+yof4KhIdzdPRAZGQEdbR38TTaEnkSuRExPT0cdCcF27QyCuroG9wJ2K1bA2NgErq6u5K8xLC0tJd650Jhum58fiTS8UFhYyL09h1yuiT4kVR07VpNbYO+F6fS1tV2O5ORkMq1tSRY2pMsn1N1FLkX0JbtsRxEXWFlh9GhVbolRIDHuv\/1qoSf5X4j44zonaGlpc0sMfX+yc9cubvUuciniFqE3xoxR4xaQmprCpvOxYzHMpr+eoHbGtb45wpNLEUP37cO0N96FiEQh7EX\/\/PnzyajUIrtzCK\/pbYB\/ALBd+mO\/4zWRAAAAAElFTkSuQmCC\"\/>   \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='78' Height= '31' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAAfCAYAAACiT0BMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYoSURBVGhD7ZprTFRHFMfXIKCgNtqIKCoogi3YxNhE+aDYDzQRtMZoW3lVFlTYRlELSoMBmrQFLeADMVKWxqgExQoYnzQsSAVMS3lVS3kpKDaIqAsCGl\/gvzPHYXnsYlnAG7bxl5xwz5kLy\/535sw5c1eGEUSSUolNmzYhOTlZRKSlrq6WXn\/79u24ffu2iGozYkRTZWXBwcEB5eXlcFq0CLm5v4oR6Vi8eDGUST\/h6JEjcHV1E1FtRoxo9fW3UFtbh8bGRjg5OSHj9GkxIg0dHR0oKSnBs2fPoExMhIvLx2JEG8lFS04+Bnd3d6xcuZJszZpPcf\/+AzEKbNy4AbNn26K0rExEhsb69euhVCYJD3j58iV2RUVhwYIFmD9\/PoKDg0moLn7JzKSxrdu24cWLFyLaG8lFm2tvD3tmvr6+ZP7+\/lCrm1FRUYGqqiq6Z\/++vWypLKHrwcLFUSgCIJPJ8O1334sooAh4FVMmJeH48RSYmppirbsHnjx5gry8PHEXYGlpid9+LxRebyQVrbW1FUZGRsi5lCsi3cTHH8DUqdNIuBXLl8PHRy5GdFNVWakRuS\/tbW2Y5+iAOXZ2mDRxIiIjoyjOhVzq7IyYmFjyOXH795GIPC1Yz5yJRDYr85l4E9nv3bhRK+7qjaSilRQXYdSoUVi3bh1LtK60UzU23qUx\/oaio6Np9u3YsQNtbe0U74+doaEICwsTXm8ePmzBwfiDePr0KaxnzEB4eIQY0eYLby9MnmxB19euXoVcLoe3tzdUqmyK6UJS0X4+eZJE8\/DwRFxcHJsNjrC1tcW9e\/fEHQMnhgm8Z88e4fXPFAsLRER8I7zeXLxwgWZZenqGiAwMSUXjibW+vl54QBtbrvyf3rX7BxF5PZVsSSYkJJB9smIFbSRdfteM7YvllCk6RVMm\/kgfYHR0jIgMHElF4zOqoeGO8F4xztycbQYK4b0ensOUrADmxgVbtWqVxr97d+CiRYSHwcTEFKls5g8GjWidnZ0ae1MEB30Fo9Gj8ejRI\/JLiotppp07f558fRjs8ow\/EEevWXDliojojywqMpIq8Z7G80yAQqF5c8NFTXU1rKZNg43NLJZsvWBubsbqqA1iVD\/4RhAeHi68\/jEbOxYhIV\/TdUtLM1uSMhKNlz1WVlZkdnb2euVVGd\/BJk16F4WFhSgqKiLjFTH\/w3K5r7ht+FCr1bQJhISE4FRamojqD\/8AampqhNc\/Waw9q6qqpuvHjx\/j7NmzOHPmDE6cOKGxU6fSqE4bKCQaV7ovaz\/\/DOPGjxfeWzi8\/tu3d69u0dTqB7CwmAznpR+JyFs4TWyz+ZC1WLLAwECMGTOGmmRuCxcuhCOrn5Ytc0VdXZ24vZvdu3chKChIy3r2d\/93ZJs3b6Y+Ky0tHampqXBesgRmZub9nifxOuv69eta1reU6AmvzNPT05GSkmKQdpKVJu3t3R2K1vLs7Oxg\/hxYW9voTI4qVRYyMjK07MprtvA2lgu2bNmiadKlMj8\/PzJdY\/pYAGvym5qaxLsRovGjmI6O7vqsuOgP2j2DgoJFpJvDhw8jNjZWy\/RtRQwR3h\/zHZhEs7Ka0Us0TiBbtly4y5e7j0sMiezsbDoYCA3diebmZhEdGncaGmBjbQ0ZT\/alpaWkYk94n1hQUIDaWt3HIyOZf1g+5kc7mZmZ8POVw9PTS4wMjefPn8OHfRCS9p5SwZcQb+558g4I8MfWrdvEyNBobX1Ix1kGI9qtmzfh7OzMyqCb5Jex1eHi4qIxNzc3eHh4IJK1hV0kHDrE2sL3ER9\/UGslDQY+0\/jmaBCiVVZUUM\/Kc2w1a584\/Ccvl7jxWtPby0uzefEclpOTQ\/fxPMSXanNLC\/nDwYgX7eLFC6yxN6fHa8bGJv32m95ennCc9wFd8+eXJsbGuHQpl46z5859T6\/e8r8Y8aLxg4QslQrlf12jE4rqam3RzrEmnM+ysrI\/ReTV7smfRCkUX7Li+4aIDg8Gk9MK8vPF8tQWzd7eDqtXrxHem8fgRSvIz6N4UVGxiLx5DF40uY8PrKZPF540GLRovIyYZWPNKn8fEZEGgxHt7\/JyOsLq+RUGzjsTJuDoMSm\/ZQT8C3\/FRy9I2YisAAAAAElFTkSuQmCC\"\/>   \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='66' Height= '33' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAAhCAYAAABtNH0cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAZxSURBVGhD5Zl5TNRHFMe3KkhAIgEteFLQYkGEKgVbbWILVMGkHkFFkNZqPPCutVY5jIILUtD+oVBr6R8VkUaioFAXm1gasbIcjVJRuZZGsB5cKqAgh3w783ZWWGCtqxxL+0kmy7w3v2PezO+9Nw8J+pmMjAxs2LCBWkpqqpD2DvHxx549Ky\/vTyFV0u+GsLKyQlJyMuSZmTAzM8PDh7VC07MoSkpgYW6B\/GvXEBMdDdu37IRGSb8aoqGhAdnZ2bh\/\/z4SEo7DxsYGd+\/eE9qepaqqClcuX2G\/lQgMDMCsWR+gtbVVaPvIENXsJdauXQNHR0fMnj0bZ8\/KhEbJTwkJmDp1Klxd3VBXVyekL4dMJmP3caVnrV+\/HlXV1UKjJCRkD6ytrbCO6frUEE1NTXBxcYGhoRGCg3fBzc0VEokEFy5k0ItUVFSIkYCjgwMCAgJFT3vS0mR07+nT32WrHggLC3NMnmxPO+\/x48e081QYGRoi9eezotcHhlCUFNPLxcUdExLAeNgwbNq8hVbf2NgYv6b\/hrKyMpiZmiI6OkaM6kpzczNu376NtrY2IVHH+R0nTJz4puiBjf2bnn0iMRG5OTkYPtwE5eXl7HPMwuBBgyGXZ4mRfWCIB2wVRllY4LMVK\/Do0SP8fvEi9PX0cPDgIdLvj4qCk5MTnJ2dsW3bl2jpsF07U1RYCIcpDmhsbBQSdUaNssDGTZtFT8nYMaOxZIk3\/b2RRQv+nGnTpuHQoWiSqegTH\/HLuXO0Mnz1+e+cOR5Co6S5uYm27r9RUlyMSTaT0NLSIiTqzJzxHiZMmPjs279y+TI9z2vRYupz+GJ0d32vG6Ks7CZzTtZwdXPDyZMnERoSAhMTExzstCKaePr0KXn8yspKZF66RIbg25v3a2pqxCglF1lOwiduaWmJBQsWYPz48RgxYgQzxCIxQjO9boioyEj2cq+hnq2EinX+azF0qMEL7QL+afn7+2PlypXw8vIiIy5fvpz6OwMCuviLsps3KWHy8\/NjDvkCM5yN2o7QRK8bIky6F3p6+mxl2194V3AQrZy2obK4qAh2tnYUibqDh06ZLE30gBoWOvlzYmN\/EBLNPDNEfX090tPTkcrS3KKiYiF9dXJzc+lllvr44Nr16zjFPg\/e917qI0a8OAU3bsDayhpPnjwREnW+2r6d7n3qVBKuXr2KKfaTYWpqxj6h9rCpCTJEypkz7AJTGBgY0C+\/2bx581m6+5AGvSpxR4+y9NmUfQ5DMWTIELbFF+HBA+3vXapQwN3NXaMh+GIu9fZmoXEQ9PX1YW9vj6ys9hD5PCTl5WXMmw+Dj48vS2\/vUmhKTUkhY\/j4LhPDXh2e1CjYRO7cuSMk2sP9QUtz9xGjI9yZKhSlovdiSM6lpdGkc3P\/ECIlATt3YPXqNaL330dSzRyKna0thZqYmBgUFBQI1f8L8hE85Hzk7k47g7fRo8dQrl7HvrnOnD6djIiIiG5baelfYtTAQy18VlTcwxnmOP2WLSODeHh4donTcrmcEqPuWscjNM8R8vLyBkyTxMfHY\/fuPeL12\/nmwAEyhqJU3enw9JQffrprPAtUUcjOBZ6ensyYHjrf5s6dC8m+8HCaMD8WdyQ8TEryex2OyZzDh7+lrK67lp+fL0YNPCQ8u3Nz\/ZAmzdNSqVSKJYsXUz8oeJcYptsoFCUIDQ1lR\/04IdEe8hF8W0fs24cZ7PTGKzu8UtSxfqDL5OTkwMjICFu3fgEXdsT2++RTodEONWc5EOH1jcjIKPr7yJHvWBpgSX9ri04aIjkpCZmZcmWHRS1+Bkph2a6q8cPV+fPncZ2dPVR8vmULpe+qgo+26JwhVEWcoCClf2pjkYjXPHmpn7eRI0fSLx+zY0cAjeHwcn1qagrGjR33UvmMzhiitrYWQSyJ4xPkLTJqv9AoC8CqxkP0\/Hkf4w0rKyrM8N2zatVqGtfY2EDXZmXnUF8bdMYQCcePUzUpNjYWenp6CAsLFxp1Ticn0WRVhdd8dtzm1y1cuBBvM0fv4+ursZT3PHTGEPzIz0+orWwSfKJSaZjQtMN15uavd6k41bJrExNPUEXqZdE5H1HJEjhNhog7+iPpSkoUQtJz6JwhqiorNRqCV5xmznxf9HqWAWOIW7dukfzI97FC0rPorCH27pUKiRJVrbOwsEhIehadMwTPG3jttPN\/oqIiv6Z6au8A\/AOjhQIqFTps7gAAAABJRU5ErkJggg==\"\/>  .\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Q R P S\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>R Q P S\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Q R S P\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>R Q S P \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu14": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>3<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>6<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Mr. Khan, a political leader, gathered exactly 100 attendees for one of his meetings. He never allows girls to attend his meetings, while women are allowed to attend his meetings, only if they are married and come to the meeting with their husbands. Also, at least half of the men who come to his meetings, come along with their wives. If each man is paid Rs.5, each woman is paid Rs.4 and each boy is paid Rs.1 for attending the meeting and Mr. Khan paid Rs.200, on the whole, to the attendees, find the difference between the number of men and the number of women attending the meeting.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>12\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>8\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>4\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>10\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu15": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>3<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>6<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\">If &alpha;, &beta; and&nbsp;<\/font><\/font><\/span>&gamma;<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\">&nbsp;are the roots of the equation <i>x<\/i><sup>3<\/sup> + 20<i>x<\/i><sup>2<\/sup> + 10<i>x<\/i> + 5 = 0, find the value of <img height=\"35\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAAjCAYAAAAuVaJ4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAU\/SURBVGhD7ZltTFtVGMcrJKALL36YIUE6EheMAlEKkr2A2ZgTTIYJm4kEk2EczC+EFTamIFC2xDLaIRvgAM0AIRkZL0v4IuD84CiWt\/LqAixAAWFMSIAPvIe3x3POfXppBTPSe0qM2S+5oc+\/D7fn33vPOc9zK4NdGB8fh\/z8fNDpdKjwY2VlBfR6PWg0GlhbW0eVD0ajEbKzs6GnpwcVgR0mZ2dmIEOlAnt7e6iurkGVH\/SL8\/dXgFx+CBU+TE5OQoJSCXZ2dtDc3IKqwA6TGxsbMDoyAjKZDO7eLUaVD5ubm+xvbMwFcHFxJZ8lxDyg525ra2XjrqurR1Vg19t1eGjIJiZNUJOurq9yNUlpbtbv3eTQ4KBNTcZc+MImJvX631+YtOCFSQ78J0wah4dZcnFxCSp8uRgbw0xubm6hwoeWlmY27vr6BlQEdjXZ1dnJkr\/LuYUKP7a2tiD8zBl2\/mVSGPCkru5ndt7KympUBHaYnJ2dJUVANcTFxcH3d+6w6ocX1GB\/fz+kpaVBfHw8NDY2wtLSEr4rjempKSgrK2PjLi0thWfP\/sJ3\/uVK\/t\/gZjIvN5fMiVaM+DFCqi+1OhMj6+Bm8r2AACgsLMKIHzpdo+Q6l5vJD0+fhnv3KjDiR1dXJ\/j5KTCyDtkM6To6OjrAYDDs6ZiYmGD\/SBcMcz0wMBAyMjLEeGBggOVRhsmWZJ6729Hd3Q2rq6ssf3R0VNRLSkrAy8vLIndubo7lLS8vP3fsvb29IKMrXGJiIiQkJOzpoCsYhbU2ZrpcLofQ0FAxziVz1ERBQYFF7m5HUlISm3+UiooKUY+MjISDB1+zyO0hA6fQ\/OeNPTk5md\/tGkYMVlZWYcSPx4\/\/AIXCHyPr4Gby5IkTNqmQaPvk7e2DkXVwvZJlZeUY8aO1tQX8\/QMwsg5uJqdIxbGwsIARP+hiROe\/FLiZ3Cvl5eVsFU5NTYXa2lpUbcu+mlReugQeHnLo6+uH9vY2cHFxhitkVbU1+2ZyjhT+tEPIMetsUpK\/Ztr09DQqtmGHSboRd5JWywTtHHh0CmNjo8xQXl4+KsKVlclegvn5eVSsZYsVHOasr6\/D4qIwbguTVy5fhqNHj4FWq4GoqCj2DX8cHk5ef4YZ1jM+\/iczWUDqW4OhHWpqauBNUsmU\/iQUF1JIJ62bs7MzpKerWEy\/UFqcVFUJfaVo8qZWywYxMPCExXQQERER4ODgABrtTaZJwWSy6Icf4ZeGBvakmz5kVmfewAzroHdZ5KeRZKtpheDg95mWqf4WXjlwABYXFlksmvQkzn1938FI4FTISTawwcFBVKzHZPL27e1yr6lJxzQpz5LW1tbAOGxkr2NjYlgNrPDzgyyNlmkU0eTLjo7wAekkzDl39iwc8vTESBomk7m5eagQyHx3dnKC40FBKEjjVk4OKJVKcrF8YYYsdCZEk3KP1+HIkWMYCZuwo6MDnD8fjYo0xDlZUIiKADUZEnIKI2n8+vAhOJHzpaR8g4qAaPJGppoNYmpKWM4zMT4eFMzaq6IiaQ2xyeTVq1+hAqRNMjDt\/v1KVKTxhLR3bm5uZIcYQ0VANEl\/6Pk8OhrCwj6Ca6Qi8fHxgd8ePYLr16\/B4TcOW8wla6Am6S9lQeTWVKlUZL\/MIQtFMKjVasyQTn9fH5w79wlG24gmTYwYjazZpA0phe6T\/9yDrGHy6VN21egjEnpn0M\/gXQRosrLIxfHFaJsdJm1FD1n1qMmaBw9Q4Y\/C7114621vjLbZN5NNukZwd3cnt63w+MQW0OIi9uKXGJkA+BtJnt6hpaAkyAAAAABJRU5ErkJggg==\" style=\"vertical-align:middle;\" width=\"57\" \/> . <\/font> <\/font><\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>-4\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>-2\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>+2\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT4": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">+4 <\/font> <\/font><\/span><\/p>",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu16": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>3<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>1<\/i><i>6<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Mr. Vincent\u2019s family consists of six members, himself, his wife and their four children. It is known that the average age of the family immediately after the birth of the first, second, third and fourth child was 16, 15, 16 and 15 years respectively. Find the age of Mr. Vincent's eldest son, if the present average age of the entire family is 16 years.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>8 years\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>15 years\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>12 years\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>16 years\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu17": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>7<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Arun and Varun can complete a piece of work in 50 days and earn Rs.28,000 in total. If Varun is thrice as efficient as Arun but leaves after the first 30 days of work, what is the amount (in Rs.) that Arun earns for the work?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "15400",
+			"CORRECT_ANSWER": "15400",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu18": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>8<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>0<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>If <i>x<\/i> + <i>y<\/i> + <i>z<\/i> = 36, where <i>x<\/i>, <i>y<\/i> and <i>z<\/i> are positive real numbers, find the maximum value of <i>x<\/i><i>y<\/i><sup>2<\/sup><i>z<\/i><sup>3<\/sup>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2<sup>7<\/sup> 3<sup>8<\/sup>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2<sup>8<\/sup><sup> <\/sup>3<sup>8<\/sup>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2<sup>9<\/sup> 3<sup>9<\/sup>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2<sup>8<\/sup> 3<sup>9<\/sup>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu19": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>8<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>0<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Find the number of ways in which 14 identical and indistinguishable balls can be divided into three groups.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>17\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>16\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>18\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>19\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu20": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>8<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>0<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\">In the figure given below, ABC is an isosceles rightangled triangle, with AB = AC. Two semicircles are drawn, one each with AB and AC as diameters respectively. Find the ratio between the shaded region and the unshaded region in the figure. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><img height=\"189\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAALEAAAC8CAYAAAA3t08bAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACIPSURBVHhe7d0LvGbl9AfwkVxyrWEUlYgapbvcCiWiyGAyKhQxRBoal9xJFKUG0Q1dp4umxkepERVFJfdrIdQUuVTEVGoKz9\/36axxOv85c97L3u\/77vc8v89nf2aeffZ72\/u3117PWr+1nilpFP75z3+m6667Lm833XTTyN6CgsHGPUj88Y9\/PG2\/\/fZphx12SK9+9avTT37yk5G\/FBQMLjKJlyxZknbdddc0Y8aMdNppp6UvfelL6R3veEeaOXNmuuiii\/KBBQWDikziY489Nj31qU+9B2FvvfXWtMsuu6Q99tgj\/fvf\/x7ZW1AweJjCD0bU173udSO7\/ocrr7wyXXzxxYXEBQONKX\/\/+9\/TrFmz0l577TWyq6CgWZjyj3\/8I7385S8vJC5oLKbceeed6S1veUue2N12220ju++GSd7++++fJ34FBYOKPLHj926yySbp8MMPzzvhF7\/4RXra056Wdt9993T77beP7C0oGDwsixOLESPtbrvtll7zmtek5z73uWmfffZJV1999cgRBQWDiWUkvuuuu9L8+fPT3nvvnbeDDjooXXvttSN\/LSgYXCwjcUFBU1FIXNB4tE3i66+\/Ph1zzDHpU5\/6VDrssMPyduSRR6bjjjsunXHGGenMM89MZ599dvrhD3+Y\/vSnP428qqCgPrRN4q9\/\/etpypQpedtiiy3Seuutl\/9\/r3vdK6211lrpsY99bHrUox6Vtt566\/TiF784vfOd70xHHHFEOv744zPJL7zwwrR48eKRdyso6B5tk\/icc85JD3vYw9IznvGM9NGPfjRPBqdOnZrufe97p7lz56YPfOADabXVVsvE3mabbbKIaNVVV81jr9tggw3yvk9+8pP5tWeddVb6zW9+M\/LuBQXto20Sn3766emZz3xm+trXvpaOPvrodOihh6aHPOQhaY011siuhuTJpptumkl76aWXZt3FC1\/4wjzeaaed0nvf+970+Mc\/Po9XWWWV\/H9\/556w1Oedd1664YYbRj6toGBitE1iWTxWmOZCCI7SDSG5EH\/4wx8yiSVO7Lv88svza0g8jb0WxJ+NkXfevHlps802y+P73e9+6XGPe1wWJC1YsCBddtllWU1XULAitE3iL37xizkpEpO2H\/\/4x3nMVVARcscdd6SNNtook\/KSSy7Jx4Ql9lp461vfmsdi0cCaG2+++ebpwx\/+cNpyyy3TSiutlNZcc830hje8IRP6pz\/9aVHTFSwXHZOY1Q2wuC996UvTwoUL0y233JKe\/OQnL5fEJ598ch6\/+c1vzmM+NUh3G4cclMtizN141rOelV0Ok8hDDjkkuzF\/\/vOf83EFBVAJieEHP\/hBes973pMF9tOnT8+WdCISH3DAAXkcljhIfO655+bxs5\/97PS3v\/0tnXjiiXniaN\/aa6+dXvnKV6bzzz+\/1AEWZFRGYvj5z3+e9txzz0y2+9znPi2TWKzZ2GuBRTdW7wfe9\/73v3+aNm3asjrABz3oQekVr3hFWrRoUUmPT3JUSmL40Y9+lGPESCg6AS94wQvaIrEaP2OWGLynm2L99dfPE8pf\/\/rXafXVV8\/H8JtFPb761a+mv\/71r\/n4gsmFykkM3\/\/+97O1POGEE9J\/\/vOftPPOO3dFYtk\/JOYb0zYT8q+77ro5mmFyKEIizOdz1AkquSqYPKiFxIB4snUI+fznP78yEt988805MsICP\/jBD05XXXVVjitvuOGG+TX277fffrk+sGByoDYSg7CYqhH+LIKdcsopeX+3JBadkOJ+4AMfmH71q1\/lY7bddtv8mpe85CVZCy32fOqpp5aqlEmAWkkM\/FlhsrpIzOKKH2s54DUiG7QZEjIsdfTO+Ne\/\/pXfq2D4UDuJAZGRClnh7W9\/e20kJjAC1SnGYs1cDZnB4isPJ3pCYhBHftvb3pa1EXVaYu8PkQ73GZ\/\/\/OdzZEMcupRbDR96RmJARgIgky8Ei4xdHSTWhsCYXwx6yxlvtdVW6ctf\/nJJYQ8RekpioLVAToQKSxwZuzosMcE++CzjlVdeObsXBx98cKniHhL0nMSg2+ZTnvKU3LQQPvOZz9RG4qOOOiqP3\/3ud+fx7Nmz0xe+8IUsUtIw5o9\/\/GP+e0Fz0RcSw\/e+97207777pgsuuCBriRHMZAzqJPFHPvKRPBZLNuZ2XHHFFXlfQTPRNxKDzJ7HPOklQoUAqE4Sh\/WXeDG2ScaE9rmgeegriUFCRHICmXrhTsgiwuc+97k8fvrTn57mzJmT9R4KXAuah76TGBCZNdYPDpCpVyRm\/WX1ZBa9\/0knnZT\/XtAcDASJweNc2ZJq6iCxVDLUSeKXvexleUxxZ\/yIRzwi65cLmoOBITGY7IkdqxJBqOc85zl5fy9ITGQv\/GafimyV2AXNwECRGAjgd9xxx0ym7bbbLu\/rBYk9AfTOEEOWkHnSk55UXIuGYOBIDHxkdXr0FiCu3AsSG7P++jQrWGWR9cUoGGwMJInhO9\/5Tnr961+fKzZk+RBWOX\/dJHbzwDXXXJOF9pIiJfw22BhYEgMfmUWUFFEoqgC1FyQm2yS2V9Nnn\/DbL3\/5y3xcweBhoEkMsmmE7siExGrsekFiYvuHP\/zhWdBPD+2pwDoXDB4GnsTAR0ZSdXXq62688caekFhFNT+ca0NcT2sxdl2Tgv6jESQGfql+E2SUauyQ6wEPeEDtJH70ox+dq6hVhzzykY9MBx54YC5+LRgcNIbEQFiv6ybpJn\/VxKtOEitvQlw3DQscN44uRAWDg0aRGJBW0xSE0zLWhKtOEmuUSK4pNb3xxhvnY4T+SjvawUHjSAx8ZBEDPjGyQd0k5otHo0TNE7Xs0neuoP9oJImBjFMneu1ily5duqxkv04Si45o2PLBD34w30Raajm2oL9oLIlBFTVySg9rC1s3iS3twPr7XJ3u+cjFP+4\/Gk1isPKp0BcC2oJUdZFY+lsaXPk\/fYUG4hIwBf1D40kMSBUNWoLEUe1cJYmV\/cscyiQCMT\/RUHTAL+gPhoLE4BGPVNYRgSjRr4PE\/HF43vOel19jDROdOgv6g6EhMRAKqaGjPItOnHWSOBol2hS7liRIfzBUJAbhN22yJEKQKyxznZZY6I011geuoPcYOhIDH1l93mgSv+td76qcxLTHXuO9dtttt1yRUhp99x5DSWJAZJm16DPxoQ99qHISqzzxGq81obSaqsbiBb3F0JIYlDVFE8M63ImwxFoMSH1b1sH6JBbLKegdhprEIGohw6YqBOG4FVAlia2ECjTH4sjRxLCgNxh6EoPJXjRoCUt8zDHHVEbiM888M49nz56dx8J7xPsFvcGkIDH87Gc\/yyKhvffeO4+t+l81ia1+aqx3Bd1zQW8waUgM9MiW5DUJ0xmzLhLb+OIlbtwbTCoSAyJr0CKui2zS01AFifnExlOnTs1p8CIO6g0mHYlBg5YddtghE27WrFl5X5U+MYtMJqq\/W0H9mJQkBuo3jb5f9KIX5fE3vvGNrkmsOaGxNULU4tEclwqQ+jFpSQzUaBbB0aBFs++qSCx8x7Kvs846WXdcUC8mNYkBIfnIKqkR0G\/rlsTEQPTGkh\/R\/b6gPkx6EoMGLdwKBBSGE1XohsSf+MQn8lgd3hOe8IScAi+oD4XEI+Aj+11bbLFFTiHzZZFYyX6nJGbhjWOps4J6UEg8CnxkRNTkmyXWxqoTEh9yyCF5bHJnvPvuu2cXpaAeFBKPAdHQ\/vvvn10BfdjWXnvtrknMRSHYL6gHhcTLgYYs4scIqI2VDkCduBMHHXRQHmuHZa2+gnpQSDwO+MjivNwJXThvvfXWti1xkNgmDV1QDwqJVwApahUbpJYqNjbZZJOOSaz11l133ZX3F1SLQuIJwJd93\/vel90BroUOQJ2Q2Hp53\/3ud\/P+gmpRSNwC+MiSFsioKyYLDa2SWO82Vty4oHoUErcIoqFtttkmV26IYEDU2I1H4ohOOI4g6LWvfW2OQRdUi0LiNqDUSWZPMai470477dQSiU3q\/N+yDXfccUf+W0F1KCRuE0qd1Ompo1NN3QqJxZ1Vkmy11VZF1VYDCok7AK2FJXxFKpB04cKFef94JNbd3jHTp08vfdtqQCFxh1CzFz5xkJjPuzwSW6GUXlkrWEuaFVSLQuIuwLVAZNJLYJ2XR2I9LyjZnvjEJ6Y3velNZXJXMQqJuwRyamL4la98ZVkYbiyJ9Ya76aabckhOYeqdd96Z\/15QDQqJKwDXgrWlekNaqztBkHjOnDl5rNJabV+JUFSLQuKKII68\/fbb38MSh56YCwHcDrHm0uaqWhQSV4gQDZFxAjXbaBKrvVPpYYXSgupQSFwxaC0kNxSfhjsRJNawZc0111wWzSioBoXENQCRhdJEI5BYRTUgsZq9aEBYUA0KiWsC1yIatIQllrXTwf6II47I44JqUEhcI2T2nCtdMkGqWsmTRRwLqkMhcc2geBNa4yPPnz8\/SzkLiatFIXEPILMnUmG1pZVWWqmknitGIXGPoB2A8BsfWdZOlYcsXkH3KCTuAjoFISKCaqpt4mahG90w6Sjmzp2bU86601v4xupKLPFDH\/rQ3PONHtkx++67b\/abpa2NxZkp3yRH9HT77W9\/W3odrwCFxC1CkaesHO2wejtpZrri97\/\/\/TmEps+xRWc23XTT7PeyuGM3691xKdTq6ci566675v2qRd74xjfmJitxrHgy1Zv3s14ekvsc64\/ouqnOrzRkuRuFxOOA0sxSt1Yn1dmSJUVajbQ16LbaPj3xaqutljbbbLNctSGlrKyfuxApZoR0vhCW9WVpieQRMVZ08vqw6uLIilFl94477rg0bdq0fAyr7X1XXnnltMoqq+TXaILIvz7ppJNybHqyquMKiUfhtttuSxdddFH67Gc\/my0el0CsF2ERyQpMrKIm2gj9mMc8Ju8nhqdiiwUgVUfDwQcfnMdcDOE25Efmb37zm2nx4sW5HYC\/KyIlCnJOrfehsDTOr5X8HaM41THR4d5n7bXXXtli+35uENaaXmPRokW5K+dkQSHxfyEMxupxDZQQIYnV81dfffW04YYb5sVqEEYnH5bQyktIGBM1BAbHGM+bNy+PP\/axj+UxUvObuRDWnP72t7+d\/66K2nvQU7iBrr\/++kxi1v3qq6\/OLszmm2+e3yNeE2tWn3766XnsuxlvvPHG2ad2Y2m95UbzPS677LJ83DBj0pL4yiuvzEQwgQqicA80xiad5H8as4qsKP8ToU3Moq9aqNYsxgizR5Y7iDZWoZ0wUUOmLbfc8h4kBjfQnnvumd\/DjYGAq666avrd736Xli5dmt0G7+EJAdwWYzFnMHE0jnYAoZxzw\/m+rpXfePLJJ+ebZhgx6UhsQkQqaV072TNWjwWLymVEQ1iEkiLWxuqGG27IlnL69OmZ2K32nRhN4ssvvzxP7EQo4iYIGPO5+bc+ky55PBIr\/TeO5XdFNowj9nzkkUfm8cyZM7Nazr\/GniwKW2mdx35+0zEpSKySAokOP\/zw7Duuu+66mVAu7o477pgnRN\/61rfy2CMfoj+xiZaGghZX7LQrJhKLC2+wwQbZkrLsY2ESqdWV403muBPtkJgPD36jMesO\/GNjN4aJoP7LXKZPf\/rT+ZwMA4aaxEiAPKwPlwEBkeLcc89dNuky0YIqF54Zj8RCZjNmzMgEXR6QW0QjfGLfo1MSC9eBdLexiSAf+\/zzz8\/RDfv44iadTSfzUJKYZVX7Jp7L+ln93ubCiSqAiZxxLMZozTnjukjMBWENrePBNRkPGrSIORML3XLLLbmHm\/folMQmncZuDuAX+11i2a961avytSQZFUYUB28iho7E1113Xb7AviOLpsG1R2eEs5TPQ5ULlLdCYq\/xfbgTE8VzaS18T1EQ1pI\/2y2JhebAe5sLCBfeeOON2foL0zkGmWmetbJtEoaGxPoHcwlMnKb\/dwImtevChHZXmMs4FijvNYk9stdaa62cLGklKeHzY4VSYb2LL74476+CxJIp5gVLlizJm9\/lGKugmtia6Iplc8eagMaTGOE8Bs3ukZcPSfoYVRXHHntsPo5lM+4XiS+55JJsVSMR0goI6+MzgsR8auNuLbF4sp7LrLGwooSJqIWIhr8xAloROH7Q0WgS33zzzfnxJ9DvItAgCDGxIKFLOOqoo\/KxkeLtB4ndQN7f92x32QMkosnwfVnw+F1Vk5iPHH3iIiso8eJaS2sPslVuLIlNUGSrPP5EHu573\/tmgl144YX57xGuGgQSywRKrHhK+Jx24Umz3377pQULFiwreaqaxCIW+mcAt8JrpN894SR8PEEGtdVA40jMGvF9fQeWV8bKyRffdeJjZftddtkljweBxNwJ32PbbbdN1157bf5bu5BhVEWNgN7zxBNPzPurJHFEJyKd7jw7F2LpxlyZ0dnGQUGjSCzhQP0VohjZrVitM9qsnnfeeXk8SCSWxlaS5Dt1I8zhIxMgec+wxPx\/4ypJHOfynHPOyeOYYHI5nHvzjEFqxdUYEhOGu2CsmUbXLoTHHD+OjFEozYkeRBIjlM+fPXt214vPILImhsRFEL+rThLHutc+k09PGMW9cU4GAY0gMQWYjBNCmbg52U68yZzHLBdjkEnMelK4+exWwmsTgfsUTQxZeZ\/RCxKH6GiPPfbIY0mZeE0\/MfAkFq\/0eU6aAD3hOEI58R5vg0ziWHiGMk2yJeSTVQB5TBgjUUFoD3WS2HsD18jYxk++9NJL8\/5+YaBJ7AKYZKyxxhr5hIn9SsUS5IQYvAkktknx8umrxOgGLWGJZSeN6yCxaAW4eYxZYudTNCPOez8wkCTmN3p0qXjwGDYTd+IJaMSGpUVlv5pEYlGEOuD3I128\/9FHH50\/rxckduPIlOpw5NoIAfYDA0di4hgRCDpecVUnmUzRiedONIHEY9d25vZEN\/k6gJjCb9R5vbDERPbGsdQvwb2xc+Um6jUGisRcBaSLlLFMFVCAiQk3zRLHxE5CJl5TF4QaySoj\/Bits3pBYuE+Y0Il1dmI3MsWAwNDYsRBLIF17++kIAko4WkyifnD3YbWWoFz4cb3mb20xCFrde0IrgjvYxLYCwwEid217mbv60SRIDopwmrQNBKPdSekbnuFKD6dNWtWHocovhckFnoDdX7cwVNOOSWP68ZAkBgJkIVgfOnSpcsIJbEBTbXELrZGKb1O1VKjSQwhYVhixIQ6SUwmCmSnxs6XSpK60XcSI0\/4wNGMWid146ZaYpM470EAT3XWC1diLBCZOxPV0WEQ6iSxzwICfppl+2ha6i5\/6iuJQ8QuGeAHW8wQlK8bN5XE5KESAI5X9tMv+A1BYrFc6AWJJaicJ7F8akIWus4K676RWB8GdV\/RHspJiArdppOYL0y6qC3AVVddlf\/WL\/gdSKlWDyRI6iZxFN26ca655pp8XvjozmMd6AuJTT6QhQ8srCYu7Ecri4GmkjjUXshrctVOFUedUHyqYaHOnUJx1H+9ILHQIqj09pmSIs5t1eg5iTUiEcP0I6Nj+mGHHZbHTbfEWkcZ676jt4PIwKAg4sgEQ2r2nMu6SSzURrLJGk+dOjWfOwar6hhyT0mMHOR84fSbeMCwkdhGrH\/77bfn\/YMCrg29g+\/nXKrU6AWJyWWdR\/voYKJesCr0lMQ0ECZveoT5QSwDDAuJw52gt\/UbBhFcOXMR7gQS23pBYvV6fHFPKNdmvAYynaBnJHZCZJHM2hHJjzzggAPy34aNxIL+HtWDCpECLh3BDkXg9OnTM8HqJLHqaTeOGkjRCm5NVWtc94TE+pwR70QSIOrChpHE\/h71b4MMwnoqNO28WEl+fN0kds3MiSRAnFdVIs51t+gJiaPMPNKQkhrGw0LicB2UTfnO+gw3AXxkESG\/QfRA+A3qILF2tW4W58ZcwbmUmnb9ukXtJHZiIiM3bCRW6+Y1LAsrxtdvt69Ev8FHdjOSiwaJo9q5ahKbK\/z+97\/PxbJ6cDjG02Bplz0taiexxiFCOr4w3SkMG4lPO+207CJZVEZf4aZBFs954AbxU6N5eF0kJqSPbp+eAN2GImslMTG7Y31Z27BZ4rjYJIi2flU2VAFWWH8MhEQ+v6tOEtMdO0anUBP+dtzTsaiNxL68sm5+kAvvCw8biVler7F5LFY12+4XGJ24NjaVIlAHibleujYJs+KTCWanSZDaSKwTD+UUgY\/IhB81bO5ENDLh82srMAxwPuPmDBJHS7AqSay5Ij9cShqRWWb\/7wS1kFidHBJpbK0ZXZyUYSNxuBPea5jAtaBrMUllHWePLKhTJYk1P3culZ7Rz5Bs4kUnWc7KSexHI5JSckF0rUKj2cawkDgWnjGLdy5cmGEDInMHxcAp0JybqkmsJi+0xp5qLLOcQruonMRIJhvESint9qUjTtx0Eq+33npZ9yGc5jsJEzUhsdEpnFsyWREE56ZOEkf\/DLV57frGlZLYh4uZCj0RRPsx9sXyWsNAYpktom+LkMvQDXJ6uQo4v9EVM2Lg0XeiShJzX+L8R5PIVlEpiRGM\/6TpidBJ1JZFBW7TSWwywp3Q0MVkp2o11qBCQoRhioLXWPCxShKHobO1WyldGYkRibjDHcVa2YaBxFKjUqVOvJvTMT77jDPOyJ87WcBHjiaG4snOQ5UkDo7odMryx+S5FVRGYo9VeXihEoTjO1qnAppMYm4Rza0ZNHeCJda8r+kx4U5gLuC3W7TGuaKZhip9YtfJJC9WSG0FlZGYvM9+5EI4+tSmk9jTRMk9ueLZZ5+dL4L3mUwr2I8F1yIe\/XPnzs37NN027obEEXMPS+86xPILE6ESEhNwkFlq0KHfgepleommk9i6c06+GTqF2j777JNby052ODeKQFWygOvq3HVD4sglSHV7veurF3UrqITEfEY9wBRImlkGoZpMYhbH5NSq+lwkqVdp2YK7wUryiVnOKixxkNhcQ58OfrEJdCvhtkpILMXM+gq9mMUPA4lpbZHYPhcnEhwF\/wP1mzrJ0B\/vvPPOeX83JMYvYOVdY60dJkLXJOYfipkisWiEcczim0picOJVI\/jMWFas4P+DaxGrnFZhiYPErLCxVrUToWsSW9JKelkoyrrKowXPTSSxIkq\/garKjUkrXLBicLPMh1xnYMycy25IrE+GsX9XtKA7dExiCQBYtGhRlltKCviCTSexTjnW1jBxaXViUXC3a+GJfNZZZ2VLjKAWyeyUxBqtGLvmrs2K0DGJxU4RVqwwkgKaZDSVxNLlYsBCg04oAnvfgtaByFp4WWTHueWadUpiq8Ua26JV7njomMTIxKXwyPBBSLV48eLGklgnR2NE1pnIyS9oHybEzqlzKWIl0tAtiVn4FUUpOiKxR66VgGRwYgkqSYEmkjg6qhuTAhYCdw8+srmF0KRz6QndDYll86KdwPLQNolNdDjxf\/nLX3KM0KTOBzXNEkcTQ58hbUozayZcXIhqwLUQYaBHRmoENndql8TcVE9712s8dERiiiaPDWUl9AQ+rGkkpgM25j5orYTIBdVCQsQ1Jq4314jJfzsTO+E7STRV8+OhIxJTqiEW4Xs0BxSOagKJ4zOdFGN3uRl1QT2wJncUmnI9QxE4EYkjTmyiyCe2eM94T8mOfGI+CrL4IiyZD2sKiTU0ZIXVdMkwxUksqA\/cCQ1auBTRAahVEnMjdNt3vcbzi9smMYJpnnzooYdmMpuB+jIeFYNM4qhG8FgTvyT149cX9AZcC5NobRt04oyo1kQkFurEB507LS+2PLRNYpM5Vcy0w9rY27gU+s4OEomjD+\/xxx+fx+LZxqozrKlRIhC9xxVXXJHr81hW0SzXdCISq\/JgybVF4FYsD22TWIYOYYXZ+DpWCtIF3MxzEC2xE6ZKwEnSB0M8uKB\/4CNHC1zGL3pNjCVxpJ1xgyDLPCz4MRZtk1gKUIYOgTwe5MkRSlnJIJCYog68l7FYpc9niek8CvoPlhVpac7DEocofiyJaVhAtEImcHlom8QUXRGRIMMTahskEqtEJlyPMd\/LCqVmxAWDA66FibUkk6yeTlGu11gSWx4DLOJD8jlaAhzoiMQIZYJk5iilaFLXLxI7GSAB4zWKGUUg+O1E2x5f7fYxKOgNGCBRI12iCK5cv\/FIjCuiG+ZkY9E2iQllEEom5dRTT82W2P97SWI1b2KOmnq4M03SuA1eY8LgscMi92Mlz4L2gD\/a4rq+rh8FIYwlcSz2vrxy\/o58Yt0MzfIlCXpJYtlBbsGSJUvy+g+0DtKa8+bNy6QmxndXD3tDk2EDYX00TxkbnQgSx2Lvohtj0RGJEQphzPQ1lWbm6ySxPLwbhyVmhcUcRUMcg8wiJQpVfX5BM6GmUV0d2SX3TyW16xskJswyVqw7Fh2R2KzS41s7U0s5VUXiWFHUypfGsjygvo3VVX0sVkjrQBVl0ubH8YtL3Lf54CPTWTBiDBoOBIlFKYyF58aiI59YBTBL7EMRd9q0aR2ROBpkBIk9QiBITLfsRvHDjD0BNO4wS5U6FjITmSgYHrDIIhFRpBurztZGYpEJRGqVxPPnz8\/jIHF8Qc66sW6a\/F2PFGOhPClu2RrRBi1iFy5cWNyGIQcfWZ8PHOALQ5BYr7+xaJvEF1xwQX6zjTbaKPunCOWusU1E4ph5xjp2LDE3QKM6Y+6CUItNd3mhO36SOK9+FtZAK5gcEDAg+Q3pLK03jlRiiUeTWFKBan88Ekc2Jkq6uRNIS29hLNqApIT1Jmjeg8vgywuCa9CtglrasWDywVxH3F8ULEJslVpiSzhpX0Vax52wscx81IjZWgIXAWfMmJHHtAsabiO5EJ2EhVgv31ejOl9WswxuSiFuAeCCEKqiUxxSvzc2+9qRT+zNEFU\/ABkxAiA+sf\/rABQk1sOXSAjBhcjsE9kwMYtMjaSEtqFjZZESFTpPlm1yb4BXM2fOzPzxlB6bem6bxEJs9MPE8OK4YrTe3MaiKhAMbcXoLTIyQmWyaiy57ooma4REaty4HRx6+\/nRNv+vYtzKMVWPWzmm6nErx3Q7buWYqsae4qwvET3+mC9xYUejbRLLnjHtrCv9BHdAvJarwE2wPhkdgzvGv4iuRspGqaSkCdGRX+SB1baJdtjqGrdyTNXjVo6petzKMd2OWzmmqrGNwcMX+QFRCvOu0WibxJpN04DyjYmBuAOSEVyC8TZlJeNtsm\/L21+2ssWGI7EtT1LQNokLCgYNhcQFjUchcUHj0TKJxYDF62iIi16hoJcw75Ll1XhbsoM4KAqAoWUSKxAV4lCiX0rdC3qJOXPm5PyCvAMpprCbcG7IGFoisQyJ+n91a97A4iDFGhf0CgRjZLnRbJt0QfWOsC60RGKLRrsDhNTksCUoqM0KCnoBlpjGZrQUQfmSpAi0RGJr+uqFBZaCdVdEgWZBQd2wBBudDV05+S7f2PogJBAwIYn1IabzXX\/99XPrKncF1VlZCqCgVyCS1+tE1ldpv6wveQK3FiYksZmhtPLWW2+di\/n4xETq8tqlILOgF1CSRsYgoMCl4BMTy+upJ2o2IYktUUoTQStMVeQNFixYkHPasQB5QUGdMB9jQEfjhBNOyHp05UwrJDG\/F9s15xsNxaHuDOoz7kZBQZ0wiSM40\/dPnkLTHhM92nSS3RWSOIr2VFiMhTfiHxfxekHd4PtyX0l1TegQWG89K3illNL\/AeLv5G3P1VfUAAAAAElFTkSuQmCC\" style=\"vertical-align:middle;\" width=\"177\" \/> <\/font> <\/font><\/span><\/p>",
+			"OPT1": "<p style=\"vertical-align:middle;\">\r\n\t&pi;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial Unicode MS;\"><font style=\"font-family:Arial;\">&nbsp;<\/font><\/font><\/font><\/span>&minus;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial Unicode MS;\"><font style=\"font-family:Arial;\">&nbsp;2 : 2 <\/font> <\/font><\/font><\/span><\/p>",
+			"OPT2": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">2<\/font><\/font><\/span>&pi;<span arial=\"\" style=\"font-family: \" unicode=\"\">&nbsp;<\/span><font style=\"font-family: Arial;\">&minus; 4 : 3 &minus;&nbsp;<\/font>&pi;<\/p>",
+			"OPT3": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">2<\/font><\/font><\/span>&pi;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial Unicode MS;\"><font style=\"font-family:Arial;\">&nbsp;<\/font><\/font><\/font><\/span>&minus;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial Unicode MS;\"><font style=\"font-family:Arial;\">&nbsp;4 : 6&nbsp;<\/font><\/font><\/font><\/span>&minus;<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial Unicode MS;\"><font style=\"font-family:Arial;\">&nbsp;<\/font><\/font><\/font><\/span>&pi;<\/p>",
+			"OPT4": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">Data Insufficient <\/font> <\/font><\/span><\/p>",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu21": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>1<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>2<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>If the area of a rhombus is 260 sq. units and the length of one of its diagonals is 104 units, then what is the length (in units) of the other diagonal?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "5",
+			"CORRECT_ANSWER": "5",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu22": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>1<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>2<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>In a race of 2000 m, P beats Q by 200 seconds and R by 500 m. If Q beats R by 125 m, find the speed (in m\/s) of R.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Enter your answer as a decimal value, <u>r<\/u><u>o<\/u><u>u<\/u><u>n<\/u><u>d<\/u><u>e<\/u><u>d<\/u><u> <\/u><u>o<\/u><u>f<\/u><u>f<\/u><u> <\/u><u>t<\/u><u>o<\/u><u> <\/u><u>t<\/u><u>h<\/u><u>r<\/u><u>e<\/u><u>e<\/u><u> <\/u><u>d<\/u><u>e<\/u><u>c<\/u><u>i<\/u><u>m<\/u><u>a<\/u><u>l<\/u><u> <\/u><u>p<\/u><u>l<\/u><u>a<\/u><u>c<\/u><u>e<\/u><u>s<\/u>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "1.875",
+			"CORRECT_ANSWER": "1.875",
+			"UNIT": "m\/s",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu23": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>2<\/i><i>3<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>If <i>f<\/i> (<i>x<\/i>) = |<i>x<\/i> + 1| + 2 |<i>x<\/i> + 2| + 3 |<i>x<\/i> + 3|, what is the least value of <i>f<\/i> (<i>x<\/i>)?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>3 <img Width='11' Height= '32' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAfCAYAAAAx6zerAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIFSURBVDhPzZQ9TFpxFMVfaUJsSKCSSDURd5nabjJaUVMJGBk1pIWhrSSkDnZoC1ttim0TUCdsbBjqoIN81MXGxoadpwkLxYEyvC4QoSEkBDjV+26fvAbi6knucM79vff\/zF9Ah5rNJjajUfh8PqpkMsUdWSrY8\/gR+vpuwev1wjU3B61Wi3A4wt0OOJmIQxAERDc\/cQL4FhcpKxaL5BVYzGQQCARQrf7hBEjE9wgWxWPyqmn8L+vYGAYGTKjVauR7wktLz+mvh4ffOekBP3v6hMB4IsGJLBVcr9cx63RCo7mJg4NvnF5KgdutFuwzDzE8bIYk\/eZULQXeWF+noUdHLXC73XC5XEoVCgViFDgUegeHwwGbbQJWq1VV+dNTYrousJeuCyxJEjLn9+KqEkURQiwWg91uv7Iuduq67sav86NNp9PI5\/OcXEoFr66G6H7o9Xpobmgwv7CARqPB3Q44lUoSuLz8AuVyGbs7O+Tff\/jIRAf84+gIfr+fnaw7JhMmbJPseiywcnZG74dOp8OX7W1Ou8AnJ8cYMZtpCuPjD9BqtbnTBS6VSnS0+\/tfYTAY4HDOot2WP+g6jX96\/eoljZDL\/SSvwJ+3tuDxeNnJervyhuEceQVei0SoEY6s0d5ms1n099\/G3Xv36cG8kGoawWAQRqMRFosFQ4NDmJqaRqVS5S7wF+UWfmf9AxRUAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>4\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>4 <img Width='11' Height= '31' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAeCAYAAAD6t+QOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGRSURBVDhP1ZS9S0JRGIfvZIsoJLY42eJiftRkS2XaYgZq4mr\/gSAtNqZQDd4lxUYLxMnIj0E3NdDJUcwwV+8gzuKVX7dzDuYlP7aoBw7c3\/s+nI97OZfDEpLJJHieZ4myUM7nX6BQKOD1+liFIpOHwyHOfT5wHAelUgm3+4x1KDK52WzAYrGg0Whg32bDweER61Bk8mQyYU+AxWxeLc9jlVb4b\/K2Xg\/r7h5LlKVysVBAuVxhibJUXsRfkTOZDPx+\/9oRCATA9ft9VKvVtaNWq\/3mAUVRhCAIGI\/HrPKNTH7O5aDT6aBSqaDVanEdjbIOZSa\/1uvkOnk8XrRaLcRiUZLTj0\/MmJOLxSJcrlPZ8lvS7A7nCUsrDlgqlbAh3fD7RIJVFsjtdhsGg4FswW4\/ZlXKD1kYDFCpVJBOp6FWqxEMXrDOim18cRkOkxV6vQ+SZ3I2m0UoFGKJcnd7Q+RO543kmczH46SRSj1gOp3ivdslb8No3JH+JyJxZNu4ikSg2dTAZDKRj+NwODEajVgX+ARKp3c09paofwAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>4 <img Width='11' Height= '31' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAeCAYAAAD6t+QOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\/SURBVDhPzZS9TxpxGMdv4GVgIYHahQZlIKQFS\/8EqZX+B7JoQkhbEpZiHTw6sJH0BXA+N12slcrBYgeSulk7WJv0gISQMKBOLHCGhIRvfzz38+RK1c30mzzJPd\/nc3fPk9+LgDENBgNsSBISiQRFqVTiFU0GeHl5CTabDfF4HJFIBFarFdlsjlfH4GJxD4IgYHNzizvASvI1ea1Wi3IdVpTfyOfzUFWVO8CXQoHgk5NflBva+FsBvx\/T0zPo9\/uUXwtHFhdhNptxfPyTO\/+A1V4Pz8NhmEwmHB394K4mA9xut\/EkGITL9QD1ep27V9LhHvvibMCPwOxjNuQFd43S4bepFE3ucDjh8\/ng8Xj0qPG\/6HBhdxeZTAbpdBqiKBri7PycmIkBb9L\/AhfY+kej0VsjFotBUBSF7bjirSHL8l0P2O12+ZNRBvjr\/j68Xi9bcgfcbjc7DOu8okmHvx8e0t5YWAjj28EBxLU1yre3P3FiDJblIkKhENSLqx13z+nEM\/bypa4dsFKpwGKxIMfO5aUm4Fq1Smdv1MLcXIi7mibgs9NTlMtlSOyysdvtePHyFa\/c0MZIK8kk\/aHZbFKuw593dvBmdZVnmj68f0dwtVqjXIdz2Y9UkKQNDIdDNBoN3J+awsNHfroDRzK0kUqJtCBBOuEuPJ2fR6fT4VXgD+l2VTYoCgGsAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu24": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>2<\/i><i>4<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Pavan and Naveen started a business investing Rs.80,000 each. At the end of six months, Naveen started withdrawing Rs.10,000 from his share of the investment every month. What profit (in Rs.) should Naveen receive at the end of the year, if the total profit at the end of the year is Rs.57,000? \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "25000",
+			"CORRECT_ANSWER": "25000",
+			"UNIT": "Rs.",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu25": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>5<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>6<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>If the absolute difference between the mean and the median of the distribution 3, 6, 8, 12 and x is 0.8, then how many positive integer values can x assume?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>3\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu26": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>5<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>6<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Rekha drew a circle of radius 2 cm on a paper containing a grid of unit-squares formed by several horizontal and vertical straight lines. The distance between any two adjacent horizontal lines or any two adjacent vertical lines is 1 cm. Rekha then calculated the approximate area of the circle by adding up only the number of full unit-squares that fell within the perimeter of the circle. If the value of the area that Rekha obtained was <i>d<\/i> sq.cm. less than the actual value, then find the maximum possible value of <i>d<\/i>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>6.28\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>7.28\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>7.56\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>8.56\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu27": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>7<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>8<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>How many numbers between 6000 and 9000 are co-prime to 9000?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "800",
+			"CORRECT_ANSWER": "800",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu28": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>7<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>8<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Given, <i>a<\/i> + <i>b<\/i> + <i>c<\/i> + <i>d<\/i> = 138, <i>a<\/i> + <i>b<\/i> + <i>c<\/i> + <i>e<\/i> = 140, <i>a<\/i> + <i>b<\/i> + <i>d<\/i> + <i>e<\/i> = 144, <i>a<\/i> + <i>c<\/i> + <i>d<\/i> + <i>e<\/i> = 150 and <i>b<\/i> + <i>c<\/i> + <i>d<\/i> + <i>e<\/i> = 152. Find the value of <i>c<\/i>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "37",
+			"CORRECT_ANSWER": "37",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu29": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>9<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>3<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>PQRS is a trapezium, with the lengths of the parallel sides PQ and RS being 9 cm and 27 cm respectively. If the measures of the angles <\/font><font style='font-family:Calibri;'>  <img Width='12' Height= '12' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADlSURBVChThZA9CoQwEIW9jth7AHtLD+AlPIOC2HsFLQStBK2tbESsLGzEQqwF\/97uDER0d2UfvEwemW8SIh3HARLVT+\/7zr7qBP6p73uuJ7Bt25fFdNu2YVkW7x8B0ey6LkzTxLIsnH8CotnzPOi6jnmeOZN+AiTf96GqKsZx5LyuK9cvgBRFERRFQdu2nK9nN4BUFAVPrqqKM00mn8D1n+u6hqZpKMuSs5gsTDoBut4wDDRNw\/lJEi1d10GWZTiOw0\/K8\/zmNE25hwG6YZomBEGALMuQJAniOOYq9mEYYhiGdzvwAkVEEC6+SJBGAAAAAElFTkSuQmCC\"\/>  <\/font><font style='font-family:Arial;'>PSR and <\/font><font style='font-family:Calibri;'>  <img Width='12' Height= '12' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADlSURBVChThZA9CoQwEIW9jth7AHtLD+AlPIOC2HsFLQStBK2tbESsLGzEQqwF\/97uDER0d2UfvEwemW8SIh3HARLVT+\/7zr7qBP6p73uuJ7Bt25fFdNu2YVkW7x8B0ey6LkzTxLIsnH8CotnzPOi6jnmeOZN+AiTf96GqKsZx5LyuK9cvgBRFERRFQdu2nK9nN4BUFAVPrqqKM00mn8D1n+u6hqZpKMuSs5gsTDoBut4wDDRNw\/lJEi1d10GWZTiOw0\/K8\/zmNE25hwG6YZomBEGALMuQJAniOOYq9mEYYhiGdzvwAkVEEC6+SJBGAAAAAElFTkSuQmCC\"\/>  <\/font><font style='font-family:Arial;'>QRS are 60\u00b0 and 45\u00b0 respectively, what is the area (in sq.cm.) of the trapezium PQRS?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='76' Height= '30' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAeCAYAAACG0fjXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAbiSURBVGhD3Zl7UM1pGMebXDYbmqWYiFyWLqsMK0YoRfVHKYasSqSbbrNIRDsa21qKSiG6SLWWiiKDnekyGWqnVVKWXHaki5kuuo4US\/Xs+zznPdXJ6ZR0SvuZeef8nuf5\/X7v73x\/7\/u8z3uODAwitTU1EB0dDbW1tdzz5VJfVwcXL1yElpYW7hEwaIK9fFkONjY2kH\/\/Pvd8+fyZnQ22trbQ3Nwp2qAIVvLiBWjNmwd59+5xz9Dwgj2HtrY2rFixQmIzMTGBkpISuuaPmzdhwYIFUFMjmBWDItgqQ0OIjY3l1tARERFBoxxTgqRWX18PbW1t\/CoAv58Pwvr1G+hY6oJdupQIenp63BpanJycICYmhlufhqamJvz98KH0BTM2NoaExERuDS041e73M4cGBR6Dnbt2SVewyooK0NLShtevX3PP0FFdXQ36+vofrXp9pay0lF6+VAXb47UbVhoYcmtoSU9Ph3Xr1nGrfxisXCkqWFpaKjx+8oRbnTx\/\/hzi4uIg+coVaGpq4l4Bb968gZSUFIrn5eVxr4AtbEl2dXXjlniy7tyhBSEn5y\/ukQ4BAQHg7e3NLQEZGRnUd0FBIfdIxs3VtVOwxIQEkJGRAf+Ao9wjIDgoiPyKior0OWfOHChmyzPyoLAQpk+bBrKysqCkpERxO7tt8OHDB4o7OzmyBxW9n5B3797BRktLumby5Mn0aW2zGd6\/f8\/PGFisra0hKSmJjhsbG2HVKkPqc9KkSfTp7uEB7e3tFO+J48HBIIMPfjYqii7CFhZ2hocB8nJzybd\/vw8ts8+ePiXb3GIt3XyG6nT4ZsIEKGXzG+MnT4RS\/AKrkBFXFxeIiY2j4+6EhoTQubgg4L2SLl8mOzLqLD9j4MD7GxgY0ExBMFVgX5mZmRQLO3WK7Bs3blK8J8LPnAGZ3Z6eoKCgQMMVR0pI6AkeBnB0sIfx4xW4JSAnJ4fav0xoq02b4HcuDoIjCzvet8+HbBcm2Nnoc3TcncdFRazkuMQtAXjtzp27uDVwFBcXgyGrBVtbW8m+xwroa9eu0THSxBYl7Pv48RDuEc\/psDCQwS9fw\/Z4LS3NgotCQnkYYLHOIjAyMqHRgHUIVrzXr9\/g0Y\/JYIkV7xEfn0C2JMGE4BTE3Ofk6AizZ38LRUWPeWTgSE5OBisrK251gismfn\/LDRtAe\/58tn17ySPiIcH4MZSVlYoI1tbWCpoa6iAvLw+qqqpw8OBBsDA3p3NixUyzOlYhKykpwrJlyztyWF8Eu3UrsyM\/mpqaUW77HLCE8fLygtu3b3MPgI+PDxw+fJhbnWBRPXHiROobc29vOUxEsPLyso8Em8GEGjduPFRUVJIPWb5MF6ZMVekQBSli00t1+jRQV9eA6levuLdvgmECrqurg9y7d2GMnByYrTHnEQH4q0Euy6XiWn5+vshzPGSVuJGREX2PJUuWcC+AhYUFrYjdaWBbINwGCWeG83YXHhGPRMGQRYu+h+\/maXFLgPfePXSecAefnpYGo0ePopGFJUZXMOlH9yAYjoSqqipuCdi7x4vujSIKKSwogB07dohtmHe79onFaXl5Ofj6+tJ9Hj16RH4sWCsrO186CoVpqCs\/bLSEMV\/Ls4HS8yg7fboXwTzc3UF2xAj2Fhq4B8Bo9WpQVp5Cx9nZWSAn9xX8yB5eHJJG2BbbzWw6KHJLgPkaMxg5chR7Gc3c0z8wyeN3walZwXYbWKF3ZZWhAcydq8YtATpscChPmSpxWoqMsNLSEuok4Ogx7gH459kzGMEE09FZDClXU+AnlgvwnFhWpOKbHTd2LNkhbFHAFhgYSO0umy6IJMFSrl6lay1YiZKamspGl2DkHjniz8\/4PFAkrA2DWe3k5iZaPEdGhFNf9g4O1DcuOGifi5H8i4qIYNXVVaCrqwuJiaJLPVbiCxcuhLFMHCzy\/P0DyI95S0dHB5YuXQoaGhrsjc3taMJaqrccdpmVFWpqaqx0GQ8qKipw4uRJHvl8UAgUAZ+5e\/mCREVGwswZM6jvWbNmwW\/nz\/NIz4gI1hu4JRLWMX2lL0kf6b7dGghwMVBWVibRhAWrOD6l708SrD84Ozv3OsylSXx8PJUUvZULfYUqfX4sFTw83OGXQ79ya\/jje+CAdAXDPZq9vQO3hj92W7dKV7DsrCzQ09Pn1vAGt3AmxibSFayF1VNaWlpQUlLKPcMX\/MvNzMxMuoIh2+y2wqH\/QR7bzhawoKBg6Qv24EEh22Oqw9u3b7ln+FFZWcFqtpnQ0NAofcEQL6\/dLPnbc2v4YWZq2vHL8aAI1t7WBmvXWoB\/gGCXMJzw9PQEJydnbg2SYEL8\/PxoHzpciAgPpz1yJwD\/AXD9q8W0V7ZeAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='62' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAcCAYAAADSkrd6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX0SURBVFhH1Zh7TFRHFMZXIyqQKiiKQZT4lzQ2VpGKIgssND4wRRGbKGgjalwFqoA8lFqw1sSKiAELFmMTQAHFFhGoxAS1CCZWXFEiGHlZBQUj0ESq6CJ8nTk7S1d3F5fFUvglN9xzZph7vzsz55xZCQbI61evcCwlBQ8ePBCeoUP3mzc4c\/q01rsNSHRXVxcCNgTgypUrwjP0aH7yBFvlcigUt4RnAKK7lEq4u7vj19xc4RlcwsPDsWTJkj6vrKws6vvo0SPMnTMHd+9WkW206NiYGAQFBQtrcHn48CEcHR1RVVWF6upqvVdra6v4D6DowgV4eHjSvVGinz17hnkODmhrbxeewaWgoAB+fn7CMpxlbPavXi01TvTPJ05gA9vL\/xdxcXGIjo4WluFkZWYiOPjr\/ot+\/vw5nBcuRM7ZX4Rn8AkICEB2drawDKetrRUyd1n\/RVdXV8Fk1Cg0PX4sPIPP4sWLce\/ePWH1DzdXV5XoV52diIiIgJubG\/zXrcPNmwrqoElPTze2bduG9PR02s9KZZdoeZu8vDx4eXnB09MTaWnpwvvhaGlpYQHJgz1fSXZ9XR2lJP7uPKLz9r4ICgqEhP\/zyhXeGDFiBFvvwXCcNw9jx47FXRYZ1SiVr1mfFZBIJEg4nABXqSt6RJsmx1NTqc+qVb7YyJYgv4\/+Zo9o\/TAUFxfD19eX7nkqGj9uHKbb2WH79u2wmjgRM2fasy3YQe26CN8ZBklDQz29XO65POFmIZ3ZkVG76L78xg3MmDEDlpaWMDU1RWJiElwWuaC7R1v2cq9l8PFZJSwgLDQUZmbmwvowxMfHY9cu1btlZ2Vi6lRbtDx9SvafrPLi715cfIlsXYSFhkDyd0cHFjg5YfXqL1HHlsrJjAz2omYoKCykTjzihYaGoeb+fZibmyMh4Yhe0W9Y2dcj\/I1sFhY5O2Pp0mVk66KwsAB79nwrLMOQs6WclpZG9\/xZ6mX+4sULxB08iPHjLVBbW0c+XZBofnP50iX6QqNHj6a\/cvlW6qAJF2FiYtKnaDWRLD6YmZnSWLrig5osNlPvS30KhYJF3TZhsdW0fDlu3fq3pOSUlZbCxsaGnhclVqg+SDSPgpMnTcJWFqQqKytppseMGYMfk1NENxUN9fX0UQwRXVFRgVL2Iu7ubrC1tUWzRnDhM8OLG34dP56K9eu\/6rV5OlTD++3btw8jR46kAMppZ8WQTCajWdWksbERZWVl2L\/\/e5qYNBZs9UGio3fvxuTJ1sKlwn\/tWtiwvaKJWvQRJlrqIu1TtJramhr6+qdOZQoPaAtt3ryZLi7A3t6+1z72U6roxTIKO72VlJRQcOWBlX+E8vJyeHt7ix66+ZiNN99pgbC04XFG8t3eWHzEIqBmxFvh\/QWmTZsuLBXvm2m+v5ydFyKE7X81f1y\/TqLPaQRJTc6cOY0tW+TC0k1DQwONkZ+fj5ycHISEhIgWICkxEbNmzUJ3d7fwAHZ201m6\/FxY2tBM8zw3ycoKs2d\/ymbkFELZoPwhye8s77raWvLHxR3SO9PBPAeyPgcO\/MDGOokJEywphbx82Sl6vE1GRjr8\/dcJSz9SqZSuqKgopLK0qObatTJ6Hg+W\/IP4+Kwk+3IfR93eQFZ55w7LvVJYW1tTeko6epQ6aNLS3ExLixcnC9jy0SWaf\/G9sbH0tflYa9asRVNTk2jVpqTkdyQlJQlLP0VFRSSGBysedzThp6fP2IlrypQpcGBF0\/nz+aJFN72i1ajTTV\/cvl3BltQn793ThoxlKPzHCgsLC0ql6hT1LoY+T0u0IfBVMXeug86K7L+EHycvXrwoLOOJCN\/Zf9F\/8bTBTiodrKgZjmzauKn\/ojn8lKP5m9NwgVeMPC4ZJVou36IV3YcDNTX3jRd94bdCKgeHG4fjDyE2dq9xonk05b+eKN6pgYcyPSydOs2fz46jjcaJ5pxlxYALK1KGCzExMQgMCqJ7o0VzduzYgcBA1UBDGV7uymQe6OxUVYYDEs1JSU7GUR0V3FCB\/9ISGRnJihfhAPAPMkhN9Kp2Mr4AAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='62' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAcCAYAAADSkrd6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXRSURBVFhH1Zh7TFRHFMbXRrDURBNFQBqtFkz5p4BaBCMVBcEIRGjkaUVJ1QaQmoIQtValRoyKSFJj4ltqtQhVwSoiaLGs8YGuRkEBI2DloaLVig+Qx\/r1nNlZpbLAslAKv+SGOWeGe+ebx5kzq0A3sGvXLhQUFEqr96BWq5GWmoqysjLp0dBl0RERETh8+Ii0eh8PHjxAeFgYVCqV9HRRtN+sWfhxyxZp9Szbtm2Du7s7pk+f3uazb98+0baqqhJj7e1RWKhZjQaL3rN7N3x9v5BWz\/L69Ws4OzsjJycHRUVFbT6PHj2S\/wFknzyJqVNdRdkg0Y0NDXBydKIXF0tPz1JRUQE3Nzdp6Y\/njBnIy1MaJvqPM2fg6eklrZ4nMzMTgYGB0tKfgwdTEBn5TedFNzY2wtfHBxsTEqSn51m7di3WrFkjLf158uQJXF1dOy+6trYWxsbGuJifLz09T1BQELKysqTVOVwmT9aIrq+vR2xMDFxcXBASEoKrV6+KBi1pamrC1wsX0p7Ig52tLaqrq2XNv0lLSxWR08PDAykpB6W3++B+TJs2jSJylbD\/vHMHi+jY5L5HRUXj3r17wt8W3FbBy9Vn5kz06\/cerfdIjBs7FiYmH6C4uEQ2A169qoeXpycUCgUyMo5iotNEPHz4NjJq2bQpQbQJDg5GyJw5orwxYZOs7R440eAB5Qh+\/\/59mA4diuGWlli8eDHMzcxgZW2Np09rZevWxCyJhqK8vEwj5uhv0k0hnewVK74X5YsXLuCjkSMxZMgQDBgwAMePH4fjBEfU1DwU9VrUzc1i6YTMnSs9QOi8ubAYbimt7iE9PV2sRiaDypYkuKKiUtjV1VWi71kns4Wti+iob6F48fw5HT+O8A8IQGlpKZL37sXAgQNxQu6Zn+mAj42NFece7+WjNDi6RDPNJJzhWSgvLxfbIDAwSPi6i7i4OBHIGP5OY0OjKNe9fImkzYkYNGgQSkpuCZ8uhGgu\/H76tBghFsV\/Fy2KFA1aUk7LiuvaE60lPDxMvMvIyLjdDujDtWvXaCu9\/RZvHV5tLbl0KR8f0oxz\/6Kjl0ivboTo4uJimA0bJnLogoIC\/JScLDq8ffsO2UzDrZIS2vf99BJ95YoKSmUeJjg4wNp6DB0Vf8sazWrgTEnX85xWnRZul5iYiP79+2P27NlvfBzE7t69K2wtHFTPnj2LDevX00Ab0QVot6xpjRD93fLlMDe3kC4NAf5+GDVqtLQ0tBTN2Vh7orWoLl8Wo5+ZeUJ6IILPggULdD4HDhyQrTRRWqlUYjn1j7\/77NkzEbE539ZuI13Y2X6KcePGS6s10VFRUMTFrcbgwYNplF9ItyZds7KylpaGjmaaTwF7ezusWrVaeoCc7GwhOpcyOEOpqakR79hLsSY3NxehoaGyBti5cwdsbGzQIPc1M8baCpNdpkirNWKmyyh4DTM1hZ2dPfbv3y9CP3\/k3eVddPOm8PM1UtdMc1AJmfOlaJOUlIRk2iYmJu\/jM4cJYkC6gre3N\/XPDitXrhRLXotKpVlJrq5uSKV7c4C\/v7BPnTotW7TmTSAruH4dn9OtxdzcHKNHf4ytW7eKBi2pqqyEl5cXlJSwj6flo2t5N9BFZNmypRgxYgQsLCwwj2alZRAylHPnzgkxpjQ5+e9kgqfopuVIpw9\/z56ujx3d7d+I1sKz1RF\/UcCx+cSmwz2tz7s6w0jKFVj4SzqadKHv91qJ1ofHjx\/Dls5fXRnZfwnfnY8dOyYtw4mNWdJ50TyiHu4euE2xoC8y\/6v5nRfNBNMtJz0jQ1p9B7W6GT50LTZI9Lr4eCxdukxafYfS27dJtK9hom\/cKMSkSc7S6jtsptx8ddwPholm+Kp5hG45fQWORXy08e9rBou+cP68iOJtHSG9Dc48w8MjRNlg0czGDRvg5+dPubBaenonhw79iilTpqKurk7YXRLNpKT8gvj4dWhq5xLwf8L5Ov8eoFZrkxfgH5FBYOYSOeczAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='72' Height= '30' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAeCAYAAACPOlitAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAdESURBVGhD1ZkLUI1pGMdLYcctt1zCjE1sxJbL0OZ+2WFtRUi5VK4ZyWVdhh2GTSvZdTkqKpfFqmRdM3TTKsW6ZAlj5BZpkHsUFeW\/7\/OepzqnOpWdTuk38835nud9v+987\/O+7\/P8v3N0UEXs2xeCK1eS2PryeJORgZCQEGRmZrJHSZUEaP68edi1azdbXy4XL1yAk5MT3r59y54qCNDYMWPg5eXFVtUTGRmJHj16oH\/\/\/hqPAQMGIDExUfaPORkNCwsLpD99Km2tBmizQgEbW1u2qocZM2Zg06ZNePHiRZnHx48f+QpgrdcajB5tJ8+1FqA3b96gs6kpHjxIZU\/1MGLECJH7rrBVcbp164arV69pL0AB\/v4YM3YsW9VDhki8AwcORFZWFnsqjkKsugULftJegGysrREUHMxW9RAfHw\/b\/7nF09IeYvjw4doJUFLSFTRt2hTp6cpEV11s2LABixcvZuvzGTJ4sHqAoqKicOvWLbaKSL55E3v27EFYWBiys3PYq+TVq5c4cOCAbL9x44b0xcXGokMHE3muibi4OOzevRuJly6xp\/KhBE3PVcCTJ0+kHtu\/fz9ev37NXs24zZ5dFKAQsR10dHRExlewR8nq1R7Sb2hoKD+7i5KZnp4u22JjT6FJk8aoW\/crNBMrhtrXrvXG+fPnMGzY97JPcd6\/f49Ro2xl35YtW8rPmTNdkZ+fzz0qD9oiSUlKcRoZEYH69eqhUaNGaNCggRxPQsIZ2aYJhWITdHJycrB9W6B8UDq2b9\/BzbQSThUO+tOnT0i8eFHac9znygHVqVMbpqad8fz5c3z88AFLliyW7R6\/\/IJZs2bxXdRZ5+0t+4QdOybvueuPndI+ePAQ96gcqHQPGjQIND6alNr6+vjW3EIqZaqwFubmaNuuHT6I59bEtkARl4ULF8LAoLEY3BLo6urC3z+Am4Hx9uPQurURW0po+9CskNq0s7NDTMzf3AKkpqbKwU6e7ITZbm7sVef69Ws4dKgoGBRYumaN11r2lOSS2IZ3795lq2KcPn1arNRR8pyCQGng3r170iZ+XrZUfm9W1jv2lIQqsc65c+fECnghopohL9i61Z+bga5mZrAbMxbeYtZNTb9B7969Ze7QRGBAgLzH6tWemD59BntLh2aWpP2kSRPRRXxPyv373FKSH0eOhKenJ1sVw8fHR5TpBWwVkZaWhtDQfWjXri2WL18hV7EmZID4HPfEDKkGiAZg\/HV71BP71sSkIzw8PEReGSr7HD9+QvZR5c7t29AVbW5uc2QOcnBw5JbSCQ8\/gebNm8v7OU6YiLw8zTnI0cFBqmFNkAqm5wsNDWUPRF6biZ07d7KlhIIxevQokRrqQLdWLURHR3NL6agFKEUsP9UAZWdno4VIZIaGLaTgKqCzWEndu\/dkS8mZhASR\/BpioNjz+eIh4uJiMX68A7eWDt3z5cuXSBBapZbY2i4uU7hFyU1ROS+KnEfH0CFDMHfu3EL74cOH3Asy\/zk6OkJf5JhWrVoVJntS0JcvX5bnqjx79kweriKAOjq6Qi1f5ZaSlBkgoktnU\/Tt248tJc5Ok9HIwIAtUf1ClNVvnL09e4RciIzQGCBKkE\/5RbCAaVOnQk9PH7m5RQnTz88X8+fPl0dHExP069ev0Ca5UQAl4JSUFAQFBcnnIKmSl5cnE\/S7d8r8QjaV+NzcXGkTGaLMU39Pz1\/ZU5KAgHIC5OLsJLZYfeSo3Jiyv7lFd3l+5PAhmdi9vddJuwAq\/\/b249lShxK\/kVEbtpT0F4Nv2qy52Cp57FFn4oQJ8PX1Zat06HWCSjgpZyoiVEAKuC20nZ6eHnx8\/dgD\/CsSf\/HxFkdtBd29c0deoFBsZo9SEZOPts7Ro0fFMneXdmRklFwFdN6wYUNs2bIFGzduxPr16+Xh5+cHZ2cXvos6fwmRRtc5iG1Bs+3uPkfaAQGB3KMkFU3SVJEpEK6urli1ahV7IVdOr1495ff8uXcvDosq2saoNYw7dMBzIQc0oRagR48ewcrKCocPH2GPkpMikXXtaibFlZGRUWHE40UZpapmaWkpKpwpOnXqVHgsEvKexJ8mgoOD5LahGW\/fvj12FEumxVmxfLm4pvz3uuTkZBmEWiIBRwhhqAopfmdnZyFpDOSk2tjYIlUll5WGWoDKgwRWWSVRlZiYkxq3mCrFf96sDOjHLwqSaiJXhXJWRd\/uPytAn0NkRHi5ZV5bkEBctGhRhSezLKSS5vNKJT7+NAYPHsJWzWXVypXaCdDjx4\/Rp4+l1FI1mSkuLtoJEEEJP6kMEfalQ+r8ByE2tRYgFxdneK\/7ja2ax3nxjmptbaO9AEULjWNl1Zetmgf9WPb7+g3aCxDxndBI4cX0SE2A3tWMjY2FdhKvI+zTCv+cPQszMzO81YLe0Sb0xr+G\/+zUaoAIn82b5V4mgVYTWLZ0KaZOm8ZWFf03f\/TIEawUmiIz8\/P\/n6pK6Pcj+iekCOA\/qCbDRC\/C2EMAAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu30": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>9<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>3<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>This summer, my mother made raw mango syrup and gave it to me in a two litre bottle, filled upto its brim. On the first day, I drank 50 ml of its contents and replenished it with water. From the second day onwards, I drank 30 ml more than the previous day and replenished it with water. This continued till the bottle became empty. What is the total quantity of water I used for replenishing in the entire process?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>64.65 \u2113\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>65.65 \u2113\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>66.65 \u2113\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>67.65 \u2113\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu31": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>9<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>3<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Two apples, three mangoes and six bananas all cost the same. If the price of an apple increases by 25% and that of a mango by 40%, find the approximate percentage increase in total cost of four apples, five mangoes and six bananas.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>25%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>28%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>30%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>34%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu32": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>9<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>3<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>How many natural numbers less than 500 are divisible neither by 5 nor by 7?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>333\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>343\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>347\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>357\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu33": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>9<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>3<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Mohan bought an article and marked it up by 50%. He gave a discount of <i>d<\/i>% and got a profit of <i>d<\/i>%. Had he bought the article for <i>d<\/i>% less, increased its marked price by <i>d<\/i>% and given a discount of 2<i>d<\/i>%, what would his profit percentage have been?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>40%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>45%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>35%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>48%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu34": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>3<\/i><i>4<\/i><i>:<\/i> Type in your answer in the input box provided below the question. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">If x<sup>2<\/sup> + <img height=\"32\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIbSURBVEhL7ZZNbxJBGMfXHgrLvZriV5DlUmtIbKz9AqwnKilRIx44EFIPNqF+hmKiwsEe6kssJq0euq2EbwAVm0DhwoEatgkvJ5e3wIG\/s8PQgN3orOVgor9kknmeZ\/eXzMzOzArg5NvJCYLBIFT1lGWM4RJ2Oh0sLt6CIAgXF77e2oLVaoEoilSYyx2zijG\/FPb7fVyfm8OTtTW8e\/uGCrO5HKsa81thu92m\/d2dnYsLR4lvb\/8XGsMt1D8fXfj16IhljOEWfjk8RCAQgHo6gZ1ihn9RmEqlEI1GJ9JisRgERVHoOTeJFgqF\/pI5LJVKKJfLLBrHlFDTvkOW3XC5XHA4HFhZ8aHVarHqAFPCly+ew26\/Ss7IDuq1GqYuTWH34ydWHWBKWK1WUa\/XWQTYbDbs7SksGvDHi3J3eRk3FxbQ7XZZZoBpYavZxNLSbczP30Cb3IY\/cyZskgczmQxqI0Pq9XrIZrOoVCo0bjQakCQH\/P5HNDbiTKhpGpxOCbOzdvqizh1ZJleoiGKxSOOn62F6Jvp8Pni9Xng8Hij7B7Q2ZGzI+XyevrC6+hgf4nHaf09O6iGFQgHpdBrJZBKJRIK2EvmjGOXcHEY2NqhIbw\/9fpblx3BRrlyeocKyqrIMP+eEzyIRKhOtVrjdMsvyMyY8JjeaLguH18n8fKb9V5ubrMrHmNApSbhG9uiQB\/fvYdpiIX9cvEMHfgBsYA4XgGHtNAAAAABJRU5ErkJggg==\" style=\"vertical-align:middle;\" width=\"20\" \/> = 1, find the value of<i> <\/i><i>x<\/i><sup>4<\/sup><sup>2<\/sup><i> <\/i><i>+<\/i><i> <\/i><i>x<\/i><sup>4<\/sup><sup>8<\/sup><i> <\/i><i>+<\/i><i> <\/i><i>x<\/i><sup>5<\/sup><sup>4<\/sup><i> <\/i><i>+<\/i><i> <\/i><i>x<\/i><sup>6<\/sup><sup>0<\/sup><i> <\/i><i>+<\/i><i> <\/i><i>x<\/i><sup>6<\/sup><sup>6<\/sup><i>.<\/i><i> <\/i><\/font><i> <\/i><\/font><\/span><\/p>",
+			"OPT1": "-1",
+			"CORRECT_ANSWER": "-1",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	}
+}

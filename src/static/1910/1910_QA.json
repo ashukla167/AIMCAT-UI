@@ -1,0 +1,977 @@
+{
+	"qu1": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>:<\/i> Type in your answer in the input box provided below the question. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">In a class of 74 students, if the number of students who play cricket is twice the number of students who play hockey, which, in turn, is twice the number of students who play both the games, then the number of students who play only cricket is at most . <\/font> <\/font><\/span><\/p>",
+			"OPT1": "42",
+			"CORRECT_ANSWER": "42",
+			"UNIT": ".",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu2": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>2<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>The cost of production of an automobile, which is usually sold at 30% profit, increases by 20%. What should be the percentage increase in the selling price, in order to maintain the same profit after the increase in the cost of production?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='44' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAcCAYAAAAa\/l2sAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASySURBVFhHxZhpTFRXFMcniCAglqVgQ4GGRRbDkthYLLsQBKVhqV1iAWsDfCLhS9mshRQCKRSEptIKBtp+qAoWkM1+IS3ERkoQKCQsVgapfBCClH0bIPx735k7M2IHC8Ob9pfczDvn3DfvP\/eee+95I4EW6OrqQlJS0pZWfetHHt0bWhGck\/0ZjA4e3CL4519aeXRvaEXwmye8EBX1NrfERXTBa2trsLSwQGRkFOLj46m1tbXx6N4RXfDIiBQSiQRmZuaIio6Gi4sz2bV1t3mPvSG64Pn5eVRVVUEqHeEe4ISXF2xsbLGxscE9miO64PX1dchkMm7JKcj\/nEZ5emaGezRHdMF1tbXQ1dVlW1s39wAnAwPh6HgEm5ub3LN7FPcqBU9MTCA5ORmTk0+5R\/CNo7S0FHl5ecjNzaXW1NTEo+qZnJyEjbU1jI2NkZWVxRZfhDyHa+t4D\/U8ZffFxMTA19cX3373PfeCZisiIgLd3T1kk+ClxUX4+\/vRFw8PSykgUF5WRj43Nzd4enpSy8zM4tHtefz4T5yPi6P+ISEhaGho5JHtef+9d+Hm7o6amhp65r177eQvvlwEK6tXsbq6SrakpaUFTkecoKenB939+\/Ho0SgFBD66cAH2Do7c0i6v2dqi\/FoFXdvb2aGwsAgbbD0YGhigvr6B\/AISYdpKSr5E6ZWv6Jc9K\/j1Y8dw6lQorpWXo6joMoaGhnhEfI66uiAlNY2uD+gfQD2blS8K8nH8+BvkU6DM4fKyq1sELy0tQo+NuI6ODqWEqakpxRsbX5zDmnL9+g8wMTFhOewDbx8fTE1N4aVDh9Dd04MZtrsMDg5SP6Xgr0uvbBG8sLDA8jWT5VQt2SsrK\/Dx9qYDYWVFnk9i09fXRzks8MnFDISGhuF3JtjGxgaeHh5ISEzcXrA6qm7eoD4PHw6T3dHRgbCwMI1beHg4Rkf\/+bzxJ0\/oOQMDgwgM8Ed8QiIW2IEk7DzbCu663wkHe3v8xkQpSE9Lxb59uuw0WyB7bm4Ovb29GjdhRIWZe57YmA9wJvwtunawt0NFRSW\/tlcJFrYPQbDiSP2L5ZCZmSkOH34F1dW32KotpHhKairFtcXQ0CAblH3K7dXfz4\/ED\/T3w8jISCW4of42goODMT4+zj3sZpbogQEBTLgZrNlhkJFxkUe0R0rKx6zCS+AWSKg3WzseLIfzCwpUgl\/E87XBdshkq2htbWUl5jr3yPnjwQM0NzfTm8i\/ISx2dSwtLdHnjgTvlMSEeEqb6WlVkZOTk00+WjDsM+78hzseAHWIInhsbAxnTp8mQWbmL7N9c5b8fX295Lt06VMqO3+6c4fsGzerKK4JogiOioxEYOBJxMXGQl9fXyl4bnYW7e3tykpLxuoBQfA3V8vI1gRRBCt2lpxs+fQrBCtYWV5GNou5urjQD\/vfU0JBRnq6WsFSqRRBQUFwdnaGu7sHurpVtfJu+U8EKxBSw8XZCa6uR7ln92hV8MBAP9tXU7C8rDrNYs6dg4GhIbd2j6iC09gp+KzgX+\/eJVsoGxfZS8L9zk6qb8+efYfimiCq4JLiYvZ2YMUtOZWVFbC0tICDgwPMzc0RHb2XP1iAvwE1aSdN6s0p0wAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='31' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAcCAYAAAB2+A+pAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALRSURBVEhL7ZbfS1NhGMePeuFADdEbu9JckYZ2Vzm9M+xfSFg5B3m1sovEQHJXkjYx037ghUklGjrTmW5Tu1ACr7SdOTCYF2NHURNBcbtwLfPbeZ+9nqOkDPGsqz7wwp7v8\/J+YO8573kFJJAJtxsWiwWhUIgnKgkTh8NhnM\/JQWqqDnt7ezxVSZjYUFKC9PQMZGScw8bGBk9VEiJ+WFuLwsIrsNmeISkp+d+IXc5xCIIASVrGh\/fv6Pfm5ibvqmgqXltbQ2ZmJtranlP9srODxNvb21QfRlPxk4YGEhUUFCA\/Px\/Z2dlU5+bmwul08lkxNBX7fD4MDAygp6cH3d3dqKy8TeL29nYEAgE+K4Yi\/i0\/8i3NzVhZWaH6x\/o6urq6joze3l4aW1tbNCcenR0vSByJRHiioohrau7RpLm5eaq\/zc9Dr9cro6ioiPpsBIMSzYnHhNsFo9GInZ0dnqgIoujBzfJyZVGvd4G3jrLk9yMlJRmvXr\/hydkQ6uoeoarKhLfynjCxKHp56yhXi4thKC3j1dkRoj+j9GNqcvJE8fCnIeotLn7nydlR9njU4ThRfOmiHhUVt3ilDXHF7CFj+dTUF56ozM7OwmQynXqYzeb4YmtjI3Q6HXZ3d3miIkkS7Hb7qcfQkLx1fA2MDA+T2OMReRKjrNSAa9dv8Eo7FPH42BjS0tKwsODjSexQuZCXB8v9BzzRDkUckf\/Kdfm0ikZ\/8QTY39\/H6uoqwqEwT+IzKb8dxx0YjOnpaeVkVMRa0NL8lLbruNfO4Rih3uCgnWpNxOxDb66upoXZ8PuXeCd2BbJarUrvs7ylDE3Ed+8YcVn+FD6ur5cXT5LFft4BWlttyMrKQlNTE4kdjlHKNRGzTx57HpzjsdvHYTF7RtgtUwoGtRcf0N\/X95f4ANHjSZz4Y3\/\/iWKvKP4Xa4fb5aJz\/bjr7LJ8rrPezMxXuQL+ANXHxIM1DsvkAAAAAElFTkSuQmCC\"\/>  %\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>20%\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='40' Height= '30' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAYAAABe3VzdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAS6SURBVFhHrZZtTJNXFMcLgTCBFQbEgTgokDiZUJJBAou87ZuaISJFJpL4spCZQDIVZF8kLoGhQlEYrYMNkapsMDBxH\/jG3GrERCgaMhBbGAwYyBhLkPeXwn\/3Odx2FdiUx+eXPMk959zc\/nvuveceGSTkSVcXMjMzrZ9ef49HxCOZwNnZGQQGBmDXrhCUlJQgIeEjeHh4orOzi88Qh2QCtZpy2NnZYWBwiHsAN7kc+xMPcEsckgmcmZnBwMAAt4CJiQm84eSEU6dOc484JD2DAoODg1CpVHjL3R3vh4fDbDbziDgkF9jb24OsrCwk7k+EOxNZXq7hEXFILtCWQykpkMlkeDY6yj2bRzKBP965g4KCAm6tclWrJYG\/dnZyz+ZZJ3BlZYWPNsfnubkkprn5J7InJycRvHMnfLb5Ym5+nnxr6evrw9IGZ3R4eBgLi4s0tgoUhMXHx6GmRsc9qzx40IIP4+Ph7e2NkJAQ6HQ3eORFpqemEL17N4kMZ5dDOH\/Ozi7Q31tfrEfZln8QFQWlUsnWDEV3dzePALdu3oCfnz+mp6fJJoFzc3PYt28vLa7VXqWAwG+9vbC3t0dw8Huorq7GsaNHaU7td9\/zGS9iXlpCbW0tclk2i4vVGBr6tybakn3mNLZufZuyHB8Xi9jYOPKvrCxjm48Pviy8QLaA7HZjI1PsB7ncjQrt1xWVPMT+za2b8PLyopRbeGf7dkTHxHJLHBEswx8fPkzjC4WF8PdX0Lj0ymXaKbN5mWwBWX5+Ps6dy4PJaCSBGpsMCttuSbXAEKtxri4uyMk5yz3iSD2UQjVS4PjxYwgNVdJYLn8T1ddraGzBegZHhv+g7bMVaEHYqpjoaIorlWFYXhZ3kSy0PnwIF2dnJCUlsffaA3fv\/oyy0isICAik+Pj4OMbGxmhsFfh7f\/9\/Cnw2MgK1Wo3s7DNwdXXFZ6\/5fAmYTEZUVlaio6ODbekSHBwc8Itej+vV16jpeHfHDpSWlr2aQFtymEhhnsnUQ7aeLSpk4mVfeno6XYqNyD2bQ9s8z8qRsHZd\/Q9oa2sl0f8rULiRGRkZ3Fql+loVzTMY2skWSkZzc\/NLP+GPLPLaZsvIyDCt19rahnaDgcZ\/jf9NsQCFYr3Aco2We8DORSn5vvm2imzhNgcGKOjWCf9WCj45cQKRkVE07u5+Qr9nNJpY6ZuFE+uGrAL7WVUXgmVflXMP2GVYRvqRI+T39fWFo6MjKwM+1uy9LpaM3b\/fwj2AKjmZmt7YmBgksl7SKnBhYYHtexv+5LfHlpaWFlRUVKC+vh7Pn298jsTwqL2d1lyLTqdDVdU1GlsFSsFl1uqHhYUhKCjI+h1IOsij4pBUYEREOBSKAPZcaunTaDRoaGjgUXFIJnBudvVQq9Ul3CMNkgk0Pn1KB\/7TkyeRwhrV1NRUNDU18ah4JBNYX1dHAj09PZGWlsZKRyTZFy9e4jPEIZlA4cnKy8tDP6unFlSqZNaA2FMxF4ukl2QttxsbKIuPHj\/mns0jmUChxCQkJHBrFXVxEQnsYY2vWCQTWKIuJjGXioowxdp\/g6ENzlu2UHMrvEhikXSLvzh\/Hm5ubqxdCqQ+b8+eveyFWt8gvDrAP0QXwHL7fpI9AAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu3": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>3<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>If <i>x<\/i> and <i>y<\/i> are natural numbers, then find the number of ordered pairs (<i>x<\/i>, <i>y<\/i>) which satisfy the equation 3<i>x<\/i> \u2013 7<i>y<\/i> = 20 and the inequality <i>x<\/i> + <i>y<\/i> \u2264 30.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "3",
+			"CORRECT_ANSWER": "3",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu4": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>4<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>5<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>The 342<sup>n<\/sup><sup>d<\/sup> term of the series 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \u2026\u2026\u2026.. is\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>24.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>25.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>26.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>27.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu5": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>4<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>5<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Two travellers were sitting around a fire, about to have their dinner. One of the travellers had seven sandwiches, while the other had five sandwiches. A third traveller, passing by, requested them to share their food with him in return for money. The three of them shared the sandwiches equally and the third traveller paid the other two a total of Rs.24. Find the difference in the amounts received by the first two travellers.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.18\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.12\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.8\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rs.6\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu6": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>8<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>In a container containing a solution of milk and water, the ratio of milk and water is 3 : 2. Now, 10 litres of water is added to this solution and the ratio becomes 2 : 3. Find the final quantity (in litres) of the solution in the container.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "30",
+			"CORRECT_ANSWER": "30",
+			"UNIT": "litres",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu7": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>8<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Mynzon, an e-commerce company, is giving a 20% cashback on purchases worth Rs.1000 or above made on its website, <i>w<\/i><i>w<\/i><i>w<\/i><i>.<\/i><i>m<\/i><i>y<\/i><i>n<\/i><i>z<\/i><i>o<\/i><i>n<\/i><i>.<\/i><i>c<\/i><i>o<\/i><i>m<\/i> (i.e., when you purchase something worth Rs.3,000, you will be credited Rs.600 in your account). If Rajnath has Rs.10,000 with him, what is the maximum value of the products which he can purchase on <i>w<\/i><i>w<\/i><i>w<\/i><i>.<\/i><i>m<\/i><i>y<\/i><i>n<\/i><i>z<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>.<\/i><i>c<\/i><i>o<\/i><i>m<\/i>?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "12450",
+			"CORRECT_ANSWER": "12450",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu8": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>6<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>8<\/i><i>:<\/i> Type in your answer in the input box provided below the question. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\">For all non-negative integers <i>x<\/i> and <i>y<\/i>, if <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><i>f<\/i>(<i>x<\/i>, <i>y<\/i>) = <i>f<\/i>(<i>x<\/i> &ndash; 1, <i>f<\/i>(<i>x<\/i>, <i>y<\/i> &ndash;1)); <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><i>f<\/i>(0, <i>y<\/i>) = <i>y<\/i> + 1; <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><i>f<\/i>(<i>x<\/i> + 1, 0) = <i>f<\/i>(<i>x<\/i>, 1), <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">find the value of <i>f<\/i>(1, 2). <\/font> <\/font><\/span><\/p>",
+			"OPT1": "4",
+			"CORRECT_ANSWER": "4",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu9": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>9<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Let PQRSTU be a regular hexagon. Find the ratio of the area of triangle PRT and the area of the hexagon. \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='11' Height= '31' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAfCAYAAAAx6zerAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGsSURBVDhP1ZQ9S0JRGMcvIphpvlAOvYmCLUm12Ga7iC0u2VhmfQCb7BuoLbU6uOlS0TtCgW1mQ3czbDAUvSq6CJJ6jX\/X48m6pdVYP3jgnv\/5wbn34bmHwQAuLy\/g9W6j3X6hCdBXfkilMDE+jsmpaZp0EcmN52fs+HxgGAbyITkMBiNaLZ7ufpIf02lotVqEQiFsbXqgUqkHy41GA\/V6nTx7NtxQKJSD5Y+419egVI78K3nVtUJa+Cs5GAjA4VgGz7dp8o3cj78icxwHlmV\/VUw4HIbNZvux7Hb7n+1GtVJBLBbD2dk5CgWOpl1EcjQSEQZeAZlMhmG5HFKpFHt7+3T3g\/yUyZDBsVqXUCwWUa1W4aLDlEzeEacnX19dQa\/XI5G4pQnAFfJE9vsDZC16DZ5\/H8cOpyfHRD44PCLrLx\/4RrlcwtjYKCyWRTSbTZL1lQv5PIwGA0ymGZRKJZr2kVn2Hhq1GrNmsyCWadpFJN\/E48J\/p4TT6aSJmJ7cOVqr0WBufgHZbBa5XA4ZoZ2dqtVqxOnJu8EAJBIJdDqdcIVphKtL1atIJCoYwCsSSJvrlD\/uuAAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='10' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAbCAYAAABFuB6DAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFPSURBVDhPxZI\/T8JAGMZLE0KaDgiGsgp+m4ZBrYnM+An6EdRNnaQW9AuoTDg0JSg4YgKUAANrCxhC3bBEtkd7OUlseomL4Ukud\/e8v3vv38shRKvVJ1RVxWg0og4QCubzR+A4DpbVo04AfKrXsRWPI7OTQSQSQbP5QiMB0DAM6HoJw8GQZHxuNGiEsbXV7f4N7LTbmwJfWy0CmrUadRigO59D0zRMJhPqMMAw\/QPoeR4cx4Ft28w2Ho\/BmaaJXC4HWZaZTVGUjV6G9r\/0sViQc1erj9RhgAf7e+QLi9o1dULAYvEKPM8jGo1CL5WpGwB\/qqZSqUAQhPCMy+US6bSE84tLMvcXlG9uydjXGjz8ftRsdhfT6RsG\/T4BT07P4LrvJL4Gt5NJSJKEVCqFRCJBQFEUUSgck\/ganM1mpP78v+1ZFjtjULFYDHf3D3QGfAGY26L8boNoLAAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='16' Height= '27' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAbCAYAAAB1NA+iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJMSURBVDhPzZTPT5JxHMf5B2y2mY3ZiIsDW3bIrRJoPbQJj40fZgLOFW42DeMgbRZtdqmOnOzA0U6Gm9lSOxQBpzTpYmPIQWLLGcyObNAggncPXz72yPiR8+R7ew6v94fn9fB8n+f5StAgsa0tOJ1Odiwuvqa2NnUF8e1tnG5vx9jYXXg8HkilUszOvqBpdeoKnj97Co7TEgGP3Y8gkUiQy+WoEdPwFvaTTqeh0\/VBq72OYrFIrZimgpdzc1AqFOzq6+ufqa1OU0EqlUIsFsPE+Dg6Os7g+84OTcTUFWSzWWQyGSLgl8DlfzE\/\/4oaMXUFo\/Y7ON\/dTQSEwxtMEAgEqRFTVxAIfGQnGIxGuN1unGhpAd9\/A4VCgX4hpuEaRCIROBwOWK1WeL1elEolmlSn6SIeJsdAkEgkEAwGj3SEQiFIfD4fLBbLkQ6bzXZcF7HeC1POoT7nBy4Xhm3DRJUsLPigVCohl8vB8zySySRNDgh+5\/N4OD3NXmGe76cWiEajrJuZeSJ8E2GclcmgUqlpekCg1+vQ1XUOPT0X0afTUwvcn5xEW9spIsD\/4T0TxuPfGP8T+P1+4d7\/4PbICNRqDbWAlrsmyHki4MfuLhOsrL5jXLMGA2YTNJqrRICisxMmk5kI+Lm3VxGsrDKuEdwcMFcJrly+BIPBSCQK3i4vM\/6v4NbgoLC5XCACvm5uMsFG+AvjGoHJaEBvr4oIeLO0xE7Y31RH7Xa0tp5EXnhq5dQIHPcmMDRkIarENTUFmfD4OI5jm+untTWaAH8B0PPGenZLq7kAAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='11' Height= '30' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAeCAYAAAD6t+QOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHzSURBVDhPzZPPSyJhHMbnZh4ao8Du6x\/goSIwPLTHFja9Cx4cL03QngzKMmhmaUkRXLfCumUIRnp0KciK3S5Sl34ouF09eDAP\/gAVnh2\/vvtuU0nXHvgenuf5zPC+77wj4JnS6TRkWaYJBoOoPD6yBtDBy0tLMBgM+Dw7C69Xgjg4CNvUFFrtNvUcvr6+giAIWFj4whLg5PiYMlX9Sp7DpVIJsVgM5XKZJUC71SJYlufJv1jzU33b2CD4NHtGvi8cjX4nMBBYY0kfeMXvJ3BdUVnSkw6u1+v4NDNDYDx+wNL\/4nCn08HH6WmIJhPyhQJL9eLw1o8ovdFoNMJms8FqtfKJRCLEcPji4lzbVBThcFg7VxWKovDJZrPEvLrBfnovcCaTgdvtfnM8Hg+EgnamiUTizUkmk+\/yNHa2t2G323Wfuuur1Sr1OnhyYgLDIyP0uf9NKBRCo9GgnsPNZhMDAwYs+1dY8lIcLuTzdOvm5mRIkgSXy4VUKsXanjh8EN8nWBRFOBwOuqZdL0leRjyBc7kcfD4f7u7uWQIsLvrogV+\/L8nrNvhct7c3BMd298hzOLi5CafTyVxPP7V704UPD4\/Ic1hV1qno\/hm1Wg3FYhEWyweYR0dRqVSI0S0jEFjF0JBJgywwm80YGxvHn4cH1gJ\/AXY1RDTxLahwAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu10": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>0<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Find the number of digits in (144)<sup>8<\/sup><sup>0<\/sup>, if log2 = 0.3010 and log3 = 0.4771.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "173",
+			"CORRECT_ANSWER": "173",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu11": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>1<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Rahul met three of his friends Bhavish, Goyal and Yogendra, on a Sunday evening. First, he met Bhavish, to whom he gave one-fifth of the chocolates he had and an additional 12 chocolates. He then met Goyal, to whom he gave one-third of the chocolates he then had and an additional six chocolates. He then met Yogendra and gave him half of the chocolates he then had and an additional two chocolates. What is the difference between the number of chocolates he gave to Goyal and Yogendra?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>5\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>6\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>7\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Cannot be determined\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu12": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>2<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Mr.Santaram has five children \u2013 three daughters and two sons. Five years ago, the combined age of his daughters was thrice that of his sons and five years hence, the combined age of his daughters will be twice that of his sons. If the present age of Mr. Santaram\u2019s youngest child is at least six years, what is the present average age (in years) of his five children?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "13",
+			"CORRECT_ANSWER": "13",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu13": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>3<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Let A = (<i>n<\/i> \u2013 1) (<i>n<\/i>) (2<i>n<\/i> \u2013 1) represent the (<i>n<\/i> \u2013 1)<sup>t<\/sup><sup>h<\/sup> term of a series S<sub>1<\/sub>, while B represents the <i>n<\/i><sup>t<\/sup><sup>h<\/sup> term of the same series and C = (B \u2013 A) represents the (<i>n<\/i> \u2013 1)<sup>t<\/sup><sup>h<\/sup> term of another series S<sub>2<\/sub>. Find the sum of the first 10 terms of S<sub>2<\/sub>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "3030",
+			"CORRECT_ANSWER": "3030",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu14": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>4<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>1<\/i><i>5<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>There are three points \u2212 P, B and Q \u2212 on the ground, in a straight line, with a pole AB, at B, such that the pole AB is leaning away from P and towards Q. If B is 20 m away from both P and Q, and the angles of elevation of the top of the pole as observed from P and Q are 30\u00b0 and 60\u00b0 respectively, find the length of the pole.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>20 m\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='31' Height= '17' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAARCAYAAADKZhx3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAL1SURBVEhLtZVfSFNRHMcnwnwSwYSWgWBzVKtw9WqFaT5Ne3Dlg+nrltiLgiiiPpjbgkofmoKCloKm7Umd5n9de0mcD2svmo6FMJ+cIhtjyvTbPb977nTJhaL1gQu\/7+937vmec+455yrwH7Baraivr5d9GhsbkXTjYDAIvV6PnZ0d2ScQCCTfeHR0FCaTiSt5km7c3NyMzs5OruRJunFFRQWcTidX8iQYx2IxnJyccHUGyx0dHXElTyQSQXFxMQ4ODnhGJBqN8uiMuPHmxgY0Gg2Wlpd5RuRVezuuqFTIzMxEZeVzhMJhXrmIx+NBaWkpV8DE+Di0Wi2ysrKg0+mwuLjEK9z4x+YmLgkdKxQKzMzMUoEx0N9PuY4OMz6NjFBsePqMVy8yNDSEmpoaitlyS+0dDocwID2UaWnY3vZRXdHT042MjAwUFBQgJSUFs7NzVGBo8tQoLHzEFdBte0+dBQK7PJNIQ0MDbDYbxfNzc6iqqqKYEQ6F6N2BDx9JKwYHB2kJfL5tKnzhMz48PKSBdJgtpBnrbje1mZ9f4JlEDAYDXC4XV2dsbW3hZW0tcnOvwe\/\/Sbn4N15fFzuVjIPBPdJv3r4jzXCvrYnGC4uk2XLu7oqzZxuopKQE+\/v7pCVWhD2juqyi94znzvdfGUsznhE+R1dXF5RKJcrLy6nm9XoTNpYEGwi7qaanp+jdltY2yssah4RvkpqaCov1NWmGNONJxxTcwiCGh4dJh4WdbrfbUSssp8Tp6SmOj4+5EikTBpadfZViWWPGndu3cP\/BQ64Ai9lMbfaE+5jBzn16ejp6e3thsVjQ19dHeUZbawvy8jRcidy8cR26u\/cojhuvrn6jTicmHTwDfB4bo5zRaKQ\/DotNL8TjIlFXVwe1Wk1LzlZBwuX6Su2LiopoYE\/KykhLGzNu7Pf7UV1dDc93L8+IsLOcn59Po29qakLst5vN5\/NRhzk5OReW1rmygsfCTcYuJnajnd\/xceN\/gf0G2R395wC\/AAd3tXpVYb0nAAAAAElFTkSuQmCC\"\/>   m\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>10 m\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Cannot be determined\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu15": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>4<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>1<\/i><i>5<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">If 6x + 4y + 2z = 54 and 3x + 3y + z = 38, find x : y : z, given that x, y and z are natural numbers. <\/font> <\/font><\/span><\/p>",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2 : 8 : 3\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1 : 9 : 3\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1 : 11 : 2\r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT4": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">Cannot be determined<\/font><\/font><\/span><\/p>",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu16": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p>\r\n\t<strong>DIRECTIONS <\/strong><em>for question 16:<\/em>Type in your answer in the input box provided below the question.<\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\">If the standard deviation of the sequence 9<i>x<\/i><sub>i<\/sub> + 3, where <i>i<\/i> = 1 to <i>n<\/i>, is 30, then the variance of the sequence 3<i>x<\/i><sub>i<\/sub> + 9, where <i>i<\/i> = 1 to <i>n<\/i>, is <\/font> <\/font><\/span><\/p>",
+			"OPT1": "100",
+			"CORRECT_ANSWER": "100",
+			"UNIT": ".",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu17": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9;\"><font style=\"font-family:Arial;\"><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>1<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices. <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">In the figure given below, S1 is a square, S2 is a circle inscribed inside S1 and S3 is an equilateral triangle inscribed inside S2. What is the ratio of the area of S1 to that of S3? <\/font> <\/font><\/span><\/p>\r\n<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\">&nbsp;&nbsp;<img alt=\"\" src=\"https://www.time4education.com/moodle/aimcatsolutions/images/AIMCAT1910/636722801305927155_6389388.gif\" style=\"width: 121px; height: 114px;\" \/><\/font><\/font><\/span><\/p>",
+			"OPT1": "<p style=\"vertical-align:middle;\">\r\n\t<span><font style=\"Color:black;font-family:Arial;size:9\"><font style=\"font-family:Arial;\"><img height=\"18\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAASCAYAAAAg9DzcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPPSURBVEhLzZZdSJtnFMdfqwjaVOgQ1FWmZV3XCR2bFolTxFWo03rlhV9Rq4IVP+pXXTu23lSs0yE6L+t0BhodzGCrdnNtrOZS6o0RnK6mMmUFm4hSNUNE\/e85J0+a2GBI2UXzg4e85\/+e5+S87znPSRT4CB0dHairq0N9ff2Rq6GhAT6TcHJyMubn57G8vHzkWllZ8Y2EjUYj0tLSpOUZn0i4paWF28EbfCLhnJwcDAwMSMsz7zzhvb09JCUlwWw2S8UzrxOenZ2FTqfD6OgobLZ\/pfr2mEwmjqPX62GxWKR6NIuLi0hMTMTu7q5UwPv0+kGOYzLNStUOJ\/xTdzcURUFYWBj8\/Pzw4ZkzmJubYwdvOTg4QGVFBccJDw9HUFAQVKoTnLgnKKnc3FxpgRNVqY4jODiY41C8ispK7O\/v831lYWFBJKngWk0NiwtitNCGS2lfsYO36HT3OHhb2w+cPL2l2M8\/46S3traklzuNjY1oamria9pDMdQJX2B9fZ3j3PruW9Z++32MfRTj5CQLjx4bWCA+PX8eH5\/7RFpOXq6uIiUlBR2dP0rFydDQEAoLC\/lLHPzc08OxzebnUnEnPT0d4+PjfE1zNj8\/H0+fTrNNbL56xTFavm9lW6HeKb96FdHRp9HV1YVr1dWIiIgQvfyQHVyhp6bx8+vgoFQ8k3n5Mk6efE+84W2pHMZms0GtVnvs9f5+HSf85MkE29zD2r4+FiMjIxEYGIiPzp7F3+KX5f\/wzc2bHPP+gwds0zRobW1FjWg9B1NTU0hNTZWWO5MTExyjuKRUKiJhrdaebE9vLwtra1ZciIvD+6dOYXPz6N7zRG1tLcfsH\/iFbUq2tLQUUVFRrE9P20ve2dmJ8vJyvn6TkeFh9tUUFEjFjlJVVcXt4Ipx0v5kjjJ4y8bGBi5e\/BLH\/P0PtRQd5qWlJayKM+Av7mVkZLBeVFSEXvmiXLnT3Mzff\/16o1ScKDdufI2AgAA8FwEdNN2+zRv+FBPDW2zb24iLjcU5cVgtFqtU3akUI4pi05+ZzMxMzMzMyDt2aCrQaB0eGZHKYZRnz\/5CdNQHCA0NRbN4spKSEg6YrzlcCmLNakWBKFFfn1YqTqpFpWifOiGBy0x+tIqLi2G1rkkv8C8a+dG0oTe9s7Mj71Bl7RPruEoFqjxNHUccg8E+SfjQvXjxD66I8sTExCA+Ph7t7e3cd29iFac5KysLd+92S8VJmzhQlKhGo2Efx8rOznZ743l5eZwYfbpiMDxGWVkZ97trDFpjY3+wzzv5L0H9HBISAq3WvVKeAf4DokO74SXNYcIAAAAASUVORK5CYII=\" style=\"vertical-align:middle;\" width=\"44\" \/> <\/font> <\/font><\/span><\/p>",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='47' Height= '17' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAARCAYAAABJoiVMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQBSURBVEhLzZZfSFtXHMdjZyW6l1bWqRk4p9EXwS2ofbVGRKOiWKvY\/REdLFa0ajR267riQ22ROFDRao1OxMicg7WDtkIn1VGpsVQrSVcfbF2TqFlBJNGYIYJ+d+4vJ4mdxvm2fODC\/f5+957zvb97zu9eEfyMtrY2qFQq1NXVHXjU19fD70ynpaVhYWEBFovlwGNpacm\/TE9OTiInJ4cr3\/iV6Y6ODlRXV3PlG78yrVQq0dfXx5Vv\/Mp0ZmYmZmZmuPKNx\/Tcs2fIy8uD0\/k3jwA7Ozto0Wggk8mQfPo0fhwe5pmjodX2IDk5GUlJSejq6ubRg7Hb7UhJSYHD4SD9x\/PnKCwsREJCAsrKvoTJZKa4AJlefPUKoaEncezYO9jc3KSEQDl7XSKRCN9dvYqioiI6\/+X2bZ49nKZr1+h6FWtTX1+6ROdN16\/z7H6mpqaQnZ1N56bXrxF0\/Dgz\/DGam5sREx2NqKiPsLGxQXlRd3cX3j91CnFxcYiIkGDT6aSE2WSiiUZGfiYtUHjuHJqa3p74z8VF9Pf3Y2VlhUdcfHr+PKprargCvvj8M3wYFcXVftrb2z2b8LcHD5CYmAibzU7aYjGTF\/30NGlRb28vJiZ+x6937iA4OJhV2mV65KdhhISEQK\/Xo6FBzY4GdvMS5fZy7+5dSKVSPH48xSNvY7fb2PjjiGbV+vbKFR7dT2lpKXQ6HVdudvHy5QIuXCinoq6urlLUs6Z1g4MQi72mv2\/RICgoCCdPnKC1Fhcbi2D2EE+f\/vdG2YuwxMRiMY1tMBp5lM3HDI6NjXEFpKenw2AwcOVi8tEjhIWFUZW\/uXyZRw8x3XzjBl3c1e3dQLGxUpxJlXN1NKxWK33JFIpMtm9Csb6+jsbGRgQEBFD1BNbW1qgwW1tbpN3YbDZadkNDQ9zLLYr7ND2kG6QL\/3rzhrSAqrYGEZIPuDocK5vMyfeHgNFooPHGxycw\/+IFRkdHSRtZ9efm5pCbm8uvBDWD5eVlrlwIb9pdMJ+mhYGFQft+6CctIJN9glR5GleHsLsLaUwM8s8W8ABws7OTxpufn+cRQCKRoKKigiop\/CS50fb0IDAwkFXZSnqDvZ132dJUKstJe0z3arU0qMPhbXkXL1ZRrKSkBKmpZ+iVTj95wrMuxh8+hFwux+zsLI+4uNnZQffm5+ezPltG51\/xSd20trbSZs\/IyGBdaoRHhSW1gojwcISzo7KyEpGRkXiPdTiz2UJ5j2mhmWs0Ldje3uYRF7fYmlYoFCguLma9VM+jXoSPklqtpj+zf3P\/\/j0UFJxFVlYWBgYGeNSL8EERNqnwQCbWYveywpaHWl1PX8naWpXHsIDH9P9FVVUV4uPjuToKwD\/+slQ1plwYGAAAAABJRU5ErkJggg==\"\/>  \r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='48' Height= '17' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAARCAYAAABNV\/VxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQhSURBVEhLzZZbSJxHFMcXNGIxQhREDW4axVYb48ZumkIuBbW63lo0qRqzalYRFA2+6Iq3rA\/eFkwffEkCCtZqjE1pTFF0KyhNBIlJNBEkmhSLRNSNZmm8Lt7\/nTk764p2q4\/7g4E558x83\/+bmXPmk8AGWV9fh0ajQV5entVWWFgImxQ\/OjqK2NhYTE5OWm3T09O2Kb62thbFxcXCso5Nis\/MzERLS4uwrGOT4qOioujoHITNiednOSwsDJubm8JjHRI\/+e4dlEolZDIZgoOD0dbWRsG9VFVWorHxZ2EdjseP\/0RGRgbi4+N3mk73h4jup7u7G0lJScICujo7ERoaStqKioqxuLgkIky8Xq+H1MsLvr6fQavV4ruYGEgkEjx69LsYYqL1\/n3yq9LShOdwpKYkw97+CNLT05HG5vLW09MrovvhGsrKyqjf1dVJ77xy5QdUVVXhqJMTFIoIbG1tUVzy8OFvcHf3gP79e3JwfLy9kZB4VVjAm7ExNvEonJ2dkZ2TI7wWlpeX0dDQgGfPnguPhVNf+CMvXy2sg1GpVDs7r9VWQxERQX3Orw9+oY\/55+NHsiX8QlhYWCDDjKenBxN5g\/obGxuQSr1QWnoTEYpwpKReJ\/9u9DMzbOd8UVWtFR4TS0tLcGKrFRkZhUgmIi4uDj291ld9e3sbEWzc+Pi48JhYXV3F8PAwFOHh7Ah9S5o4+xK2oEANR8dP2AP+JjslORmBgTLqX7p4AanXVdQ\/DC+HhmilTgUEsOcWICQkhOz29g6Kr6ysoLW1lT6SMzU1RclqFmfmzu3bcHV1pblNTc3Cu0e8Oj+fBjx9OkB2y717sLOzw9u3f2FtbQ1fnZXjmjKZVuIwGFeMGHzxgq57M2fOyHD+\/AUYDAbaCf6+iooKiu1NVjOzs7OYYbur0dyk8X19feQn8TwBLl+Og5ubG56zl5n5MiiIBkulUoodsbdnu+KIi5e+ESP+n\/X1NczPzwvLxA2WM+4enqxqLGJiYoKqm4uLC8VqampQXl5OfY7hgwEfWNsN11NYVGTqb7F6mpgQz1YkiBJvNyMjI+jv70cvO6e8+fv5ISxcgYEB084cRHNzE73s9WvLhXP8uCdiYr4XFq8oXTRGp9MhNzeXbDPKa0k4edJbWMDwq1c0tq6unmzJj7dukeP06UBER0dTTeWN\/7Xtxd\/vc8QnJArLwtzcHM25c\/eu8JiYmZnGpydO4NgxF+SwFec7yfNpjFUvM3zXfXx8EMDygt+s\/HiY6XvyhLSdO\/c1srOz4eDgALn8LIxGI8UlHR3tqK6uZtWkFGq1eqfV15u+bjeNjT\/tJNtu5lnp4nP+K8Y\/rKSkhFWcSGRlZTHhb0TEQl1dHYmUy+XCY2FocJDuCD6\/ktV6ftzM2MzvAc+rw\/xJWgD+BYZJx8EWtQf2AAAAAElFTkSuQmCC\"\/>  \r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='49' Height= '18' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAASCAYAAAAdZl26AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQcSURBVEhLzZZLTFtHFIYtQ5FALADZ5VEJIpFKYYWUCvY8KgEiaoiLEzYsIBVILbgY2028gVbFBBArpBAIZBHUEptICWQBxQ4goBQLwqOIRjSFKojyhsa8X+XvzPHEjxAD6qb+pCvf85+5c89\/PXPulcBLmZycREFBAdRqtcdDp9PBaw1UV1ejpKQEs7OzHo+5uTnvNaBUKtHT0yMiz3ilgf39fSQnJ2NxcVEonvFKA1NTU0hNTcXx8bFQPOOVBkwmE3Jzc0V0Om4GrFYr5ufnRXQSvnGWl5dFdH7+nJlBW1sbBgYGhHI6er0eVVVVIgK2trbwU0cH2tvbsbm5JVQ7DgPPLRZIJBIYjSahuPMLu7m\/vz80Wp1QzoehrIzmlclk+MDXFwmJiVhdXRPZ98M3sIXVw+H3DQsLo3sHBwcjNDQUXd3dlONIdra3cf9+Pd2EH63PnomUk2025qOICMprdd8I9WxGR0boGm56b2\/PEReqvhYjTrK7u0sbeGVlBYeHhwhhRV+8+DGWlpawubGB+Lg4ZiicbfQDGi8pZi8EmUyOoiI1Tf7k6VNKuHItIwMRzICPVIpijVaoTmZfv0Yie7IPHzYJxc4MWzoGgwFb7AG85UJUJJKSPxXRScbHx5GWlkbnBwcHqKysxM8uS89Q9j3VabNtUCzhF6yvr+Mv\/lLgBp64G6iruwep1AfWQSv7laJIXSwyTpbZ09FoNOjsNAvFHd5NzJ2dUKlUCA+PwPCLFyJzkqamJuTn54vIydjYGGpqauhB3rlTIVSXPTDOBrxr4OXL30hrbW3D8T9HdP6+f+AsFhYW8MnlywgMDERU1AVMTEyQ3t\/fj4SEBFRUOAvSarVU6LvcZF0pMjKSaqirrxeqi4Ff2T\/hamCDrbeYS5egUHxOT\/CPV68oX1CoovX8X7C9eYP4+DjI5R9inpnKyspCdHQ0AgICqNNwFAoF+vr66NyVt++E774tpTrMZvsm92igg7UsHvMOIJfLERISQjHvBklJSTTmLHhL7nbpGJzmH3+geUZGRykeGhqiuLGxkWI+99qavUvt7Gyjt7fXrXVvM6N8\/K3beoo9Gvib7YvBwUGagBdhMhopn5mpxPDwMI05iwcPGumari6nievKTPj4+LIi14UCxMTEIDY2FtPT00hPTxcqHPsy9+YXQgEet5jc6nQYGGEbiycePTIKxZ211VXKf\/lVoVCceOpCvP3yte\/n54ecnBwksvXO56itvSdG2GloaCA9Ly+PPpFd0d++RbmMjGvIzs6m8\/QrV3B0dER5hwHeScrLy9l3yO9CcWfDZqO8xfJcKE5O60K8d\/OXWUpKCq7fuAGzeEG5YmNzBwUFUXHNzc1CdfK4pQVXr35G30d379a6fSM5DPzflJaW0j7jZs4P8C9G08qfpqgefQAAAABJRU5ErkJggg==\"\/>  \r\n<\/font>\r\n<\/font><\/p><\/span>",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu18": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>8<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>1<\/i><i>9<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>In a school committee comprising 12 members, there are exactly two students from each of the classes from class 7 to class 12. In how many ways can a sub-committee of four students be formed, such that no two students in the sub-committee belong to the same class?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "240",
+			"CORRECT_ANSWER": "240",
+			"UNIT": ".",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu19": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>1<\/i><i>8<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>1<\/i><i>9<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Find the number of integral solutions for the inequality (| <i>x<\/i> \u2013 1| \u2013 4) (| <i>x<\/i> + 2| \u2013 5) < 0.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "4",
+			"CORRECT_ANSWER": "4",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu20": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>2<\/i><i>0<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>If the length and breadth of a rectangle are increased by 4 units each, then the area of the rectangle increases by 100%. If the breadth is decreased by 6 units and the length is increased by 2 units, then the area decreases by 75%. Find the ratio of the length of the diagonal of the rectangle and the length of the rectangle.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='43' Height= '18' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAASCAYAAAAt6kybAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPYSURBVEhLzZVdSJRZGMcHvHDVvBzF2PQuR9FFuzFrDR33wixHECETZ0Ys1LBat0VUSKjtY1pQQWyCPjA3ZjTLumsUWvzAcbJyRs1FxQ28EER0R02ZSZ3Rf+c875mGCcdyC+wHh\/c8z\/n6v+c85zkyfIb6+nqUlZV9VRkfHxez\/X+2Fbq8vAylUomurq6vKt+CbYW2t7dDq9UKa3fZVmh1dTXq6uqEtbtsKzQ3Nxfd3d3C2l38Cl1dXUV6ejrm5uaEZ3fxK3RsbAwZGRnCkpicnITRaERbWxtmZmaE14u5rw8GgwG9vb3Cs3PW19cxOjoKm80Gq9VK5c2bUf9CW1tbUVRUJCzg2tWrkMlkkMvlCA0NRWDgDzAw0Ry3243CQi21R0RE0DcrSwWHw0ntO+Hv589pfEhICK3Dy\/790f6FVlVVoba2luoDAy9o8Nlz5+FyubC0tISUnw+T2HVmd5ieUXvT\/fvU\/\/HjR2Tr9bfI3gk3dNcREBCA6elpWmd+fp6KX6HZ2dkwm81U50Lz8\/OxsLBANucpS11cjN2+gHt371D9P7tdtLKYYvbFizXC8oVf0NTUVJj7+4XHy\/FjmUhKOkh1nsc9bCnU6XQiLS2NifAu\/Cn5J\/OwZ08o3r9fxTv25weTkpCcnIzGxkZkZh5F4oEDmJqaEr19GRoaQnl5OYvFf4RHYnNzEzExCgqvqKgoBAcFISExESMjI5LQwcFBlJaWfvyD4eFhtlgm1bfizxs62rGW1odk8wVOnzpFvsjISPqeZCfgcrmp\/UvhJxbGRMbExMLU0UE7\/1N8PIv7vZCZTCY6Vj55U1MTDWhubkZxcTHVP+XKlT+o7+3bd4QH+P3Cb+TrY7eeY7NZWfwGQq3Z2au2sbFB8chP1MM4yz58bpnnePmbrlAoqF5ZWYmGhgaqe3CzS5OXd4IGGY0twiuhiI5GSsoRYUn8ev4c9eWh8aU4nQ5KgTyLeFhcXERwcJA3Rjs7O2niiYkJet8tFotokVBlHUdYWDj+fftWeLwoWTzL5WFwsx3xcIjF64\/7In0W\/RwWSz9puKnXCw\/QYjRIOypsmjA8PJxikz+dKysrogXQ32ykzjx2zrBYVqvVKCgogEajgZ3FVU9PD7UnJCRCp9Oxi5hK9l8PHogZfHk5MEDjrVab8Eisra3hl3Qlja2oqEA1S5G8rtEW+t56vghvUKlUwiPRzPJjSUkJE6ZGTk7Ox8J\/aHZ2lvrw+DzGUktsbCw9vU+ePCX\/VvSztMTHv3z1Wni8OB0O1NTUIC4uDvHsIl26fJnF7qavUJ7Mg1hK4IK\/L4AP9D8gi+u1tyUAAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='43' Height= '18' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAASCAYAAAAt6kybAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPRSURBVEhLzZVbSJRBFMcXhHQ1n8xLUSk91K6oKVQGldcexGwtETLb1ZBSwwopRH2QtIu3VJDyoRDzoV0TpKdSoVIK3bRcLxkq1ptoXvCO691\/M+cb3SzXtAL7wbBzzvlm5j8z58zK8BsKCgqQkJDwV62zs1PM9uesK3RiYgIBAQGoqan5q\/YvWFdoRUUFoqOjhbW1rCs0NTUV+fn5wtpa1hUaHh6O2tpaYW0tZoXOzMwgMDAQg4ODwrO1mBXa0dGBoKAgYUl0d3dDq9WivLwcfX19wmuirq6O4o2NH4Rn88zNzaG9vR3Nzc0wGAzUPn1qNy+0rKwMMTExwgLu3b0LmUwGe3t72NrawtLSCk+ZKM709DTOngldifNftUaD+fl5im+G169e0XgbGxtah7f9+w+YF5qSkoK8vDzqNzS8p8FXr12nxcfGxnDi+DESy0\/gfm4OxYuLi7GwsICaN6\/Jzsm9T+M3Q3ZWJiwsLNDT00PrDA0NUTMrNDQ0lK6Sw4VGRkZiZGSEbM5z9nRxMX3fvjHRx+HhcVBEJPx8fXBAocTSknD8AC9QPz8\/1NXXC4+JkFPB8PY+Sn3+ji+zplCj0Qh\/f38MDw8Lz69Eno\/AdnYt06zojhw+hMNHvEVEQhUSAisrOaXFz7S0tCAxMZHl4mfhkVhiu1IqFZQ+zs7OsJbL4enlhba2NkloU1MT4uPjV3bQ2tqK4OBg6q9FTnYWnaau7BnZGem3yH7x8iUt9oZdveW2bWxBB9r0RuE35sBEKpWuqKyqopP3cHfHzp27IKusrKRr5QuVlJTQgNLSUsTGxlL\/Z+7cuU3fPnr0WHiAqakpdmWnyO\/k5AQXFxd4sZOws9uxKaGLi4uUjz+O6WSvD59Xtny9\/D9doVBQPzk5GYWFhdRfZoEVUUTEORqk1eqEdzX8BHQ6HRWBRn2BCd5HJ7xRjMYpegJ5QS4zOjoKa2u5KUerq6tJRFdXF\/2\/6\/V6EZFQnQ6Bg4Mjvnz9KjwmcnOycdDTU1jA+Pg4zXXjxk3h2Rh6fT2Ne1hUJDyATvtUOlFh0y4cHR0pN\/lf5+TkpIgARQ8f0Mc8d66wXNawN1KtViMqKgrDLK\/evX1LcR8fH2RmZmLP7t3Yy4phYGBAzLCaxoYGGm8wNAuPxOzsLE4GBtBcSUlJSGVPJO9HRV9cXfVZWVKRqFQq4ZEoffIEcXFxTJgGYWFhK41vqL+\/n77hN+Lr6wtXV1dcunwZvb295F+LevYs8fGNHz4Kjwkjy\/e0tDS4ubnBnRVSekYGy92l1UL5Yy5nTwIX\/H8BfAc3oyI+WlrP3gAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='42' Height= '17' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAARCAYAAACvi+4IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPASURBVEhLxZVrSJRZGMdfFP1okJqaClurok7rjG4L1YIuheI1L7SY1idToVU3lUJIP8iqoCJYK1YjZaH1wQQvZVQ6jjXmJZCmD6XiSC5Ohpb3tfGG\/vecZ87QlE25fWh+8PKe5\/ae5z3nPM+RYEXKy8uRm5tr8cnLy4PVElxcXERkZCTGx8ctPhMTE9ZLsKmpCSkpKUKyjNUSLCwsRFlZmZAsY7UEk5KS0NHRISTLfJTg6uqqGH0b241fW1tDWFgYpqenhcbIysqKGH2AEuzv64NCoYCjoyP8\/WW43dhIxu2i1+sRHR1N8Z6eniguKRGWzzM0NISoqCghAffa2iCTyeDk5AS5XA6VqlNYWIKv2ce54fDhI2hpacHxxERIkgSt9rlw+TLvl5bg5uaKnTsdKb60tJTir1xRCo+tNDQ0ID09nca9PT3kHxcfjzaWaOzRo7C3t4dON0p2iWfPHcbG\/iGFwfCeZKWyhmQTy8vLqK2txYsXL4XGyMzMDJKTk9Hf\/1RoAF8fHxw69KuQtlJQUIDKykoad6nVOHHyJDZJYvMYDDT\/1WvXSJamJicRHByMY8d+h6pDhezsM\/Dw8MTg4CA5mJidnYWXlxdqr98Qmq1MTU2hvr4Ou5ydUVdXL7RbSWS71Nn5YRtN6HQ6\/JmVhR\/27MGrV2OkozNYU6OkrB0cHOh9+o8MMv4fDOzPDx44QPHe3t54+\/adsICdKRUWFhZobCqQSbYw5mg0j+Hq6krxqWnG7edIt27dhI2NDS5dvoz5+Xm0P3xIThcuXBQu24NPrB\/XY3h4GPKAAOzb9xOt6LlzZ+l7OTk55DcyMoKIiAhsbpo21cjc3BzdHA\/u3yf\/\/PwC0ksZGRnwY5VrTmREONtObyF9nU\/by53WFpqku\/sJBgYGUFFRATs7O2xsbKC5uRlpaWnCE5Qo\/zlzeKG4ue2msZSZmQnnXS5YX18nBScoUIGf9\/8ipC+jffYMLi4uUKu7hAYoKS6iBCfevCGZb6+trS0aWfviyVZVVZGeU1T0F\/bu\/fGjFZX5+0GuCKSx9FyrhRPrX4FBQaiurkZ8XBx9\/G7bPXIwscTaSRY7wOquR0Jj5F926fv5+sJhxw6aOP\/8eYo\/k50tPIzwe9eHVTcvkB7WWkz09faSf0jIb6xzKBEXG0tye7vxlqEi4eeGN05+uHlFt7beIaM5fBXCw8PRxLboU\/iNkHrqFMUHsPP3t9kKmRgdHaWJ3d3dqaDM6e7WIDQ0lOJ5P36s0QiLSPB7kZCQgJiYGCFtB+A\/DFgp35CcJxoAAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='41' Height= '17' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAARCAYAAACvi+4IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANnSURBVEhLxZZrSJNRGMen5qUPXlC\/+FEzBEnxmlbMzHkZorjQVEhB1yY10YwmaGpeNm\/g1CA\/Vl8MvNVC0VJB8IPgJ2kJmngHUUFT8NK84b9zjienuYnty35w2PP8z973\/e+c8zzvBLiE+fl55Obmmj3y8vKwvb3N72Yelxqsr69HUVERhoeHzRqjo6P8TuZzqUGJRIKxsTGeWQaTBvf39xEdHY319XWuWAaTBicnJxEfH88zy2HSYHt7O2QyGc8sh0mDJSUlaGpq4hnwprkZISEhCA0NRYNGw9XzHJBjkZ+fj76+r1y5OoeHh3hVXIz09HSkpKSwIZPJTRtMS0vD0NAQixXPnkIgEECpLEShUsni0tIyNneWFwXP2VxFRSVXrs7M9DS7NipKhKysLDYKCgqMGzw4OEBMTAzW1tZYHkvi8vIKFlPkZOttrtny7IQvWi17gI2NDerq6rl6EZ1Oh59TUzwz0NnRASsrK54ZMGpwdnYWcXFxOD4+5oqBBdK8AwMCkJQk4QqwsryM6w4OqK2tg4uLM6pUaj5zkbDboUglu\/MvSuVLuLu7o6mxEQqFAm1tbUw\/NTg3N8cjoLu7G5mZmTwzkCOXw97ODra2dpiYmOQqEBQUiCTJQxZbW1tdanBraws7Ozs8M3A\/Qsh2QCgUQiQSsVgqfQIBbSfZ2dnkobanJlUqFaqrq1l8FvpmoOfyQWQkPL28oNfvoaZaDU9PL\/4NkG0SkCJq5NnV6enpZp3jL9rPn5hJwcjICAYHB+Hh4cEOJYWuXm9vL4uNMTtzcqCryA+hnz4+PkhNTUViQgLLfX19UVn5\/4VyFr3+N5ydnAxbrFar4ejoiL29PSSQBy0uLjJ9c3MTERERaG39yHLKD913ZqShQYPXZWXsT4FUKmU\/jOpBwcHQmGhFxtjd3YVYLMbblhauAIsLC+xepwZXV1eZ0EgOKe1FtC9RaEUHBgbA3t4eWu0XDAwMwNv7Bhk3jZ4leo8aUiym6OzsxLf+fp6dcHR0hHt377Br6ULQY+Tv54dbfv7nqzg5OZmtopwUw1k2Nn7hEWmcrq6upEpdyAonYmlpic8a2CWGw8PD8O79B65cRBwXC5k8h2cG6Ds\/I+Mx3Nzc4Ew6QTRpbSsrZNH4PGN8fJxUoTW6urq4YmmAP9hEJISWQ4hOAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu21": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b><\/b><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>2<\/i><i>1<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Jadeja was playing with a sheet of paper which was in the shape of a rectangle, of length 16 cm and breadth 12 cm. He placed the rectangular sheet of paper flat, on the surface of a table, and then folded the rectangle along its diagonal. Find the area (in sq.cm) of the region occupied by the newly formed figure.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "117",
+			"CORRECT_ANSWER": "117",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu22": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b><\/b>A circle of radius 3 units is drawn with centre as (8, 7) and another circle is drawn taking the line segment joining (\u221212, 8) and (4, \u22124) as diameter. Find the number of common tangents that can be drawn to these two circles.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>3\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>None of the above\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu23": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>In a locality, each family has at most two adults. No family has less than three children. Considering all the families in the locality, there are more adults than girls, more girls than boys and more boys than families. Find the minimum number of families in the locality. \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>4\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>5\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>3\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "d",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu24": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Had a trader bought an item at 10% less than usual, and sold it at 10% more than usual, his profit percentage would have been double the usual. What is his usual profit percentage?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='38' Height= '29' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAdCAYAAADGgB7AAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARWSURBVFhHxZhpSFxXGIZHM6B\/otW4hGohTiBKNcSlmH8qKaQuhQpG05QYtanL1MSESoqKtT\/aWo3R\/jDVTrQYlyYBEVJS0kRnEmisgQw2E0i1Ootbqo7LBDfccN6e+80ZmzFFmeuFPnC493u\/M3NezvKdURkkYmJiHIWFhcjPz6emUql4RhySGTt6NBoKxUFUV9egoKAAbm5uqLx8mWedRxJjN2\/cgEwmwx9Pn3IFOJOeDhcXVywvr3DFOSQxNjs7A61WyyMbuTk5cHXdg5WV\/9HYVkwmI83g+YILXHEeyY0Z9Hrs9\/dHZGQU1tbXueo8khpTd3VBLt+D+PgEzM\/Pc1Uckhnr6Oig5Tt37jxXdoeDsd7eXoyPj\/PoX54906GzsxN9ff1ccUTIC6Y+SE7G1NQUxsbGMDw8TE+r1cp72ZiYmEBVVRXa29u5YmOdLXt9fT3M5imKN439fPs2fXlj449cAebm5vB+UhLp3t7e9Dx9Ov21k6bMy2Mn0BV+fn7w9PSEh4cHteCQEFYulnkvYGZ6GgEBbyLlxAkogoKQm5vHM8A3X38Ff\/\/9bAssUCxbW1tDa0sLDSq0trafKCGQlZlJWpdajaWlJbS1tlJ85Uo172FjcnKSZshgMEDPNr+9DQ0NOczY91dr4ebuTu\/22reyuooFth\/lcjnu3b9POQHZ55cuwcvLCxcvXGQF0QXNzS08BXbFfIaiomIe2XiDzUha2kkeOceXZV\/A19eP3n+9e5eMCZQUFyM0LIze7cge9zzGNJtiy+wsdbx+vZmnXkc\/OEh9KirFXTXdj36jzz\/q7kZmRgbeDg3D0uIi3Nn1pdY84L1sbO6xwYGBbY2tsik\/HBaK4OAQLLIvE0tlRQWOHAlHXFwcRkdH8akyD8ePv0e5b8vLUVpaihlhkkhh2Gfjv4wJp0swFRj4FoxGE1cBi8UCjUazYxP226tYrRv0nDKbacyBgUFkZJxBZFQUPs7KQnh4xM7GtNon8Ni7F+EREczIS67a0Ol0SE1N3bE1NTXxTzjy4ck0JCYm0bswdpdaQ+++Pj7bG\/vz+XN4smN\/9uwnXJEOHfslIhw2o8mExYUFGvvBw4eUE0rJprG\/+vspqVJdo1goI8GHDpGWycpGdnY2stg0C+3VkiIGoYS8w5bt1KmPKBbqYtCBA2yMHNy6dRPeXqxmUoZhZustDN7T00OxsMGVSiVpKSkpSGZV3d4aGhqoj1hGWM2LiYnByMgoV8BulT52x8YjNjYWarakm8Z2wy937qCcnSh7q2Anr66ujt0ijXTVbGVjw7b5t0MSY2VlZYhgh8PeoqOjaQsEBATSlhCDJMa2ck31Axl7suVXrTNIbsxg0JOp4pISrohDcmOJCQnYt88HqyKX0I6kxvR6Wy2srb3KFfFIaqykuIj+MrK8dLwhxCCpsYMKBY4de5dHu0MyY3+\/eEHLWFPzHVd2h2TGTEYj\/Vug+3fbzbE7gH8Ajdpu99WfCZ8AAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='38' Height= '27' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAbCAYAAAD77kbeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARJSURBVFhHtZZtTJNXFMefEl4WwTIUFud4WWtYQgRkINSJCIgUoTJ1oMuAD7OGbZ+2yVxiy4uaKTgc22oyICEy7KaJZBtlhg8QxjZqF2AJBDTyQdiUskwggNDyGuS\/+xwu4Lbg0vLsl9z0nnPvfZ5\/zz333EfA\/4BOp8MX5eXcchzJRX1ZXQ1BEPBGVjb3OI6kon7t6IC7uzu85d44dPgI9zqOZKKmp6fh5+uLS5c+Qezu3UhWp\/ARx5FM1OvHjiE2dg\/1w0JDkXIglfrOIIkoo\/Eq5dHtO3cwPj6O4OBgJCTuw8TEBJ\/hGJKISoiPJ1F+fn6Qy+VwcXGBq6sr4uLi+AzHkERUX18fOjs70dbWRu3FoCDExKjQ03Obz\/g7VquV91aZnJykKIuQqN67d5GcvB\/+\/v4I37ED165dp0GR+\/d\/h0ajobGIiAh8f\/MmH1mbQDY3bm88t1YZHhrCK7t2IZTlXFqaBnb7FPntdhu2KZUwm2+RLVgHBrDJxwcvR0biypVqZGZk0FY0\/9CCxcXHeInlh4ItqKysXBlrb++gxWvR3NwMi8XCrVU+PHUKSuU2jIyM4Dm21ecvFJNfrzuNyMgo6osI3337DRQKBUZHx7gLtODN41rMzc2SiJYff+IjbAGzDZcvc8sxjhw+RM8VST+ogfbECczMzMDNzQ3mW0tREhEeLyywl89xE1hg9jMeHvj0s89ZpBaRmJjATlIiTCYT8vJOIiAgYM1c+S8KC\/KxdesL6Gc5+Ky3N75maVKg1yM1NY3PWOJfiS7+G\/HFNpuNbOPVGoqOl5cX\/Wat4\/p49GgcaampCAsLw3EWsbGxUVb95bh3rw8NDQ0oKSnBnw8frooSo5WR8Rp8fDbRaRIxt7aSkOLiEhLZ0tICdxbq0zo9jdvtdtTV1aG2tvaprauri+Yvs1y\/3nn7LWRlZ6PeVIeNG+XIyckhwSTKZptETPRObN8eiuHhEVogUqDXsbvMg1tLHM3MxJYtz1NfTNiysjKUlpY+tTU2NtL8J\/mtvx8yQYbBwT+gZif\/ZN4H5A9kuyRMT01hLyty6pQD5HySr4xGipTF8gvZYjSDggKRlLSf7PVwNDNjJRVUMdHQ5xdQXywNwrmzZ+jFCoWSQhcSEkJNr8\/H7Owsq8p7aFytVtO\/kLMvgO7ubnqAs3S0t0Mmk+HBgwGyL5z\/CJs3+6KwsBABgYEQWlne1NTUoJx9lBkMhpXW1NREC+bn51FVVQWtVouioqKVB62H+noTKioqubVERUU5cnNz2cnukeaaqb1xgy7h5RYeHg6VSsVKSB6f4RiSiOrt7aWKLzYxqmI9E7fcYHCuyEoi6p9ERUUiPf1VbjmO5KI+vniRojQ0NMw9jiOpKLHAenl64t333uce55BU1PKVZLUOco9zSCoqaV8ionZGc8t5JBMlFlrPDRtw5uw57nEeyUSJ96cH++T5udXMPc4C\/AW1YtFvFExQdAAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='37' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAbCAYAAAD77kbeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQfSURBVFhH7ZdfTFt1FMfrgL7QBQZjLBD+DEddIdJkJsowwW66AYsbe+KPkC5x\/kkcNMxY1o2te5kKCDOTZRgggUB4aAEDPthOsi3yAOPJwhzSBPmXCRQcBSz\/A19\/v8Ovgu5PdvGa+OAnuenvnHP\/fO855557q8C\/gMlkwnc2m7CkI7soo\/ETKBQK3Kz8WnikI5uo0dFRvBgTg\/DwcPj6+KD0izIRkY5sovoePEBxcTFcExPw2bEDn31eLCLSkb187ulpKt9\/StTU5OT\/op6L5xE1OzsrVpusrq5ifn6e1iRqeHgYmZkZ0Gg0SE5ORmtrGwU5zv5+nEpPp1ha2nE4HA4ReTKTrNG5qMvmK8KzicvlwpHDOmi1Wuj1eqysrJB\/YWEBCQkvo7Ori2zF+PgYwsPCsH9\/LMrLy5GamkIn\/aGjAzMzbvj5+lKspKQEhxITERAQiOGRETr4SSwtLqK+vh737\/8kPJsY8vPoXENDQ1CpVKiouEF+8+VLTJQW6+vrZCtampsRxkSNszv0Ehq6B9nZ72CUXTwnJwcPH\/5Kfo\/ndxLc1NxCtlTeevMI8vINtD7K1h+dzcPS0iKUfkpKghcFT6G3ll5U\/v6Ppf+XgQEUGo2Iio7GCBuU2yE\/7yxiY9UYYTerUvnD2tSEoosXqC228lijZ2dnIXTvXrhnZoQH6O3tZdkLpSy9e+Y94ZUOH6w63RvUU2fYeX6bmsJO1U4MsBu2s3dlGWsfl4s9KGJ\/ajre7AGBgejvdwrvBjyT\/DXS3v499Zix8Dz519bWmK8dVqv1mRvPzFbcbjf9nmbNrtefxjctLXTd3Nxc1lsJG6Lm5uaQ+NqriIuLpyfEy\/SjR+jYUmtO0qFEqF86QGv+GFdVVaG0tPSZG8\/03\/m5r49l\/gVMTLhwmGWv8PzGjUZGREDBm\/f1pCQcPZZCzq1829ZGJbPZ7GTPsfmya1cgTqafIvufcDwtDe9\/8CGtXzl4EGbRwzH79kFxxWymC0dFRbNMxUGtVtN27tzHWF5eRmrKMYrrdDoEBQUhIjISg4ODdILtcvfuHfiwLwlvVT69ehW7d4fQgxTNRd271wWLxYK6ujrU1NT8ud2+fYcO4DQ0NMBgMODatS8p3U9jkc0ofiHvvHkavAKNjY3C2qC2thYFBQXUz7K9Zm5UVFAm+VDkWbfbb4mIdGQRZbfbqMS8Wbu7u5GZkQE\/pRJjY+NiD2nIIsrpdKK6ulpYQI\/jRxLp6OkRHmnIVj7ONPvA4+K0bNZkZmXRHNsOsoq6ZbdDc0ADJSsdn9gej0dEpCGrKC\/8e52Xr6jokvBIQxZRXZ2dKCv767+XPSEhePvECWFJQxZRlZU3KTMWi5XeoW2trWRfv\/6V2EMaspXPxMZBcHAw4uPjaV6ZLlwUEakAfwAeTPB4iNzh9gAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>Cannot be determined\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu25": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b><\/b>There are 100 questions in a question paper. Each correct attempt fetches one mark and each wrong attempt attracts a penalty of one-third of a mark. How many different integral scores are possible for a student who attempted exactly 80 questions in the paper?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>27\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>28\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>26\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>25\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu26": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>Evaluate each of the four surds, p, q, r and s, and select the option that correctly arranges them in the descending order of their magnitude. \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>p = <img Width='57' Height= '18' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAASCAYAAADhc3ZwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATBSURBVFhHxZd7LORXFMdH\/9n+IbvrHxJtE9RrvdZ2VzW7FKPxZqbC2oY\/rKySqgQlYcX2j23abhMSQUQEjQjNqj+wXY+JEiyrMd16REgU3RUE472M5+k9Z+7MmJnf2FpNfJIb93vm+v3uufecc+9PBCcwPz8PKSkpb9UyMjJgZ2eHP+lsbG1tQVpamuB7\/ks70cnS0lJITEyE9vb2U7e+vj7+lLPT2toKUqlU8D1vap2dnSc7GRMTQy84b9LT06GkpISr02PUycPDQ\/Dz84OpqSluOT9wF7u6urg6PUadnJmZAbFYDPv7+9xyPmBe+\/r6wtLSErecHqNOymQyiIyM5Or8GBwchODgYK7eDqNOFhQUQFZWFlcqXr78B3p7e7nSIpfLoa6ujhbm4OCAW\/8fKioqICkpiSsVa6ur0NHRwZWWsbExmsczvaJn1MmEhASoqanhCmBzcxPs7ezA2\/tTbgE4OjqCu\/HxIBKJwMzMjP66u1+D2dlZPuLs4NFRVFTElQoxqxXvvf8BVyq+ffBAZx4RERLNEWbUyYCAABgdHaX+8+f9YGtrS\/8cffs22ZBf2KqhraKiEnZ3d6G\/v5\/0Vylf8xFnRyKRQE9PD\/XHx8fh1s2b9A5Pz0\/IhshZSKMtJ+c+zaOz83fSlVU\/0++CTi4vL1Oy7+3t0UF86eJFiI+\/C74+Psz5QD6K5W17G6SmpnKlwvNjD\/D3\/4wrQ540P2FFZJmrk1EXnVUWnhg1jg4OEBwSAl\/cuQOOjlf4KIDZV6+gqqqKHFTzjokJfP\/Dj9QXdBJXLiIigvpK5Q6MjIxQ\/3OphL3Uj\/pCYK6YsIc\/fPgdtxji7eXNiomcq5MZHh6GwEDVoqKTQ0ND1M+9nwNWVtbUPw46+dOjR3DVzQ1ueHjA2toa2UW4W2VlZbRiSqWSjJgDmAv6hIYEs7NTzJUu269fg5urK1y\/fgO2t7e51RCpRArT0zNcaUEnamtrISoqCjY2NshWXV1NtUGfdDY3a2sbrrT8PTkJPizarKyswMXFBV68+IvsoubmZoiLi6MYbmhoICNWs8rKSuofx5iTCwsL4H7VDRwcHGF9fZ1btTQ2NtLCYXN2dobs7GyNnpubozF4DQwNDaV5lJeXky0zMxPy8\/OpfxxjTqrBMLe1\/RAcr6hCmnYSQc+9vLyoHx4eLnj3FHISQ8rS0hLELA+xAgvx9OlvFC3YXF1cIS8vT6PxIwBRzwMjysnJifp40+nu7qb+cfSdnGcL1dTUxJWKb9gHAi4YoslJ3Dk04lkTwpJ7ZWWF\/6JF38nFxUWwMDdnIRbNLW\/GWLiqwV3HeQwMDEBYWJjgPPSdbOL\/U1\/\/K2lMFzt2Grhf+4i0xkncBVNTUwgKCoLY2Fhu1cXb6xblnJrEe\/fo4ZgD9vb2YGNjQy0qWnvM6KMqPH9yZQgWDwsLC\/BghcPYPL5kX0aXL5txpYqCQHbk4Vz8\/f0psi5ceJct1B\/0u051TU5OpoF46xdCxj5dWlpauAJoa2ujCCguLobCwkJNe\/y4no8wRNYuA4XCcHeOk5ubS\/PAb1IhcJfr63XfgXdsvB3Fs8tJdk4OTLIipEbHyenpacrNiYkJbjkfFAoFmLM0ELq6nR6AfwFO5eZKxojq3AAAAABJRU5ErkJggg==\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>q = <img Width='57' Height= '18' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAASCAYAAADhc3ZwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATXSURBVFhHxZd9LN1XGMevSNF1EWqTTRmtsX+6jKompeplc92LMiUSM+8sUS+dSOaOrP+sSzDLNmyoiH\/WhCVtjcR7mMQoVStV\/tBUvERQVIsSdzw7z\/M79\/be63dva5r5JCf3fJ\/zu+ec5\/ye85zzk4ABZmZmIC0t7T+XlZUV3tP+2NzchOzsbNExXqUYdLK4uBhSU1OhtbV1z6Wrq4v3sn+6u7tBLpeLjvOy0tnZadjJiIgI6Ojo4OrgyMvLg6KiIq72jkEn\/fz8YGJigquDIyoqCurr67naO3qdxP2ITm5tbXHLwbCzswP+\/v4wPj7OLXtHr5PNzc0QGRnJ1cGBi+3r67uvxdbrZEFBAe0FTSYePYKenh6uXvDgwQjU1NRAX18ft7w+WlpaKDdosvrsGbS3t3MlsL62BqOjozA8PKwuuECIXifj4uJo4ipWnjyB4w4OIJUGcItAYWEBSCQSMDc3p9\/MzMu85fVQWFgICoWCK4FAuQzeetuaK4GyX3+h8c3MzNQlIyOT2vQ6KZVKYWxsjOp\/sRTuwBzETmJiY8mGPHw4TrZvrlyBjY0N+KHoe9K9t2\/zJ\/ZPQkIC1NbWUh3H82Ohi2O4uLqSTcXn0Z\/B+07OMDc3B\/Pz8zA1NQVLS0vUJurk4uIi+Pj4wPb2Njx9ugJvHjkCyckp4HH2LISEfsqfAvju6rc04Prz59wCYHX0KKReSuNqN7jXp6enuXo5MpkMRkZGqO7i8hH4ffwJxMbEwIkTjmRT8YGzMzvTL9EFZJE7p0LUyd7eXggODqY6vqH794VBZAFSkMkDqY4kJyWCzTFblgG5gXHazQ08PM9xtZuAgABoYo6+CsvLy7TYq6urlGWHhobIfpUt7rvv2FAdwedMTUzAwsICLC0t2cIbwYULIfD48SK1SzBrVVVVQQxbHewIKS8vZ3tLiGdNMFTkgUFcAaQkJcHJkx9yJeB2yg3c3c9wtZvo6Gjov3OHK23q6uogPDwcFhYWSGsutia5ihywsTnGFdDx4ujoCCkpX8Df9+7BrVs3KcIuXhQSlqShoQHCwsLIqLqKpaenw7Vr16iuia6TyYmJcFwnbM64nwYPD0+uBNra2qCkpISKK9tL6RkZaq26bOBbCg0NpXlgskHKyspoLrrkfq3QclKMXJasJEZGoFT+AxKlUklGOzs7chYJCgoSPQ50nVTkfAWHDpmwjoQ+kPfsbFlmjudKAO+PFRUVVNxYOGdlZan15OQkPaM6B3EOOBcEowmjShddJxcW5qGxsVEdicjPP\/1IC7a1pXyxJ\/FcNGKeY1bCfSP2BaHr5J94+WUd3bhxk3Qnu+eirqn9nbQYGK59\/f1c7YYu1KwPPOdwC4mdy7pO\/sHCHP\/z2\/Xr3LIDzk5OLAOfIqV2ElOvsbExJLIQxLui5qqowKTiec6LK6DsGxQYSAN4eXkJv+fP0+rpA7OlocSD49ra2kJISIjW\/tTky8uZcPjwG1wJn2JSqT+Nj1dRe3t7MDU1hbt3B6ldK7vizQIfzGB7Roympib2+dLGlQCGWWVlJZ1n+KWwtrbOW8TBr5rZ2VmuxMnPz6d5eHt7c4s2AwMDWhcVBBe8uroa4uPjIScnR+uuq+Xk4OAgWFlZQb+BcPo\/wDdjbW0NpaWl3LIfAP4FvYbS7BntzTQAAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>r = <img Width='53' Height= '17' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAARCAYAAABwxZQXAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQbSURBVEhLvZZbSJxHFMdXur6lD0rzFh\/EgobokynY7dqYuOKupl4eNFajFhFFxWvAiikWWSviJrZISja1W2iLDymmWNG+qEVNRFFfvFRFLIrBVdygUfF++XfO2fGy3W+3TdT+YGDOf+bbmTN7zplRwQ2zs7PIy8tz24xGIw4ODuQXZ2N1dRUFBQWK6\/yX5tYZk8mE0tJSdHd3u2xjY2Ny9tlpbm5GSkqK4jr\/1np7e907Ex8fj8HBQWldPDk5OWhsbJTWm+PSme3tbeh0OiwvL0vl4omOjj7TP+3SmeHhYcTExEjr4rHZbHx4Ozs7UnlzXDrT0NCAwsJCaV08XV1dSEhIkNbb4dIZcoQcOqKl5Td8mpSEtLQ0dHb+IdXzo76+HmVlZdKy86ypCY8efSst2kMLKisrj1tNTQ1\/9+JFL4+7dCYuLg4DAwPc\/77hO6hUKkTq9dCLRv2nT3\/hsfMiKyvLIfk7Ozp4najo21IBvqqqQkhICDeNRgM\/Pz+e89j8hMcVnVlfX+f4XVtbYzsgwB\/hugjuEx9cv47AwCBpnQ9RUVGYnJzkfklJMTw9PXHp0rtIuXuXNSVCQ7UID9fh8PCQbUVnhoaGEBsbKy0RcgX58PX1xcjICEZF87lyRSx4T446syuSmMrsysqKVNxjtVoREWE\/rN3dXcSLqOjpeS6uhjiHf+Y0D8QdSP+KdWFBKtKZzc1Nrl5HWCwW5OfnSwt4JSrN5cvv8cfUAq5exf6+61v\/YH8fYTfCRFlXdmZrawttbW3SAtrb25Ek8pE4OmUiyqBXdIauC7X6HVRUfCkVOyq6FLVaLTw8PDA3N8diUVERzGYz9+nHb4bdwLVrgejr6xMn1oP3RazeuZPksDBBiywuLuKl+J1bN29hfHyC7aWlpeO509PTHMJ0KP39\/azV1taKjVVw\/zSunPnm6zr+3mZ7JRU7qomJCd4gDZaXl7NIIXaU\/OPjf\/JYe0cn28Svz5pYm5+3SsVOXV0dJ3JmZiZ8fHxE5Utnu7i4BBsbmzxnZmaGnx40npiYyFpGRgaaROX6J66cCQoKxO1PnO\/A45yJjIyEl5eX2OA8DAYDhx7xlzhJ2rjF8gPbxBPzY9YWFhal4siheHga9Aa8fr0qFWeqq6s5GqjIUOWcmpqSIycoObMg8ovW\/vGnn6VywrEz9FijSampqXyyx4jwoISkMaOxClWiPFI\/Lf0zOcGZHfEU0nyoEeFlk4ozdOOr1Wrk5uYiOTkZe3t7cuQE7UcaaEM\/lpad30Wu0fqjo87PHodqFhwczBNpw6fZ2NgQF9rn8Pf353b\/\/hdun\/20MVOtSZz6ulSUoQuY1svOzpaKI1SxHjx8KC07z0VKpKenK74ZHZxpbW3l0\/q\/XsoUWt7e3uJFcZKPbw\/wN3yuzwYSC5eyAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>s = <img Width='55' Height= '19' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAASCAYAAAD\/ukbDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAS0SURBVFhHvZdtLJxZFMcnYpl2abxmmdrI9oMN+6HS1eh2RcR7VEQZ+0GUVVrb+iASMWUjEkXipZosEbNsfCBmFSPYeEuHWJWQiNVlu6wVxpYSuiEk3p295zx37NCZ0cpkfsmT3HOe5778z73nzB0RnEFZWRmkpqae+YyPj\/MexmFkZETnPB\/yGBR3dHQE\/v7+MDAwAIODgwafg4MD3ss4ZGRkQEFBgc653ucZGhoyLE6lUkFUVBS3TAcGNTAwEObm5rjnfBgUV1JSAjKZjFumY2lpCfz8\/GB3d5d7zodBcQkJCaBQKLhlOrq7u0EqlXLr\/BgUFxwcDNPT09wyHYWFhZCTk8Ot86NX3OLiIhWT\/f197hGYmvoTRkdHYWtri3uMT1xcHCiVSm4JHB4esrmnuHWSiYkJGBsbe6eo6RXX2dkJMTEx3AJYXn5DO2lubg4fX7wIDg4O0NjYyN8aDxQREBAAs7Oz3CNw504cXL7swi2BV6\/+gC+vXQORSARWVlbg6uoKz5+r+FsD4vLy8iA3N5db7IgGBYGFhSUMs98fTPivbtygQefn1fwL44AVEsVpTsw\/CwsQfusWzeXh8QX5kJ2dHfjczQ2srS+x0v+CTlrU7dtgaSmG168X6Ru94nDXurq6qD0zM0ODNz5rIhtZW1ujvDAkbkGthvz8Airt7wuehvj4eGqr1fNssZZw8+bXFMzPrlwhP\/L7y5e0ppqan7gHYGV5mXw\/lFeQrVMcRg3zDaOBtDQ3U6fa2loICQkBd3d3SEtLg929PXqvj5HhYTpKHyIuKysLioqKqL26ugodHb9Q+1tWuT9xcqI28hvLMVxTW3sH9wBsbW6S7969+2SLNplDLpdDREQE7QaCiYv5peFHeRV1wiimp6dDcXExXLK2ZsfEA7C\/Pv5mO371qie3ToK5hScjLCyMrloa8CcALw+niWF+J2dnbjEhrKDZ2dqC1\/XrFIQ9FmiZLFMQdz+FvhFVV1fTLqETrztIQ0MDJCYmUhvRiNNsNzL0YpB8CsXP3COwwHKkoqKCHllmJkgkEigvLye7uqaGcgXB3PL19aUxglg+I9vb2\/TjvbKyQrY237A00RaH9Pf1gZ2dLYjFYnBxcQEvLy+wsbGBu3eT6L1IUz69vb3B0dGR2tnZ2VBaWkptpKOjnRbxK0tcDRsbG+TLLyjkHgEsNvX19fTkP37MJv0U6urqyH7W1HR869Ac1UwWABwHg4KCtU+MNrrEIf++fQutra3Q29sL6+vrcOGCmG2SsKbjnGtra6NJ+lg0kpOTTxwNXDC+++7BQ+4BaOffq1R93PMuf7ELgL5jqQFF4ThYmXt6eiApSYj6aU6Lw112Y9UyK\/t77mH\/YJ48obEmJibJPhaHRcSZdfb09ITQ0NDj\/NNQyu6Z2DEyMhJSUlKoHR0tpdzRBxYUieTsghIeHg5OrFhgUCsrK7n3JKGskH1kYcEtgdSHD2gd8azYxMbGUvvRoyz+Vkscgtce\/ABzQRdKZQtIo6MpR7ConFUE37Adr6qSc0s\/\/f39NK+ZmRlMTgpRPw1W7LKnT7n1P3JWD\/AoY0Fsbm7hXoET4jDC9vb2JNLU+Pj40E+M8QD4Dx9pW5aOVjWmAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'><i>r<\/i><i> <\/i><i>s<\/i><i> <\/i><i>p<\/i><i> <\/i><i>q<\/i><i>\n<\/i><\/font><i>\n<\/i><\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'><i>s<\/i><i> <\/i><i>r<\/i><i> <\/i><i>q<\/i><i> <\/i><i>p<\/i><i>\n<\/i><\/font><i>\n<\/i><\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'><i>p<\/i><i> <\/i><i>q<\/i><i> <\/i><i>r<\/i><i> <\/i><i>s<\/i><i>\n<\/i><\/font><i>\n<\/i><\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'><i>p<\/i><i> <\/i><i>r<\/i><i> <\/i><i>q<\/i><i> <\/i><i>s<\/i><i>\n<\/i><\/font><i>\n<\/i><\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "c",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu27": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>2<\/i><i>7<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b><\/b>How many of the following represent a bijective function?\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='508' Height= '299' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAfwAAAErCAYAAAA7aTGEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAKSXSURBVHhe7d0HuKxVdT5wiiUQEJSq9C5KrxeEgCACgiCimNhiokZNMTEajS2i2BVLxIIFe8SALUCsiR1CTFMUNbElmh41pmiK+c\/\/+e179uG7w\/T5+qz3eea5554zZ87M9+29yrvetfZmgwL+9V\/\/dfD9739\/8Ld\/+7eDb37zm4P\/+I\/\/GHz3u98d\/M\/\/\/M\/aMwKBQGA6fvCDHyRbwn58\/etfH\/z7v\/\/74B\/\/8R8H3\/72t5M9+c53vpOeEwgE6sO6w\/+Hf\/iHwetf\/\/rBX\/zFXwyuvvrqwW\/\/9m+n773jHe8YfPzjH197ViAQCEzHW97ylsEf\/MEfDD73uc8NXvKSlyQH\/+EPf3jw9re\/Pf38RS960eDNb35z+joQ6CJ+9KMfpSD2n\/\/5n9e+036sO\/xLLrlk8IQnPCFF5H\/1V3+VHL8P9O53v3vwqEc9anDTTTetPTMQCARG4\/\/+7\/8GH\/3oR5Mt+fM\/\/\/NkDP\/sz\/5s8L3vfS+xhl\/+8pcH\/\/u\/\/5uSiJ\/92Z8dfOADH1j7zf7iv\/7rv1Ly5PNjO772ta8lpsN1CHQT1u+97nWvwaGHHjo4\/PDDBw972MMGX\/rSl9Z+2l4kh\/+Nb3xj8PjHP37wkY98JH1Tdv\/EJz4xUW\/\/+Z\/\/OXjWs541ePrTn54WbiAQCIyDTP4Xf\/EXB7\/zO7+T\/v\/Zz342OX8JhO+98IUvTM4PLr744sGTn\/zkwb\/927+l\/\/cVV111VXIMRx555ODYY48dHH300YN73OMeg9e97nWD\/\/7v\/157VqAreO973zs45phj0vrFYv3+7\/\/+4Od+7ucG9773vQc33njj2rPaieTwOfhf\/dVfXXfoohWLU1QOV1xxxeDUU08d\/Mu\/\/Ev6fyDQNnAaHAmKjfYk0Aw+8YlPDM4444zk4OFtb3tbyoAkE894xjMG97vf\/VKGC+9\/\/\/tTYvGnf\/qn6f99xXOe85zB9ttvP3j1q189uPbaawfXXXfd4PnPf\/7gtNNOG3zwgx8c\/L\/\/9\/\/WnhloO\/76r\/96cMIJJwx++Zd\/eZME+Fvf+lYKAh7xiEe0OoDdDG3\/yEc+cvBrv\/Zra98apAj99NNPT6Ib+NCHPjS44IIL1jdxINAmfOUrXxk85CEPSRvu+OOPHzz60Y8efPWrX137aaAu\/PjHPx688Y1vHDzgAQ9I9DUoCd7znvdMFOgLXvCCRONjFEHp8Jd+6ZdSUNBnPO95z0tOohiI\/t3f\/d3gwgsvHLzsZS8Lar9DUILafffdB5\/61KfWvnMLnvvc5w7OOuusVMICAUHbWPHNqGcf\/OAHD37913997VuDweMe97gUfWaH\/5nPfCYZVNFpVyGKVqKw6URgHj\/84Q\/XfhroKlBoglM6E4IwYjFr9bzzzkuCsUB9YNywhQ9\/+MNTJgQcPnYwO3w\/U8eGv\/\/7vx9cdNFF6ft9hs+HMVXjVSKVZKGBBajve9\/70nM4\/bY5h8Ct8apXvWqw9957D\/74j\/947Tsbwb8Idh\/4wAcOrr\/++pSEYHQI4W+++ea1ZzWPzYhsOHiUfsZwhv\/JT34yBQV\/+Id\/mP7fRaAU73Of+yShhYes4\/zzzx+85z3vCUqto9BG6h6iiXNdGGSXxx13XHL80fpVH9iSd77znSmLH5fhFx2+9l8U6Ctf+cr0\/77isssuG2y99daJfTrzzDNTyWPDhg0pyZJ4EEq\/6U1vGrz85S8f\/Mmf\/EliSgLthPL2XnvttV6rt+YzLr\/88sTa6HKjV3nXu96V7qtAoC12KNXwf+u3fiuJ9jJ+4Rd+YXDyySev1\/B\/93d\/NwUAOWrvItBqt7\/97ZNISJTmgU60AT\/96U+vPSvQJRCE7bnnnkkUNQytYByN5wTqg8z13HPPHfzlX\/5l+j+jR6AmWUB5Shyyw\/+jP\/qj5PTUsfsMjvwud7nL4GlPe1piQF760pcO3vrWtyZHL+PX+qyswVHQOeTrE2gfZPZsjuwdMOScv3spUb7\/\/e+fulPU9EFC+exnP3vdlzaN5PCJSGT4+U1SHMqQclTCOYpc2ixGmAYiGRG2rDDjb\/7mb5I2wYaMOlr3IJu0+XJ3SRFXXnllurfWNhDzff7zn2\/Nxusr6HyUU2T0INNBXWvV0+2jvp8dGpU6h9\/lRGIWZNszSvTMpnIQeRjRQx\/60N6LGLsMZWCJ4iGHHJLuE3ZYECdxPOCAAzaZLfGFL3whJdOC4LawyMnhaw3ROuONg4z3937v99LX6g8+IGquSF90DehELTH6XzNkGCeeeGKKsIPW7x4wT+McPkeD7pdZcvZEqR7F+x8oHzQy7IjBOhIGQTWhE\/qemEkbk6xWZkTp\/OIXv7jTdmUWYBe15U0SkrpWrhn6v5iUBNoHa5m\/xHrToLi3hx12WBLz\/czP\/EyyMYSpr3jFK5LgvU3rOzl84NCpm4tiBEMz9N\/bmLme31VgKbTG3Pe+9011Qw+1NBG1yBqIaQi9YsN1AyJoAhoMDYi+ZZjET2g0Wg3Usg1Ip\/KkJz0pOaBAtaC+R2+OKrVkPPOZz0zG0XP7DlmedTpOvMW2qg2zUaE56QYErBw6ZhyDI5i13rFYnPyv\/MqvDE455ZT0fyUrQW4bsO7wfQC0G9FIBiGU6LwPFJOsY4cddkhCLpkeB8Ap5J5gG02LTLH+GGg3OHaOBb2WW2Eo9ZWkfE8dH7A31jbFbG4JC1QH9DRKn1p5lPJcxsPB9b12n0FHQrilzjsMdldmj2lkl3JtP9BdKI3TZEhEMDYYyLZ0hK07\/L4jU\/pagUYB7UtUY+NpqQh0A+q\/RKbnnHNOMpgnnXRSyqZ23nnnxN7kDJLRlUGFww+0CdhEwkbJxqWXXpqC0nD4gaqwUg7\/iCOOWM\/oi5BxeBB1KV\/E0JZuATtjmtmDHvSgxNyg1LTD\/PzP\/3yaIQEf+9jHUia1ChRyIBAIjMLKOHw1wz322GPiAQeCAQ4\/Mvx+oDjMRJnG2NcunWwVCAQCZWJlHL72LAKKcZQ+CAbQwF\/84hfXvhMIBAKBQD+wMg5\/FphvTUyk7SIQCASqAMW29kX\/5q9jzHc3gUEkvCzeS\/9vK8LhBwKBQIXQ9mu2iUFRhHn0JpdcckmaPOiRvybc8xzPlXwE2gciS63b2ti15RXvX\/7a\/dUh5FwPZcQ23ctw+IFAIFAyKO21gpqv\/pu\/+ZvpfAFneZg0qHfb4Bb\/5q\/1bRviotvEc3UM+V3tjaHabx6mIWr55czNq9G+bfqstuDivdQp5P8\/\/dM\/PTj77LPTUfPupamSnL9ZL00iHH4gEAiUBKJQs0vohUx6NFvdYBYzBwx9yqd0emQaOH\/tZ9pMPVem6FAop695LZNPR43mDVQLc\/Jf85rXpNkeArbf+I3fSBM+dfvoDirev\/y1B1qfXkzQ514a8+1evvCFL0xdRE0NWAqHHwgEAktC5uZUUYffyP44BoOHBACjhg9Ng9fj4L2mA78ED6ae+r9R6IFqoWOLngvrIpM3KwE1z6nPO4Y930tjpbEDAgfjlps4vnslHL4NJ3LWZ68+9uEPf3j9IdoShYnkjL40gCfQHaipmZtg89hQ7mfx3qJETY90YAtBTSBQNoxuNtQJHf+Upzwl2ZEy15rXuummm5Ljl\/U7qW1St1FgcQim2A3DvIx+vvbaa1PQVtZZKzJ7k2vR\/wIJ57jUWbLprcM33tPGM9bQBnEqlxvowIOjjz56\/XHUUUelk6xE5Wgb9JmbYDJbnrEfaBf+6Z\/+KR189N73vjcN07E5ZUAnnHBCup\/Fe+uYZ3SaA6CIbGxgG64pSi3QL6jtquM+5jGPGXzqU5+qVKHttf0Ndkqt2FkSgfLgTAO1dgO80PhVnrshUWG\/jHq\/+OKLazsSuXcO34V0ABDBC4HMqaeemjajCFxtzc8M1ik+9N8TVKBt1Fv8noMPHv\/4x6ffkUHGaXrNwwbExhDBOOueKEbWY\/647F4W5F4V763DdPzOG97whnQ\/TzvttHSojlqaoC4YncAi+PGPf5xYJOIsa6lOJba2YeKxhz\/84SkbDYp\/ebAtkj2Uu2RCwlgH2CilGn+3eI5NVeiNwzdVDWUvWuIMKF2vvvrq5Mxz7WUajNcV5Tn8QGDg8ANORQDguNXoz28GKC\/G1ahcAZxDjzhrdTZ02yybU1nHYVACAsEBxkdQJ1Myfjfo\/sCssN6uvPLKNKRLGx2RVt2Q7bNJ7Bz1eDj9xYEJRrHTXdSVaRfBvklIKfrzKPCq0AuHz6HL4NC6bpqLVgYdI0j48pe\/nDa3cgCmoA2tFasCAZgM3T0977zzEs3m\/2Uc1SyzF9QRzzgyWZY26pyFQKAINkHJT4lIubBJ5s\/++MM\/\/MPUBuY0vlmSmsCmkBDSXeibb5LtE7Dp7edjqnT6nXf46rGPfOQjU6RrfG5Vs9JRL1mYwzmoIweqgwyGYdXWJKNHd1WRxWiFssFE+Gp3mIRFVNWB\/kMm\/9rXvjYd0IRhagtQ0N6TgDjW7uyQ2UsmHJ3ODrQB73nPe5LTr2p9ddbhi2avuuqqVENDvddBxdhMnAORjnqwEkKgfOio4OTVKGko6DKqBtWzyVjWEwMQPc+BItD4b37zm9OAHO12s0CAWpcD1mWEdXBKZOiNpgOb96QnPSlNN2yTgNe94\/QJkWddZ\/Ogkw4fpYuKfcQjHjF43\/veVzvFziG9+MUvTjU8AzFig5UHNLtsxXQy9H3doIJm1NGkcZRuIOP3f\/\/3U41Vm+cssHbpQ9TZ64L3+KhHPSqxVIHx4OCf+tSnJhvzve99b+277YFSjeBSN0bZB7l1zuETOHD2bpaotimgnNX2ZfuCjsDyMFTksY997OCyyy5rtM9Y9G8udhyVHABlQyVDE9amAROA+dPme9vb3jZlkBl+hpkkMK4COgd0rFB8R8veaLhG7gk7I3FrK5SP6AoEjWW2B3bK4aNZGWLtE5T0bYCWL45BT2VgcRBDyqy1RrahDqmMYH6D0g3hZmA1YagOjRD9ziyOGuNHd2L+gzkQ+rrBGpKx5c6QqjJLAYXZFBKR0BndGnRB7kMdLXDDUOLBLkgWZfHTQESo7EAzVlbZoTMOn7PXr2h0ZZUDERbBxz72seT0I9NfDDJ7148mY5aNUBeUigihOH3tfIHVAucpy1Ibn1XBTfWNWldLP+uss5LDl1WyW5tttll6bLnllinLrGqtax8WPHMUVbEJXQSRnjKwe1M3rAulSm3F97jHPdL5CrOUgv\/sz\/4szeCnZSoDnXD4ohs0vmjnG9\/4xtp32wV1Mzf0mmuuWftOYBZksZFeYoaxbUCtvfSlL01Ovy2sUqAe2NOM7SKlQ+1yDLt2YYzVgx\/84HWH78HxVNk7b4Q40auDeAIb9zFFvsCrDhFwEeZ\/aP2zlpQrBWOmgr7tbW+bKejzPOtF0LAsWu\/wbQo9pmouIrRRaEtWiC7SUtGktqBLQJcagCPabfNsA+zSE5\/4xFROKmMGQKD9INg09tQBKovYF1n+SSedlMpCoANk2223Tc5+9913v5WwTlsY5lJCo7ylx38ZGldm\/\/rXvz4Ji2NE+CBl9VWI4GaB8o1hX3nOB1vnvpilP8vQJmuDiJidXDZYab3DF6GKbtC+w0B3yA4NTiHia5rqd\/O0COrp5swC44EuxdqIurswwZB4z1oTfFaZmQWaB3EdKt6wrUWHsWSHr8UTOG8lK\/bBeQ7DdK62Yn\/vp37qp9KQKRNDl63Bf\/Ob30wCPvqDNpXK6gYnj+0wFbFK5NIuzYeAbRw4bfeFEHQWhw+EowbLWTvLoNUOH4WBCnOjhjfIX\/7lX6ZBKfqmzVMnkEGbNN1mkYUWqKOon42H7KOpiHtRyLxkfUGT9hsOxOF8lecWbbk1BAxt68CmWaD7iD3DAPzET\/xE+rqMDhFBhkySvVxFuH\/8gsSiSnYOM3Pve997vWRz4oknjqXgsQ3HHHNMmqw36\/riS3wO54gsMyOktQ4\/06gc56goyAWWbeX2LX3xFLDDYwk9j2oVJUIBXgcYDJQNij9wa+h1d33e\/\/73r32netjs2qr87WEYzSwAmaWVyfP0Oodyv5+goKbZkKkt4yCs7UMOOSQJ52aFiXl3u9vd0uFOMlI1X85hmSlwWAIJiEFWqziFT0LhOs7SUjkJriNKXX+8mvwwdGsp1WSHL2gbxShIFtxjpUws5zxgn3SALCMOb6XDF82oecmm0FKzwCZ1MYrDWhyIIiLKN2GPPfaYSLWUCT363r8T3AK3AAOSFcR1ifQYcYM2dtxxx8ELXvCCte9uBEYIS+RnswSEjC9nYPPHgTv9g4AQpT4qMJwHMmoJCSc+K9D+RF2cwuc+97nUleT8e85fpr7ofnGi3n3uc59GBlk1CWWMPGBnmawYzFZQotlzzz1TCVlpplju0dNv7Hr2NdT4w5096Hjtmt7PIvoM9x+bzactymS30uETvaHyZ6lXuNCM713ucpdbGXMiCRc+3wQP0W4dUKcRVS8SyfUZAjM9wmUp3qmRMTjap0YdfsNwYncOO+ywFIGrZ2bkMcn77rvvYJdddpk5ctbDi6EwAjPQH9inmEJjTQWJdQO9K6AsCrOsb4ySFj\/9+\/4\/Lzg7Tua3fuu3Zq4Z9wEodUmgU1PnAdaYD7K\/2Sv2Q5cOQfYOO+yQ\/IiTO4fPbXFvXGf3aVhzpsQj6MIQLgOBB8ZiUdvTOoePRrMw1VxmWZyiKM\/l2N2UYt1LFOXiZ2e\/00473YpGtsk4nyo2OGcjy6+Tum4zbEDZdFmlDveayCnfX4Z6OJKnjiWAMqzJhivWVPW2Ut4LFjh9NbVZwTEQ8bV5WldgPsjqZdSjBMJNgojQYC97R3Zpzc7booXZFDSsyvkfWGIMiQx\/0oFqhN4cNUZW4iAhzMI7ttvR6P5lP3xf0uBn8wiNlZUPP\/zwwTbbbDN4znOek+6fTF273bysDdbCe\/S5Fik5tc7hi4RQaurg80AdVs2Mgy\/CxnCB3DRDVFxgTl4Up1eWUhw9s0wLzDi4OdpyCICWpZT6ABsQ4zHPtZDxqF1pyVQ35+Qzla5GlludPHbdddckrBsF3xccXHrppWvfuQXWnHLPPBoPjv6iiy5KfdaB7kNWfckllyT70dYs2Ht0Wp\/AlWIbWzWr4yEKlEjZg1XYurZBIoglzsEbm48BZAcE9oJ8TlN5UReYvSyY8jsSBLV65ybwKxk33HBDShiK35sFdAQyfz7I38E6uIcc\/yLCbr5R8DcvcwGtcvgiFiI90c+01id9sijYLGjRa3rQQQellrhpQN25cRwER3H88cenwS+iXzdzVuXkLMiK31Ufves6UB7Pu0iJZWwMs8mJMtUzs67DBnTPs8M\/88wzUzQ9CkQ1anDF2eYZGJh5HT688pWvTDRfHSc1BqqFkbgSjS5kwNY4O0kVzlkJfGdx4vQEZ5xxRqXnrbcBEgIO1v20Rz1k6HyD64USZys4d7bFAUdsiUSkivbFoj+RcObHon\/L6xG0L6IFaJXD1wYj+pklu3desCgJja8u4uaOUumPArWqCG633XZLjuK4445LjsSkPBmoSJ94Rp3E35FZLhoVi+BE5aK7qs7qbztQkjabDGPe0okMRr3cOFL3CsWWBSs2DRXzBRdckL4\/LrsHg04IZkY5fIHjIg5f1qSXdhRrEOgOrCMlGnu0SzVugmA082mnnZaYCWK\/SRkjkRn7pi7dF8Epe8I+64FHkbPb7Mxee+2VWuM4d9eHo7dPJV562tkQdqkKB18HfAYBy7wJVGscPrpK1Ip+dyOmwSZVn3VD3VjO3k2fFTaGuo0AwwlThvhYMCgvG98ikVVyNgIBAjwlAdGgehjF66wO3HNROatayxeE+fzzHtvp9whm9BFnhewoIWeOmCehCocPmCE1vXlLUIH2gOMk3mQHuuYA2Eq0NTvFZrFTjpgeBZmh9jT7aZTAte3gI5Ro2X12WObu8wp6+AHsBS2XmSzshS4JTDDmWJI3zUZ0Ce6lOSYU+\/Os2dY4fJSamyZymQciVdHaIhGri6Y2bMP72sPC8FoWidqxDcJJcDwWlOBCrYdADE1k0QkU1IEFDSbsjXovjIlscNVOsHI9idtszFm7FVD26pNoN2UAmbvWIoKXRVkS7BGNB\/ZmGAI\/fbNYn3mB+bHx5um3DrQLAj018S6XZpQ2te5JUuwbJUvObhiSj9NPPz05zTYDva72LYlzf9gDe5dzd684dAGOQI1OCrtBV0ObJQCny+r7REzMNts6buT8KLTC4VusMmt1iUVEDMtiUoQkCBBFc+IoXJvIZuHkRVeiZUHAPe95z2T4TUPSHohqlo1q7xAEiMJluRzXKuH6669PdPss8w8EBBwzQQqBnfGmrjnk+7Ao1C\/V22UGw3BvlIQWndFgLWidWhUFdJ8g69PWi\/Jt83kOs8JQGM5OpmsfWe95OBkImLGoShhZ\/9Qk2HulBs6diFqCxbkTzkmqJFk0VmeffXZKuohksXXmHAgKUPpFu8Dpe+4qTMNUynjYwx6WkslZ0QqHrz3K4mzijOJFwVBYbBYdh87Yq6dQ\/XMsok+jNQUElKDKFVp+LEZRq5tFaNjn6VccOI0FYcy02r3MwzVywpjfYQA4+bLAsHg\/o6J+Pxs2HPMA1cg4cRyBbkEpxsFcHGOZ661JSGCwFZIoztLn4wCzg\/e1Uua8rX3Lwt4TfGBUKeA5dwypmrusnM30fg2wIdzGuAnGfRbMqPc\/aY+yyVp+vdY8WW9X4T77rJLMWddu4w5f5szQE510vcbiomcmgNhMC5ksH+XkM3L+BjcYrSjA0RZiwQsUbABOT19oX9pmzCEgqJvEashITFXUIyzLdr1mpf7bhMsvvzwFenFufreAiROId+EAp3khmbAH0b4Caaru3OLqM8+rqZkH9rCOJ4E7p00s5yAhNo\/YbMOGDcm5K+M+85nPTI4aC8e5CwoE0fOyveyuwFs5Y1UGDGFBlTVmtTuNO3w0KoU8h9dXoAotYEwAul87DTWpDeCzExw6TIE2II+dRROjuGQgNgHaq0tsgPeKlmNkiiMoM0T7Bl4ogzBGNmmXj\/EU3Im2CYUC3YBskQ6Hk2iilFgX2B5tqZIM9XsOljAZrV9GnRs7xrkLJHQ1ydwp4pVolfOI6AhmCQtdb2yKUh9a3u95f2Uke1hTtnQV6PwMAZWpf7PS+o07fItOlDdK6NZH2BCyWbQWp8jJic4I\/hypqWUGpe2aaBckThERo7hkkaJypY+8Wdp63VBw2iZlUMMQwAhqfDZZsci+DwZXsCab6gs13HfQ11h\/iwww6SLYC45Bdo9lPPLII5M9mhXWNVrd63CufpegjqiZc5ewmCiHmueEiOy0NrvOAmK2jhi6ik4IAYP3Qhjtva0KXEsBq+s\/Cxp1+CgYY3FFnKsCC3\/SIB4OHKWlbUZ2L1rVDkjlrhYngjUXXtDAwciMqXNFzAIH1KSSwDICtzIge0fnF5kbkbz3Sojj\/csEsiivDxDcEO+tksHpMpTaZKBld87IeInjqnBsZcAocaXEO97xjklsTIQ8rLFhP9gRtkhyYTCNAT90KuyQ3xMwZFZSosKmCQJk+thM+70uuN6CbfawiyXBZcA\/uCejujKG0ajDl62iQVHXqwIO3aKUxY86ZnEU0G5aD21UTADRH1rM6xhoQ+Ry7LHHJmpcZK19jZrVdbVZBQEca10bQf3Me0DfMRoMn\/ctEvUe\/ayPohqfycYLWr8bkGhQ55epHbLHsAbs2iKzzusCdlFWiEVUS2dH9O+zSWhiNXX7VACLjmdfBPDsVtG5E\/5x7k0r\/jGmkqFFO226DLoMttVMkGlo1OGjddHVbWgPqRP6ykXInOAyEDxoQ8EEEMaYZUDEoW5OG0ArYKPqW7VRlU\/MC8gdAjoMvEbZmYiaPeNgZrV7S6ugdVELiWyiS1qEeeA6Ep8a1BRoN2T12tPQzmWWYNDKJkI6097+ahskD7J5jl2dnZDY4+ijjx7st99+gwMOOCDR8lhIGhwsiIFhDhbiVDn3tpUR3T9lGW3PfUwkpkHA+uhHP\/pW58iMQmMOX\/RrzCP1+qoBXW+TcYhl13vVwosCGn3tsn2bF\/VmkI0sW9RuUzN4qHV1dMFDDgKWqalTBgsytNsIPAwDueKKK3qphB6G7J4QEbMSaC+sdxSwtV8WUKqy+9vc5jZpny16ZnlZyM4du2dvK69x4PRANEIcvGPFZYfsAIfB8W+33XbJgXRlroTPKHjRnrYKNmYU2FpszLRgrDGHTzVqUa0iBeOmWKAyjFlp\/WXB+Dh0g4BGEKDe7DhIbTIclLo6NkBrnCDMFCctchyX4Mx7ZkCmBSie4\/cdN4sqtBCXZTK6BHSoNhkBTqC9oCWx7stam\/YFWlwQocddbbvODF\/NXTnBPjepUtmPc0fbC7jNBLG32Vx7XiusPe7wKWsVE6ebSFuwbFmgTt8gIKqzFr8IJDiSGQN7VqUdbxgSDeXEae15jTl8A2osqlWj8zNQZGg\/2XBTYCRQ+8YZ6xDQCmjTqL1zWrIUE7sEA2hq98wYWtQeSlRkzcFn2GwCCXPpZfgEh6u2AdFrhKgyvUB74XhUFHBZMy\/MmlC3t5doA3SojHptZR97ZloZbdLPsW+51Zdzz9099iibYkqltjtlPO+Fip7gjqZHzT23ybK9mEZnSQxDICTrt\/+9lt9t6yRCTs71NsBtVaFU6v5bC5PQiMO3ESzGVaTzM2xUdW4OtGxaf1lw5nlghvdnZgABj9GWRIGceR7dqXsgP0eAQARkZr3fXVWItukVZlHNBpoBnYsMv4y9p64tq+d0QZZPPzN87oP14GcCaHtpXIeKQ6Nk4Byz9ydA4NxpbzhnWhwBpZn5JndaawJ0k\/U4d4I7OiEdQZO6YPyMHcY2jhL0CiwwBa6V\/n3sgICmbM3PstCmjMGYp8WwbyDotgYkbJPQiMO3oEUjoyLLVYENLIKWTS96IEydYBAsKrVPvbV0AQyFupE2wTvc4Q5JrHTb2952cPDBBydBpgzf9EBMgMy3bYFNVWAUGXZZVaB94OjohwSrZUB5cu+99x4ceOCBqcfdsdvbbrtt2tvWPsiO\/T17xGOLLbZILEOxQ4AjVeKksRGMWD\/KbphQQQJqXsAtWFAq49wpszl3We68bAX2zdx9NX01\/nFQzkPze0+U8AKLSc+vG4TIOpUwj6sKwRmHb11PQiMOn7PgKFY5A+L8OE50mWy6i2CQqO\/V+mS16HxDN2QeAjr3GAugnikLwRLIXMwMUN9cRhhYJhjaMrMWwRx9xirNl+gSlNGcukZRXwbUve1l3SicOOGbo5y9fu5Isd5NmssO34NoNpe8lNe02goa\/ExGzXjTBSgR5embSoG0OGV0urBBnCUbNEtpUU\/+a1\/72sTkCT60BTfdiSCQ8p7cT\/dhlZFZq0ltpo04fNGpiUhltWd5HdkmZ9IWJzILCOhEzF2jogzVkWmIqhkik\/NANsOoEQER+8k8GD3PIR6yKQUCflftEA1KbGNwBOoQBTluVoDvqz8WNQPzAD2aT9rKYPCwTBTLghIZ06KvPwzlKoZ00uYLNAPZKnq6Kv0M1buSV7HmbR04DEbmz6HvuOOOae1l1svP1V850m222Sb9XPbNiVVp05QJ2KBptd8i7G17WjmBEJCwr6lBX\/Y1ESImpO3iwqqhrMq2KjGNQ+0O3wJn5D3KAsWtVhhZZJd6vG0choEavgughkVTes+y9+FDcbQCOhRj3LkIWSDI0MmEchDg4fVkDgIBxpjzdV8FQ6hK99XvKINMqkuOgizEelN2cJZBhm4F9Kk6JiONnTDLoAwn7f0LaFbdCLURauBo8qra5gjcrPFhkZtuFwEw52Rtj3LkHLxM30S7OtriZO3KBbMMbRmGvWkPE8zJLJs4Yx9LLLB2XXPw1FawBTonJBgEnkpBZYI9o+2YpJ+q3eFbYLK8LHBZFgRmhveImlFgxQyNQ6Us119aZr9tWeBAGR6ZZ5szQdE7+p7IkGCPMGSUI2PoRP3zHHPMKMrsBT0yffVB9W8PQYDr419BAGHOT\/7kT6afFftt1T3RWfpwDSEqgl6EMzcGVKugKBgEEZ6vHpph0hgjVka2Ios0xW2VWhK7AuUWdHrbYR1W7cQEw\/aYvbfo3xIkyyw5frZ2eA9WCbbGTBGsY5vBL0kCDFzjp4wW11EhASoLAkS2EdM9DrU7fPVbDl\/Na1lYoOqkFpvDIHzY7PC1nIg+c72MsR+VeXJcJkmNisirhr9tII7adluFexakDFhWzzmOO0PbdRe4EI5kin8ZyHTUK2U7snKRqzkB7iXBk78FhhjJ0vN9pifAJGRw+DaarIpBUncE69Dn8TN1UpvQ98qC4MF61MEQaBfcd04usHE+h3WqJLpMC62SG0cje5UUSLR0IlUNJTolibrP9h8Fex4DqZxH3FwE32LQWj7Jj5hZoMK2laUfksQIuJTMx6F2h496MSCgjMhGNkYVKztUO0Yr5exM1khQlh2Bh+wxg\/CFsRfpU5UXf1YXvFebRADk\/bYJIn81RE4S1W529qQMwPMFXzZ6FVSp++VeaXdSVhAMgPe1\/fbbr9\/jHXbYYeQ532guG8w9B\/oCLYS53Sj3L9u0ZQB7Q2xV5oYOlAMOX2Aa2Jh0UOkrIZQx+x\/jir2VwSrPCcxHsYFlAXMryGhaAC7JwIBmO8ROTUp8zL9nWzErZdoHSe6kGSC1O3wOAcW6rFNwgVG9MkDgDAQSGRavTZ1vgBGSRWGKiNAZ9H621157pdfi9N0AylU\/ryPj54gIxsrMLpcBp54pOgIi4pw8qGMStOnQUAhgqnBwNrRsmeMvQqRMFZ3vs000KrNA+xcdvoAB6yO7AS2HNilnMG085SxwDTL7FMK99gATJQsSjAU2Cm21Cwqiy5z6yX4qmSnx2QMY3TJKZUXYY477JQCvg03IYCOHkx\/1+N13333dDm211VbrvqkIPoUfohfCTJY9aZXDZ4fHoXaHz8CWEV2L7ChZCTaIcPKhDy5mNrCiqHwBtI0Vb5KvZYKcxaGHHpoMPS0AShhbIChR63vuc5+bnBgHUUXbh\/5ZjmgelWxV0MfKScl2ff556s9+F+1fthBlFsjyZemCtnGBk3tddPj0BgIa4ingCFBxsoWyNqG\/hd6ctz86UB1km0o4HFxgYy++jJwGpgr7pqTG4edhQ2UO5CLkdVgYhnSSMr1sCDQ4c91IOQGR8KjPZ4cvmZSMDEMyYaSx1mWJnuSyzIRAkKUVelzSVavDZ\/gYZXWOZaEej7pA6cvqOP873\/nOaQHME0kqB3DsxISCAItenUWtV3Ci7YTamqoyTwckWhOx5uMklwHq12cQqTYFbIuAyGfValfsH54VAiKUeJkilDIx7PBl9O4r4w+oSJ\/dPc7DUpYFRsLmW8UTvNoKjkHHhpp1YGOge\/nll6d9MG0O+6LwN+ikcvsrlrcMMSudlv0sqWO\/qwa7gFm+4YYbUlJkyBhWkM9R0sQiEura81jSSeDkBVl3vetdN9EcLQtsjcR1HDtdq8N3kznpUVTHvMjZugtHMIIeYcAtrnngdUT9wxGR7+fXthFkkS6m0oEAQ72GZoDYS51Wj62sUS1+Hoeh9CAq8xpV1rrGQSuNUojsXDCzSJTvOlHxE0K1dZiSDXj3u999k2DTRiX4EcBhnTA9avtlgXLYetcuE2gH7E9toJxcYOPeZY\/ZAIxolWAXDeeS7XP8yqfLsAoSFcEDVpLDXRben+4f18HetW8NOzJQiX0msJYcsvlYi6wdoleYZvcEJ9jP4jRAZaX999+\/1HKE1mUM9Tg9Rq0OH33BsFbRr8kZv\/KVr1z7XzXQNytysrgMzUH1c9aoYeIvkRVjwnFaJOhiFLNs0sYaheJ4S8+rCxaoUoj3LSIlgMxB1LwQqFDBP+1pT6vt9L95gXmwwQRuGZggBggzgWIru5dXWyjjIKAYd\/8D9ULLGOZukb7zPsJ616HEgc3TTrsMOHmlUrZHRsxOLpLs0BbRXXHGsxzCxtZy6II+9tscEcp5FDvfIRmQdVsfdAEYCcGJejsbqSSRJx4qgxxxxBEp8ZtlUiqfwRYo8UkOKemVoP3NeZPUSdDnL\/EaxxrU6vBRnBx+WUroIjjjuqfsYQVQ35nqQRtbOLI6C8WCFm2JCjlENR+LTL9kkYJSHrCYymhnmwYby9\/Linfvadkas5ZCNVGLd96hOHWBYbM+RtW2XJN5WJlZgT4WyDESda\/NwGjI3NggTi6wEaZcSlbU2+uCfajURUCJXVRKYz\/nKcfat7J7DtT+ElQrkWrVFbzQCwjwBXccoU4ESYm\/hZ3FCKPmscMct7IGG8YmKvVKEtTm\/R21d8mev+M9Sl6VheY5U0AmL+nQPXbUUUcl21C2kNG18NnGlWdqdfiyKdFTV2fHzwI30OIQ0YkkHdnI2dtQzoeXSdIDYAYsQgsSVSSCrDrCFtWqd1ngIlkbowzI6n0eUW8I1G6BQIiBEc2XvbEDiwGtir7O\/dCBjTMpiJWVJOsGJ6qMRnyNGsd2jhK7geSK1obj5EPoAjhqAmPlOfZUxi95kqH7TNg7djc\/z8wTpQR2lz2UZLHV2an7G7OwcZ6zCGvn9dkFiVEVNgFjwb+M00jU6vBRmxz+cGtV32FRqzdhAbAbBHocAbGexWgKnFkAKB8sCBZAdIn6Gie+mAdexyKnInUGuIi+jNfNyEIoG26Z4R19AwPC2QuyyqTtAovDBEQMHOFVYCNk2trnmhzxLXPmwGlqDNjiKzhkjksgQmeAPZUccei6crznnXbaKdXBCY59z89zOVUgoawm689OnSbLXiyzdNcm0Cq5DuMmD9bq8FGbatyz9HX3GRa3mpPrIPjhjFE8tAAeBsIIBgQAugXQj+g2jIEId9bI0uJGkykryOptoiquvc+gBpiptcBGoC1RhDKLMgOswOJQzgqHvyn0zNfh8O0HYjIOGOWstEk7hHUhkGM\/BMdGaO+xxx6p62q77bZLX8vW0f\/0UWyi5+sswgq84x3vSCVSTl1pzl7rq0OfBsncJAarVoev3iITrKJe2mUQEnH06H+bQVSLcqK41MZoA2AC0F4yRtOrsACeh94aRaOLbEW75gzYKJSno+rXZcDfUrKIMbK3BkGRORDBfLQDDKK+7aD0b4FkogxKXyIikZGUSAKcxOdEQtkmZoXIWR1d7VqdGc0uESFe0\/nE1qHcdVBIgmSq2tboofwuwV2uoQOb5jXaMrSsDXAvJ42ur9XhE68RTEQWuCnUo0TYw0MpBEY5GtbnTgPB4Rt1iwUg\/lCvERiIzlFzalLqOAR5dAFes2o62cYmgCkq4AMbQb9B7YttCTQP+4hBRB8HNkLXlIB9muOUMGR9kvKkTh9ZOrZExk0cR8ejXMmhCyIkKpm9FPgSrWmlo3SX4PhdDAO75TXVt3OG7l+2RVbP6QsGtLVlhpPDZ+fKbKXtOtxD6zsPFBtGrQ4fnc\/hBzYFh06pOq1fW6BE7CGrl93LUtBgNgK16W677ZboLyMetZIIEDxX0IBKqyrQyhvP4InApqDkdW0YykDzIAijI+JwAhuh7KfMwabIntkKFDnbweH6vqDArA10OgfMqciuOXRT5WTo2sGUITl0tkeWKcDy+2yc11NSVEufxxaxeWh\/AQO2E0tAHS\/YkPx4\/4GNwKa4N+OSr1odvgURDv\/WsHhtHLTXIlASUKe\/053ulFoB1cGwKTLLrAcQdaPF1MxE5jb0LL2rs8CGpoYtc2xmX0BAxOFH90I7gAWTeOTTFsuC7Fd2qvOFc5OxlrW\/yoSsGXOIdkeRswXEtgbhmMvBUSsFZoeORdRvrruI\/da6JsGgBzLenCN2MpzM22vl5KIKBbrXJt4zEVM\/u04jzKLyZmAjXAvBm9LVKNTm8FE0uSc9sClQWWpZBr\/MAxsXK4A6c23N47eR0cc2szY\/C8Am5vBtWEzChg0bUmRs44oEUWqer5Ng3pG6QE2Lths+EjKwsRWVMW3rQKJVg3VOR6QMViZQ05Tium04SIG3Xu26wdFikzhd2bQOGo5YbZeCm6OWIXMKOnZkzA4P22effRLtzj7TWlHEE8MpFRpjrhYv25ecoPSb1KQQL2vDk2QQ9rFtgq3AIJWqaB8kdqNQm8O3QPRGmogX2BSybVHrrPP0ZROoSZvWhnVNiyMbR4HD4dhRbCJzM6j1zgsCRPHaYag7UXaCBBmKTSSomNYVwJig9do6R79JMJoyJXRmoHlwhLLUMu2QZEYHEicvwCN+8xBcFMEG+vvjOjb8fJqwFhXuedgDVLd9TSDHIXPO\/j5KHZNKwyO490C5q9P77BykWrtyoA4g+97EO9m6Fl6v2aRDnxXeLwbTSagEfxKOcdd2VaDsomNKmXUUanP4HAeHbzEGNoUNhqIy4WkaRO2ctejWJuWcF8nKZQIMknKATIShYATRnRgDB80wEhS1DIPNhFJDTWdRTYYggoagzwOVFgUGheFVbww0DwJWXStlMo32gn0jAMeSFfdGhgAdq6bH3PMwcUVYH0pxBGicOpbOXuPUMYDKZmrVkgKdH2rlHDjGTsAuYdDFg4p\/6lOfmgIQWTDWUGbvdTF+Ann7vigiFeQTl3ZNWCro8Vn5Fa2vkhb3VdlmkaE4fYBWRX5h3FC12hw+msmN0ZdcFjgtN50IxENQwRlVUT+qEtnhc6zjwKnb8Orxek\/VIBmCMsHAaLEj\/MACXHbZZakrQCeAGp7BPUbyGqPLkHDwjASxHodvowU2RTj89sHgFsK9siArd4+32Wab5HzpcYp7mY3izPPRqZtvvnlyyAIDD86YyNYALjPm1dQ9n73EGij3sQ8cvGxcEO55aHeBur3KNigr2JPswqz6AXve66H5BStdguSHP3EdODhsBcbypJNOStdXgrJqoBlyDfiUUajN4XPEFjBBSFlAm6lDyUZtmOyURDldAkpfNj2O0lc7E7mLYNFxVZxFMA7qdbITWgEMhOxChmRRZfGMAEQdkPHxWQQBgq5Rmc6qQasSSr\/Og5ECk8HhW79lQcaMNpdtu99qqDQtWYSrNCa7zw7fAwUN6tGyft+zh+gLiNGwbbLu1772tamjAAuHSRM4ot0lOGWAkxf8YA27Rocrj7BHbKJkD5TOXLMLL7ww2dQyzgrpEqwZeq5xn7nToj3ZKOW5qMaJR5z\/rrvumqisLmGcaM+Ctnhlzz4bA9L0pnQfGRwUv8wC08Bg6BDwPnUGCALUEAVeso48N3pafbKPcH2IoaqYcBhYDGwQpqosMK7qyXlkuPq3xIOCHLVsz3Da9gjHvu+++673jlsXbJc1Ykysg33ocTiwOvaLYIRdNuimawE61lh2L4AbzuYFRkTJkkDBFkHzKoy3xsha2+M+a20OH2T4ItiqIGq2mWels9oC2R8aMA8DsfEYBM6TE6UobrPoS31RlkKfIWjJNUb0IxrSprMI\/dxQILoBm7VuA5ON7yhUVfPLbXllZWSB5SELkuELqKuCnnHDYrL4jU2SpQsARx0PjiUgurPv6wyMMXLKBl2cS8CpuZ7q95KQUcACCwgEYPyDjqI+w2AjAc44O1erw8+Dd6ow9NTQsuQu9mTq2+UUUHYoNup5TtL1WnbcZR1Qu0fvFyd1cXAcuxq2gIW4hkKYgpQoUKsa6pNOQP1RdjRKe6Gk4PosA78vENQ25YEVyiBiEpig\/zAVyidlgho6Bu+0C5gya6+s0hhaHgWfW6Fk6ES1jO88to4DqzsI1rmjHNrFUcOulRKK4CqzK6Mg6JJomP4nuFECsO\/7CNoPor1xqNXhE4fI8MsW1TGmDDajXqQyOCLHJdrcFkZbYfGh9ESq3quaL9FPV1SznKSa2bQzxpUuCAJpFWg5LE7rwQIVBIhMGUlRu95fG5XxpF8YN0hiGlB9\/o4AA93l2jLGgitKad9z7QVZtAhKJ+OyhUUgm\/TZuqaA7jOo1QV3hriUAb3uglmOk1Je\/Z7QdZITymC7MHuCe2r5umlnrIP3XPXR3FVB8KZ0orw7DcoXShc+Lztg0FCfSm0CIMzqpOF2tTr83PZVNpWmniyLKs4PlmH64FkkY+RsW0e\/6p30\/gzsoJZdNqOtGwZ7qAP6HPNmKD4rKpOx4+w5d9RbbrWxMXfcccdU8nD\/hl9fbU6gx2GPmkWAsmQUcuZug3P+aqVoVGLELKjDDqmjamMqC+6ngKZrgqg+Q6CH5i2zRdhrGmrDvskgZc7T4Hes3R122CHZKOpy+8B+EJDaV1U6JGsSwyYgniU4aSMkBpjdebpg7HdlR0misil2uA\/7U0Aj8NTBMQ61Onz0psiaoS0L6l02idctOko0mxaZ7PA9ZPttgutg4TnRzvx7KvcuwgbinIn0ls1QZDy6AszhJrqRNW2xxRbp\/gkCLOoMwyWywtmDXoCDnwQCQhQgJmW4VsrRmzg27izpeeFaCHKtzUVmJQSqgwARxVs3hV6EtWgu\/R3ucIck6BPoSlL06dtPxX8Fwgy5DNXe4Og4OQzWomtL+VDHjfMeuspAsRW6l0bpIqbBsCKfX\/nUte\/6CYoSX4kMMfU41OrwKc4Zv1nol1lhsaNoRMrFhS\/DF+1kZ7DnnnsmJW0bQCCmpkTIJttEI\/sMIvouQuBi4xColVmrJnSSIVP9e32GrsgOKdNsu+226\/d4l112WVc\/j4M2HdMJXf8MmRajh4p1L8qK9q1BY0o5l7qp2sBkoHOVWppu2bIulLiUswT8mChnUljrnLt+cqwBkSH9i1KBYFUAQHvCnvq5QMF8DL9DOEv7w6EZhTtOxCx4luWOO1mtCyBm5qzt60VKxYJ+LKHrSiCN+SFC7iI4esGh+z4OtTp8SlARiKisLKC8DjzwwBQpD0MNn8F1EdA2bQChEApN5mpxidIJ22zYWWjANsI9yNO9yizXeF31zXFCOnXHww47bN3hq+Wpp46DksDd7373FAgWMxoBi1q+wMJaQaeWcbKg4ReuC6aibN1KYDlwcjL8Nhh3LAO7wFBPUujbW\/Q+RlnnMbr2HHuC3fIQGHBemAFBAY0MO+M5bCEKX6AsIKBhEOSWWcKqG1gSw3doggh8F4UgX9BAi4Tmx7yWmZjWAUGsNT3pOtTq8EUgFiHqoSz4cG74tMyuacgi86lU6tIi+Ly5CfQ4\/K7V7jPyppNhFCn3quH6Mdwi\/GmRrU4AYj3X2fsdBd+XRWFb3K9lodSBecIeVHU0cWAxcLCy4yuvvHLtO92HINaac6YFJy7J4QQM8sEmCohNBKQpERDorNl7771TqSzvXyyd3xNQ6DoQbAu827p+vS9dN2xAGcp7\/kRvv2vD8V9++eW12rRlgAVlvyahVoePUkdDdb1WMi9QRiIvfbla1IpCHJuUkpvQp+xRuXXBkBCTuoju2jjO0rrTjifgKgLd+YEPfGDduaN3KfZlSuOCgnmAYbIJGY1JmVugftB6yHplck3W8euCz4hlYmPomzh0NgnTKAjmMK19o7sFB4IAQbSf6a7CgNEQ2OccrIACE5ZH+TZ52A62Qp+9NuCyIHjwufOhYpjGXDKWmLVtrgY\/gj2fplOr1eEzgCLLSTPj+wSqcaIt7V4216gMlGNBMXdZOMOYYCzUv8fR703BjG00\/m677ZY0JKaaMVqMhPXI0HHwggHG7a53vWuq75fhBLQSev1FWwoD1cH9VQaUEa1iMCa4FaC\/\/OUvT7ob14CeQDYrICBc1d1iX8j8OX\/spG4oQQEWTOlAycDrsHPKC7Jj1LiAgLCQsFad3d+r6jori9LllM3yer9mi2ClJWvKcxIEn7Vtyn6+hsMvzhgZhVodPofGAI6qt\/cJam3qZGrCBj1wIOMiYNEx4UxZPcFNwQQrm67Mcg0jQX2Lfl1U9Ob9oDBtWIGXjMb7zC1ZdBPEWzo6zj777LSRyzJMuSZYZl9\/oDxwZmjuMso3XQPqn93J0z3HwV5Am9t\/bJg9yYHbV5yfAFrmz\/Fb684TEBQI\/ukJlE2UtehYBAREhcWAQFYuKJf4LLrHtRQSPbKhVbA1Mnvtu7p7MB\/siPJgmYzCsvD+MBHTgp5aHT5YGLL8vgLNJdLSUysytrEmQZbJAakxdxkye7Sa8kVZIO60sQiLUFUy5XnHJjNWqEzROGPlgY4rBmC+9r0yOwxA\/ZRD6Spz03dwWjJX7NSqgYAVha\/evwx0HOX9Zf\/YR5IYglqlW87dPjAQRuBNCa9vXolN6cD19zOiO89zDopkSTDBeXkdAQFh7bikyd\/1+1jSfIhOFSDio7\/KImHloHmDFAwKLRuWWzdGWTADgl+dllzU7vDVsN3kYh27D7Ao0VkWtEjXzZxF6MKJWURdn\/FMHY+9EfHPq0jnENVUBT+ifhP7dHSg3kXV22+\/fdpghDRd0Tm495gsGc4s6yBQP2RugnKZ0Srdozy+G8tVdS1aQMAp2uOCdX9b9woaHnuHUVNW8H60GyobHHfcccmOYt4ECQICAT\/fkc\/4FxCwsQIWLB2WgV+p8swRwUd+f1gMAcqw1odD10Xhsw3PBHENtBk7FdHsldweXAajqKzC4U87E6R2h8+Yq4nkudNdh4wRnYLCkuHqqbWoZwGDo65M2NXVSVcZyhhqWx7jPr+FTQWrRijAIaajkrZx1McYXjSjzYB6J6qyVkwiM2lPMFAW3V41RNrev2FTXXnPqwitbbLNrgSSZUBgrcTVBvE0B8UOZnaAw+QoMYYyfF04Wgl1EXDoqHsOl7PkfE34FBAIDg4++ODk+AkS2WRsKyfttexHdmmZ9li\/m9+rBwde3Nv+L8iXoGy11Vbp\/RbblAU3yrwCAs\/lK3RQeK1lgPkQLM1SKq\/d4at7oLx9+K5DdKk+pf5L0TlvW53oUGRLpS9w6DoYEFGmDWYRC2KISUTiBECicxvSc2xWZ4jnU6x0KaD\/bAa\/j8JjANBfsnwbt0sgehKsyEQC7QV7JNCsqv7bRqifE951Ye4Hh5qdLHuJGea8DSljV3wWrKIZAwcccEAqF0gWJA1YAq117IsMWHYtwZJVs1X2qDkMOSCQjEwS4nH4OnvGQYlI0JEpf0PB8oAvvyupIRLV2SDhZR+Hg4ZFILARXAhypqF2hy\/iYQiJOLoK2YBFRqCCvpepunHzAg3u97t4NCUwkJwy56y+ZbTuMccck6Jx445FnT6f7FxQJDpHzXHsNhxaj8aBaMrrjIq+fa+LwRAHIlDp6jClVQG6GbVtrXIsfQenJjkhoJtXD9NWsBECAQ7VZ9MZoMRKYU9TRLmOaeP0OVws4pFHHplYAuwOcSGWlU\/CJigZ0FRJPiR1GEntxuw8ETbh4ajaveCR3ig7fJM\/sQ2Qp5FKcPxNwYmkpwxmVxIliXZvp6F2hw+EezZY14A6UXMnNiEmsziW6TsXWXZFsOezc8wia2I60TGnJmrWzuaamHq39dZbJ7pQ3y6nL0MXRfs9Ac6ytFpXoN6IZuyLUe0zsI2M76TsbRZIBJSqBHmLKs6rhiCb01pk9nzbwSGj+Icn5LE3GAIOkb3mZNle3T8CAod+0RGgxGXKkhR22WFmHLREhbOm91BOQNljJIcH8tCBGFyktdcod0LCHESyfbRaAgKlSeskCxeXsREYCToH9nYWNOLwqRv1pRfrG22HKE99WrZqdjUntiwVo0alFczCawssIBsDxZVr7WgpC1m9iercondojf519TNO38bxYDg5evTbOFXtKoBBsMajft9+5COYMW2L3i97mKh0\/\/33TzZCoNu2EoH3k4+T7eq5HZNAsCeY8RnngXueAwJBG3YAS2BuigSP\/dPCyemb6SF7P+igg0YGTWwe1tL1LdbmvS7bqLyQoavAellmwqrSgHkI09orMxpx+CJqdVwXte2QkXq\/6Hsbxdz7caK0eUCs4nXdrCZG6spA0OgUsyJeAQz6SY2LrsAITjS8OrvIVOQrUBMNa+kRCIikCWwy5S6SFhRx+JNqYX2HayoQKvP41UB1sBcxMobJLBKkSlyIsdgITgDzh90ZblFlNxh++64JWJeGfOl+WaQE2XbIlFH69l3ZyaTXk9gceuihiaHmaOf5G5w\/5oC4O0OZARuwjP33WTGss3a9NeLwCbBE1G0bNsNJicxEfOgZIgwO+eSTT04GoYxZzRkyYDUni6hKpsPnyNErWgmVhVl4wxvekCgsWaiZAbIStS0CJo6d49dRoY4lAxI9T3ufHL7+UsFc1w6eKBNZRBOCve6A+Etf+iJJyA033JBEYhw9yKQlB9ZABltiYIuDvgTTHH\/d8B6U2\/rSITUKtEGc6qRzNRaFOrySyKIBm155pWDlUAmT9ab2vujsAP5KkCrJmhWNOHzZpUgTRdImoLBpC4xdNf+cE7Rp3aBp\/Y3zgkO0+cpyCoyMBcApq7Vz0By71g9BBSpJPUrGrnYk4OLwc51dZoKWRGd5jUU\/L6aAOtY1XFWYx2Aj9m3WRJ8h+1ajxW7Ny05Ri7MVRfEtp0MJD1gDWWEWc3n4W2XblEmwp4lpleXKYCjbCqVI9ier49sErIrEUTlAL75yriRsUQjg1O8lZrOiEYcPjCJ15PBwgkXgQjKuy6i5BSEi9N13331wyCGHpCicurMqoy0SXTSj8F5l7TaxBSMLNy3MYsJInHnmmcmxqxn5P5rL9TbBSibj+YIbFF\/ZymTXixBFF0OdBq0tYNwdR6pdM9AtCJC1cXHg80DmhyWjACfk8vv77LPPOn3LLgkAiw5fImEf1wUBOAfTtfbWeSFbzuW0Nnb3sNlsMHttHsIywMRKnOcRjjfm8EUn6GODFZaBnkbKTG0W6mYyzEUg4\/YaNuMee+yRsuKqHJYIm6pSxD2JHvL3OWS1KVm7z0qcQexhUcvU9Z2i4kV62k4sdP3uItx8eIWoty7j4u\/4++pKZZZAugLrmjFfdl0H6odgzb5nl+alWa+77rpE1xKzuv86Vqi78wQ\/68EBTptvvnlKKKyTuiAIISLVq76IRqFLwHS6F5KOKmj9tgALJSmdVyfUmMPnyEwi4xgWhbo0IYToWm8kmtpmXaT3WeQrCqe0Rb9RelYlbBFcyO7zKWoWqfq3mygq9XNUP2Uo2h01SEfAsau5yx5z2xsakThITQiN34YNrc5l9GQd7YaCojYp4QmiHLCBPQl0D\/QX9pt\/Z4X9CxwMVlB7GLvEjuSf2ZeYNaLfuh2RfSi71067CpDx0lD0+VRWQY0kb142qjGHD1q9RGKLGkc0lclGxmOCG00pa3LdPLApZd3aKThNdWyvVcV8bc6Jyp2Ah1Mn+GEkOHZ0ovoTVTx6UPtfniFNUyBLMEyCqh411FbIKNCZMv2qnHFmEhhn1811mQTvQ0A1junw\/fzzRd+zIJaRx7QEugmlMlQpMdWs\/dEEeKhV+xokC7L9eWqrVYE4mA2R4fc9u8+wf5UUMS19FA+zM\/yD7H5eH9Wow2ek3ZRFN4ZoWU+4iBpke+rXVOJtgEDCzUGpc+xa2oh1MBI77bRTYhNEaa4Bxb6fce66FwgFMRXDwx26AE6THkItu4xJUqOg3rrvvvuu10SVN1znUVAKETxZG4SSgqcMXRmuvwAMK4HlmSe7K0Lm5rXaKBgKzA52SSA5q\/AUKyfIQ+fb06ZNmmTXhtY3rbb2RhdaoMuEhA3LYvpn3\/ChD30oTfFkA+dFow5fRkUVW6S+5oGxh\/oY9TOCdhPqR9R+BqdpMzLkaP+q6vIiLSUGRp84juN2UhrDQVvgBvms3seOO+6YyhkcAzpeOcHv9glofSWI4V7ksoDVcUBFdvh0F6PqonmkJYoP82NYkIALJQZov+222y6Vlhzio0yy6Dhc07qIJOcR0QTaB0G6FirB+KwBNzbAXA11coF9GwRjmXmw7qtgK9sOrce6rgiU+wI+U3aPhVpkYmmjDh\/ykAqitHlhY5ojLLImYOBgqewFEICek2Vmp7DzzjvPNJEIXW4Ywjj6l9COY8dMeP8cCoEOZ+JmyPK8F39b1i7QoMrUA6\/mLgtYph2jC1AicV999kWCuWmQtWuFyvdWBj+qzKFcRBWbJ4sJrAxJyaOdGUP3Y9nSg7WCBtYREeg+7H82hROvqixVNZxZ4TOMY776DnudPVY67kvAg83mZxbJ7qFxh0\/IIitilBeFGjghm82pBq5mBWryes+zU\/CY1i7FKVPAO0BBi5n\/E9cZRIMpEPUTZT3qUY9KAjoiQdmhn8nq9bTrZ0dlDwcM\/u853l+ba\/BlQPQpS5Jh0EVUAV0IqFMMj3s9CxgBbIt7JhDRKYEVYhgFivOKYDKwNNaE+x\/oPjh5Ghsaoy6K3Yh4tT23QUfQJCR4urjq7IqoCkpEAhhJimR3ETTu8H0Ik4JkR\/NSFBwJY5+nVtmgp5xyyvowG6\/NuWZn70CDLKwZBuOvJKDOu8UWWyTRDWdODyBj92DQfY9YwjnuAgF00azvm1NQT\/N7VWS9bQPBjCy\/TTVtgZsZBdaB7F+dzzxrDIHyi\/rrIkODnLTlNbqouQiMRm7Tc18XYSCbAvZQQCsYrqqE2RVor5SgSbS6ytRkGI6GSV40KYHGHT6o8\/oghG3zQFZnuIxasazc7HftasX6mUxbRIRel7WPA6etDU49V3BAVOc11XjVezn2ZVSuuS4oQlsVpyCoYXSUPJoYJToMAiZdHWh3m999QHvm9kinpZlrgO6f5wQra4NR8VqBfoEGBANJnzGuxNcmsFGSIAlUTHrcCCwHtqPLWb7kFaPMl6njL4pWOHxRmCxfJD3vpmJs0ekySaKrRcVvImGvZRStDY6KLrP2JbvXbkdhuUoQcMmilVuahJIRsR7h5DhBlaAMxe8+zaOxsHaVA7qUBQZmhxKdQF27XduzRMwjVrJNJ3A2DVouDC29VxeCtlGgAVNe4keWQSscPhg1yzGoPTUNht+FLWPsL1hksntZoL7YVYIsHy0qy29KvS6zJ8wbbtFREmLE8\/tC8RtQQnA5q8pa2UKNMLL7fkOZkH5Hu2xbgakSmFxzzTVr3wlkuG\/u3zJasaZAcMzZ6\/5YFq1x+CjUiy++eKEsv+2g6BfMCGpWEQYZGcRTPFykLlBbH3TQQYNdd901tdx5yOLdC4yOyN+9wQ75Wllonj58tXvBTEzW6zfYJPoPzJ8OkbZBG6xSVB5CFrg1lGyxt10axiP5NDTJoUdllIJb4\/CB6ho1v2jLQRuh9sKZoNna0JvbFNBpjGVZrMmsQG0SWmrFI5iUwRenMeYM3ffoSAhjZoVARuTd5xGegVtgLzuEygwNM0DaAmwkVsrkyUV6s1cFkko2iM7LvewCMpW\/6Bkxw2iVw7dYZWAEFn1pW6MGp\/5uQ6miSaCltL5poawTaq4e+nAJmvKjyCJZdwzAvMyS7J4YNAbtrA7Ugx1ehYlsw7nypgLK7JUMw9lPh0BNAtAE2zgv3Ftl4DLLEK1y+CAjQ7HmSWhdBjGiaFKLzKJ9k30CKp2h7IN6OIsR6w5gAs3DXkadW8s0IMuopheFv2m0OGfPea16+9084EAp3jHKbYUEiRDY4LIy11frHH4WuLkhXW9fUydWu1717D4Dfe6+dr3OSIioRGGIUxvaDQP1A2NEEW9UthMS61wH2kcxoahercZd7y+vG\/av8zTMVbnpppvWvtse6PYxopmmreyR661z+EBoRW1KVd3VATX6d9WLKNRXcY71OFCaEs60qQY6L4y3VJ5YZEBPoD9gm\/KBSfY6\/ce85+jPA69Nia9e77wQf7ur9rFpyJoFarJo4t22QCnbzAet5rNOD50HrXT4oF\/dgSddzI45eDdNNhu92ZsCg+NkQMInZxJ0DfrzZXUU22FsA6BDw\/RNolCDpjjiMkVhXkup02sbNEZwGl0hy4OWJ5+FYoR605DN8xsGg1V1ymhrHb4IzIc3MaproiiTAwkP+9RtUCbUp2T5nGaXYE0asmND1t1tEGg3OA+T3NT1dYTIHo1A\/frXvz63GBToBBh9r2FyHuEvxyQBKrOmu+pwLdXJZfrLDrVZBjp+BI0ye2umKrTW4YNJdzaQelVXRG\/KEd6zyDEywPHQbsLpt3mQyTC8Z4FcaDIC40B3pOQjUTn55JOTytoxrQRi6sVKfWhbp0nmR\/6\/n+nx91w1ZmVNZ4N4LeWCsuu5gY0QrHH69jZBn\/\/XCYGie2wKaBU0fhGtdvig1mtCUhdOIbMh0dUEF\/PMYl9FaCGyydQjuzAIw6Z0yt4sxysHAih3vdO6OCjpzXk4\/fTTU8cOXQ\/Rp64VD5md\/8sy733ve6cTPs3tMN\/BawR9Xz0klA75cvSsBLOOI4WVNHV5KBEaClRH+bf1Dh8+\/OEPt14kZcGosXFgIvXAdOQzFFCVbc5e8uE4RKTR\/hSYB\/Q8srY\/\/\/M\/T107Bvc84xnPSEmBll2P\/LXuJM\/xXEr8EPvWC4wsrQQbzgmboVLFPBhlBGwP+p5OzdjmuhjsTjh8N0KvKaM774l6dUCNzpQrC+Xmm29e+25gFshe1MQ5\/jZOImR4DddxvKahK4HAMrCGzKHwkNF55K+7Mv2t7yDMlXHTTWi9FQQo1SxbomXfsJk0GcSXAj3BXZ3ohMMH0e7v\/M7vpBaYNh1ziJpWb0PVtXHGdheAPlO\/esELXtCqUghnb4Y1Z6\/GGggEVgP8DT9jmqYyi3KeQUeCAVn\/LFMNzUdgzyQ1ElWdSco6SjcGyzVhUzrj8MEFNGiC029Dpo+akdlz9l\/4whfWvhtYBGhPzlUtsw0nCuokEISIxrs+ACoQCCwGzp1gkgib0yfEJDZW3stdGEW2xoMto72gO8MQnHnmmem0TnoNokCJRFPolMOH7PRdfKrppuZHi9pMQqKubOO0pi7CRlDXUtPncJsCFT6hlX7nUEYHAgHaHQJyLLMkwKAlujLOXBBwj3vcY3DSSSelf+91r3sNLrjggiS8JMgk3BQ0VKEHmBedc\/jA6XP2nD4RTN1GWd1FVq+2+6UvfWntu4EyYESpQEqLjKlidYrkMDaUukaW6iBowwYNBALtAs2WQT3aJ\/mht771ramjgmP3r8ze4DhZftuGi3XS4Wd85jOfSZGWvnfCiqr73tVj9NQ6TlWUF3PUqwFHizIj0pRl1zF4iZjGudOmIzbJHAUCgUBV6LTDB9Sv8+ado48+qaIlTpYpmnPYgvqNCC4UtdXDABMCF0yOftUqWldE4Cb+oec4\/DYJQgOBQKBMdN7hAyr2qquuSrVf\/ZNavMqYjczBGJOrTi\/bNDDj85\/\/\/NpPA3Xgm9\/8ZhLMCLY86DfKoNqxBmh799VBJFdccUXU6wOBQK\/RC4efIbuXramvc\/y\/\/uu\/ngIBdfZZs0MK8c9+9rOpDxO9a8qf6XkcfxxD2Rx0ZTzrWc9KDIv6vhY+A5lmpfvdO8EDlaxMXp2eqEbJoA0HZwQCgUDV6JXDz6Cgl7Fx+I997GNTZmguNQU4Ay8ouPbaaxNljJ53SI+WCZk8J88R+Nr0K8+J6WrtAcrdPUT1a890v\/xL6HfppZem43dNyPKwBjzXZDP31BrwXEwQsWcILgOBwCqhlw4\/Q1YvM6SeNNUIdcuR5\/OkBQP+zf\/HDNADGLDQhfnuqwyn1cnwzb3mwPN9dH\/zvfV1\/r9gD4XvBMM45yAQCKwieu3wh6GdQvZP6Gcuv7nVMkbTk9ow7CWwOIjvlHT0ymqJ8TD50P02sz8QCARWHSvl8AOBQCAQWFWEww8EAoFAYAUQDj8QCAQCgRVAOPxAIBAIBFYA6w7fKFFtSk7\/oWyngHZKmBOBzI4niNLK9rWvfW3wjW98I80Jjna1QCAwDHbhK1\/5Sup08a\/ZB5PGUDt8Kg6gCgSqx7rD12+uvYmDf8c73pFmxXPsznr\/wAc+kDako0up2jl+\/cxx\/nsgEBgG5\/7kJz85nSymDdKMhJtvvnntp7cG+2KegucGAoHqsO7wbVCH\/Tv4X2T+F3\/xF6lf2RQy5\/tqW9PyZPyo0aYve9nL0oH+cVZ4IBDI0PoqYTC0iuNnK9gNzKEDrpwdDg66+sIXvpBGVWMXTbM0RTFaKAOB6pAcvqzdqXN5TrxD+x\/0oAclp28YjeEmMv\/73Oc+KRoHm\/eYY45J\/wYCgQBIFtgOo6jhmmuuGdz3vvcdvO51rxucfvrpg9e\/\/vXp+9\/73vfSueHOMgC2hg3CHgYCgWqwmUjbYTM2W4YRpDYnZ+6kMmNnjSo99thjE00Hsn40nNG0UcsPBALAYZ955pnr5xPI9o8\/\/vjBddddl0ZcSyawiDRAJ510UmIK4Yc\/\/GGahsgWBQKBarCZY16d7\/6EJzxh7VuDNKL0vPPOS1ScWv1LXvKSNJnunve8ZzqMBkw2M4bWCXIxpS4QCKDmHTrlYKK\/\/uu\/Tt9797vfPTjllFMG119\/\/eDKK69MxxCr50scnG9QrO0rET7wgQ+MBCIQqAibiaydPlZ0+OaPo+E4fJuSY+fwTz311HWH\/x\/\/8R8pEHBAzawnlgUCgf5C\/T4fOVx0+CeeeGJy+Gr6Z511VvqeEwsdalQ8gVKGj+aXhAQCgfKRavjq9B4Zs2T4xDgvfOEL02lkZZxPHggEug8lPoyho4jz\/0844YTBpz\/96fR\/icT973\/\/9HjjG9+Yvpchw8cAxDHUgUA1SA6f0+bw80ZTmz\/ttNNSDd\/mpd5XwyfSyzV8G9rP3vOe98QGDQQCCR\/72McG9773vdePHnZc8SGHHJK+DzL7zTbbLGmEiidS\/uAHP0idQs973vPWvhMIBMpGcvgyeaK9z33uc+mbIu2LLrooDdxx7rjz4qn0zz777MH73\/\/+9Jwbb7wxBQB\/8id\/kv4fCAQCTqKUCORuHkN3JA\/sB3z84x8fHHDAAYPf\/M3fTP\/P+MxnPpNsjcQiEAhUg\/U+fH2wamrOkFdr0zerlvY3f\/M3qXdWf6yIXCTuyFGR+NOf\/vTUXhMI1AVrT33YGqU\/CbQLhHvKfuyJwV20Pl\/96lfTTA9gX0zfy\/344D5KOKj4454GAtVh3eGrsRHuZeptEqht73e\/+02cnhUIlI0PfvCDSUdy1FFHDY477riUJf7TP\/3T2k8DbcHf\/\/3fD57ylKcM3v72t8+kuH\/ve987eMhDHjKT7QkEAotj3eHbmObkZ3XtJKjfo\/Lb3j7j\/WEpiAoxEdoHY5JX92BWxFvf+tY0B8JMiPe9732Dt7zlLYNzzz03KcKxUIH2gKaHjZDhy\/inQRkg9+0HAoHqsO7w+whDP37qp34qPfQCG\/Rx\/vnnr08BC3QDprAdeeSRqYTE+WeoC++zzz7pjAfDXAKBQCAwHr12+I973OMGd7zjHVP7oBYgD22GWoNM+gp0A3q7991335QJFsHJu58EpjnLD8cfCATqAntDd\/KjH\/2oE91qvXb4VL86C4pwYMc555yTKOFA+6Eso11La9cwdU8AJpgz\/pkwDBPwhje8ISnBo3QTCASqhPL3Yx\/72NSFohWV6L0oRm0jeu3wzRbQ71vsJFD\/3bBhQzrvP9B+iJqf+cxnDu52t7sNvv3tb6fvZVpfMKBbRBuYwVCGvLzrXe9KJ7VF2SbQdljHxRJVoDuQXBhOZ1CUSbTsEE2Rc2ho4dqKXjt8Nd\/tttsu3Qg3xile6vnO\/Sfmc7SvwSCCgDjmt70wivUud7nL4KMf\/Wj6vygaUyOQc09tMhm+Vr0vfvGLg0c\/+tHJ8QcCbYN1Kyu0bpWiLrzwwsRQmW8Szr8bcI6MMx+MiS6yjoTsEhMtptjHNqLXDl\/b1p3vfOc0KlhfsLn\/v\/3bv52cuxtiOIi6\/hVXXDF41ateFTMFWgpnNTiaGXXm3pnZjsqnxTjssMM2yeYNkdLiJZALBNoGpcTNN988OQxTBz10mpxxxhmJpQq0H1rY99hjj9ROOgxJJlYZA9BG9J7SV1shqBiGAUKyQQOG9Au7UdHT3V4QWcqILrjggsEjH\/nIVNPff\/\/9B7vttluq8WvrIp4x4EVQ59S2POwlEGgL3vSmN6UssDhWWBAr43c0cBwc1H68+c1vHuy1116DT33qU2vfuQVve9vbko3KMyWUHbWoYh\/bgN47fBT+JCGFG+GsAHXfyPDbjW9961vpRLVHPOIRg4svvjiNd3aeuiEvNp+s3lkP7uXrX\/\/6MJ6B1gGbKFgtOnw2SIb\/0pe+dKa5BYFmkR2+cdDDMC\/EULo\/+IM\/SP+\/7rrrknh8VHDQBHrt8NV2Dz300JHRFRV3\/r753Z47y9ChQPug9mmE67XXXpsibEbVORCBQNtAj7LTTjsNfuZnfiaVHD2UoBwLXGwVlqSYWBhtpu3DZz\/72cHuu++emGHI46MBSyN400L8L\/\/yLyn5ePCDH5w6h9qAXjt8M70d\/IO+Hwb63s8d7qGOT0jTFtolEAj0E2zO9ttvn0ZEcwQPeMAD0hkC+fhg4OjpjQwOa\/s001UEf+K+OfY5J4nYReyjaaCXXnppCtQkku431jEy\/IaBOnP8r75tj2uuuSYO7ggEApUCHayGn0Vdo5T5aGFTQdX74+jxduLzn\/98ou4FbY6XP\/PMMwe77LLLYMcdd0wCccfG04URZdIcXXbZZa1Q7q+sw8+woaIdJhAI1AEO\/+CDDx456VNWiBp+3etel7Qp119\/fepICbQT5oL84i\/+YlLl67pwqNzzn\/\/81AJOOOw+6hBzjDzH3wZN0co7\/EAgEKgLr33tawc77LDDSIpX3V52qO5L6PWsZz0rtaQG2gslF11gRa2FPn11fSAER+23RVMUDj8QCARqAuOvZv+Vr3xl7Tu3gHNAD9MTOf4ZTTzqeYHAogiHHwgEAjVBCZF+aFwZ0c84fmJiyu5RM0QCgUURDj8QCAQCgRVAOPxAIBAIBFYA4fADgUAgEFgBhMMPBAKBQKACtK3lOxx+oLPQ16oFpvgwBSvGkQa6AIc7mdTmyFx9+abtXX311Wk6mzntvnfTTTel58RBUO2GeQn\/8A\/\/kA7x0oJnqJtTPE3Z+\/CHP5xO8TRsyRkKDktqaoJiOPxAZ8DoOX+aETQ335HGz3ve89LDwIvnPve5gxe84AVpxvUNN9yQNpdNGONJA21BnrvuUJWXvOQl6WhcI1qPOOKIwSmnnJKGtpiz79Cvww8\/fHDiiSemw6I81+9Y07nHO9AsZO9\/+7d\/mwYkmYpoHLLTWd1LbZXnn3\/+4GEPe9jgnHPOGRx11FHpcd5556VZC2yU8\/MnHexWBXrv8I0zlPWZnc\/4e\/haNhijdNsPzto9s6k49vvf\/\/6DDRs2pCMobbBnPvOZ6fGMZzwjDSzxr1GWp556ajo\/\/zGPeUw6UEc\/s3seCDQBwaoMT0B69tlnp7GsTnl0Pr5z8GX0n\/vc51KGaK36Wsbv1DXT+TyXs7jvfe+bXkMWGVl\/M2CTsC4OQnroQx+anPwv\/MIvpHNbJCKGKkk4MDcCNPfdgTuf\/OQn0xn6L3zhCwcPf\/jD0+897nGPS79T14Cl3jl8Dl7U9LWvfS1RKiZbmVjlhoiURdS+5hiMP3SxRdycShyn2i44zMgBIk4TO+uss9J4Sv931rRNJNvPQVzx4X4KEDIL8HM\/93Pp9x1uYSM6KTEQqAOcw80335xOxWPgrcEPfOADaf0y8rPMyvcaMklO\/v3vf396Da\/lNQUHMW+\/PjgBT3Yu+DJH3zHcnDl\/M6td+f73v59s1Cc+8YkUJFx44YVpNC8GZ9RBb2WiNw7fxf7iF784eOUrX5miZ5QYauzXfu3X0pGFDL\/Zxh6+vuSSSwZPfOIT002TDZ577rmJFnYoQkTOzcK9FAk\/6EEPSkGaeyZqdorYvDC4RNbkcCTrAM32pCc9KX0vzlAIVInvfve7ae06WQ0LZcpeGZmc1\/joRz+aqGHOwuFfhvUEqoOBSFgYUxIdpc7pKy0uWy7EMtNqWCfKOU94whOSH6vKNnXe4btgqBLUCLrLBRN1iaJvvPHGFHnJ+Ikq3BzRsK9Fat\/85jcTdcYZZNqM4\/daNmc4\/vphEwnEOHt1MYu\/rAyGUUSfYgpE1O551EMDVYARV07CKDo5jfMvG8RfXltQ7G+1ZV5738BuyMSVEWkp2KQqwF9howVxAooqSs6ddficQHYOIiOCLY77G9\/4xtoz5gcKGa2iRuY1f\/mXfzlt3KDMqodrbJwokcvFF188+KM\/+qO1n5QPxlf9Ta3\/yU9+cioNBAJlwDrGTllbnMOXvvSltZ9UB3+DzXr0ox+dEp1ls87ALVCDV0L51V\/91cEHP\/jByo+4pTNim5Sd3dNFWM1J6KTDl3mrv1900UWJKiNsKbP+nlkDQQQ67sUvfnFiBALVAOPyxje+MQlZ3vWud9UmrhMwyvZlR9poAoFlYB2jZmXcjHad55+zWfYOvQrdkvcSWA5sAgr\/Oc95zuDrX\/\/62nfrgURTMvL4xz8+BR1loXMO34eX1TuH+Hd\/93eTAKIqCCJQZo6qlO0HZVY+0GUvfelLk9MlYqkbArlXvOIVaWNjiAKBRcDBcrTOPx919G1dsIfYq8suuyyc\/hJArzu10D2t0sdMgvP2nZ6IXaA5KgOdcvjqr2grWX2ZUc80fOtb30qtFKJntE6gHBDncbaMJNVyU2AY3\/nOdyZDyemHmC8wDwi6XvOa1ySBMNaoaXgPtEzh9BcDZy+hZBOaLudKOt3Hspx+Jxy+mtT73ve+lAXaWFW3LoyCjaNnVt\/llVdeGXWyJUEsZyGrj2lbagO0PKmdCSwDgVnAIcgCUa911OtnhT3FSehIismTs8MwHH6Gs29L4K\/TiK3EMmvnWwatd\/gcKxGM7IvTbzriIuqzIDj92EiLgbMXuGmPa5ORdD\/dV2tNH38gMA3q5gR6ssK2gfPy3syuCNZqOmTQOrTYpqb9zDBk+rQEEiTi8kXRaofP2auho8r0nbYF+jE5BZs9nP78IGxSmqmqvWUZuJ\/aOr0\/Q00CgXEwCU9PNmV8WyFBIYb1XgPjYWCXuQamdZYpAC8TFPv8zqWXXrpwO3FrHb6I1GJVS\/nQhz609t32wAaS6VPjBmYH46j1rgmB3qywmYzxFWjWPes60A0YrSobfPWrX12rGn9eeG+XX355slV1K827ApS50oeyDL1Wm+EQHqyNZHMRtNbho1SJ5GT4baWjnIIUQr7ZgfZ0veoKkvTbE+GZaZ1hEJPhFuphmIZxw5Wct8DhE2vGKN5AEZyodk6jbccFhNaM0d4Ge2UYj6vVl0iVWNXgnDqgE8b7lcHGWr41lIwlIV0p43m\/WBsjfedFKx2+SJR4qguCE+IOtF5xYwduDQ4UW6PNhKq5ahB2at\/cfffdB1dccUX6nqyMbuAe97hHmmblRCsjlsdNtKIvMMdfgNK2ml6gOTjy1EhuY7hHQcao3mrtaTkFlLFA0+l31t7xxx+f+qzrmjlBxEdwrJ4fa\/kW2OOSEGW8uoBFYHfU400TzSUE68b\/fZ+dHDdEzv3z+xKSeQfztM7hi3pFzg636cLYU87rZS97Wbr4RvUGRsOgJBSoDLtqmNKnLenAAw9MRjfTXww0RXVu6ZS977PPPpswAEVgljh7hnLccwKrBcIuY5\/HsVRmdcimDznkkMGuu+6a1htYc77O64hhv8td7nKrnn1Zm+fpCJrGAEiG2JxZ+8R1oQhUYi1vBP8iCGO766rbm\/uBaTn00EPTATyORnb+C6ZR8iggvM997pO+b4DTuBKD6aB0RkpK8wRwrXL4uZ8VXYH+6gpsTEe1Opyljuy1azCxSqbM4JQFCuS3vvWtyZkPT0G86qqrUiYvwz\/zzDPT8bgwXBoS1R9wwAETOwVQoM5YEIDG8bqrDQ5CVk7YNe6wGroja8\/zHIOrnWoUdBzttddem9CyAlKs02abbTbYfPPNE0swjn2S\/Znvbg3P46zYV3Yq+vMHaXCbgVuzzk4QYHnupAOQBGA6fZzTMUr0K9Dj6LOeggCcw+fABXn0asTqvi8gnMQ8ZEHmxz\/+8bXvTEerHL4RuRyD40+nwYJ3UV2sWaLhquEGicjUVwK3QOSqXu4kwrIOg5BlOQ2RYdxiiy2SYSwaPRtG1Hv11Vcn+t76KAINhub3Mxt+Gvw95\/DTkwRWF+YzOKBr0jkPee3pKrJG2aci6Epkcqeffnoa243GBcGo4OC2t71tWtceBx100K2yca9NM+SEz6222mpwr3vdK+kBsAKyvUkP9lJv\/i677JK0BP7vb3rYD86y8Nq0B1U9OCkP9lKXjr2l3FDVQzDvIYFkf+gvOG4OlpDRuR3g+34+7iGR42NQ7ZhK+q3h5A7TomzJJrl\/7m8xcfU6gkV6AdoiYkrXAdz\/YqYuINh7773TSYjjYK2xrRKSWYWjrXH4bgCVpAvqg0xCrvGrg51yyimDPfbYIzmUpk+3c3PUg\/7qr\/5q7TsBGbgTw8ocS2yj3P72t183jLL0Ua+Pdt2wYUNiAoqQSTkc6dhjj02Zu9r+JNiIZv1Txy47+CLQTWCR2BzlO4Z7GjgEAaVSVhFsg8TgmGOOSWWnoq3QwbLTTjutr2vHfA8znZyMsz2222679Jw73elOKbA47bTTBve85z0nPjwH63DEEUcMbne72yU2wbn6ggdMGAflSHEli6ofdE\/sPTpdEFLlw995+tOfng6jce2wHJwuWp2DFjDxO0p84x5+rh3Oa+24446DHXbYIdXRi6cg6tzaf\/\/91++fgCyzi6B\/3vvhtyQQRx99dLJPxY4ljlvCy4943jRfIrtnXwVRs6AVDt8itjEY1FkydR9SnYyRR7lSW9tAZVLGi4BREG2J4oIy23g9ONZxtOY05KhXRI5CzQGdTGTnnXde31iM1ahal2BDLWzY4XtdjICyAKPK6U+7XzYrKq64gQOrA+zjOeecM7M4VzZ70kkn3crhg7Un+7Q3OICsnPcvJyKJUccdp8L2+4SDHLhSorVPpCrDnPbwuz7DGWeckbJ5wYtSFVGh8dY33HBDKsFV9fC3PTgo9Dbbjbau6iEJE6xjNPSwe3D29D2us7KfLFnnxKSH5\/hdDM\/WW2+dmBiBS3HEu3sqyMt2SYZenNqpFCCoEmgpDejw4PPcx9ztwc4pBx1++OFJb8FGTRKus4\/WkDLSLD6nFQ6fA0fli4pngSgoU2HgZCHR0Cj6wwLXu2jD1iEYE62pq9jwqw5GSTaziEiIc7dZ0PF64m2CbADdU3VIzlzm4t6OAodPBJOdtMMorJVcy5c9oURt6GmUGNaJAUEDRpa\/WpCEyARl99beLLD\/Tz755HWHz6Ey3pkGtr7PP\/\/8JAgtakOsM1qBWVgEjp6D5sjnAceg\/u9MkiZ1KRxZXQ\/+wnW1zwUZHC2mz3UWaE17+F3O2HUTLPlX51GRjWZXlGvYJP5IGaVI03PqHL7sPYPPouUo2kh\/D+ON\/cC4TDvynf3zmrP4nMYdvpsh+kLxzFqHGIY6mZswPMzFxZbdUWqjgD1n2vCJ7AwWhQWgpkxBWQxKVg2MpAhYbXGRa2qDybwzxbnffvttkl0xnIzVpDKOGuXBBx+cHDUIILwnWRTaDBujTkpANQtE6BiBYU1AoN9gUFHhEodZgW2k1EcFg7UrqUEtq++zeda0tbSMzfG700qgo8DBoPNnTbL6AgGbTB21Py9cZ0ECBzzunvE5bBLbNHxf2CyOmR\/KeMlLXjI47LDDUiJCz1A8JwZ7I3iYNvHT31Qe8vwcUI5D4w5fdi8jXnR4DWqIUSe+GKY01GbRcJli8ZAZDsPNUR6wKRfZPMNwlr7IvY0TAuuAzUCp6r4u2gJk8aOq6DPUywSE82Yj1oYIOZd6rA\/vS+1M\/Q79hlYUdM4CG0sAI9ur87TGQHOQxXEQ+ulnze6BDeDg3\/72t6f\/W2PWI1bK2kPrSlSaSgp8FswZKniVpklKAh71qEclxz0v7H+PZUDUjVVUZmCL0Pk0AtT9HDabJ8D0M8mIpGSWdSeIFExMC+AadficKwfsBiyS3dtUhFfOLR5uzQIZmSEX2dlvueWWSXiRgTpxgdA7HAvnME3ANQtEWTaTLH8Waq5vYCRl0sR1824QBpBhRHdaF+g3NbdFAkKvRVRTvAfej82l3oY2mze7ovC\/4IIL1of5BPoNxvess86aW3TKnqGAh401+yKYtQZnDTSrApW8z7ZostU1yJ6VGIn3mkJOhrA\/ZoDwOTmrV\/KhR5LAquFz\/rMO1uFL6RGUASYlrY06fBS8G3DttdeufWd2YAbQbCLvSRuH8vWoo44a7LbbbiniLkazFnzue912221TfYXaX3+merHsVAkAPT1vJO6zEV206dCfOmBBu36u9bzZPaoMU0N1bCCGmrv6pJGXKP42wOcjQlT3j26MfkPdXdaF\/p0nu+8KBMLKWwad+ax9h\/KuTosyO4YWgYRQwsE+So6KYPOIJ7USSkjnAUYZEzrJ5zTm8GVa1OxuwCzqwiKoPaksBQsEVOhVznuUeEUw4CJ63jALwIlr3RJtYQpEfhyN7NT\/0W+CABvCmF993aIw4j\/sgb83rmbi76rfYQ\/6aCzGQUQqaiVGmTW7d\/8xLerj5557bhKftJkZ8Rmti1Ei0UB\/IGhXQ23aQVQJjkVHAFatz1BXxxRmTUUfwecoAShBjcvyG3P46HjOUIvVPPBB9E2q66I+tL7oKz3yyCPnfq0MbIH5xfooRVyCA8M1REyiQiI89DJGQf2XEfDeicrUgInBBBwoYkFFdvACE7+3KkdTcvDq5dqNZq2RCZxcX2p617MrtXFrEOU2TQQa6CYEnBT2yoXDWVifIIvkINSR580ouwRJBJs9LOzuG3RG6csfZ38bcfhoUcbdZpq3ds+pcKxoD44UfUFx7cF5LAqbehzToA7MsIv0LRiZPmOAoeDQTc0ScFBfGsygzGC8q7IAVa6FJitsumZXNZQ+3FPOcFoJROBmytRFF12UrpuF2hbafhYoP8jyh3v8A\/2AoF9GqLVzUk2062BP2SqCr74yGfyNzNdjUldPH6DMaGaAlsBRaMThiz70M3fZWApUBAkEOBwXdkG\/N2dPOCHK0iGgx\/KOd7xjcvpEbFgDbIAAQElAJtGXQMDnMrVrmm4BC0I8mQdfLKrkbxLumZKSEhCDEugXJBCYvC6uzXmhRKlFr6+jozl54u2iYLuvyMk0fzMqUG3E4WttIi4YdxJQl4EWo8DFQCgVqPPaTFgA2b+MlihNKUJUzWFQomMOKHgpe73GvLqGpiFTYDDQ+QQp45CzesGQlqUmB38sCyM63dNo0esXsFMyJF02q9CyRiXOFhksNK2Pu4tgcxbt9OkidBARjI8qN9bu8EUgMmB1o1XJjAQ4WrkI\/kzGUuc2cEPEqQ9WWYATFAQIDERnfuZ5tATYgDwlqq1sgKydDoKieRRtJohhRPOBNcUhOl2F8ZiZ9g30B+h8zh4D2fcyHMgEfVbzJSadHNlFSES0fqPzV2XeAFYKrT9qQFjtDp+RpMxfpWllH\/nIR9IM5uE2LsbEjHY3SL+vkgBtgB5+zhMLYn47mpyCXXBgpCNFrRqyyFw20gajxFAYIjFq2BC2w2cxcILT74sICguD1s8nbgX6AXS+PbfIcJauAq1Pra+ltk9gIyVbdEWrAgEcmyRxHPYNtTt82S6Hv0rqZo5e9Izen4Uy40g4dFSULN9o2DxPnjLcjbSIid20ELq5ggWGSjnB77vpdTIo5h0Iaop0Pn2CcoWShnuuM6Nv0OaD1h8+1SzQTTCQ1ixKtM\/q\/GFgEE3GNOq1T6wGRlWb8KrQ+RkS6gc+8IHJjxRRq8PngFD5KP1VofOhLCOCNlcvVu\/n4NHnOgUyG+D1HbtoSp0Aw88pcM0Ap6CvaiPrYvA+zAfPdD4xo8CE8El03VfjqeTi2s86jz\/QbkhEBHD2a9d0NMtAgkBULKFQ0ugD2Dvthuh8TOoqgc13bv9wubFWhy\/74wRWcSwpyl5GXkXriylZHI+JhVgEGT\/63+Z10wnpZN+CAYvfczyXqr6MoUBex8CcT33qU+n\/RkeiB+kS+n6egJIKWl\/AE+g+DIDCSClDrRqU5ZQO+6LWl3ywQatE52fQexGEs\/9FVrlWhy9q9gZWUdWM1kdrO7yhDiWs7EQXhLG073jHOxL1rCTgVCX3gHCOMhfto4VQKwfWwOwAvzcPG6CUwFAIIiwyzl62b8LhKoAoiEhmeJJjoFvAOspyBcareC\/R+mZLUOv3ARIRpc9VZd+sZRqwolixNodvM6GZZZ6Uk6sGDljAw7k2ObeaWp5IkJCQMpejNxMB8+JfQYmMlfpc6YWIEC2EQdAyOAxUoI4CIietdujtvo\/pHIb2S9dulvOoA+2F9W3qo2FZfZ46Nw5slDHiTZ+TXwb4G+VM+7IPHUGLgB1W5r3xxhvXvlOjw5fhcnaOBVxVcAyU7G2caKXGrm3QFEHHdhqIozWJAyfmyQGBx1Of+tTEVNhIVL3GDWu3Q531fZLVKPjM1jZnEeguMI+CXJnRKtXvMyRiyn2uQdfb81DaWE0BjMmsqwhn7DvkyxTTrJmrzeGr6\/rj5suvKmgYRFycahdEi7J3gRp1\/Tvf+c7k0Dh8TA19AF2AY4WdNug0QocPoc883ybr4xCPcTBS2PoOdBfKWfbnqp1wWQStkSBfma7LwNBIWAiXV8kOFWF+y9Oe9rRUXs0BbG0On1pS5LgKxzCOg9YtEafxu12mDCmZaQAceONxwAEHpONwsQAyXc5PTduDbsBxsur7gr261LLoWa04ugWKUMogXLQRHHpUFqxvgZBuiEA3oQWWsHYZjREqnFDVvJEidNbY+x6EgW0F\/Q49TtfPiNA55Gx5Lc2rCowNu4ShzeLs2hw+J7Cq9fuMfAKXth\/RVxfBYXLulP+YCtS+bN8GM+RCO4hzBdBp9ABaBCllBQIibueLc7YWom4Nxu8rX\/nKrY421j+qBrVIdM7o+jt77713YiYyzAow1piQ5fjjj08MxbBhXhSOWebwV5nB6jqsx7POOmvhFlKiN2vb+Rmo8QxrXHuq9SZA5ojskzaCY7A\/uj53HjOp24KNahPYOdoCQl+P5z\/\/+elaE0y79lhVQQodhdkrWKdlQDdmvWX9VS0O3wdh9FELZYD6W53NxRKVz3viXpPwfi1EC7JLoPQ05Y84T3Zv7j9njDKzcEfV7pUtPEdWjyI0DALtTxBIyS+TEAiYzcBBa2171atelTIkav+DDjoo\/X\/U\/aUfEGyoTxWzauJCr7XffvulckNuMbLgMRBmFoDgyyx\/5Ycyyis2pqD2ve9979p3Al0CytPQGSUrgeu8oH\/BHFmzd77znVNnDNgXSj253GM\/WLP2QxuTH9dBF4\/91+UBPBITdqZtR5Ozo2wggbNkiDPebrvtBhs2bEg+geM\/5phjUuBJ73XyyScn7deiYP\/Y2cx01uLw\/TGG3YdZFhyNTelCcD6HHnpoMtxdWZym58ku2xrhjwKnKDu3OAVanCXIwjk5mdGsmTgj514xhDJ72Q+njiWwMP0N7YIM5D777DPYcsstEw2KQciwnmTqtANbbLFFCjjye5LRey0Pr5VHhfo7nL3My7RHnQdllpeUazAagqJA90BzYp1x+oskENaZNaft1brLlDhjjdm0b2Rb1uekshZBL70TLUwTSnkZppKj98zWdhFskWvtXjQ1RMhR7RhF97sogJRcsH8CK1+bXeL8FPbIupDtCwZ9BomtQEBpdNGjwyUiNBlKqlCLw0fNcgzLRCoZMjsZnNYyRp7zFy0N12pBVufioXXKom6XhfeNMutCC5fMmTM2A19WPzxbXLuHSHTZkbmCAAvcEJt8z7QGytA9lBDM+s5gPG9\/+9snh+9BQ5A7H2wmD1mUzgFUO8i4BIiuvc9zt7vdLa2dsmruNi+Hz+gHugcBuPWAbl2E8cnrjqO27vJZITIsdL51Rx9w97vfPSU\/o0p6bJgjo63p293udgsHH8vCZ2Cvl6WTm4JkgnYIJb4IW7MsMNpaO7ON4p9GBU\/sncDK2sgOvZg4ufdYCozLonMh6K38jTx8qBaHr81LtDU813cR5OgoQzTqgg1PxnLhfMjtt99+sPnmmydj34aBPzIJTsEhMjkrbSNQlBwY4yUjHhVhos2c8DfpONxFIDqWbVnohHU2cJH+vOaaawY777zzusMXdAxvKA5edJwdvgj6Tne6U6JdXXfRt3ZCn60MSh+0KwqMulRiCmwEgaeBO8v2bHPwJ5xwwrrDt8523HHHxFhxBJgmlK3hNrLpDGvQccscfV7XglLDY0bBGvMzSVTZmThb+tCHPrR19e9ZgQ00cMfergrulwDN9cciFG2I5OOII45Yv49YSsLlYUj6aDrGDQbSVsdGLXNssTWnlE4wD5U7fBeCmImh5azLgszMhTr22GPTBxq+IOohIut80T0uueSStZ\/eAmp5gcCwaKwqcF5oG\/RyGzsWXAelFzV2B\/NMivLRVWj4svtcrRlOuRjYFeGeaRG0WdzjUWp7lCrDmx2+zyQwyM+1fpQOrE2RdhkgtpElruIkya6Dg8b8LHuEKmrfuswOH2NAs5MZPTS97BnNOtypw8He8Y53XLdX1uvw3mLnsuJfafDII48snS2UTZrAid3rIlwzCV7e+1VBsrnvvvsmVkZdPgdnEltsTr6PO+20062cugSGDVP+4ROGoVvC\/ffzIru5CCSXglmo3OEz2sY1lj2UhDiL6lX\/N+W7SKYINdULL7xw\/aJvtdVW68pZ78lNIegwac6QGVllHeDM1OiIGNsm3EPZK5fYLKLKSTSSjF\/gInJsYgyp4BFdN669kcNnePOmV3ZgePPgJ\/ff\/H+q6rICUWJDrMQq93F3FZyb4HVZCpjDL1L67NTZZ5+dbBSwS7JPjOdwoCkY4MiPOuqoxJyNCmQ5B\/aKTbvtbW+bbKtM1tpTlijDjtkPTphzJkcXgaXB+pa9DyVD2Ey2BJPDyWfHvu222yb\/kjN9wZtA4PDDD9+kDz6D7ZdsDDM94Gda6SSzZZzpoLxJAOg9VO7wHddq8ZR9YI43rw6GVnZRR9E3tAPEXZSzaPQcSblx6NdtttkmBQJazLSSobFlZ6L8KhW0Ag3ZZ1uEe5y3bF2G41rI6ocX4TA4TMGB6LGsDLlMyLZRotnwCghl35SxhDLqWocddlipdUprxyYmGAp0B\/a6ermse1S2NQ8IiK27bI9Q74JiTl9mrt3Kzw24GQXPF0CPYxw5FBksHcCuu+6a\/lVGEqTL4tg1wa5ggW5pkRZDDp9IVzLURfjs2MllFfpYQLS91xHIcfA6fTh5DKjgTI1dG6bgqCgstqYEcF5j2NmDAE1QMqxrExAS6bmvZZ1FonMIW2BNVe7wCbAsHo65DFjARcrU\/11wJYNhuOhugqi3yADYNIIBrVuiMxG1eq8b6QbaNByF966vWo0G\/T7qxi0Cwj1UtNdvGq4lgYkARCQ663wAkacodFz9qWlY5LIf9f4MhlILIOGU+62tL0fkZQDbYLPGyXndgvKRFl\/zMRZVQ2ewK+jwYv2b\/VHCO+SQQ1LWJiBcNqGwltkqbbFsIBtFiW0PW\/fYLQwnRyTD47Q8J\/djT4JgHwOB\/eqiHsWeZ5uKM+Snwf3gnGXwOqlcM6w0LYOkERvIwfu+Gj1nTDuRBXHzXifs6IEHHpgS4gz3UZlRAuvv8BMOP3PflvE91iRWSRdA5Q4fpUqwUtZAEosale+CcDo2kgvkQ80LAhqRsYUtGhaB24wcIGW4Gtlxxx2XNo6bjbLxd4pBwCLCO05WBJpbxpqA9+2zUJBaDAKyeRaVhYgCdc3aCAGeDTR8fxg8pQsMxTQWYxEIKDwC3YGkgGNkBxbZz0X4fetuuMQo22PA1WPLKiF538OMhJIER8Q20g\/QLdmnxF\/KiP5vFgh20R4YVcIQBLOBkqhxTENbwXGzq1iPSWeWuAeYXBk8B4+ZEaizhYIl18qaUH5VInCtMC\/DNsM9WCQo4vAxMsWSpPdCk7HnnnumBEwiSvzH91hTi0Jpw+fhdyp3+NTSsp6y6GsXHf3GGcvU9GqjoxeNmF1kzjuD03MTRV42jSxcJpjpHP3\/Ng+KDqWt9qeeY1GovQgC3MRJ78emFzlaZMtG+ovA4rW4fRY97MUoc1agotTE21KWaAusddlFoDuQgXNwnGEXM9pJEOCyN5IUzgt7qazFfnICGAKBv4RHBpgDHoI016RrDp8jZ1exNexchrIj28zW33DDDYnBlSyyYRy8PauNjy1X2tXOxg+UyQAW4bWxqcXX9x75ED6JQt\/7yIHZoip9kJRJYAWclTp8H0aNFz1UpOGXhU0pekNTccplRMyTbiynbOFzjP4u0YYo0qYg0pIlYwIIIyhwjZXFQKgP22wWmkg63zTRPuENAVkVWeY4uE4yefUcm566d9H6uxqkgRHDvfmrDloRVGugO5ARy6IkEmWV7doKmSLamu2UyMjiMQCcHqcggbG3BQaYqmIy1BWY02EfcpbU7uww5hbTTAxJVKnMzH7TbknW2OlZyh1dhNKGZBWTUanD5yipENU5XPi+gRPPTIAoSt3YpDWLjVDRJlIrJsBAD1mILr7nW3xonboiaNGkv4cqEmyYcrcMlFYEOW3rNGgamBNDg\/qWKfYZMirCOvuzLLq9C5DkYDcE7URkhK5sgwSGvgmDqsyhfCcokpW2NSDCTGB\/2TX2VzLCBlPKEyPL+HVKsFs+D7u1bEdGVyBJlYii9it1+LJXBlD03ETrVhNQu7M50CeCAOIdC03EzPHLrtVplCLoB0SZnidwEH3L\/stUvbsHGAlCIlk9Wm9ZJTKoAxogskg5oM8gmiK8GdcuGGgfODylGLMa6mTc2gafne2SlFDoK\/nRL6lrYy9liboP\/JyanMNsKkBiZ\/kUdDdHJpkRaEto9MazrQ7o4uBltij6ZfUZXUUOgiSklTp8iwFlpBZUhpPpKlD5ImkzlTlfNSY0msVJXKKe72uRqBKBIMDkL2UQQYBrt0jGSHWqvIDCch8EIWVB4KD+NTwYZNUhuNPexSAGugE1XVMlBbFV1Wy7Bk5UGyvRtVkCSpjq\/TJl+iXKdbbqTW96U6o3Z6FiFZok94SzzmVVKnx6C0kMx04Azb5p\/fY+H\/zgBydmYhmhW58gKKJXoHWr1OFzdKgEJy+tcuQ8CsZoMjJ6wkXMNpb6mVYQYkB1YIvZQ0AgcyQoUQ7gyLUPodfGGSjPs\/C1\/9EKlJ1xEmPqlph0EMgqAi0sEyoKhgLthiAcK6NrJ7AR6vgculp\/BqcrCaEDInrTyogZEfizU7JIyQyNgOx\/0bKWoAHL6TVoCDhxDhxDqXVaJo+BwDawiTJ4zESGEjLtWPicjZBsmv9Ax1Cpw+eQ3Jyyp+x1HRazFj91w+FRnhwzZ2ERy6Itas5ehOZaiq45cVSbQIo4UE1KNMv5+31Ox0hGr7\/sbPBxENmLrGft218VoIUJgsbNQA+0D9g0wbFMP7ARroXAFesxDjJ665zwjZ3iVPJwK6VLegDOmtNml8YpzdktvkI5U3nF4CC\/iwU1nMZr0kBx4hIj740TGwXJEMW9hKqJDqg2gvYCI0JPV6nDF+Gp\/2h3CNwCCxG9oqY\/S\/eC0ohBDxy73lqL2Q10IhQGBQNgY9ggHD2xjYl52dnbUOOYgEUgcvYeZEVBm20K9wdzU9bciUD1QBELXqPF9BZw5BIMdmpWcNjofbolNXWlXJMnJSfod3ou11o2zsELAjh4SYuExnMI7ZQNJDPKY\/YTO8ZpzQIdUXyODoTARgjMdKAImip3+BwQ6iewKQgoGJllTpqzuP0+WssEL1MDjYuVregC0GYjELDpnFjo5C46AtTcMgFAnqNvY866EVcFWh0FYeNGpwbaB8IuAbK+58BGEHpJSDBWi4KdoRvK3Uvof2VACnqdANhKE+xoXswDwXraPxiBRQV2GEc2D0sQ2Ah+mL3GwFTq8PU1onfywRGBW6AOZtGrtS8Dmb8bybmjvDh0G8brq90rp6D2ZZ02lgjahiAWzPMCZDbz1PjdV0Gc7gtRfeAW6LhQ+0RzBroBTsa+oKUJbAShHkp\/mdHZbAOmi\/PV0y\/5U+tnfwQTMn998Sal+lqN2T1YRuCNcaR\/UmIok9XsMthrZWFi8EodvmjLjcwnlAVugRq9Wvyi1C9KTPQtYrZ5JgmOZOQCAYdK2HyoHRuQY7KpUXcyHBQ92g0dpk42rpXSRlam8TrzBAqrgOzwsSmBbsDUSHug7NPVugy2QpKgP39WoOpR9mwDu6KWrv4u4SC6cya8a6yzRz2ffWFn+AdJC5vEBjkLQHKChjbpdB4W0XMxbIvMt+8r+GF2XRBUqcOnsuSQXPzApiAUwn4sMqkOjW8TEcao5S+ilKcL0OJiCpUs3+ug6AnObHT\/ipQZQqpXQzk4M+1mhIYoIhtb4BG4BRTf4fC7BU7Hmp8kUFs1YKisY4nJOKD90fVYRA7ew++g7onu0PgChllbd7GV7CLmkeKfDWJ\/sJe+xhTrGpjEKvI57JUe\/GAfN4Kdp\/eSIEYNvyGou8uq563h+z1HMzp4ARVZNjhzFD+xDIeu\/m\/TidSLZQGaATU4G97GJwwJbDwdktGr4t4EqoFJZDQvy5zJ0TdQ10sqsn1yXbCE7IKWOA6YTbDWcxYvg8eWlCXk1a0kCBNQyPzZIfYHo+nvSUKUHoonHEpAJC9+h2I\/sDEwc734jsodPnpG\/SBwC6jc9atavLOOphWloWX0oYrW6pxwZ0PZ+DafOpAI3uEbBxxwQIq+UWg2vTMTRPWyW0FDkwp+k7VE+Qy591U8957hkgX4GbGQ\/5cFmZFrYb5CoBvIjNmqjdadBH322XZzoDJuwb+1zfGi34nsMAB1CHfV42mTBBzU\/8oFHL9AgP0xyVTAhq3h7CUrXTv4pypgkd07Zd9KHb5oyw1hVAO3QB8+gQrHOcsZA7JoWbUNKPJuQxbCIFDYoonU4DhQ71GHAGqPYbARDRFSi9OqwzjUMZlPiYMBp5FgGIwydu1caw+L3\/RBPzM+VBuPAKEMvOtd70pMSLR4dQeZ8tSnvKolKsIubb8SEdoce4eYTqucxITDt8+J6trA5kmaBOrsj5Y+bKkSJOYhH5CjddhzVr3s6J6xyexvpQ6fMEMWJTMdN3RhFUHoJhPmJCeNYFXTsvkcAGFRt+kAIpP2HK9ZFPaJwjlbtB7hn0jcRuRsOVeLjuEQjTtumHHRvsbZDgcxgiIdDJNYAgvZppZpFK+jTMDUwnweNufLsRsN6jWJV1xbEPUedNBBaSxnGTCQSAeE9xDoBqwda1XpcVmhl71NE0OkZg0WJ8BlWOuoaPXtMs\/NmAeEXByAwF0GzxYJhDl3rB1nb66HvdwF1sN9s9\/ZAonIHnvskf5lbwT\/9j6GEpuzamUbbKNgyPWp1OFbKFq3LH5iisBG5DYJgdC4OpNaMCfp0ArOtW1jIhk1bYXTZsbbXIIC2YPfQbP7XASHMmu0HMqdwUXDCRQYGeIcQY7NOqp8oS4lEDJ7wIPByu08w+04uTfX6w3DoBDZDMaljDYeAYjAZpShD7QT1qdBL2rTi\/Z\/g9KX9S24tN4OOeSQRH0P73FDbfzM+q2Ldhbg2lcCUvvMXsDACcgF7vYfFk6Jkd32HN8r1se7AiVFe1Aww3bK+gUvAhmaAz6JAPC6665bidM++RIzX9jMSh0+J4XOd7DB8AjZecFxiFAYZtmxGyaaQ+n4IF0CA5AzCs6\/CM6JAt58ahF3mfXlMsE4MFjzOjZO1boQAMq2bU5dHDaoz0yQmNsDtXTe5ja3ScZTwFCMzGXkW2+99brD32uvvVLGPwqCCId9EK0Mw7U+6qij0uuXAa8nSwrBUHfAyduLulSWcXDYKIG83nXrXAsscau6c4a\/Ze9bs\/Q4y7S1oqqxfsPJlL+NNcuzOLBpbLA9JshWdvM+Zbye53WGs15O0ftsioFYBhw5li13QLE3Ait7nN+Q7Uo4lCvYWMEev6JlsE0salkgICbyVk6t1OFbRJyzFo1lDxNx0zgZbX6GN9gsRGOMvkiuSzAHWuZq+l3RwGh7U\/81iUok3ubNRpzmeNwyDomxThgdGbqIW0QqY991112TYUTPGSpUpBY9Z88991x3+IKFUUyArObQQw9Nxny49uisAnS+oLQs2tJrETUtkykG6oV7rxWM7mQZB8zRFteR\/WxdYrYyGF\/2a8OGDanUNRzwZ0hiBA722ThRnLny3vdNN92U9o3yFFuIvrZ\/ZLRYOA6O01dCwMixK5MYQ59BVozx6CLMEMBcFIW6Ge4RWyM44+AxMhILCYEAgJ3wPeVGLGMu\/ZUNrysR0WkwrPeR2Pq+eykBXBY0YDqqtClW6vBdXPVSzq2MLDw7BZsSDSdiRQl37WQykRbj4oaD6FPkiQqUHZZ5jG1V0C9LGFMVu8LQael0j2Uiw4ZRzY7ISnAkWrfJh6En3kYW7RcZJgEGY3rccccl4eSyddsiZEbW5CSDGmgf7D9zMcooPQr21E0lJ5xJ1rnYK9YG9kqZk8MfpVHBmmG1ttxyy8Htbne7pDovBpACV1T1wQcfnPYIhoyD57AwZAJO3\/MejN\/2\/Hk0VJ6r7EY\/1EVg+tzLWcZbC25cH4GQYEzALhtmN9DgRMdYO8km3cWwA16kG4mzF1Ap69z1rndN9itrfpwbgBWSpBAfYiCWZR3yUebWUKUOH0S3hHtlz6lm4BnsLvY7i8bR1iIv0RwGxAKT8XellcRmcn7\/sqOBx0E0amMI8saB47aIRzEhonObXhthERyxyN7PsAZlQ83WYUaBbkGJyHpetvQIGDw18r333js5X0JWa9X+Fnxas9al2nnRkWdw5ttss806e7XPPvtsMpGTU2D7\/ExQIKiQEfo+5yMhWkYkLehB\/WNnuwgBk3JjsZQyKwT\/Pr8kkn02AZCt4HwFVLo52A1sCQbHz9zrecYB61qyNtxT7IwgTRAoqWE\/nIdCXOg9+BzKL5Ps4DQoV2B6oHKHr41MlCI6KgucgYsvOxtHiVn0BFlV0jKLQtRts6Pc8lzprp2uZrGLTPOJfG2CTEr2wyjamBw8xgDlr45HgSwzEiyiQT3na1\/7WmKklkUeDxroFhygw8mVFcCyUdabbFE2xw4RhxKoYsdQzkpiAudhNkgNOpezPE444YRNmDSiP05AgCIbZNCXcQjD8Ppsk8ywi8CocMTmKiwLAZnX44D5Mh1GbAdHjKVlAwVnfNGs9LsAgX3K912CQECJ2eUXlBQyMOTsyaJMqmRIOUfSDZU7fLQSWrbMTJxz1FvNiI+CC+lC7bbbboOf\/MmfTMFBGbWQsoCduPOd75zoHJF5pvy6BPfA4pw0w78pMN75UA7\/MqwoMiIq69BmI9RTkrCObF4\/k4UtA\/Qgh49eDXQL1nMuHy0a+MnyGO1itmePcArWJBbPWrT2dtlll8FWW22VVOPD2hLJisxSpue5Ms0i2DcZvKDC+0YrL7t2i1Du8r5G1cC7ANePU9VpUEaJpgivzZcIDGXl7LigbL\/99kuBWobnyd7dn2HWSLLEyRNUYnN8TVAso1fm8boZBIU6tRYZwQ5Ema4Fdgkqd\/hqI2ohotAyIJJFqdic486S931GPEfIlN75Aw+DaE4k7gZVDX\/L4RKm1O28886dLEdk6B6QuZhuNZyhNA33kkoes6N84mFNYINE7ChXOor8M5uijFIKOlUkXYzQA92A9UB\/gWpfVCxrjVHAU8Qz9PrwBZ0yLOuO4Uc32ztq5OyAzHFUgOE9eL41NS0AEWiW5fC9jvq\/MuMoEWwXwEdoj1V\/t7+rAo3D0UcfnTJ9gWIWV7ofNCHExttvv30q4xSZaEEIQZ5gjniTRsC9Vk6gIRAUCvIIk62fI444YvDlL3957bfng8mD7HQ+26Nyh+\/Di3KLUcsycFEJ22yi4cg4gwFHd2WHf\/vb336TgEN0jFYXpWXxTNVnYRNliNoFIiI2ytkut26Jcn0e92Ge+lWfYQ0pXxVV2YFugIOleBewLbqe2RV0vYEvsnNdJGq+o+wUwSkad1QNv0n4DN6XzHIZHUDT0JLIxiqlVAFBmGBMQjvcyimg48iz\/9FJlgXanLqygPKRkrPyiTViSqmgQOKhUwv7i4EULGAAFs3wMQfKGzlgqNzhuzAoBY9lelwzRGza8VD24yBK1VbhoqHOsAHF1hYXVXQmy0arETQYicpgu1micDdTJLZs5GxDi\/78DVG9yA3VZLpVF6n8DMYgD5kRPAU2bi7GUlQd6B7M9bBPl92XVNW0LRKKUZQym8Ie2TdtY8fYK90FWvu6DDVvYrhlzvNfFHwI3UV2+MrKSobgvru+HhkYFaUBpRnspGyfpkhAoMNNgLCojaVjkPxm\/1e5wwd\/1IjDRWmJIqjaibFE0pMgkpLpu\/jDG9iGQ63vvvvuie4nrCFSIYDxIKhxoTlm2RphjXqMGouITsDg9adRbQIHNCGKxmAPVLKb6bXVb8oU2jQBwYu2uK5Sf2UDHYw+iwCom8jruWttvmVCR4GpdDkj7Sqwp+4lO1s3sNpODqTEv9Od7pQo\/1wy5Df0+sveJZgyd0yETgtOHvMjGWVTlXzR+ZLRRSFw49tysl2Lw6eS9qHRLMvCG1crK4Mt4MgJalAoam4U3AIJ0ZgLhe53Mwz5EQhQ2aJeTKDCMOjNdNPcKBslBwKiZK9FXSl48JqZKRCAiDxdk66D+MTsAEFYYJA2Moc\/LRAMtBMExsqP1vWqAgWua6iNYtx5IFP2ObTAVcWiYDnH+SFlHPoMWfpw6Za\/UPojJD7wwAOT8\/c8IJTEDvi+spAAYFFf5+8anqQ8wy9BLQ6fIEYdoow2ibLhpoyiYFFxMnI1Fj8XrGhT4egJK9T6BAOiSEpvdRJinawJUE7Qg6sdUQBgAXD6ggx1\/CrFJHUBZakDAluy6lAD5uwFg4FuAgOpy0JPvixt1cA+EZMJXLsw\/GsS7Md8HgA7XgUwxwR3Snn8hQAgJ3bTQAOlHZiyf\/hay\/p1dRgclh31IvC67mWxA6kWh+9CiJxFGm3FrFmZCydywjLIbDlw1AvqX1CjFRCNQ2fAsRtpiK5B4xMO6tcU0QkiiDQIhAQEXRTIKFlQ81Ij+wyrDKJM9Xt14EA3oc5pqh0nUUfXTtvABskIff6i5qmLYKdR4doLc\/a8LDAFyrDWBjZX6YfNV383yY5jbZOAWUDh\/TkVMaMWhw8iDc6hi45tGgQLMn9tNrJ8F1h0JRhwuA9xm\/ouGsdzTM7yrxKBjgNqd62Gor08vlHEiMqxwNom7MmwuEW4+s6JHFcZKFDGpYyyVaA5mIshQO9yB82iELRjJ9HgfQBHT581LwOJ3cEQcOyyeBS8Ugfmx7XhywxMk9Ap9WZxno6lNumy6BeUj4uaotocvj54F6pvpxGp4aP2ZfKc+yhVLlhAKBoaAIGPLgI3hFZARI0B8DoEM8oEIkYtGcR+DtLhSCy83EvelkBAHz72po+nTM0D90hAp0QU6C4EbozkKupSsJbsj0N5+gC22AyYUR1dGIDs2CVWnCLWVb86xpKNZqsNS2KPvQ57bFKiUoEkTvlDaXf\/\/fdPiR5Bd1sgsdYJ5j0Xg5DaHL6peChPTq8PsJi0UxizqO43SysW2tfCIQ7KsOgo97WRuDaiUc5D5mxh6dF03egBbEY9\/KJwbY6eQ1lM6MHhWrxudJ2BgOEQJ554YtI6rDK0znD4q17a6DoE1Yy4TL+PbOQ4cIDsDltGWNwHYF4NwaKrYmMxkgJyJVgOm0NkV7WtSdgMTcK4GthjPyvvYF5NwxMIYgx0fhVFdNov1fBNPWwT6ACsY4llEbU5fFPP9KFrV+g6iNW0Ooj81OWLU5QmwUKzuGZtT+S4CR6zVsDCM8FJICCiFG3qfrBQDXLIvf7aOrAHggGOGC3FeFWhHrfgUVtVDbjoCnRkYGkC3YYAnDOwj1apTMWJqfdWqWqvEmyb9+1zCNrYS7oq+9IobZm6Uo1kyewQzlAWT1fGngrwCOXYMYkZDcM0e+nnbaLwi9BWqZwxzLzW5vCBQeSkuho5U0yq42jlsznmYSvUg2wm8wjKEMQIMkSbsns0FAefBUeyf\/VkqnFlAjdeQEAw6NANNLz3LtpdNiO1oGS2OjCWUZR2GcSLMoMqTt8L1A9iJ0zaKpVn0PkShkVOmKsb\/Ic+9Zxdo+CJDZUW1dYlQOweu4Qh3XfffZNeSiDH9jnLRCKklbqKJKhpCFoFMuh8XxdRq8NHL6CnZchdAxEeJ8rZq7vPO1zFZ7YglTaqXmQyE3+PU7fA9XISBqKqUHY2gigXnaXEkOd\/YyucCOU8aa8xvFhGwXPUskTS2IhVBDWwa0rPEeg+MHD2hgyxi9nuvGCP1O0lCG3RLnhPaPLcoibRMp6d3WJHPfTZs8kSGbaNDZPQeK7fERCwSTL5vggRZwGGgl5u1Pk1tTp8mZAb1iVaX9aKHjEKEc236MAcjl7WgG5qCugnUa2NgBXgqNH\/ggDMA6dl04sMGTyBgO9hDlBe6vUMwvDkQt8znKis9peuwbXDXq0qw9E3uI+yQbZK7bfvQINznOrddWtQ1NVpBiQnRM+6mbDAbA+HzhZ5ZMfuX\/V1Wb1AW0cUB5cn2Y0Cm+015mFkuwyBqus3SotRq8MHkZgbN0v22DRQ5gy5I1Y5vUU3v6E7FrK60aSF2SS8R5mNGpZoX0SsNICREQTQCnj42gOF7doIBHRgmC1AxDiuS6GvwPTQc7z85S9f+06gD9AVo+67CrS+fnLMZVV0vgCKhotzNtte+c\/I8ezMs33xNbvC5giiZeuCAPcCY7loKdTvqd2POzG1b8CEuI6jfGztDt9wAqNszaZvK9BJFr8pchYK8dsyNLwMmFNwiE6eeNQloPfVvMwJcP+0CtqgWAARt0yIcXTcI2pfX74ASTuMscI+vw3fR7inDFRxuEWg+5AdKXfZ+13cs7OCXfMZZdPLMnTmh6DgMYEGUBHDcdwcOZuf2UNfsxMenBP9kUDAeHPBRxVCOLQ+yr\/vA5VcP4wtcfco1O7wvSE3vK0CJ5Q74Zs+eNRRGf3lNhR1vs\/eJ+QuAiUCGa7jQBlJDhClpATiXgsKLEJUnWBAO6ExxVpdGNZxQ04ECRiHcXVU7Y2YE8yCclER7hvtQm6xoUvI8FzGCEOhzrVMSw1RkM+0ipPZ+gw0t3VqjQyXsPoEnxPz6GjgUcf4DoNYGIVOBS8p4ljsAXubc7fXJQMCCDaAuFk92evTB3384x9PAkEtxHVCsiLY6Dutj84nWBw3Grl2hw9ZRd40rS+S5Bgyza6uTc1O6SniXCarz7CwOSWboM90N8ev7cXGArU55wWon9EKKBEIBDzHQAvsgA2ovMNQZMGN2qmsWaZAcOh+oACHOzsECsUjKL1GdtwGYIjotQv6Ww6pIPLh6POBEs6r9tpOXqRjYPjmhXXj9d3fQP8gIDVnY5EZExgfuh3gIAWY1p2MFkNGx2RvNG0DJTj2ZHE2CJtl78q4id\/sP+8ZDS8AErwL5O1hh4M5RwTLZ9KcXn7tx+aKzNquXAfQ+hyhJKCvkBiZOcDOjkuSGnH4HIAaQ9P1MYvdJiTKE83L6jmgMo97VXuy0Jys12dqUHbgGmJHJo0ldQ1kTM5+1v4kw\/Y7jMe5556bjI\/sgGGRneuh\/Ymf+ImUpRczLUrcrbfeet3h77HHHmksMTCwGAfMAzBcdBi6K+gy\/M1sxDMzsYjCXpYjaIlxuv0Ehsn9tV7maSXG5B1++OFpzQkkrXXMl7Y3DtJx2daszpmmugAEGgS8AhDso30gCBH82o8CaEkK2l2wbG\/K1jl9gjmBvX3lYJou6LHA++YM+8a0ZmAv+NVJo4QbcfgcrQs\/j1pfBunI2VGHE9ADoGznVUm7MPvtt18aoGPSkoyy7PoRJSmF\/zDl3Ec4VlRGlB3trBAEMHwUwrJzhiTPgWYYt99++5RJFzcqatCZBNnhM6a5LRAzU2RnCOuwNqj3YWgVdW71IvVLwaLXLGOuQqCdkKWbcDlrcmLdYbOsSTYlD+\/hFHPQwO5hpxZhDobhdQW6407flGWzj+Z1YM5k6wJfGbuA2mFfp556agqy7TesFwpemcze4ETsKyUre7TLSYvgRGLRR\/Ge+8Ie6aqa5AcbcfiA4kIDzVI\/pR5HG2n9Go7OjLQlFrNg5znwgsDEa9qYW2yxRYpoy6agOHmbB43UlSh4GcieOXzlkGXhXlgjMiJ1KU616MQFZuh\/wZTBQpNEcwwXel8NMYMhNrnQQA6CynnvD0aDqFMrU6C\/EIByErNm+cqCnm++urU53NlDk2KPDI88LUK5ykAZwcakrh6GnTjO62HXiGOxZvQxNFIcuwEsavQyP5m65IZjx1xgGqjzvWcUPFtsX\/mcfWUjOXvliDJZ3DbAusLGCOomoTGHj+qm2tR2MQ6MqjoaKmnbbbdNfew5ixNxytBRTZw2hz+caVnAIlQbZzhCt8CJSmwAETxVedlUD0fltfu2uMYBfSlzUI\/Pmc2i4IA5\/WmMi+dNctY2AnpV5Fus08uusAaCRTTlvOJM60qpxvoM9BeCTA5RUDktI2d\/2BR7APMjQZFYZHCiHLCOlnGDu3LQLAm53e1ulwLKUQI3gYh6rbLWIYcckrI7jl2G7u8KZAXL1rasnnBYQCAA8Xrsn4DEZ1slKGNINDEYfYE1ai0oR08TQzbm8IHIQzQ8TsxmUVuwAgM1MI\/slDl+kdqzn\/3sJMCy0YoZuigVdbbDDjsMttxyy+TYi0Nv0FMCCjSySNmFKjML9\/6wBui9vkbLo6AWLoMwvrJpKAFluhKdV4RNImhE5dMNCFJmHTpibVElq3+OKjEF+gVOW3A3KctnO9TBOV7PwU7JnotBJmo9swVFtqoIoretttpqvVR14IEHJkc9DIyWksE222yTnL6AREkS44neZwutTWt62K6xR4IAOpliQLIqkOVjOHLy2HWwc9bVLMxqow6fseXMx9FbnLJFa1GixtVhs8O3iNFdfm5jWfBFh8+5i3LzxvGwCesCuth7WpXsPoOBE6Rxhk0OGWL4ZDuCyqJxFUQyoDkIUwZiOBmAWdqSgEYBPUrBHOg\/rB9UqZkc49qddJUcccQRKbjE\/mD27n73u2+ixOfMlZa0pY2Dv7Pjjjuu2yzPl\/UPA\/PFYRFAs3OSi1lbQ7GdNC+5i2DVQIzJ7\/Qhy7c22Vv3f5aEpVGHD\/ozRc+TMiVOBCWLvh+m3UXTKKxhh4+6YfDzxqH0FtXWAX9b9IyOGxfJ9xmyfAbFAI4mIMPRiof58R60HKltMpwofmyQozGJDFGs6q3ElbPcK+uN2ElAs2pTBVcZeaKiYVKjlPUCTAnJYYcdlgR5O+20U6LktbBl24Z2lZxMCiytKR0pylDHHnvsepvrJCifzTorQKCgd55oWvC7qpDlq3mz1V0GwaYgU8lmFjTu8DkH2RWDOw4cub59Nadhhy+q0VaCli06fBDB2nyU+AKGZQaszAOMhWygbE1AV8CgmbXAmTaR5dN26K+XYRn5q05\/t7vdLUX0si2CKIKlHBQQOE3TCmRosRJczmKIA\/2BYBBlqqwomx+GsqAavqwbq+d51lyeZ66kxM5JBMaVBTLYNLV27FPZCQMdAju66uwUzY6ScJezfGuDnZWAzMpONu7wgcJU1jUuy+fIOewipZ9hc8jwOdhhhy8St3Go5ScxCGVC1IxeIdxZxew+A+3NsDTRoy5LYmCtFQbXg6HLQil0vmxfTdVzRmVso8CoE2PJ7usKHgPtAfsiMx4npCtCKYnYONfwsU555ses661seM\/5TI9FzwXpE3Q4YJfHtTS2HZhL00wn9d0PoxUOX5aPXtFOMgoiZ7SFWlVReAciG1kaZeuwSr8J2NBFceGqQiBm2p1BHn1xjrJ7rZzOBwisJjLDMy1DZosEmNm5Y5B8r8kRzPQEWknzgKpVh8TAWGAllEm9622EtYT11no5jTEqohUOXyZMfCIiHuUo0cIyK21Uw+1THItavUinSZEYyBrdhFU5lWkaZPnES31oXZMdMQ6mozW9zgLNga1yQiTRl9a2rkCZAYVNgzCs2l9l0F6YUVCc0dEFKEVgakYJOiehFQ4fRCxELaKtYbpMlIyiRc0P11ptQEGA2llTVBn422h8lF8bmIY2QNTcl\/Y1LBTRaPTdB+ah9tsASZGyqbLouP7\/VYbuiS5R+6h873cRHUZrHD4wqvoJuxZtAUGPm2CEZeAWaIFT4pg2AarNUIfFMPWpPBFYDjQhyoyTBoe1BewpjZRhZ4FbQzKia0dyMqwDaxskvRgJTM08VH5Gqxy+bN10OhOijNPtCpQhUPl9mt5UFtxTbUCmQA3rL7oCLS+COfXbQCCDlsO6aKr9dBY4c0IpNHQnk0FsTe1uVktbWRulRO9R99OiLcGtcvhAhEeI0BUlqehQXdcJU30+N3sZ6BPWkuRMga5NHRSkGLJjkNIqTUwMTIdgFh0s2B81Da9paB+07xxEFZgOg+DoHLA2TZaHR0EQooRkAN0yEwJb5\/CBo88UapOq1mmwKGSvNnxXs9e6YMgNUaazsrsCwVzWlYRQLzAKyj1a3Qg622QDTPOTDRr3q4YfmA2OvKZ1cMaAgK4NoFsjFDXEadykx1nRSocPeqc5Uh901qEodUPWJ4J2nGtgOpxtYDN1Qd0sm1deUqeddmhKYLVhQA6nj+lrg\/Drq1\/9ajobQokxAtX5YN9LSsxSMbitaVaP8Nm8AMFbGSXF1jp80DIhqmF4FxEoVAkiPUpdEWFgNhDEMIpqUG3vZHA4SWYk2hLpB9oLrKSDshhm1HBTIHzmrGT2bRegtRXZ6UtOTE1tqkefQFgZ1HRG97UMtNrhAyrYBzZ6ty1On+KcCM0gi8B8QHvSZyiFtLUfWIZkEBR2KXqWA7OCVsUMDirqJkpXhHm6nF71qldFZr8kBPns+2Me85g0NbHu4Emd3qE4avZl6kNa7\/CB05fpO\/wmj6psAgIOIh1DN8LZLw7MjTOp3\/3ud699pz1wMqMs7TnPeU7UPgNzg30i+uJ4lbDqaOPkjDh5QaqMNNZteVCuZQ8knXUJMx0tjj02innSyYqLoBMOHwwb4PTRwY43rBs2FZWkTRU0\/vKwqLM4pi3g7G2y5z73uTE8KbAUnCEhO7TGqxzWJKv3N6r+O6sM2fazn\/3sNM0Vg1NVN5b2bomGYJH+ogob1BmHD9pMnA5kccsS6wKxhChPwBG92OVB4ESYOevRjlUiO3sbLtorA2WAONV6Ivy0toyaLgtey2uaAyBALTsTDGwKrAn2RBAn+3buS1nTQ+k\/lA8lk8qdJuhVpRvqlMMHdTJ9+i6OcZHL9CROgxsh0vK3RHimHAXKBaevRKJU0tTAC0OeHPTDOEdmHygbsnDJgtq+9j0BLmX\/vPA7jnamwPdaxHkxUKdeyMIFWK6\/ZEXZxqmb84I26MYbb0y+TO+\/bi\/sAf9WJTrn8EH0Y1ykiyTbVzMrc0iPjaUzwIbKdbG2tgb2AaaBuZcvetGLSr2Ps0CpSMAhoAtnH6gKavvaeDkJa10AQJRFl2RSH8ZSK7I1qHyoFfT6669PpYHXve51aRaE36F98RrvfOc7Zz4DPVA+1PbN6OD4+SAMsJKv7i0dPpjg73znO4kFcNaL57M1mAFjfGkCMAX8iwCirlblTjr8DAfqiJBQZtSMoi1U16J0iE32mte8Jt0MVJkbE1l9PdDKZNOYZ11HLdIhIoRODKh\/w3gG6oBhXRw5NomN8ci1fjbMwDEPX\/uen3mOuq7fERi0bQrcKgPDbJIh5+28gpyE6uJiz5Sg2TRUvUCNg3\/IQx6S7q\/Os7rLh512+BkiY1P5XEgXXq+3PlTRlrOf1be0qZjaJ9L2tWMF9TYSjaFS\/L6bYo4\/YSBFZvRf1wvzrGXa7qP7V8UQE8YSDWozMqLWSCDQBPR7y\/4+9KEPDa666qpUx2V7nC5p2IrvCX4lHU0PgAlMh2xeQKZkg83BWGJm9NLL7PkaiU2TXRS9cPgZsjZUPIr2vPPOS4NTRFWMex744uFrUTQH7znnn39+Mv42GdYg0BwYNg5ZJOz+YFzKaIfRHmVyFtZGJG4doNwCgTZBkhGJRj\/gPrYtUOuVw8\/QL+80IRm8KBllK9Li+D3UzmSQggPCCRl\/1OjbBToKgsn73e9+SdTi62uuuSYJZGal3zEG6mZvectbUpD3gAc8IFFun\/zkJ2OgTiAQWDn00uEPA43LoRuR6OFr34tIut1wf9S4iDId8XnBBRek2pjJV9gY30eHGsxE+Odx9dVXD9785jcPXv3qVydRjfrnOeeckxgd+o4YShIIBFYVK+HwA90Gx4+SR+1z5ronTjvttMGJJ56YGADBwIMe9KD0OOOMMwYbNmwYXHjhhelsawGBMk1bz7gOBAKBuhAOP9BZoOUJmnRX3HzzzemhlBPMTSAQCAxjMPj\/kAbz5WCnnc4AAAAASUVORK5CYII=\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>1\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>2\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>3\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu28": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>8<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>9<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>In a Chemistry lab, there are three solutions, X, Y, Z, of an acid, of concentrations 30%, 40% and <i>p<\/i>% respectively. If 200 ml of X when mixed with V ml of Z, produces a solution of 60% concentration and 250 ml of Y when mixed with V ml of Z, produces a solution of 62% concentration, find the value of <i>p<\/i>.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "84",
+			"CORRECT_ANSWER": "84",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu29": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>2<\/i><i>8<\/i><i> <\/i><i>a<\/i><i>n<\/i><i>d<\/i><i> <\/i><i>2<\/i><i>9<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>N is an eight-digit number and S(N) denotes the sum of its digits. If N + S(N) = 100000000, find the tens digit of N.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "4",
+			"CORRECT_ANSWER": "4",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu30": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>3<\/i><i>0<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>If (2015)<sub>6<\/sub> = (542)<sub>x<\/sub>, then <i>x<\/i> = \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>8.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>9.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>10.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>11.\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu31": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'><b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i> <\/i><i>3<\/i><i>1<\/i><i>:<\/i> Type in your answer in the input box provided below the question.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9999999'><font style='font-family:Arial;'>A 6 \u00d7 6 grid is cut from an 8 \u00d7 8 chessboard. In how many ways can we put two identical coins, one on a black square and one on a white square, on the grid, such that they are not placed in the same row or in the same column?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "216",
+			"CORRECT_ANSWER": "216",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "2",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "0",
+		"TIME": "0"
+	},
+	"qu32": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>3<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>4<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>In the figure below, PQ and PR are tangents drawn to the circle. B is a point on the major arc QR. If <\/font><font style='font-family:Calibri;'>  <img Width='12' Height= '12' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADkSURBVChTfZE9DkRQFIVnPbRiAUq92iZsQhRiAWpKlCJR00gUCo0oRCJqifg5M+9m3sTLmPmSm+dwPm7igTfned7OcRx0ch7X8I9xHOn8CPu+fw17O8NxHFiWRdc\/BV52XRemaWJdV8q3Ai97ngdd17EsC2XGrcDwfR+KomCaJsr8\/pfASJIEkiShbVvK12eCwCjLEqqqoqoqytu2iQLfl9E0DTRNQ1EUlHlREPgXuq6DYRio65ryL+hP930PWZZh2zatlOe5MFmWUYcEttI8zwiCAGmaIo5jRFEkTBiGGIbhVQeeaT4QK9XJt+8AAAAASUVORK5CYII=\"\/>  <\/font><font style='font-family:Arial;'>QPR and <\/font><font style='font-family:Calibri;'>  <img Width='12' Height= '12' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADkSURBVChTfZE9DkRQFIVnPbRiAUq92iZsQhRiAWpKlCJR00gUCo0oRCJqifg5M+9m3sTLmPmSm+dwPm7igTfned7OcRx0ch7X8I9xHOn8CPu+fw17O8NxHFiWRdc\/BV52XRemaWJdV8q3Ai97ngdd17EsC2XGrcDwfR+KomCaJsr8\/pfASJIEkiShbVvK12eCwCjLEqqqoqoqytu2iQLfl9E0DTRNQ1EUlHlREPgXuq6DYRio65ryL+hP930PWZZh2zatlOe5MFmWUYcEttI8zwiCAGmaIo5jRFEkTBiGGIbhVQeeaT4QK9XJt+8AAAAASUVORK5CYII=\"\/>  <\/font><font style='font-family:Arial;'>QBR are <i>x<\/i>\u00b0 and 2<i>x<\/i>\u00b0 respectively, what is the measure of <\/font><font style='font-family:Calibri;'>  <img Width='12' Height= '12' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADkSURBVChTfZE9DkRQFIVnPbRiAUq92iZsQhRiAWpKlCJR00gUCo0oRCJqifg5M+9m3sTLmPmSm+dwPm7igTfned7OcRx0ch7X8I9xHOn8CPu+fw17O8NxHFiWRdc\/BV52XRemaWJdV8q3Ai97ngdd17EsC2XGrcDwfR+KomCaJsr8\/pfASJIEkiShbVvK12eCwCjLEqqqoqoqytu2iQLfl9E0DTRNQ1EUlHlREPgXuq6DYRio65ryL+hP930PWZZh2zatlOe5MFmWUYcEttI8zwiCAGmaIo5jRFEkTBiGGIbhVQeeaT4QK9XJt+8AAAAASUVORK5CYII=\"\/>  <\/font><font style='font-family:Arial;'>QAR?\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='201' Height= '134' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAACFCAYAAADxXNwSAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB8bSURBVHhe7d13sGRV1QXw949iFQ6lBVVIwaiUOhQWheSZYZhRJIk6opIkmkBRMCsiKIMoCiIgICCgRMlhwIgIBoKKYgazYpagZERBPH6\/Q9+Ptu1+ne7tPrf7rKouHv16Xnffe\/bZe6+99j4zYQLwr3\/9q\/FTRkb5mAgjueuuu8L3vve9cP\/99zeeycgoDxNhJD\/60Y\/Cq1\/96rDNNtuEE044Idxyyy3hgQceaPw2I2M4TISRMAie5Mwzzwz77bdfeNGLXhQOOOCA+Nx9993XeNX48dBDD4U77rgjPlL6XBmzYyKMpBm\/+tWvwsUXXxwOPvjg8JKXvCTstdde4fLLLw9\/+9vfwiOPPNJ41ejBMN773veGhQsXhgULFoSddtopXH\/99Y3fZqSMiTOSAozic5\/7XDjiiCPCK1\/5yrD99tuH448\/PvzpT38KDz\/8cONVo8GPf\/zj8IIXvCC8+MUvDp\/61Keix3vTm94Un7vmmmsar8pIFRNrJAWEON\/85jfDSSedFEOxl770pWH\/\/fcPP\/jBD+LvqsY\/\/vGP8JrXvCZstNFG4Yc\/\/GHj2RDuvffesOuuu4Yddtgh50+JY+KNpBm\/+MUvwmmnnRbe8573hB133DGGYp\/5zGcqzQ++\/vWvh6VLl4bzzjuv8cxjOOecc8KSJUvC7373u8YzGSliqoykwN133x0uuuiisGzZsrjLC8eOPfbYShbrhz70ofCqV70q\/PGPf2w88xg++9nPxhCM8Waki6k0kmbY6eUt++67b9hjjz2il7nxxhvDv\/\/978YrhsPb3\/72GFa181Yf+chHwqJFi8Jf\/vKXxjMZKWLqjaTAr3\/96\/CJT3wiJtR2fvkLVuzBBx9svGIwfOxjH4vGp3YDn\/\/858OVV14ZiQXs25577hnzlox0kY2kBRLq888\/Pyb3cpbXv\/71sUA5aCiGIFDkPOigg6J3Eubtsssu0UCEWmo5GWkjG8kswIqpt+yzzz7hDW94Q\/jABz4QbrjhhsZvewNd2VlnnRW22mqrWBvxeOITnxhmZmbCoYce2nhVRsqYKiOxYBX1hDp\/\/vOf4y4uJ7n22mtjvcLPN910U7jzzjujHqyop0j0LXT5xdve9rbw\/ve\/Pybd\/YRJwiwEwete97r4N8hoGF3OR9LHRBoJY\/jZz34WrrrqqnDuueeGo446Khx44IHhne98Z1ygHm9961tjsl54ieIhJyle4\/XkLR\/+8IcjhXv66aeHt7zlLeHlL395ePOb3xyfv\/DCC8Mf\/vCHxjv3jttuuy3Sz5n+TR8TYSTkJj\/96U\/DpZdeGo488sjIUFnE8gk79ite8YpYcWcAdm+e4PDDDw9nn312XKiXXXZZfPhZRfyQQw6Jr3vf+94Xk3g1Ff9lRHIVhrP11luHOXPmhHXWWSe+FwPihTImD7U2EupfxUH1DgsVU\/Syl70svPGNb4xM1Ze+9KW4cIVLw\/ScqMzzFpJwhsQQ995772g46N2111475hiLFy8ORx99dAzfRlHNzxgNamckqFqhjyIdYyDrEOeffPLJsb6hHlG1kBFL5T3kLnIZhUgeS\/V8pZVWCquttlr0WvIWYVVGvVEbI6F7OuWUU2IuQX+12267RS9ih7drl1X8GxSMhpDxox\/9aNh5553D\/Pnzw9Of\/vTIZslbfvKTnzRemVE3JG8k3\/72t6OXeO1rXxuNQ3GOjOPvf\/\/72A2jE7Beqvjz5s2LYdjjHve48LznPS96HN\/HZ8+oD5I1EoZw6qmnht133z2ySWeccUa4\/fbbk+9nl7fIh+RH6iDvfve7w9y5c8OznvWs8NSnPjV6F6yYMI1sPyN9JGck4vzly5fHPENIhbH661\/\/mqzXKFAojFXTVeol7wxaKFiIHDFmuibXWGON+GBAJCo333zzyHtcMnpHUkby3e9+N3bv8RwnnnhiLQptPiOpiXCQgcg\/FCuboVtSIfLTn\/509IYo5M022yxssskmYd111406MZ5Sp+I999zT+FcZqSAJI0HRWlyYqne84x0xyU19Z+XxeAGfF+0sxJotfEId844YOLAhoJFf+MIXRvpaNV6SL5e5+uqr20rrM8aDsRuJMEWdQ+4hzEp9JzW26Fvf+lbUdGm\/FUr98pe\/7GrUQi\/Ml1CMNwHSF96FB6IKYEgKmNtuu21k8fy\/65N6HjbpGJuRyDEkr2TkdmNxecqQW\/iMdvpC1StJ76f1lm7Md7UpFLovf9d14E0YCPZLLei4446L76NYqZrvvXIoNh6MxUhQoOJ4C0DtozWGTw16QdDQKGiaLkJIIeIg+M53vhO9idbdZvBGWC\/aMPUWdRfP0Z7ZSKiIP\/jBD0YjuvXWWxv\/KmMUGLmRWFz6MyS6X\/jCF5IOJSxGuZJwCDtF31VGBd3Cl4MwhmbwFCapMKKvfOUrjWcfNVJiTWwYY6EhI7mRt+RQrHqM1EgsusMOOyzuxv32ZYwScgWLlEASmWDhFp2FZYAn5TWokBEAzeBBGCMj0vzVLLGRy1x33XXhmGOOiQm\/yj4JP4+TR7xWh5EZCaoUvUuhS8aeIuQXWCchj3qGvMBuX0WNRt7BSFTh23kDnoPHYCj\/\/Oc\/G88+Ckbmc6KNeTgGQ9ksb2HgGeViJEbCQCS6vMjvf\/\/7xrPpADP185\/\/PPacaKnFWH3jG9+ovPect+IxhE7t4DOooRB0dlIVaxHQi++zS\/RNf0EhIwlyKFYOKjcSSTnj4EEGaU6qGmob5O0KmD6jBavPfRSwiPWvSMx5lnbQQszjyGNmo5mFsuo2aGa9M2o3WDHfr9UTZfSHSo2E6xd7ozZ\/85vfNJ5NA3IBuYaGLJJ784PtvqOGa8TLMtBOQ\/KwaaT4PEY38H7yFqyh4qWBEzRk\/dLVGY+hMiMxioe0RF+FkCAViOevuOKKGOaI5+22nXbxUcH1QRLwKp1CpC9\/+cvR4\/AWvULDmcQeK8ZTYs3kOqPylJOCyoxE9ZwSVriQAiw+Mb7dVX1GUv7973+\/8dvxQ4OWNuFCttIOkniiT7WSfmDoBS+kzkLZgNK2OWDLUheOpoBKjMSNdiMuueSSxjPjhYatYpKihfLVr3618Zt0wPOidg2msKjbgaEjFbBvv\/3tbxvP9g7Jv6ReDuZ95C6UyTxOTvI7o3QjMf0DdemGj1ukaCEhDYQpBjg4iiFl4aSdXQ2JIXfKHxQzvcaI1GEGfds4hMNkMjYP9+yLX\/xiTvLboFQjEevSNslDxik10X\/iqAV5B2ZImFLl5Pgyof4hpBKudoIk3Gt8r2GBnsecoZDRx5QQmt3GQWKkilKNxAC27bbbbta4ukrYBbFUElQydPL1uknOVdgtfrnDbCOKikKiiTFlwPtK6o1TQiJ4f8xkHpNUopGQbVicKsjjSAbVN3gNuyFvVufBC0IttK2wildsBzIUeYWcouwQidrZ2KTier7rXe+KOrtOBc1JRylG4iZ9\/OMfj2xWp5taFXTzoTjVEXT8Tco5hJQJvKG8oVPlX4uwHR8zVgUUKLFgeluEYYxG\/WXaQrFSjARbRGzHXY8KPIUpjHY6N6+TtKPO0GeiWxEj1Qk8CbarylZnZId7y6MI8RRfeeuyQr3UMbSRSNZ16dEYjcIdyzHkGnZZ4Z0cZFIZGYuTJ1Hb6VTwpGTgTRAVowBxKvZN1OBzCQttUMOe45IyhjYStCo5eb8Frn6BnSL0s4thrRhK6s1aZUCPiRqPjahTpVztRH5SpTdpBVkPhQBP7iHkJfOZxIawoYzEwqXLQvlWVX\/wd8Xc6hzqHeoe0zaJnWyFt9DN2K7oZxqLnIzXGTV4EJIZJIOQW93F55ikUGwoIzGoQGXdYIQqINcRcyt22U2nJQZuB9eaoZDWtAO6VvgzrtnDKGShmPBLHsWzUSRrB6h7KDawkfjivIiLUbYXoalCJTNAnL2FUZWnqgvke0WS3k62ojsRAzUOb9IM9D\/2SyhGYc37Mxxt0HWdWDmwkWBeuHg5SVmQnKIcC4UutW6em\/sYLD6bhvFD7XZneQsyI5VWXuG4UEweSbIvZDZCqW4RwcBGQpslBi2jXdTNNz2FfsjuIwFs7f3OeBRmAwi72slWUMWMxOaSEhi0zk\/5pM5Pn5HHEyHUYRMcyEgUDCVoJAzDAFuDPtRwpN+BOjUPke4OM4flH607skq9cExRNUWg6t1fPS7ut02WUJNRpywfGshIDLEWEg068cTOojJuZzFwgbjOpMJpzzt6heuHcvVo9eRyOTWMTnL7FCDJt9FqIBM9WAPOp7SuUpQTDWQk2k0lZP32IEjqTB\/R8OTCkDs4ATe3lfYP+ZuCqqF5zZsLFTEypXX4Xapg5Dwi9YRzKIWSPA2RbCq5Vd9GoufBSE6MRT9QGZZrKDxKPtG7ZeQz0wxJMYKjWZIjpEGX24DqBLmJNcK4NYMZk4RClreMu0A5w\/VJktGu6h0efu6UUGG1uEi8fS\/wBSWZbqZ6ByownyNYDtw7MT3tWvMkmqJWUUdm0HfyXZAQvhfvIhTThjGuWQQzYkMuzmlMG2ywQVhvvfXiqUzHH398W00UOYgF322ioXGmpCpEcWboUo+WOQUx41HY4FS7DacrjIJ8R86oOasdLEQblQ0s5R53n9GmTUxZTKzUIIYpG6Vsf4bEw2EyaDnxrFjQh2Is7XrUJYuMxIVuB3Gkm4Mbf\/aznx1jTZXYnJRXBzG9mpVwFuR9pELF\/7fCTu14B0dH1EFrpd6ix0WuoiNz6dKlcV3JZ8vQ7\/n7NnCkgfdx\/YR+xZqd8cstt9wy0ooF0HTPfOYzo9ShGcR21L6KVq3wB1V9MVbyDjvZc5\/73KjSzageuhltdDYoG5jNDBXczlOY47XKKqvEI+n8XBf4LvpsbOKinc033zx+T6GZNdtp4+4GNT9nWT7nOc8JG264Yfyvk8gYJcx4U0aChvUzz+KXrLW1KGXHEidqHW2GDygME1apn3zta1+LrhKlZ4dLdfbvJAEtTLbi+mvSstPadVsZSIVbi0Kcb8MjLapT4Ra17TNL6hk49YG1amMWilnD7dQIs8Hmsuaaa8YN3dr1UAM0NlZpYsZilhytvPLKYcGCBWHjjTeO+YnkrzUnMU2DkRQiOxe3OJrAG6maN8u1\/YyOlN9kmrd6KMhZ+KQ9aHbqBaFEM9SnJPXCCSSMHdPklDpAHuKIcmutaBvwX\/U6kZANWe5igxA6tX73TihkM83gEKgDtC3PuLDOvLDrGPmPtcK9s85PfvKT\/+WuXXx\/0HAAQ+dUfd0IH5DFtcIuJi6Ww5BzZ1QPRsCb2FltUK3X3b1dsmRJHLdkIWyxxRbxHqWcwBcQVqnPdeqAtS5t2r6\/NY3Q4G3kLbN9PxuLayJdQGTZ\/DWxzZ8\/Pz73\/zkJ1WYzGImhy821DDmK1+LgGYfqrmR\/NujDdiOc8JQxGgg7Ntpoozi5xk5YwAKQK86ZMydGDR5yE\/eyDg1sQiueoltUgpjQg6SD0mYh0pFCdPqOZFFPeMIT4jVjLIsWLYrXRkgHM3YULld4hZlCI9p9vJDXaB5CgDFxUb05T9ILY8W6N91001n7tDPKhXtGw\/X4xz8+3qsCejswjuJtalxUsTNj1lprrbiZpQyewOdm5L3Sv4gmRWtewdq16cvb5C3NUHydN29eTAsYkwhKalFQ6jPyBizUqquuGnMTD\/USMVqrl+C+ZmZmYpLfa3LESBYuXJiNZISwCGxwz3jGMyITBDY0ybrnitN\/QSKMJbIAUy4+yp1J7bGng4xkxfohlp70pCfFvKaZCXOteKhOf3dGci4UYm3+MeaDRbWe5+ePivWKQ25IS1RBu9Fu4kc6LZx2xmggDHafeJOiCQvDuHjx4pjcNm9wfhY+8yYp3yNhP0qb5+vHSGwOiCb\/Vu5hnphaYPO6tZZFUwyxHXrWbnFxLI77FtuifFXqua9Of9wNYHhuVt0mKdYVGCs3XY5p1xVGC1V4Dw1y+uVbk1gJvOQ9ZeUwUBVg5noJ8xmSUIuEquiORO22g45OBfVOgzR6NhJJD7bEhS8gxiV29EHaFaXkO5ImdZVevljGcEB5CkkUe+WXFpX\/n5RrL8JBKHUTxgrtbejyF54HedFOYlXAoUc2kE7hZs9GIs5lJMKxZigkYgF8IK6smO7Hi\/hSEqZpm24yLkjG3YfCWyi6CTMmxUjUQ+z6aN52QD7Im4WUGCvGUcZ379lIuGIeo6DFmuGGqK9w8zwLN0e+7YalcojPpEM46\/oX94cnQbBMkpEIodR5GIrNuYAwSr6sHsdIMFODSlTaoWcj4coZybJlyxrP\/C+EV6TbYkAcPSotYzRgHIykkMyrRGuOm6RwCwgyhZNqdjwHb8k4bM6K4VWog\/tO3AnKukF8JzRDOXZKljLKA3rTxtTcjWgxuVeIlUEo05SBiaW10qbMczjqrsqNoGcj4b54kl473rhDVHExC6oOFd06wn3Rs2NDam531aAkBEEHlxl6jBMkN9hV+kGMKUFiFZ6jFT0bCXDnFn2vkKtIniRSqpqTcixCSlCroruTBzaDasI1J3Ssu5GoaxAtWkeFkLbTcRRVoC8jKZiDfi+6Xa04bkziVTBgGcNB7cMwCHlgKxQGFc8wXnUFxYcxUzZmD55jHGryvoxEcsiSm2UNvULMqL9E7Cw0wE1nDAcHJ8kTKVVbwcPYlOp4nXkOYaK1Zr2cffbZHSfqjwJ9GYnEkDx+mPPPqY55FfQw9ivnKoOBYVhAnVp0eWzV6dSr6M3QOit\/Fa1QczAOsxLGjb6MRFVd8o5qGwaqn8WUdAYzjNFNI4S7qHj0bqcedQmuKYmjjN0HBRGsQSE2YIyVzTilcVN9GYk6CGZBMlgG\/D3MjAujR7tObaTjRHFMXKcj8BiRzUe+kjL9y3PQmPmc+j5SPY+xLyPhARRtsCZlAW1p59D4o0jUaQxOxqMQm2MZFdM66ZFU390jMvlWMWMKECrq25CMG0THUIhkU2Xh+jIS0HeAciy798AsJby+EIw2J+cq7WFxidln60tXwFXMrepU3kHBODR6+Wx6O7R9CxdTp6j7NhJhEdakit4Du6S\/bwgZSQV3nPEYiEztvGYNzAZtDDYy4WwKMHTCxoet0twkOeftUjeOAn0bid6DYiJHVdAgJCnlVUhcep16MclAoQux1Kq69ebIRzBf485HqL9JRiTkjEPO4blRVMnLRN9GQgIv3nWzqoT+ZBQgr0Le0m4ayzQBA0g0qv4xGyS+JBs0W+MCjyfUK4wDHd08EbFu6NtIQEIo0baQqwR3LKxz04UPJNDT6FV8Z5o5C79bUY0MSFjTKlMZBdRkGIeEXMu2sEpUUDfP0YqBjETPMNqu3azgKqDCL7xDE+L\/xzVdfFxQU7IpqUR3A2LFIh2lfAMzZZYB1k1vPZWufHK2bsA6YSAjEetKrF2UUSVf3sfACgyYBcOrTMNUSGpqR1ZQJ3S71sIcxV56p1HA5sU4bJg8h\/qZASKTYhwFBjISIIeQL7TTDVUJu5aeee8tkW0+l2PSIIbHVIntxfTdgB7GPCJXqoSirwOEvJfRU3RWvFzzFJZJwsBGoq6B5TrhhBMaz4wOCmTOrSCUpAETf0\/a7gV2ZeFLt2QdeBl5i\/ytKu9OR6UbkLcS+jIOZ9DUQfoyDAY2EuDWR5HAd4JEkZG6YUZgdhoJU0dI1k360F3Yi47J5Bq5SC8G1S\/cX7o9YZUpiNTgZhdM4sbUDkMZCRfrxigAjgtCEgvELkoDZpxM3dkU4B3F+b2ccMxzoORR82UuXDkfnZiwykakb0U1P+VJj1VgKCMR9nC5vMm4Jc2KVPorCP9Q1HU4wakTeEgLUyLcy6K3cA1DUHgtA3ILngIxI\/dzPb3HpIdVnTCUkYDuMXlBp1lIo4QdVUJpV1Ur0HCUosBvNmAOiyJqL8m670d0Sk097CLmgbVYMw6bjeF22KtJ8MzDYGgjsTDx4iY1piJzRoXycD6TMat1kuCrL+y4446xBtVLAi5XIEEZxoswTAm4hFxUoNaiKDmpbFW\/GNpIQHGPslO4UxWz0i98DkU4DJzPJrZOHdoGxP0+cy8qaDmDhW3O7SALmhdiHHIZtZheRoJOI0oxErAg7YDdDvUZNUwNKc4PNKLVsO9UIVmn8u11qgzBoFzE0Wf9Qs6hMMsLEZOaPzCtOUc3lGYkNEUkI3bB1PRVvIqWY12VHtiw1KBIakc3kLyXxUrwKZzsV41NC2dOLiZQnUlY1zyvK+N\/UZqRgEYgbnuclPBsMIRClZ5XoUxNyZgRHzyxIm03MHoLXbLeq2fk4XV+IlkYI88xDbKeMlCqkbh5dia7VKrDHcThvIo8Rbihcj9uUMq6Zr0e8HnBBRfEMEs+0Q30bhJx3Yy8vDlc06ikHgalGgkUyaewptPhPinA8QQSVYtNbD8u1YDQSj3E5+glWZdLMKhuE2uwZMXUQ7O5GMe4vmPdUbqRgEIe7l6zVMrVWdV6PdcWkuS1OJ9+lMC6Gf3Ty5mSFME8IFq7E5tF76X4RwmB+TJkI3uO4VCJkQDGxeLrReI9bgh3SP\/t5qeeeurI6irehzcT9nWjXeUPwibG3Hw2RwGzqxyiRF+lWi\/nysM0ykFlRgIKXWTe8pTUK9+8ilhfX70zL2abRlIWJOs0UUK\/2cCAnBomhG1tTcByCdcYR2HkKQ12mwRUaiRggJqYWEU4dUMBi87uTtYiVKmKAcK0kX8InWYD4y2mGzYbE+9HAS2kKti6FEaCTiIqNxKGodDoJtNV1QEMw0woEg3V7LIH5gk\/LXBeazZyg4Gogzh3svAgiqMasRgHypj8JuUC6SSgciOBIkGWzFfR71AVdPj5zEU7QFkJsIq6eoVxO52A8EAJGw\/E6zAmnYdoXFV5EqBsHKPBSIwECkMRxlhwdZFAMAyLlSrWtJJhvYrFr6jHO3RK1iX0PIgknSGhe\/XLGCkkN9FbXofQdVIwMiMBYcaVV14Z2RfjZupU8cUeaY3F2Fm0gypk\/Vs5RKciJkZKKMZbMCaGgiIWVmG1UmcKJxEjNZIChSwbn9+OzkwVinHnnntuXOTo1n4H5qkfCZdo3NqhmIe8ySabRM\/lfbQhmNjIE2eMB2MxErDAGIqY365ap\/CB1AMRgZ3qZ7QR70l12zqmVFOTEHSzzTYL8+bNC1tssUVktLxu2hueUsDYjATE1qryWCRJaZ2KXxrMLGShEI+IdZoNSABhpnFIzSAfIVRcffXVw\/rrrx8T8mwcaWGsRgJ2YY0+QosDDjggFvHqEncLgXgVUhEMmJpQOxmOzj+1F\/WiYoi1PnaEwIYbbhjWXnvt2CprCnzOOdLD2I2kgDpAkaRaPFpw6wL0rINofHa5SuvAPMYjrDT5RN8NBcKWW24Z5s6dG6lgjFlhPBnpIRkjAXKK4ixFLBImrC7HWfMqCAnSEfkKSY7n0LxmZ9FdmTiCtXrKU54Sli5dGo2n2wDsjPEjKSMpIL7H6jgNSYhiwdVlRBC2jkREPYg2y88S8YULF4Y111wzLF68OMrWU24jyPhvJGkkIHE1\/E5SvO2220bvcsUVV8QpjXVIankJI0pXWGGFMGfOnLBgwYLYY696nlEvJGskBTRxoYjRp0IVVWesErEfNiylRFd4hbFbvnx5\/JwrrrhiZKwwd6MeLJ5RHpI3kgISW0ySBBmbtNVWW8WaA6Wu3Vk+M+o5UWo7DANDZ8AC4oHHkJBvvfXWsfaRyrmFGYOjNkbSDDJx0ns6Jn0UmCKTQ4Rmkn11BgkxOtYiLgM8ljCPZyNJt\/id6kSAKOdYa621wtOe9rTYWmvIgrGrGZOBWhpJAQtXke6iiy6KjUcmiMhdeBkFSnUXYRrGTG+4pJrxkJcURsT7FA+iS16h+D2hoVGjxqVKtmmqyEZMVkcqeEjGV1111UjxGgma+8gnD7U2klaoTzg\/QwgmSV62bFkcn4NpUqx0yOXmm28eH8gABUCLnsLW\/GA\/C+Ge\/\/znx9fwUHILz\/k9waEhFxg3BcD11lsv9pvImWZrv+XNGCQD9MhD4OqFiTKSVvAENGIGPGDGFCl5HNIPqlozuNQvVLs9\/MwIhHEempsuvvjiaHiIArJ1HoNmixFqIuvmOXggBrnNNtvEh1zFo1WekpEuJtpIukHiLaySZ3h0aqoiIXFwDc\/Dm2Cveh0WIUd58pOfHA2QYTFOR6jNnz+\/p7lZGePHVBtJN5j4ImRDChgJalBEv0MWGJbcpRkG95HDM7jcPJU+spG0gRDNApbHyEWEaeofg0A+pKjYLHw0a0v9RGiXjSR9ZCNpgiMkDKzGkEnmGcewfeT+zsorrxyHNhj5o+lKToJ96+WQnozxIxvJ\/4HnYBwUuRrB6K3Kml2l5Xe11VaLjBgDIVFBGY9irldGOZhqI1Hwk5BTHGOssF6DhlWdINySqBfyGcPjlixZEtm2jHpgKo1EmGMoHMOwiKscz+PvC68Kz6SewqMsWrQoS1ZqgqkyEiJDFKyQSmjlHPqqJfgOCN14443\/y0NhtzyHNcuS+fQxFUYirJJnaIiSlKtXjKo\/hQLY+6nDNIOURm979ibpY6KNhDpYDqBKzjhU0VPbuTMFnD4m0kiEVSYgMg7Uq3pEa995RkavmDgjUesgX9dDftRRR0XZfN6tM4bBxBkJ5srAuLLqHBnTjhD+A9SQP5zBQD40AAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>72\u00b0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>108\u00b0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>126\u00b0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>90\u00b0\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu33": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>3<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>4<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>A lift in a building can move upwards with a speed 1.8 m\/s when it is empty, but the speed decreases when there are people in the lift. The decrease in the upward speed of the lift is directly proportional to the square root of the number of people it carries. If the speed of the lift becomes 0.9 m\/s when it carries four people upwards, then what is the maximum number of people that the lift can carry upwards? \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>15\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>16\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>8\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'>9\n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "a",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	},
+	"qu34": {
+		"ENGLISH": {
+			"QUESTION_TEXT": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <b>D<\/b><b>I<\/b><b>R<\/b><b>E<\/b><b>C<\/b><b>T<\/b><b>I<\/b><b>O<\/b><b>N<\/b><b>S<\/b><b> <\/b><i>f<\/i><i>o<\/i><i>r<\/i><i> <\/i><i>q<\/i><i>u<\/i><i>e<\/i><i>s<\/i><i>t<\/i><i>i<\/i><i>o<\/i><i>n<\/i><i>s<\/i><i> <\/i><i>3<\/i><i>2<\/i><i> <\/i><i>t<\/i><i>o<\/i><i> <\/i><i>3<\/i><i>4<\/i><i>:<\/i> Select the correct alternative from the given choices.\n<\/font>\n<\/font><\/p><\/span>\n<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9;'><font style='font-family:Arial;'>In a class of ten students, no two students got the same rank. If there are three girls in the class, what is the probability that the worst rank among the girls is five?\n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT1": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='18' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAcCAYAAABsxO8nAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI+SURBVEhL7ZRfT1JhHMcBmWkgEiaMJMku8F4yhxXNLhh3vAFss2mkGy+Ad4C2SSKYrbozu9DCWSFd2A2DrpIQZpecg5uNC8YYXMjfb+c8PJp5Upld1fpsz8X39zzPZ79zznMeEZogHv8Kp9OJbDZLK0LOFDGpFPr6rqGlRYpCoUCrQk4VzXu9kEql0Ov1aG29AJZl6YyQU0XPFhcRCn3EyxfPIRKJzi86wDs39190BtNuNxGluKNwEk2JopEIXC4XcrkcrQhpStQM\/7IoGAzCarXCYrGce9hsNoj4qyEWi\/3RiMfjf9PL5g9fsVikqUE+n0c4HEYymaSVn\/xWxDIM1Go1fP4FWuFOdzSCy11dkEgk5HcZHb2ParVKZ08QGQcGyOJ5n5\/kSqWM69x1azTeAMOwWFsL\/DLPIxBNTU6ip0cHlUoFj+cJqW1tfSEbNzc\/kcxz12yGafgWTcdEb9+skg2JRAJXtFrMzDwm9Xfr66SeSjEk8zgeTkCpvMR123i8Q9H3vT3IZDKsrKyS3NEhh4+2\/nTBT0RsOk0yz8T4ONrbL6JcqpB8KDLfuU0eJxAI4PXyMreoDXa7HRHuCgl+eE9E6d1durrRUWenUtjRsMkEg8EAjUYDdXc3xGIx5HI5xsYe4NvODhFFop\/pauDeyAiGhkw0HRHV63UyarUaSvv7pCO3e5rkcqmEqzodBgdvIpPJILSxQcSzsx66+9jLPkp\/vwFLS69oAhLb29D39kLLfQSFQgGH4xGd4QF+AE+R0mhwFFoFAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT2": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='17' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAbCAYAAACa9mScAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIsSURBVEhL3ZTNaxpBGMb31AUPfkTFDzQQ16uaXmovTYJtoUlPrSmGakHQS\/pP+JVTcjOFBom9mET04CEW0kOT\/gEpYtwg5izCWrDWgwdp9ek4DiZh22bJKfSBYeeZd+Y3s+\/OvhwUaH9vD7F4nDm5boTk8wfg+Xt44H3IRuT6J8T\/8gW0Wi3sdjvm5++zUbn+ChkOh9jZeQ9JkvBq1Q+HQ2ARuRTlZGX5GQTByZxciiDPV5bvCGT8OnNzDubkUgR5+uQxbDY7c3IpgjQaDVSrVebkUgS5SXcIIooiCoXCrVuxWARXKpUQiURu3aLR6H+XWPakKpJEeTwecjtt8Hq9KJc\/sghQqVSwsPAIVqsVPp8P9XqdRa5Ajo8\/g+M4hMNh5HI5LC0tUn9WEzEYDGA0GOB2e5DJZOByuWC2WPC926Vrp5BEPEZ2vyyBw18\/KSS9\/Q7lw0Pal6Q2jX1rt6nfP8hTP4WMRiPWm+jiokEnnp5+RZIUabPZwiIT6WdmsL7+lvb\/mNhOp4PZWTuCwRD1q34\/BOeVekI2NOj1CATWqJVBzsjfajKZEFibTBgrSi6VQ7heY8c5CoXe0P41yKejI2g0GiRTKTYyUSqZgEqlYo4chBRxnuexublF\/RTy5eSE5iAWT6Db\/YFWq4Vms4lerwexVqOxZGoD\/X4fG2STsRfPz+naKSQUfA2j0Ug+oxtO8v4COf64ZbMfaHw7nYZaraYxnU6H3d0sHQeA3z8DKMRqoDfaAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT3": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='16' Height= '28' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAbCAYAAAB1NA+iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHnSURBVDhP3ZRNTxpRFIZnR3EBITAwhE0ruEIa+wdYwNoutIiJ6aKC2i5qQ9s\/AMWI27oj1m7aJnxNE\/YY64qQCJhBE\/kBJdGooUJSN7wdDifUCdFJ7Mb0SW7mvuckz0zOvRkBOlxe\/kIsFsN+tcoVLbcKrq5+IxgMQBAElEo7XNVyo2Dvxy7MZjO83kkSyPJ37mi5UVCpVJAvFNBsHpMgX5C5o0V3Bgf1+r8J6rXaPRHk8gWuaNEV1NTz7wsy2RxXtOgKut0uyuUyzs7OuaJFV6DHPRAoioJMJnOnlc1mIciyjEgkcqcVjUb\/iyHyc0hqfR2BQJDTgKp6G\/1+P1wul9oL4PDoiDvXBL1eD4l4nK7tw0fjXAXa7TZEUYTP9xjpdFp9+iA5nTi\/uKD+UPB0epreMOn1wuOZ4CrweXubpD9bLcqnJyeUv3z9RnkoKBaL6HQ6iCy+gMMhcRV4\/+4tHNLf3MdmtWLl5Svaj8wgPBeCJDk5AbMzM3Bf+6I+dtGGcHie9iOC+fCcRrC8tIRxt5vTAIfdjoWF57TXFawlkzAaxzipqMN+YDAgldqgOCIIPZuFzSZyAhoNhYYWTyTo37CW\/EBZaTSoPyJ4s\/oaU1NPOA3Y3PwIk8mkno4HFosFW1ufuAP8AY2l13Lgq7dPAAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"OPT4": "<span><p style='vertical-align:middle;'> <font style='Color:black;font-family:Arial;size:9'><font style='font-family:Arial;'> <img Width='18' Height= '29' style = \"vertical-align:middle;\" src=\"data:image\/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAdCAYAAACnmDyCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJiSURBVEhL3ZXPT5JxHMcfNptdGNIQuDgQbrjkYna1H6e8cLBhJ8ZyQ6A0i6F0xg1t\/gG2wi5GTE6GdDF+JNmRkmY2J+ABLriZxGAT5N3Dh4en1RPGXIfme\/vs+X4+7y+vffk8z\/f7ZdCGvhcKmJyYwNZWkqsI9VfQyckJbo+MgGEYxOPvuapQp4JeLi9DLBZDKr1EoFDoDecIdSroscsF9+wsYtEogdbWQpwjVFs92ngX+zegSDh8XkFv19cJtLr6mqsI1Rbow+YmVCoVwuEIVxGqLVCtVsPx8TF9nK3UFqgd\/YegVCoFv98Pn8935ggEAmCi7D4ym80wmUxnDovFcq6bzT1JBwd5LCwswGg0wmq1Yp3dGk2Vy2U8XVyEx+OB2+3mI5vNks+D8vk8tFoNGJEIBoMBOp2O9tez517yPyeTlPf09ECv1\/PRPMd50JP5OZqY+PiJqwA3b1yHpEtK48DKCvmHh98o\/108KJ1Os5syzGUNTT2YRGfnRRo\/ejgFmawbiUQCwWAQOztfqd5Uy2bv72dwoaMDlnEr5VcHB2lFSqWSvQykNHY6p8mr64+g+uq6ZTIMDFxBpVKhmt1mhc1mZ5ubQ6lUwvxcoxW+V37yBaD6jdElkeDW8DC9qdaqQcSC7o6NUfYLaMnrhYh9azMzLq7SUOHoCA6HA+HIz4OtWq3Siuz37lPOg+LxDTJGR+8gl8vR39vd3UUmk0GxWKR+aTRa7O2lUGCv8Gmnk+ZHYzH6PQ+yjlugUCjQ19cHtVpNR2s9hoaukf9lexv9\/ZchlyvQ29sLOTvXu\/SCPAD4ATcPCf\/WEl07AAAAAElFTkSuQmCC\"\/>  \n<\/font>\n<\/font><\/p><\/span>\n",
+			"CORRECT_ANSWER": "b",
+			"UNIT": "",
+			"SOLUTION": "-na-",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"HINDI": {
+			"QUESTION_TEXT": " ",
+			"CORRECT_ANSWER": " ",
+			"UNIT": " ",
+			"SOLUTION": "",
+			"ESSAY_ID": "0",
+			"EASSY_DETAILS": " ",
+			"ESSAY_NAME": "ESSAY_NAME"
+		},
+		"SUBJECT_ID": "3",
+		"TOPIC_ID": " 140",
+		"QUESTION_TYPE": "7",
+		"RIGHT_MARKS": "3",
+		"WRONG_MARKS": "1",
+		"TIME": "0"
+	}
+}
